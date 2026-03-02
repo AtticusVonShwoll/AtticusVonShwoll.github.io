@@ -17,7 +17,6 @@ import print_html_for_sets_page
 import print_html_for_deckbuilder
 import print_html_for_deck_page
 
-import markdown
 
 #F = Fungustober's notes
 

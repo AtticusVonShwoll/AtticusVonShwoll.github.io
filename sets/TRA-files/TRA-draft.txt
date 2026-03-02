@@ -1,0 +1,4407 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Skeletron, Dungeon Guardian",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Skeleton Boss",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "The Dungeon's Entrance",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "The Eater of Worlds",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/G}{B}",
+			"type": "Legendary Creature — Wurm Horror Boss",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Wurm Food",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Eye of Cthulhu",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Eye Horror Boss",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Suspicious Looking Eye",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "King Slime",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/U}{G/U}",
+			"type": "Legendary Creature — Ooze Noble Boss",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Queen Bee",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Insect Noble Boss",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Brain of Cthulhu",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Horror Boss",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Slime Crown",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Slime Rain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Battle — Event",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Wall of Flesh",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Wall Horror Boss",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Abeemination",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Bloody Spine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Retinazer and Spazmatism",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Legendary Artifact Creature — Eye Boss",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Guide Voodoo Doll",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Skeletron Prime",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Artifact Creature — Skeleton Boss",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "The Destroyer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Artifact Creature — Wurm Boss",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Bravery Against the Odds",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Sorcery",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "The Summoner",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Human Shaman Hero",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "The Fighter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{W}{W}",
+			"type": "Legendary Creature — Human Warrior Hero",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Legendary Copper Shortsword",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Acorn Bag",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Mechanical Eye",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Mechanical Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Mechanical Skull",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Sandy River",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Beginner's Landing",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Forest",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Hallowed Foothills",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Pursuing Eye",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Eye",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Plantera, Jungle's Soul",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{G}{W}",
+			"type": "Legendary Creature — Plant Avatar Boss",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "The Journey's Beginning",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Crimson Spikes",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Mecha Mayhem",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Bucket of Bolts",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Duke Fishron",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Leviathan Noble Boss",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Rest Until Morning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Unprepared Fight",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Demon Altar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/G}{B}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Boss Rush",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Hanno, Dye Trader",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Mana Crystal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Edmund, Town Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Madeline, Crisis Nurse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Doctor",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Xavier, Arms Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Lucky Coins",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Treasure",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Night's Edge",
+			"rarity": "rare",
+			"mana_cost": "{4}{R/G}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Plantera's Bulb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Queen Slime",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{W}{U}{U}",
+			"type": "Legendary Creature — Ooze Noble Boss",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Luciano, Inspired Painter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Jey, Young Angler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Golem, Jungle Defender",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Artifact Creature — Golem Boss",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Wyvern of the Sky Island",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}{U}",
+			"type": "Creature — Drake Boss",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Enchanted Sword",
+			"rarity": "common",
+			"mana_cost": "{2/R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Search for an Enchanted Sword",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Starfury",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Critter Catching Net",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Nightly Defending",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Strength in Numbers",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Golden Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Rabbit",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Magic Missile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Excalibur",
+			"rarity": "rare",
+			"mana_cost": "{4}{R/G}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Robyn, Cursed Zoologist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/G}{W}{W}",
+			"type": "Legendary Creature — Human Fox",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Release of the Souls",
+			"rarity": "rare",
+			"mana_cost": "{3}{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Bomb Slime",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Ooze",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Coin Slime",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Obsidian Shield",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "The Vortex Pillar",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}{B}{B}",
+			"type": "Battle — Event",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "The Nebula Pillar",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}{R}",
+			"type": "Battle — Event",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "The Stardust Pillar",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Battle — Event",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Garval, Demolition Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Dwarf Artificer",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Booby Trapped Cache",
+			"rarity": "common",
+			"mana_cost": "{2/R}",
+			"type": "Artifact — Bomb Treasure",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Glowing Jellyfish",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Surface Slime",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Ooze",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Hallow Unicorn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Unicorn",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Umbrella Slime",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Ooze",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Collection of Pots",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Korrie, Free Mechanic",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Emilia, Hallow Princess",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Dazzle, Life of the Party",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Warren, Tax Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Tortured Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Purification Powder",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "The Groom",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "The Bride",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Zombie",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Enchanted Sundial",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "The Pumpkin Moon is Rising",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{G}",
+			"type": "Battle — Event",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Magic Lantern",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Corruption Slimer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{B}",
+			"type": "Creature — Ooze",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Sky Harpy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Harpy",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Drakomire Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}{W}",
+			"type": "Creature — Alien Warrior",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Drakomire",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Alien Beast",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Crawltipede",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Alien Worm",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Selenian",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Alien Warrior",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Alien Hornet",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Alien Insect",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Alien Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Alien Insect Noble",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Storm Diver",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Alien Ranger Soldier",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Hallow Pixie",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Faerie",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Blood Crawler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spider Horror",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Diamond Bunny",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Treasure Rabbit",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Nort, Goblin Tinkerer",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Goblin Artificer",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Grapple Hook",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Chest Mimic",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Shapeshifter Treasure",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Undead Hordling",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Blood Drippler",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Eye Horror",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Blood Zombie",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Vicious Bunny",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Rabbit Horror",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Corrupt Bunny",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rabbit Horror",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Goblin Archer",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Goblin Archer Ranger",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Gravitation Potion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Goblin Sorcerer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Shaman",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Goblin Thief",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Goblin Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Goblin Peon",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Soldier",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Healing Potion",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Thorns Potion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "Battle Potion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Illuminant Slime",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Ooze",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Wrath Potion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Tinkerer's Workshop",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Rocket Boots",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Vortexian",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Alien Warrior",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Brain Suckler",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Alien Beast Squid",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Evolution Beast",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Alien Beast",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Chaos Elemental",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Creature — Elemental",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Hallowed Pigron",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Creature — Dragon Boar",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Corrupt Pigron",
+			"rarity": "common",
+			"mana_cost": "{3}{U/B}",
+			"type": "Creature — Dragon Boar",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Crimson Pigron",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Creature — Dragon Boar",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Goblin Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{R/G}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Mushi Ladybug",
+			"rarity": "common",
+			"mana_cost": "{2}{G/U}",
+			"type": "Creature — Insect Fungus",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Undead Hoplite",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Lost Nymph",
+			"rarity": "common",
+			"mana_cost": "{1}{B/G}",
+			"type": "Creature — Nymph",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Etherian Drakin",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}{G/W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Captain Bullywort",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "James, Curseless Clothier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Clothier Voodoo Doll",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Gray Grunt",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Alien Warrior",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "The Ranger",
+			"rarity": "mythic",
+			"mana_cost": "{U}{U}{B}{B}",
+			"type": "Legendary Creature — Human Ranger Hero",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Pumpking",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{G}",
+			"type": "Creature — Scarecrow Noble Boss",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Shield of Cthulhu",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Faye, the Last Dryad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Dryad",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Andrew, Helpful Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Excessive Mining",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "The Air Becomes Colder",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Battle — Event",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "The Solar Pillar",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{W}{W}",
+			"type": "Battle — Event",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "The Mage",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Wizard Hero",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Gathering of the Cultists",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Battle — Event",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Goblin Invasion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}{G}",
+			"type": "Battle — Event",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "The Lunatic Cultist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Creature — Human Cleric Boss",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Dungeon Depths",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Sold to the Shop",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Visit the Nurse",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Vibrations From Below",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Battle — Event",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Jungle Grows Restless",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{G}{W}",
+			"type": "Battle — Event",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Rise of the Blood Moon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Battle — Event",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "A Terrible Night",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Battle — Event",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Endless Events",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "The Empress of Light",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}{U}{U}",
+			"type": "Legendary Creature — God Noble Boss",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Rattles Magoo, Bone Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Skeleton Citizen",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Strange Brew",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Prismatic Lacewing",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Angering a Light God",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Battle — Event",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Moon Lord",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
+			"type": "Legendary Creature — Elder Horror Noble Boss",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Imprisoned in the Moon",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Escape Imprisonment",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Bee Hive",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Climbing Jungle Creeper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Mother Slime",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Snow Flinxes",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Yeti",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Ice Slime",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Ooze",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Flinx Fur Coat",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Flinx Staff",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Ironskin Potion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Builder Potion",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Reforestation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Slash of Regrowth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Spelunker Potion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Lifeforce Potion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Magic Regeneration Potion",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Not Today",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Everscream",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Treefolk Horror Boss",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Martian Saucer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Kindred Artifact — Vehicle Alien Boss",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Mourning Wood",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Treefolk Horror Boss",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Flying Dutchman",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Kindred Artifact — Vehicle Pirate Boss",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Santa-NK1",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Robot Boss",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Betsy, Draconic General",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}{R}{G}",
+			"type": "Legendary Creature — Dragon Boss",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Dark Mage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Wizard Boss",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "An Ancient Warning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Old One's Ogre",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Ogre Boss",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Jim Mulligan, the Golfer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Whitney, Genius Steampunker",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Headless Horserider",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Scarecrow Specter",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Horrific Destruction",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Ever-Returning Threat",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Hallowed Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Illusionary Replication",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Lost Encounter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Quality Over Quantity",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Something Sinister Approaches",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Dreadnautilus",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Nautilus Horror Boss",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Predictor",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Alien Warrior Wizard",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Stargazer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Alien Soldier",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Star Cell",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Alien Ooze",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Flow Invader",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Alien Jellyfish",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "You Feel an Evil Presence Watching You",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Battle — Event",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Contaminated Aquifer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Geothermal Bog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Haunted Mire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Idyllic Beachfront",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Molten Tributary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Radiant Grove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Sacred Peaks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Sunlit Marsh",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Tangled Islet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Wooded Ridgeline",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Granite Golem",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "Corrupt Devourer",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Wurm Horror",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Relentless Shark",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Shark",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Tomb Crawler",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Worm",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Man Eater",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Ice Queen",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Noble Boss",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Mana Flower",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Broken Hero Sword",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "A Solar Eclipse is Happening",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}{B}{G}",
+			"type": "Battle — Event",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Mothron",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}{G}",
+			"type": "Creature — Insect Boss",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Bone Serpent",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Skeleton Wurm Serpent",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Creature from the Deep",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Merfolk",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Shapeshifting Vampire",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Swamp Thing",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Plant Horror",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Reaper of the Eclipse",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Specter",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "The Possessed",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Horror",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Deadly Sphere",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Eclipse Butcher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Eclipse Psycho",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Nailhead",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Eyezor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Eye Zombie Horror",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Dr. Man Fly",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Insect Doctor",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Respawn",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Frostburn Interruption",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Shadow Armor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Meteorite Armor",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Fossil Armor",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Bee Armor",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Crimslime",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact Creature — Blood Ooze",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Scythe Demon",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon Warrior Wizard",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "All the Buffs",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Shower of Arrows",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Overrun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Blasted by Rainbows",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Healing Honey",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Royal Gel",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Ruinous Rampage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Dipped in the Shimmer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Dark Caster",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Dungeon Paladin",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Skeleton Knight Boss",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Paladin's Gear",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Bone Lee",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Skeleton Ninja",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Song of the Dryads",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Gone Fishing",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Back to Spawn",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Building a Town",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Slime Symposium",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Ankh Shield",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Killed for Coins",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Lantern Night",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Truffle Worm",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Creature — Fungus Worm",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Splinterling",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Flocko",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Pumpkin Scarecrow",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Food Scarecrow",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Heart Crystal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Well Fed",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/271.jpg"
+			}
+		},
+		{
+			"name": "The Frost Moon is Rising",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Battle — Event",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/272.jpg"
+			}
+		},
+		{
+			"name": "Gingerbread Man",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Food Golem",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/273.jpg"
+			}
+		},
+		{
+			"name": "Frost Moon Elf",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Zombie Elf",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/274.jpg"
+			}
+		},
+		{
+			"name": "Frost Moon Yeti",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Yeti",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/275.jpg"
+			}
+		},
+		{
+			"name": "Pinky",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Ooze",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/276.jpg"
+			}
+		},
+		{
+			"name": "Armored Bones",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/277.jpg"
+			}
+		},
+		{
+			"name": "The Celestial Invasion",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}{R}{G}",
+			"type": "Battle — Event",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/278.jpg"
+			}
+		},
+		{
+			"name": "Avenger Emblem",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/279.jpg"
+			}
+		},
+		{
+			"name": "Banner Collection",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/280.jpg"
+			}
+		},
+		{
+			"name": "Phi, Explosive Cyborg",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Robot Artificer",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/281.jpg"
+			}
+		},
+		{
+			"name": "Goblin Warlock",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Goblin Warlock Boss",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/282.jpg"
+			}
+		},
+		{
+			"name": "Golf Cart",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/283.jpg"
+			}
+		},
+		{
+			"name": "Falling Meteors",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/284.jpg"
+			}
+		},
+		{
+			"name": "Clentaminator Solution",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Fortification",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/285.jpg"
+			}
+		},
+		{
+			"name": "Pirate Deckhand",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/286.jpg"
+			}
+		},
+		{
+			"name": "Pirate Crossbower",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Pirate Ranger",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/287.jpg"
+			}
+		},
+		{
+			"name": "Pirate Deadeye",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Pirate Ranger",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/288.jpg"
+			}
+		},
+		{
+			"name": "Pirate Corsair",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/289.jpg"
+			}
+		},
+		{
+			"name": "Pirate's Parrot",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Pirate",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/290.jpg"
+			}
+		},
+		{
+			"name": "Pirate Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature — Human Pirate Boss",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/291.jpg"
+			}
+		},
+		{
+			"name": "Cursed Pirate",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton Pirate",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/292.jpg"
+			}
+		},
+		{
+			"name": "The Pirate Invasion",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Battle — Event",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/293.jpg"
+			}
+		},
+		{
+			"name": "Dungeon Corridor",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/298.jpg"
+			}
+		},
+		{
+			"name": "Frosted Cavern",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/299.jpg"
+			}
+		},
+		{
+			"name": "Sky Islands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Lihzahrd Temple",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Beachfront Pier",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "Bounding Balloon",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/303.jpg"
+			}
+		},
+		{
+			"name": "Finding the Ocean",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/304.jpg"
+			}
+		},
+		{
+			"name": "Light Pet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/305.jpg"
+			}
+		},
+		{
+			"name": "K.O. Cannon",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/306.jpg"
+			}
+		},
+		{
+			"name": "Shared Loot",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/307.jpg"
+			}
+		},
+		{
+			"name": "Through the Pylons",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/308.jpg"
+			}
+		},
+		{
+			"name": "Change Loadout",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/309.jpg"
+			}
+		},
+		{
+			"name": "Rare Find",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/310.jpg"
+			}
+		},
+		{
+			"name": "Windy Balloon",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Ooze",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/311.jpg"
+			}
+		},
+		{
+			"name": "Dungeon Slime",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Ooze",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/312.jpg"
+			}
+		},
+		{
+			"name": "Metallic Blessing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/313.jpg"
+			}
+		},
+		{
+			"name": "Shadow Orb",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/314.jpg"
+			}
+		},
+		{
+			"name": "Crimson Heart",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/315.jpg"
+			}
+		},
+		{
+			"name": "Flying Fish",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/316.jpg"
+			}
+		},
+		{
+			"name": "Antlion Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/317.jpg"
+			}
+		},
+		{
+			"name": "Jungle Excavation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/318.jpg"
+			}
+		},
+		{
+			"name": "Tim, Bone Wizard",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Skeleton Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/319.jpg"
+			}
+		},
+		{
+			"name": "Wizard Attire",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/320.jpg"
+			}
+		},
+		{
+			"name": "Librarian Skeleton",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Skeleton Wizard",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/321.jpg"
+			}
+		},
+		{
+			"name": "Fire Imp Assault",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/322.jpg"
+			}
+		},
+		{
+			"name": "Blazing Wheel",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/323.jpg"
+			}
+		},
+		{
+			"name": "The Frost Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Battle — Event",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/324.jpg"
+			}
+		},
+		{
+			"name": "Mister Stabby",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elemental Mercenary",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/325.jpg"
+			}
+		},
+		{
+			"name": "Snowman Gangsta",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental Mercenary",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/326.jpg"
+			}
+		},
+		{
+			"name": "Snow Balla",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Mercenary",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/327.jpg"
+			}
+		},
+		{
+			"name": "Dale, Otherworldly Barkeep",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/328.jpg"
+			}
+		},
+		{
+			"name": "Ale Tosser",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment Food",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/329.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Skeletron, Dungeon Guardian
+	1 The Dungeon's Entrance
+	2 The Eater of Worlds
+	2 Eye of Cthulhu
+	2 Queen Bee
+	2 Brain of Cthulhu
+	2 Wall of Flesh
+	1 Retinazer and Spazmatism
+	1 Skeletron Prime
+	1 The Destroyer
+	1 The Summoner
+	1 The Fighter
+	1 Plantera, Jungle's Soul
+	1 The Journey's Beginning
+	2 Mecha Mayhem
+	2 Bucket of Bolts
+	1 Duke Fishron
+	2 Boss Rush
+	2 Lucky Coins
+	2 Night's Edge
+	1 Queen Slime
+	2 Golem, Jungle Defender
+	2 Excalibur
+	2 Release of the Souls
+	1 The Vortex Pillar
+	1 The Nebula Pillar
+	1 The Stardust Pillar
+	2 Emilia, Hallow Princess
+	2 Enchanted Sundial
+	1 The Pumpkin Moon is Rising
+	2 Captain Bullywort
+	1 The Ranger
+	2 Pumpking
+	2 Excessive Mining
+	2 The Air Becomes Colder
+	1 The Solar Pillar
+	1 The Mage
+	2 Gathering of the Cultists
+	1 The Lunatic Cultist
+	2 Dungeon Depths
+	2 Vibrations From Below
+	2 Jungle Grows Restless
+	2 A Terrible Night
+	1 The Empress of Light
+	2 Prismatic Lacewing
+	1 Angering a Light God
+	1 Moon Lord
+	2 Martian Saucer
+	2 Flying Dutchman
+	2 Betsy, Draconic General
+	2 Jim Mulligan, the Golfer
+	2 Whitney, Genius Steampunker
+	2 Illusionary Replication
+	2 Dreadnautilus
+	2 Ice Queen
+	1 A Solar Eclipse is Happening
+	2 Respawn
+	2 Frostburn Interruption
+	2 All the Buffs
+	2 Dungeon Paladin
+	2 Song of the Dryads
+	2 Ankh Shield
+	2 Lantern Night
+	2 Truffle Worm
+	2 Well Fed
+	1 The Frost Moon is Rising
+	1 The Celestial Invasion
+	2 Phi, Explosive Cyborg
+	2 Goblin Warlock
+	2 Pirate Captain
+	1 The Pirate Invasion
+[uncommon(3)]
+	4 Wurm Food
+	4 Suspicious Looking Eye
+	4 King Slime
+	4 Slime Rain
+	4 Abeemination
+	4 Bloody Spine
+	4 Guide Voodoo Doll
+	4 Legendary Copper Shortsword
+	4 Mechanical Eye
+	4 Mechanical Wurm
+	4 Mechanical Skull
+	4 Sandy River
+	4 Beginner's Landing
+	4 Corrupted Forest
+	4 Hallowed Foothills
+	4 Crimson Spikes
+	4 Rest Until Morning
+	4 Unprepared Fight
+	4 Demon Altar
+	4 Hanno, Dye Trader
+	4 Mana Crystal
+	4 Edmund, Town Merchant
+	4 Madeline, Crisis Nurse
+	4 Xavier, Arms Dealer
+	4 Plantera's Bulb
+	4 Luciano, Inspired Painter
+	4 Jey, Young Angler
+	4 Wyvern of the Sky Island
+	4 Starfury
+	4 Golden Rabbit
+	4 Magic Missile
+	4 Robyn, Cursed Zoologist
+	4 Obsidian Shield
+	4 Garval, Demolition Dealer
+	4 Hallow Unicorn
+	4 Collection of Pots
+	4 Korrie, Free Mechanic
+	4 Dazzle, Life of the Party
+	4 Warren, Tax Collector
+	4 Magic Lantern
+	4 Corruption Slimer
+	4 Drakomire Rider
+	4 Selenian
+	4 Alien Queen
+	4 Nort, Goblin Tinkerer
+	4 Gravitation Potion
+	4 Goblin Sorcerer
+	4 Thorns Potion
+	4 Battle Potion
+	4 Wrath Potion
+	4 Tinkerer's Workshop
+	4 James, Curseless Clothier
+	4 Clothier Voodoo Doll
+	4 Shield of Cthulhu
+	4 Faye, the Last Dryad
+	4 Andrew, Helpful Guide
+	4 Goblin Invasion
+	4 Rise of the Blood Moon
+	4 Endless Events
+	4 Rattles Magoo, Bone Merchant
+	4 Strange Brew
+	4 Ironskin Potion
+	4 Santa-NK1
+	4 An Ancient Warning
+	4 Old One's Ogre
+	4 Hallowed Armor
+	4 Something Sinister Approaches
+	4 Predictor
+	4 Flow Invader
+	4 You Feel an Evil Presence Watching You
+	4 Mothron
+	4 Nailhead
+	4 Overrun
+	4 Royal Gel
+	4 Ruinous Rampage
+	4 Dipped in the Shimmer
+	4 Paladin's Gear
+	4 Bone Lee
+	4 Gone Fishing
+	4 Heart Crystal
+	4 Pinky
+	4 Armored Bones
+	4 Avenger Emblem
+	4 Banner Collection
+	4 Falling Meteors
+	4 Pirate Deadeye
+	4 Dungeon Corridor
+	4 Frosted Cavern
+	4 Sky Islands
+	4 Lihzahrd Temple
+	4 Beachfront Pier
+	4 Finding the Ocean
+	4 Rare Find
+	4 Metallic Blessing
+	4 The Frost Legion
+	4 Dale, Otherworldly Barkeep
+[common(6)]
+	8 Slime Crown
+	8 Bravery Against the Odds
+	8 Acorn Bag
+	8 Pursuing Eye
+	8 Enchanted Sword
+	8 Search for an Enchanted Sword
+	8 Critter Catching Net
+	8 Nightly Defending
+	8 Strength in Numbers
+	8 Bomb Slime
+	8 Coin Slime
+	8 Booby Trapped Cache
+	8 Glowing Jellyfish
+	8 Surface Slime
+	8 Umbrella Slime
+	8 Tortured Soul
+	8 Purification Powder
+	8 The Groom
+	8 The Bride
+	8 Sky Harpy
+	8 Drakomire
+	8 Crawltipede
+	8 Alien Hornet
+	8 Storm Diver
+	8 Hallow Pixie
+	8 Blood Crawler
+	8 Diamond Bunny
+	8 Grapple Hook
+	8 Chest Mimic
+	8 Undead Hordling
+	8 Blood Drippler
+	8 Blood Zombie
+	8 Vicious Bunny
+	8 Corrupt Bunny
+	8 Goblin Archer
+	8 Goblin Thief
+	8 Goblin Warrior
+	8 Goblin Peon
+	8 Healing Potion
+	8 Illuminant Slime
+	8 Rocket Boots
+	8 Vortexian
+	8 Brain Suckler
+	8 Evolution Beast
+	8 Chaos Elemental
+	8 Hallowed Pigron
+	8 Corrupt Pigron
+	8 Crimson Pigron
+	8 Goblin Scout
+	8 Mushi Ladybug
+	8 Undead Hoplite
+	8 Lost Nymph
+	8 Etherian Drakin
+	8 Gray Grunt
+	8 Sold to the Shop
+	8 Visit the Nurse
+	8 Imprisoned in the Moon
+	8 Escape Imprisonment
+	8 Bee Hive
+	8 Climbing Jungle Creeper
+	8 Mother Slime
+	8 Snow Flinxes
+	8 Ice Slime
+	8 Flinx Fur Coat
+	8 Flinx Staff
+	8 Builder Potion
+	8 Reforestation
+	8 Slash of Regrowth
+	8 Spelunker Potion
+	8 Lifeforce Potion
+	8 Magic Regeneration Potion
+	8 Not Today
+	8 Everscream
+	8 Mourning Wood
+	8 Dark Mage
+	8 Headless Horserider
+	8 Horrific Destruction
+	8 Ever-Returning Threat
+	8 Lost Encounter
+	8 Quality Over Quantity
+	8 Stargazer
+	8 Star Cell
+	8 Contaminated Aquifer
+	8 Geothermal Bog
+	8 Haunted Mire
+	8 Idyllic Beachfront
+	8 Molten Tributary
+	8 Radiant Grove
+	8 Sacred Peaks
+	8 Sunlit Marsh
+	8 Tangled Islet
+	8 Wooded Ridgeline
+	8 Granite Golem
+	8 Corrupt Devourer
+	8 Relentless Shark
+	8 Tomb Crawler
+	8 Man Eater
+	8 Mana Flower
+	8 Broken Hero Sword
+	8 Bone Serpent
+	8 Creature from the Deep
+	8 Shapeshifting Vampire
+	8 Swamp Thing
+	8 Reaper of the Eclipse
+	8 The Possessed
+	8 Deadly Sphere
+	8 Eclipse Butcher
+	8 Eclipse Psycho
+	8 Eyezor
+	8 Dr. Man Fly
+	8 Shadow Armor
+	8 Meteorite Armor
+	8 Fossil Armor
+	8 Bee Armor
+	8 Crimslime
+	8 Scythe Demon
+	8 Shower of Arrows
+	8 Blasted by Rainbows
+	8 Healing Honey
+	8 Dark Caster
+	8 Back to Spawn
+	8 Building a Town
+	8 Slime Symposium
+	8 Killed for Coins
+	8 Splinterling
+	8 Flocko
+	8 Pumpkin Scarecrow
+	8 Gingerbread Man
+	8 Frost Moon Elf
+	8 Frost Moon Yeti
+	8 Golf Cart
+	8 Clentaminator Solution
+	8 Pirate Deckhand
+	8 Pirate Crossbower
+	8 Pirate Corsair
+	8 Pirate's Parrot
+	8 Cursed Pirate
+	8 Bounding Balloon
+	8 Light Pet
+	8 K.O. Cannon
+	8 Shared Loot
+	8 Through the Pylons
+	8 Change Loadout
+	8 Windy Balloon
+	8 Dungeon Slime
+	8 Shadow Orb
+	8 Crimson Heart
+	8 Flying Fish
+	8 Antlion Charger
+	8 Jungle Excavation
+	8 Tim, Bone Wizard
+	8 Wizard Attire
+	8 Librarian Skeleton
+	8 Fire Imp Assault
+	8 Blazing Wheel
+	8 Mister Stabby
+	8 Snowman Gangsta
+	8 Snow Balla
+	8 Ale Tosser
+[common | masterpiece(1)]
+	8 Slime Crown
+	8 Bravery Against the Odds
+	8 Acorn Bag
+	8 Pursuing Eye
+	8 Enchanted Sword
+	8 Search for an Enchanted Sword
+	8 Critter Catching Net
+	8 Nightly Defending
+	8 Strength in Numbers
+	8 Bomb Slime
+	8 Coin Slime
+	8 Booby Trapped Cache
+	8 Glowing Jellyfish
+	8 Surface Slime
+	8 Umbrella Slime
+	8 Tortured Soul
+	8 Purification Powder
+	8 The Groom
+	8 The Bride
+	8 Sky Harpy
+	8 Drakomire
+	8 Crawltipede
+	8 Alien Hornet
+	8 Storm Diver
+	8 Hallow Pixie
+	8 Blood Crawler
+	8 Diamond Bunny
+	8 Grapple Hook
+	8 Chest Mimic
+	8 Undead Hordling
+	8 Blood Drippler
+	8 Blood Zombie
+	8 Vicious Bunny
+	8 Corrupt Bunny
+	8 Goblin Archer
+	8 Goblin Thief
+	8 Goblin Warrior
+	8 Goblin Peon
+	8 Healing Potion
+	8 Illuminant Slime
+	8 Rocket Boots
+	8 Vortexian
+	8 Brain Suckler
+	8 Evolution Beast
+	8 Chaos Elemental
+	8 Hallowed Pigron
+	8 Corrupt Pigron
+	8 Crimson Pigron
+	8 Goblin Scout
+	8 Mushi Ladybug
+	8 Undead Hoplite
+	8 Lost Nymph
+	8 Etherian Drakin
+	8 Gray Grunt
+	8 Sold to the Shop
+	8 Visit the Nurse
+	8 Imprisoned in the Moon
+	8 Escape Imprisonment
+	8 Bee Hive
+	8 Climbing Jungle Creeper
+	8 Mother Slime
+	8 Snow Flinxes
+	8 Ice Slime
+	8 Flinx Fur Coat
+	8 Flinx Staff
+	8 Builder Potion
+	8 Reforestation
+	8 Slash of Regrowth
+	8 Spelunker Potion
+	8 Lifeforce Potion
+	8 Magic Regeneration Potion
+	8 Not Today
+	8 Everscream
+	8 Mourning Wood
+	8 Dark Mage
+	8 Headless Horserider
+	8 Horrific Destruction
+	8 Ever-Returning Threat
+	8 Lost Encounter
+	8 Quality Over Quantity
+	8 Stargazer
+	8 Star Cell
+	8 Contaminated Aquifer
+	8 Geothermal Bog
+	8 Haunted Mire
+	8 Idyllic Beachfront
+	8 Molten Tributary
+	8 Radiant Grove
+	8 Sacred Peaks
+	8 Sunlit Marsh
+	8 Tangled Islet
+	8 Wooded Ridgeline
+	8 Granite Golem
+	8 Corrupt Devourer
+	8 Relentless Shark
+	8 Tomb Crawler
+	8 Man Eater
+	8 Mana Flower
+	8 Broken Hero Sword
+	8 Bone Serpent
+	8 Creature from the Deep
+	8 Shapeshifting Vampire
+	8 Swamp Thing
+	8 Reaper of the Eclipse
+	8 The Possessed
+	8 Deadly Sphere
+	8 Eclipse Butcher
+	8 Eclipse Psycho
+	8 Eyezor
+	8 Dr. Man Fly
+	8 Shadow Armor
+	8 Meteorite Armor
+	8 Fossil Armor
+	8 Bee Armor
+	8 Crimslime
+	8 Scythe Demon
+	8 Shower of Arrows
+	8 Blasted by Rainbows
+	8 Healing Honey
+	8 Dark Caster
+	8 Back to Spawn
+	8 Building a Town
+	8 Slime Symposium
+	8 Killed for Coins
+	8 Splinterling
+	8 Flocko
+	8 Pumpkin Scarecrow
+	8 Gingerbread Man
+	8 Frost Moon Elf
+	8 Frost Moon Yeti
+	8 Golf Cart
+	8 Clentaminator Solution
+	8 Pirate Deckhand
+	8 Pirate Crossbower
+	8 Pirate Corsair
+	8 Pirate's Parrot
+	8 Cursed Pirate
+	8 Bounding Balloon
+	8 Light Pet
+	8 K.O. Cannon
+	8 Shared Loot
+	8 Through the Pylons
+	8 Change Loadout
+	8 Windy Balloon
+	8 Dungeon Slime
+	8 Shadow Orb
+	8 Crimson Heart
+	8 Flying Fish
+	8 Antlion Charger
+	8 Jungle Excavation
+	8 Tim, Bone Wizard
+	8 Wizard Attire
+	8 Librarian Skeleton
+	8 Fire Imp Assault
+	8 Blazing Wheel
+	8 Mister Stabby
+	8 Snowman Gangsta
+	8 Snow Balla
+	8 Ale Tosser
+[foil(1)]
+	2 Skeletron, Dungeon Guardian
+	1 The Dungeon's Entrance
+	2 The Eater of Worlds
+	6 Wurm Food
+	2 Eye of Cthulhu
+	6 Suspicious Looking Eye
+	6 King Slime
+	2 Queen Bee
+	2 Brain of Cthulhu
+	12 Slime Crown
+	6 Slime Rain
+	2 Wall of Flesh
+	6 Abeemination
+	6 Bloody Spine
+	1 Retinazer and Spazmatism
+	6 Guide Voodoo Doll
+	1 Skeletron Prime
+	1 The Destroyer
+	12 Bravery Against the Odds
+	1 The Summoner
+	1 The Fighter
+	6 Legendary Copper Shortsword
+	12 Acorn Bag
+	6 Mechanical Eye
+	6 Mechanical Wurm
+	6 Mechanical Skull
+	6 Sandy River
+	6 Beginner's Landing
+	6 Corrupted Forest
+	6 Hallowed Foothills
+	12 Pursuing Eye
+	1 Plantera, Jungle's Soul
+	1 The Journey's Beginning
+	6 Crimson Spikes
+	2 Mecha Mayhem
+	2 Bucket of Bolts
+	1 Duke Fishron
+	6 Rest Until Morning
+	6 Unprepared Fight
+	6 Demon Altar
+	2 Boss Rush
+	6 Hanno, Dye Trader
+	6 Mana Crystal
+	6 Edmund, Town Merchant
+	6 Madeline, Crisis Nurse
+	6 Xavier, Arms Dealer
+	2 Lucky Coins
+	2 Night's Edge
+	6 Plantera's Bulb
+	1 Queen Slime
+	6 Luciano, Inspired Painter
+	6 Jey, Young Angler
+	2 Golem, Jungle Defender
+	6 Wyvern of the Sky Island
+	12 Enchanted Sword
+	12 Search for an Enchanted Sword
+	6 Starfury
+	12 Critter Catching Net
+	12 Nightly Defending
+	12 Strength in Numbers
+	6 Golden Rabbit
+	6 Magic Missile
+	2 Excalibur
+	6 Robyn, Cursed Zoologist
+	2 Release of the Souls
+	12 Bomb Slime
+	12 Coin Slime
+	6 Obsidian Shield
+	1 The Vortex Pillar
+	1 The Nebula Pillar
+	1 The Stardust Pillar
+	6 Garval, Demolition Dealer
+	12 Booby Trapped Cache
+	12 Glowing Jellyfish
+	12 Surface Slime
+	6 Hallow Unicorn
+	12 Umbrella Slime
+	6 Collection of Pots
+	6 Korrie, Free Mechanic
+	2 Emilia, Hallow Princess
+	6 Dazzle, Life of the Party
+	6 Warren, Tax Collector
+	12 Tortured Soul
+	12 Purification Powder
+	12 The Groom
+	12 The Bride
+	2 Enchanted Sundial
+	1 The Pumpkin Moon is Rising
+	6 Magic Lantern
+	6 Corruption Slimer
+	12 Sky Harpy
+	6 Drakomire Rider
+	12 Drakomire
+	12 Crawltipede
+	6 Selenian
+	12 Alien Hornet
+	6 Alien Queen
+	12 Storm Diver
+	12 Hallow Pixie
+	12 Blood Crawler
+	12 Diamond Bunny
+	6 Nort, Goblin Tinkerer
+	12 Grapple Hook
+	12 Chest Mimic
+	12 Undead Hordling
+	12 Blood Drippler
+	12 Blood Zombie
+	12 Vicious Bunny
+	12 Corrupt Bunny
+	12 Goblin Archer
+	6 Gravitation Potion
+	6 Goblin Sorcerer
+	12 Goblin Thief
+	12 Goblin Warrior
+	12 Goblin Peon
+	12 Healing Potion
+	6 Thorns Potion
+	6 Battle Potion
+	12 Illuminant Slime
+	6 Wrath Potion
+	6 Tinkerer's Workshop
+	12 Rocket Boots
+	12 Vortexian
+	12 Brain Suckler
+	12 Evolution Beast
+	12 Chaos Elemental
+	12 Hallowed Pigron
+	12 Corrupt Pigron
+	12 Crimson Pigron
+	12 Goblin Scout
+	12 Mushi Ladybug
+	12 Undead Hoplite
+	12 Lost Nymph
+	12 Etherian Drakin
+	2 Captain Bullywort
+	6 James, Curseless Clothier
+	6 Clothier Voodoo Doll
+	12 Gray Grunt
+	1 The Ranger
+	2 Pumpking
+	6 Shield of Cthulhu
+	6 Faye, the Last Dryad
+	6 Andrew, Helpful Guide
+	2 Excessive Mining
+	2 The Air Becomes Colder
+	1 The Solar Pillar
+	1 The Mage
+	2 Gathering of the Cultists
+	6 Goblin Invasion
+	1 The Lunatic Cultist
+	2 Dungeon Depths
+	12 Sold to the Shop
+	12 Visit the Nurse
+	2 Vibrations From Below
+	2 Jungle Grows Restless
+	6 Rise of the Blood Moon
+	2 A Terrible Night
+	6 Endless Events
+	1 The Empress of Light
+	6 Rattles Magoo, Bone Merchant
+	6 Strange Brew
+	2 Prismatic Lacewing
+	1 Angering a Light God
+	1 Moon Lord
+	12 Imprisoned in the Moon
+	12 Escape Imprisonment
+	12 Bee Hive
+	12 Climbing Jungle Creeper
+	12 Mother Slime
+	12 Snow Flinxes
+	12 Ice Slime
+	12 Flinx Fur Coat
+	12 Flinx Staff
+	6 Ironskin Potion
+	12 Builder Potion
+	12 Reforestation
+	12 Slash of Regrowth
+	12 Spelunker Potion
+	12 Lifeforce Potion
+	12 Magic Regeneration Potion
+	12 Not Today
+	12 Everscream
+	2 Martian Saucer
+	12 Mourning Wood
+	2 Flying Dutchman
+	6 Santa-NK1
+	2 Betsy, Draconic General
+	12 Dark Mage
+	6 An Ancient Warning
+	6 Old One's Ogre
+	2 Jim Mulligan, the Golfer
+	2 Whitney, Genius Steampunker
+	12 Headless Horserider
+	12 Horrific Destruction
+	12 Ever-Returning Threat
+	6 Hallowed Armor
+	2 Illusionary Replication
+	12 Lost Encounter
+	12 Quality Over Quantity
+	6 Something Sinister Approaches
+	2 Dreadnautilus
+	6 Predictor
+	12 Stargazer
+	12 Star Cell
+	6 Flow Invader
+	6 You Feel an Evil Presence Watching You
+	12 Contaminated Aquifer
+	12 Geothermal Bog
+	12 Haunted Mire
+	12 Idyllic Beachfront
+	12 Molten Tributary
+	12 Radiant Grove
+	12 Sacred Peaks
+	12 Sunlit Marsh
+	12 Tangled Islet
+	12 Wooded Ridgeline
+	12 Granite Golem
+	12 Corrupt Devourer
+	12 Relentless Shark
+	12 Tomb Crawler
+	12 Man Eater
+	2 Ice Queen
+	12 Mana Flower
+	12 Broken Hero Sword
+	1 A Solar Eclipse is Happening
+	6 Mothron
+	12 Bone Serpent
+	12 Creature from the Deep
+	12 Shapeshifting Vampire
+	12 Swamp Thing
+	12 Reaper of the Eclipse
+	12 The Possessed
+	12 Deadly Sphere
+	12 Eclipse Butcher
+	12 Eclipse Psycho
+	6 Nailhead
+	12 Eyezor
+	12 Dr. Man Fly
+	2 Respawn
+	2 Frostburn Interruption
+	12 Shadow Armor
+	12 Meteorite Armor
+	12 Fossil Armor
+	12 Bee Armor
+	12 Crimslime
+	12 Scythe Demon
+	2 All the Buffs
+	12 Shower of Arrows
+	6 Overrun
+	12 Blasted by Rainbows
+	12 Healing Honey
+	6 Royal Gel
+	6 Ruinous Rampage
+	6 Dipped in the Shimmer
+	12 Dark Caster
+	2 Dungeon Paladin
+	6 Paladin's Gear
+	6 Bone Lee
+	2 Song of the Dryads
+	6 Gone Fishing
+	12 Back to Spawn
+	12 Building a Town
+	12 Slime Symposium
+	2 Ankh Shield
+	12 Killed for Coins
+	2 Lantern Night
+	2 Truffle Worm
+	12 Splinterling
+	12 Flocko
+	12 Pumpkin Scarecrow
+	6 Heart Crystal
+	2 Well Fed
+	1 The Frost Moon is Rising
+	12 Gingerbread Man
+	12 Frost Moon Elf
+	12 Frost Moon Yeti
+	6 Pinky
+	6 Armored Bones
+	1 The Celestial Invasion
+	6 Avenger Emblem
+	6 Banner Collection
+	2 Phi, Explosive Cyborg
+	2 Goblin Warlock
+	12 Golf Cart
+	6 Falling Meteors
+	12 Clentaminator Solution
+	12 Pirate Deckhand
+	12 Pirate Crossbower
+	6 Pirate Deadeye
+	12 Pirate Corsair
+	12 Pirate's Parrot
+	2 Pirate Captain
+	12 Cursed Pirate
+	1 The Pirate Invasion
+	6 Dungeon Corridor
+	6 Frosted Cavern
+	6 Sky Islands
+	6 Lihzahrd Temple
+	6 Beachfront Pier
+	12 Bounding Balloon
+	6 Finding the Ocean
+	12 Light Pet
+	12 K.O. Cannon
+	12 Shared Loot
+	12 Through the Pylons
+	12 Change Loadout
+	6 Rare Find
+	12 Windy Balloon
+	12 Dungeon Slime
+	6 Metallic Blessing
+	12 Shadow Orb
+	12 Crimson Heart
+	12 Flying Fish
+	12 Antlion Charger
+	12 Jungle Excavation
+	12 Tim, Bone Wizard
+	12 Wizard Attire
+	12 Librarian Skeleton
+	12 Fire Imp Assault
+	12 Blazing Wheel
+	6 The Frost Legion
+	12 Mister Stabby
+	12 Snowman Gangsta
+	12 Snow Balla
+	6 Dale, Otherworldly Barkeep
+	12 Ale Tosser
+[wildcard(1)]
+	7 Skeletron, Dungeon Guardian
+	4 The Dungeon's Entrance
+	7 The Eater of Worlds
+	15 Wurm Food
+	7 Eye of Cthulhu
+	15 Suspicious Looking Eye
+	15 King Slime
+	7 Queen Bee
+	7 Brain of Cthulhu
+	6 Slime Crown
+	15 Slime Rain
+	7 Wall of Flesh
+	15 Abeemination
+	15 Bloody Spine
+	4 Retinazer and Spazmatism
+	15 Guide Voodoo Doll
+	4 Skeletron Prime
+	4 The Destroyer
+	6 Bravery Against the Odds
+	4 The Summoner
+	4 The Fighter
+	15 Legendary Copper Shortsword
+	6 Acorn Bag
+	15 Mechanical Eye
+	15 Mechanical Wurm
+	15 Mechanical Skull
+	15 Sandy River
+	15 Beginner's Landing
+	15 Corrupted Forest
+	15 Hallowed Foothills
+	6 Pursuing Eye
+	4 Plantera, Jungle's Soul
+	4 The Journey's Beginning
+	15 Crimson Spikes
+	7 Mecha Mayhem
+	7 Bucket of Bolts
+	4 Duke Fishron
+	15 Rest Until Morning
+	15 Unprepared Fight
+	15 Demon Altar
+	7 Boss Rush
+	15 Hanno, Dye Trader
+	15 Mana Crystal
+	15 Edmund, Town Merchant
+	15 Madeline, Crisis Nurse
+	15 Xavier, Arms Dealer
+	7 Lucky Coins
+	7 Night's Edge
+	15 Plantera's Bulb
+	4 Queen Slime
+	15 Luciano, Inspired Painter
+	15 Jey, Young Angler
+	7 Golem, Jungle Defender
+	15 Wyvern of the Sky Island
+	6 Enchanted Sword
+	6 Search for an Enchanted Sword
+	15 Starfury
+	6 Critter Catching Net
+	6 Nightly Defending
+	6 Strength in Numbers
+	15 Golden Rabbit
+	15 Magic Missile
+	7 Excalibur
+	15 Robyn, Cursed Zoologist
+	7 Release of the Souls
+	6 Bomb Slime
+	6 Coin Slime
+	15 Obsidian Shield
+	4 The Vortex Pillar
+	4 The Nebula Pillar
+	4 The Stardust Pillar
+	15 Garval, Demolition Dealer
+	6 Booby Trapped Cache
+	6 Glowing Jellyfish
+	6 Surface Slime
+	15 Hallow Unicorn
+	6 Umbrella Slime
+	15 Collection of Pots
+	15 Korrie, Free Mechanic
+	7 Emilia, Hallow Princess
+	15 Dazzle, Life of the Party
+	15 Warren, Tax Collector
+	6 Tortured Soul
+	6 Purification Powder
+	6 The Groom
+	6 The Bride
+	7 Enchanted Sundial
+	4 The Pumpkin Moon is Rising
+	15 Magic Lantern
+	15 Corruption Slimer
+	6 Sky Harpy
+	15 Drakomire Rider
+	6 Drakomire
+	6 Crawltipede
+	15 Selenian
+	6 Alien Hornet
+	15 Alien Queen
+	6 Storm Diver
+	6 Hallow Pixie
+	6 Blood Crawler
+	6 Diamond Bunny
+	15 Nort, Goblin Tinkerer
+	6 Grapple Hook
+	6 Chest Mimic
+	6 Undead Hordling
+	6 Blood Drippler
+	6 Blood Zombie
+	6 Vicious Bunny
+	6 Corrupt Bunny
+	6 Goblin Archer
+	15 Gravitation Potion
+	15 Goblin Sorcerer
+	6 Goblin Thief
+	6 Goblin Warrior
+	6 Goblin Peon
+	6 Healing Potion
+	15 Thorns Potion
+	15 Battle Potion
+	6 Illuminant Slime
+	15 Wrath Potion
+	15 Tinkerer's Workshop
+	6 Rocket Boots
+	6 Vortexian
+	6 Brain Suckler
+	6 Evolution Beast
+	6 Chaos Elemental
+	6 Hallowed Pigron
+	6 Corrupt Pigron
+	6 Crimson Pigron
+	6 Goblin Scout
+	6 Mushi Ladybug
+	6 Undead Hoplite
+	6 Lost Nymph
+	6 Etherian Drakin
+	7 Captain Bullywort
+	15 James, Curseless Clothier
+	15 Clothier Voodoo Doll
+	6 Gray Grunt
+	4 The Ranger
+	7 Pumpking
+	15 Shield of Cthulhu
+	15 Faye, the Last Dryad
+	15 Andrew, Helpful Guide
+	7 Excessive Mining
+	7 The Air Becomes Colder
+	4 The Solar Pillar
+	4 The Mage
+	7 Gathering of the Cultists
+	15 Goblin Invasion
+	4 The Lunatic Cultist
+	7 Dungeon Depths
+	6 Sold to the Shop
+	6 Visit the Nurse
+	7 Vibrations From Below
+	7 Jungle Grows Restless
+	15 Rise of the Blood Moon
+	7 A Terrible Night
+	15 Endless Events
+	4 The Empress of Light
+	15 Rattles Magoo, Bone Merchant
+	15 Strange Brew
+	7 Prismatic Lacewing
+	4 Angering a Light God
+	4 Moon Lord
+	6 Imprisoned in the Moon
+	6 Escape Imprisonment
+	6 Bee Hive
+	6 Climbing Jungle Creeper
+	6 Mother Slime
+	6 Snow Flinxes
+	6 Ice Slime
+	6 Flinx Fur Coat
+	6 Flinx Staff
+	15 Ironskin Potion
+	6 Builder Potion
+	6 Reforestation
+	6 Slash of Regrowth
+	6 Spelunker Potion
+	6 Lifeforce Potion
+	6 Magic Regeneration Potion
+	6 Not Today
+	6 Everscream
+	7 Martian Saucer
+	6 Mourning Wood
+	7 Flying Dutchman
+	15 Santa-NK1
+	7 Betsy, Draconic General
+	6 Dark Mage
+	15 An Ancient Warning
+	15 Old One's Ogre
+	7 Jim Mulligan, the Golfer
+	7 Whitney, Genius Steampunker
+	6 Headless Horserider
+	6 Horrific Destruction
+	6 Ever-Returning Threat
+	15 Hallowed Armor
+	7 Illusionary Replication
+	6 Lost Encounter
+	6 Quality Over Quantity
+	15 Something Sinister Approaches
+	7 Dreadnautilus
+	15 Predictor
+	6 Stargazer
+	6 Star Cell
+	15 Flow Invader
+	15 You Feel an Evil Presence Watching You
+	6 Contaminated Aquifer
+	6 Geothermal Bog
+	6 Haunted Mire
+	6 Idyllic Beachfront
+	6 Molten Tributary
+	6 Radiant Grove
+	6 Sacred Peaks
+	6 Sunlit Marsh
+	6 Tangled Islet
+	6 Wooded Ridgeline
+	6 Granite Golem
+	6 Corrupt Devourer
+	6 Relentless Shark
+	6 Tomb Crawler
+	6 Man Eater
+	7 Ice Queen
+	6 Mana Flower
+	6 Broken Hero Sword
+	4 A Solar Eclipse is Happening
+	15 Mothron
+	6 Bone Serpent
+	6 Creature from the Deep
+	6 Shapeshifting Vampire
+	6 Swamp Thing
+	6 Reaper of the Eclipse
+	6 The Possessed
+	6 Deadly Sphere
+	6 Eclipse Butcher
+	6 Eclipse Psycho
+	15 Nailhead
+	6 Eyezor
+	6 Dr. Man Fly
+	7 Respawn
+	7 Frostburn Interruption
+	6 Shadow Armor
+	6 Meteorite Armor
+	6 Fossil Armor
+	6 Bee Armor
+	6 Crimslime
+	6 Scythe Demon
+	7 All the Buffs
+	6 Shower of Arrows
+	15 Overrun
+	6 Blasted by Rainbows
+	6 Healing Honey
+	15 Royal Gel
+	15 Ruinous Rampage
+	15 Dipped in the Shimmer
+	6 Dark Caster
+	7 Dungeon Paladin
+	15 Paladin's Gear
+	15 Bone Lee
+	7 Song of the Dryads
+	15 Gone Fishing
+	6 Back to Spawn
+	6 Building a Town
+	6 Slime Symposium
+	7 Ankh Shield
+	6 Killed for Coins
+	7 Lantern Night
+	7 Truffle Worm
+	6 Splinterling
+	6 Flocko
+	6 Pumpkin Scarecrow
+	15 Heart Crystal
+	7 Well Fed
+	4 The Frost Moon is Rising
+	6 Gingerbread Man
+	6 Frost Moon Elf
+	6 Frost Moon Yeti
+	15 Pinky
+	15 Armored Bones
+	4 The Celestial Invasion
+	15 Avenger Emblem
+	15 Banner Collection
+	7 Phi, Explosive Cyborg
+	7 Goblin Warlock
+	6 Golf Cart
+	15 Falling Meteors
+	6 Clentaminator Solution
+	6 Pirate Deckhand
+	6 Pirate Crossbower
+	15 Pirate Deadeye
+	6 Pirate Corsair
+	6 Pirate's Parrot
+	7 Pirate Captain
+	6 Cursed Pirate
+	4 The Pirate Invasion
+	15 Dungeon Corridor
+	15 Frosted Cavern
+	15 Sky Islands
+	15 Lihzahrd Temple
+	15 Beachfront Pier
+	6 Bounding Balloon
+	15 Finding the Ocean
+	6 Light Pet
+	6 K.O. Cannon
+	6 Shared Loot
+	6 Through the Pylons
+	6 Change Loadout
+	15 Rare Find
+	6 Windy Balloon
+	6 Dungeon Slime
+	15 Metallic Blessing
+	6 Shadow Orb
+	6 Crimson Heart
+	6 Flying Fish
+	6 Antlion Charger
+	6 Jungle Excavation
+	6 Tim, Bone Wizard
+	6 Wizard Attire
+	6 Librarian Skeleton
+	6 Fire Imp Assault
+	6 Blazing Wheel
+	15 The Frost Legion
+	6 Mister Stabby
+	6 Snowman Gangsta
+	6 Snow Balla
+	15 Dale, Otherworldly Barkeep
+	6 Ale Tosser

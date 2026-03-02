@@ -1,7 +1,6 @@
 import os
 import sys
 import json
-import markdown
 import re
 
 #F = Fungustober's notes
