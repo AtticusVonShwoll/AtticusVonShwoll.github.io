@@ -9,7 +9,7 @@
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
             "rules_text": "Flying, first strike\nWhen Skeletron enters, if it's a token, it deals damage equal to its power to target creature.",
-            "flavor_text": "[i]\n\n\n\n\n<a href="https://atticusvonshwoll.github.io/card?set=TRA&num=281&name=The+Dungeon%27s+Entrance">The Dungeon's Entrance</a>[/i]",
+            "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
