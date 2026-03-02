@@ -1,4 +1,296 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+The Nebula Pillar added.
+The Solar Pillar added.
+The Stardust Pillar added.
+The Vortex Pillar added.
+Hero added.
+The Bride added.
+Bride's Gown added.
+Flinx Fur Coat added.
+Hallow Pixie added.
+Insect added.
+Old Man added.
+Rabbit added.
+Stargazer added.
+Alien Hornet added.
+Alien Insect Egg added.
+Alien Ooze added.
+Alien Queen added.
+Cleric Illusion added.
+Drake Illusion added.
+Fish added.
+Flocko added.
+Ice Queen added.
+Pirate's Parrot added.
+Shark added.
+Star Cell added.
+Surface Slime added.
+Wizard Attire added.
+Yeti added.
+Corrupt Bunny added.
+Creature from the Deep added.
+Cursed Pirate added.
+Eclipse Butcher added.
+Eclipse Psycho added.
+Eyezor added.
+The Groom added.
+Groom's Finery added.
+Headless Horserider added.
+Mister Stabby added.
+Nailhead added.
+The Possessed added.
+Reaper of the Eclipse added.
+Santa-NK1 added.
+Shapeshifting Vampire added.
+Skeleton added.
+Vortexian added.
+Warren, Tax Collector added.
+Zombie added.
+Bomb Slime added.
+Drake added.
+Drakomire added.
+Enchanted Sword added.
+Evolution Beast added.
+Goblin Peon added.
+Goblin Sorcerer added.
+Goblin Thief added.
+Imp Wizard added.
+Pirate Corsair added.
+Pirate Deckhand added.
+Snow Balla added.
+Vicious Bunny added.
+Coin Slime added.
+Everscream added.
+Flinx Staff added.
+Insect added.
+Insect Egg added.
+Ooze added.
+Plant added.
+Snowman Gangsta added.
+Splinterling added.
+Wurm added.
+Wurm added.
+Baby Mothron added.
+Blood Drippler added.
+Bomb Rabbit added.
+Brain of Cthulhu added.
+Brain Suckler added.
+Citizen added.
+Cleric added.
+Cleric Archer Ranger added.
+Crawltipede added.
+The Destroyer added.
+Dr. Man Fly added.
+Drakomire Rider added.
+Duke Fishron added.
+The Empress of Light added.
+Eye of Cthulhu added.
+Flow Invader added.
+Flying Dutchman added.
+Frost Moon Elf added.
+Frost Moon Yeti added.
+Goblin Archer added.
+Goblin Warrior added.
+Horror Illusion added.
+Insect added.
+Jey, Young Angler added.
+The Lunatic Cultist added.
+Mothron added.
+Mourning Wood added.
+Paladin's Gear added.
+Pirate Captain added.
+Pirate Crossbower added.
+Pirate Deadeye added.
+Plantera, Jungle's Soul added.
+Predictor added.
+Pumpking added.
+Pursuing Eye added.
+Queen Bee added.
+Retinazer and Spazmatism added.
+Selenian added.
+Skeletron, Dungeon Guardian added.
+Skeletron Prime added.
+Storm Diver added.
+Swamp Thing added.
+Wall of Flesh added.
+Blood Zombie added.
+The Eater of Worlds added.
+Excalibur added.
+King Slime added.
+Night's Edge added.
+Ale Tosser added.
+Bomb added.
+Bounding Balloon added.
+Broken Hero Sword added.
+Clentaminator Solution added.
+Clue added.
+Combined Gear added.
+Construct added.
+Construct added.
+Construct added.
+Deadly Sphere added.
+Food added.
+Gingerbread Man added.
+Golf Cart added.
+Grapple Hook added.
+Guide Voodoo Doll added.
+Leather Armor added.
+Mana Crystal added.
+Pirate's Cutlass added.
+Pumpkin Scarecrow added.
+Rocket Boots added.
+Rogue's Gloves added.
+Strange Brew added.
+Tinkerer's Workshop added.
+Treasure added.
+Umbrella added.
+Forest added.
+Forest Plains added.
+Mountain Forest added.
+
+
+The Journey's Beginning
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+II — Call upon Coin Slime [i](Create a token that's a copy of a card named Coin Slime)[/i]
+Create a 2/2 black Zombie creature token.
+III — Search your library for a battle card, reveal it and put it into your hand. Then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+Call upon Coin Slime [i](Create a token that's a copy of a card named Coin Slime)[/i]
+Create a 2/2 black Zombie creature token.
+Search your library for a battle card, reveal it and put it into your hand. Then shuffle.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+II — Call upon Coin Slime [i](Create a token that's a copy of a card named Coin Slime)[/i]
+Create a 2/2 black Zombie creature token.
+III — Search your library for a battle card, reveal it and put it into your hand. Then shuffle. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+Call upon Coin Slime [i](Create a token that's a copy of a card named Coin Slime)[/i]
+Create a 2/2 black Zombie creature token.
+Search your library for a battle card, reveal it and put it into your hand. Then shuffle.
+
+Search for an Enchanted Sword
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Destroy up to one target artifact.
+Call upon Enchanted Sword. [i](Create a token that's a copy of a card named Enchanted Sword)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target artifact.
+Call upon Enchanted Sword. [i](Create a token that's a copy of a card named Enchanted Sword)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Destroy up to one target artifact.
+Call upon Enchanted Sword. [i](Create a token that's a copy of a card named Enchanted Sword)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target artifact.
+Call upon Enchanted Sword. [i](Create a token that's a copy of a card named Enchanted Sword)[/i]
+​
+
+Lantern Night
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Remove all counters from each battle. Lantern Night gains “Players can't cast battle spells.”
+II — Until your next turn, creatures can't attack you.
+You gain 3 life and draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Remove all counters from each battle. Lantern Night gains “Players can't cast battle spells.”
+Until your next turn, creatures can't attack you.
+You gain 3 life and draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Remove all counters from each battle. Lantern Night gains “Players can't cast battle spells.”
+II — Until your next turn, creatures can't attack you.
+You gain 3 life and draw a card. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Remove all counters from each battle. Lantern Night gains “Players can't cast battle spells.”
+Until your next turn, creatures can't attack you.
+You gain 3 life and draw a card.
+
+Dungeon Corridor
+
+Frosted Cavern
+
+Sky Islands
+
+Lihzahrd Temple
+
+Beachfront Pier
+
+Bounding Balloon
+
+Finding the Ocean
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control explores, then explores again.
+I, II — Choose one —
+• Create a 1/1 blue Fish creature token.
+• Call upon Jey, Young Angler if you control a Fish. [i](Create a token that's a copy of a card named Jey, Young Angler.)[/i] 
+III — Return up to one target creature to its owner's hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control explores, then explores again.
+Choose one —
+• Create a 1/1 blue Fish creature token.
+• Call upon Jey, Young Angler if you control a Fish. [i](Create a token that's a copy of a card named Jey, Young Angler.)[/i] 
+Return up to one target creature to its owner's hand.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control explores, then explores again.
+I, II — Choose one —
+• Create a 1/1 blue Fish creature token.
+• Call upon Jey, Young Angler if you control a Fish. [i](Create a token that's a copy of a card named Jey, Young Angler.)[/i] 
+III — Return up to one target creature to its owner's hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control explores, then explores again.
+Choose one —
+• Create a 1/1 blue Fish creature token.
+• Call upon Jey, Young Angler if you control a Fish. [i](Create a token that's a copy of a card named Jey, Young Angler.)[/i] 
+Return up to one target creature to its owner's hand.
+
+Light Pet
+
+K.O. Cannon
+
+Shared Loot
+
+Through the Pylons
+
+Change Loadout
+
+Rare Find
+
+Windy Balloon
+
+Dungeon Slime
+
+Metallic Blessing
+
+Shadow Orb
+
+Crimson Heart
+
+Flying Fish
+
+Antlion Charger
+
+Jungle Excavation
+
+Tim, Bone Wizard
+
+Wizard Attire
+
+Librarian Skeleton
+
+Fire Imp Assault
+
+Blazing Wheel
+
+The Frost Legion
+
+Mister Stabby
+
+Snowman Gangsta
+
+Snow Balla
+
+Dale, Otherworldly Barkeep
+
+Ale Tosser
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
