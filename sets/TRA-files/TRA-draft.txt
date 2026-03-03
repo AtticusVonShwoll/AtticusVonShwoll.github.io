@@ -5,9 +5,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Skeleton Boss",
-			"collector_number": "228",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/0.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/0.jpg"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "281",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/1.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/1.jpg"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R/G}{B}",
 			"type": "Legendary Creature — Wurm Horror Boss",
-			"collector_number": "253",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/2.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/2.jpg"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "306",
+			"collector_number": "311",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/3.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/3.jpg"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Eye Horror Boss",
-			"collector_number": "170",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/4.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/4.jpg"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "304",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/5.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/5.jpg"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Legendary Creature — Ooze Noble Boss",
-			"collector_number": "258",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/6.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/6.jpg"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Insect Noble Boss",
-			"collector_number": "218",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/7.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/7.jpg"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Creature — Horror Boss",
-			"collector_number": "153",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/8.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/8.jpg"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "301",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/9.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/9.jpg"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/U}{G/U}",
 			"type": "Battle — Event",
-			"collector_number": "264",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/10.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/10.jpg"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Wall Horror Boss",
-			"collector_number": "242",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/11.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/11.jpg"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "266",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/12.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/12.jpg"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "271",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/13.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/13.jpg"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Legendary Artifact Creature — Eye Boss",
-			"collector_number": "223",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/14.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/14.jpg"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "285",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/15.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/15.jpg"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Legendary Artifact Creature — Skeleton Boss",
-			"collector_number": "229",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/16.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/16.jpg"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Artifact Creature — Wurm Boss",
-			"collector_number": "160",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/17.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/17.jpg"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Sorcery",
-			"collector_number": "247",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/18.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/18.jpg"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Human Shaman Hero",
-			"collector_number": "236",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/19.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/19.jpg"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}{W}{W}",
 			"type": "Legendary Creature — Human Warrior Hero",
-			"collector_number": "171",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/20.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/20.jpg"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "287",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/21.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/21.jpg"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Artifact",
-			"collector_number": "119",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/22.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/22.jpg"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "293",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/23.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/23.jpg"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "295",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/24.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/24.jpg"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "294",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/25.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/25.jpg"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "322",
+			"collector_number": "327",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/26.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/26.jpg"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "308",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/27.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/27.jpg"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "310",
+			"collector_number": "315",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/28.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/28.jpg"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "315",
+			"collector_number": "320",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/29.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/29.jpg"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Eye",
-			"collector_number": "217",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/30.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/30.jpg"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{G}{W}",
 			"type": "Legendary Creature — Plant Avatar Boss",
-			"collector_number": "212",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/31.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/31.jpg"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "191",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/32.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/32.jpg"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "311",
+			"collector_number": "316",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/33.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/33.jpg"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "198",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/34.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/34.jpg"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/35.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/35.jpg"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{U}{R}",
 			"type": "Legendary Creature — Leviathan Noble Boss",
-			"collector_number": "164",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/36.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/36.jpg"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Instant",
-			"collector_number": "222",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/37.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/37.jpg"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "84",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/38.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/38.jpg"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/G}{B}",
 			"type": "Artifact",
-			"collector_number": "252",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/39.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/39.jpg"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "92",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/40.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/40.jpg"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "187",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/41.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/41.jpg"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "291",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/42.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/42.jpg"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "166",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/43.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/43.jpg"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Human Doctor",
-			"collector_number": "195",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/44.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/44.jpg"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "244",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/45.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/45.jpg"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Treasure",
-			"collector_number": "289",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/46.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/46.jpg"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R/G}{B}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "261",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/47.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/47.jpg"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact",
-			"collector_number": "135",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/48.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/48.jpg"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{G}{W}{U}{U}",
 			"type": "Legendary Creature — Ooze Noble Boss",
-			"collector_number": "219",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/49.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/49.jpg"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "193",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/50.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/50.jpg"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "190",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/51.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/51.jpg"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Artifact Creature — Golem Boss",
-			"collector_number": "185",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/52.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/52.jpg"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}{U}",
 			"type": "Creature — Drake Boss",
-			"collector_number": "243",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/53.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/53.jpg"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "97",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/54.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/54.jpg"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "113",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/55.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/55.jpg"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "302",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/56.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/56.jpg"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "277",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/57.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/57.jpg"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/58.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/58.jpg"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "144",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/59.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/59.jpg"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Rabbit",
-			"collector_number": "128",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/60.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/60.jpg"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/61.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/61.jpg"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R/G}{W}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "255",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/62.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/62.jpg"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/G}{W}{W}",
 			"type": "Legendary Creature — Human Fox",
-			"collector_number": "263",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/63.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/63.jpg"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W/B}{W/B}",
 			"type": "Sorcery",
-			"collector_number": "262",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/64.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/64.jpg"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Ooze",
-			"collector_number": "90",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/65.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/65.jpg"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "124",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/66.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/66.jpg"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "296",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/67.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/67.jpg"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}{B}{B}",
 			"type": "Battle — Event",
-			"collector_number": "241",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/68.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/68.jpg"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{U}{R}{R}",
 			"type": "Battle — Event",
-			"collector_number": "203",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/69.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/69.jpg"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Battle — Event",
-			"collector_number": "234",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/70.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/70.jpg"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Dwarf Artificer",
-			"collector_number": "102",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/71.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/71.jpg"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}",
 			"type": "Artifact — Bomb Treasure",
-			"collector_number": "91",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/72.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/72.jpg"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Jellyfish",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/73.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/73.jpg"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Ooze",
-			"collector_number": "49",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/74.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/74.jpg"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Unicorn",
-			"collector_number": "186",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/75.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/75.jpg"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Ooze",
-			"collector_number": "52",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/76.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/76.jpg"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "276",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/77.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/77.jpg"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/78.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/78.jpg"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/79.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/79.jpg"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "95",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/80.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/80.jpg"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "86",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/81.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/81.jpg"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "82",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/82.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/82.jpg"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "299",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/83.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/83.jpg"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "68",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/84.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/84.jpg"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/85.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/85.jpg"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{U}",
 			"type": "Artifact",
-			"collector_number": "168",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/86.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/86.jpg"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}{G}",
 			"type": "Battle — Event",
-			"collector_number": "215",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/87.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/87.jpg"
 			}
 		},
 		{
@@ -885,19 +885,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "290",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/88.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/88.jpg"
 			}
 		},
 		{
 			"name": "Corruption Slimer",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{B}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Ooze",
-			"collector_number": "156",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/89.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/89.jpg"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Harpy",
-			"collector_number": "230",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/90.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/90.jpg"
 			}
 		},
 		{
@@ -915,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}{W}",
 			"type": "Creature — Alien Warrior",
-			"collector_number": "162",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/91.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/91.jpg"
 			}
 		},
 		{
@@ -925,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Alien Beast",
-			"collector_number": "96",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/92.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/92.jpg"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Alien Worm",
-			"collector_number": "157",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/93.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/93.jpg"
 			}
 		},
 		{
@@ -945,9 +945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Alien Warrior",
-			"collector_number": "227",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/94.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/94.jpg"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Alien Insect",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/95.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/95.jpg"
 			}
 		},
 		{
@@ -965,9 +965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Alien Insect Noble",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/96.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/96.jpg"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Alien Ranger Soldier",
-			"collector_number": "235",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/97.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/97.jpg"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Faerie",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/98.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/98.jpg"
 			}
 		},
 		{
@@ -995,9 +995,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Spider Horror",
-			"collector_number": "89",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/99.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/99.jpg"
 			}
 		},
 		{
@@ -1005,9 +1005,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Treasure Rabbit",
-			"collector_number": "279",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/100.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/100.jpg"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Goblin Artificer",
-			"collector_number": "204",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/101.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/101.jpg"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "284",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/102.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/102.jpg"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Shapeshifter Treasure",
-			"collector_number": "58",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/103.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/103.jpg"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "83",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/104.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/104.jpg"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Eye Horror",
-			"collector_number": "151",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/105.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/105.jpg"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Zombie Horror",
-			"collector_number": "246",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/106.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/106.jpg"
 			}
 		},
 		{
@@ -1075,9 +1075,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Rabbit Horror",
-			"collector_number": "118",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/107.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/107.jpg"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Rabbit Horror",
-			"collector_number": "59",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/108.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/108.jpg"
 			}
 		},
 		{
@@ -1095,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Goblin Archer Ranger",
-			"collector_number": "181",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/109.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/109.jpg"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/110.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/110.jpg"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Goblin Shaman",
-			"collector_number": "104",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/111.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/111.jpg"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Scout",
-			"collector_number": "105",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/112.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/112.jpg"
 			}
 		},
 		{
@@ -1135,9 +1135,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Goblin Warrior",
-			"collector_number": "184",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/113.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/113.jpg"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin Soldier",
-			"collector_number": "103",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/114.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/114.jpg"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/115.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/115.jpg"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "117",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/116.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/116.jpg"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "121",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/117.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/117.jpg"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Ooze",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/118.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/118.jpg"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "87",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/119.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/119.jpg"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "305",
+			"collector_number": "310",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/120.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/120.jpg"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "300",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/121.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/121.jpg"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Alien Warrior",
-			"collector_number": "85",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/122.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/122.jpg"
 			}
 		},
 		{
@@ -1235,9 +1235,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Alien Beast Squid",
-			"collector_number": "154",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/123.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/123.jpg"
 			}
 		},
 		{
@@ -1245,9 +1245,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Alien Beast",
-			"collector_number": "98",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/124.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/124.jpg"
 			}
 		},
 		{
@@ -1255,9 +1255,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Creature — Elemental",
-			"collector_number": "249",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/125.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/125.jpg"
 			}
 		},
 		{
@@ -1265,9 +1265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Creature — Dragon Boar",
-			"collector_number": "257",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/126.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/126.jpg"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U/B}",
 			"type": "Creature — Dragon Boar",
-			"collector_number": "250",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/127.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/127.jpg"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Creature — Dragon Boar",
-			"collector_number": "251",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/128.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/128.jpg"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Creature — Goblin Scout",
-			"collector_number": "256",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/129.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/129.jpg"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Insect Fungus",
-			"collector_number": "260",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/130.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/130.jpg"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}",
 			"type": "Creature — Skeleton Soldier",
-			"collector_number": "265",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/131.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/131.jpg"
 			}
 		},
 		{
@@ -1325,9 +1325,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Creature — Nymph",
-			"collector_number": "259",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/132.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/132.jpg"
 			}
 		},
 		{
@@ -1335,9 +1335,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G/W}{G/W}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "254",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/133.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/133.jpg"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human Pirate",
-			"collector_number": "57",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/134.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/134.jpg"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/135.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/135.jpg"
 			}
 		},
 		{
@@ -1365,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "275",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/136.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/136.jpg"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Alien Warrior",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/137.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/137.jpg"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{B}{B}",
 			"type": "Legendary Creature — Human Ranger Hero",
-			"collector_number": "220",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/138.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/138.jpg"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}{G}",
 			"type": "Creature — Scarecrow Noble Boss",
-			"collector_number": "216",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/139.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/139.jpg"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "114",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/140.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/140.jpg"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Dryad",
-			"collector_number": "126",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/141.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/141.jpg"
 			}
 		},
 		{
@@ -1425,9 +1425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "147",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/142.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/142.jpg"
 			}
 		},
 		{
@@ -1435,9 +1435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "99",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/143.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/143.jpg"
 			}
 		},
 		{
@@ -1445,9 +1445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Battle — Event",
-			"collector_number": "146",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/144.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/144.jpg"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}{W}{W}",
 			"type": "Battle — Event",
-			"collector_number": "232",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/145.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/145.jpg"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Human Wizard Hero",
-			"collector_number": "196",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/146.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/146.jpg"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Battle — Event",
-			"collector_number": "180",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/147.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/147.jpg"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}{G}",
 			"type": "Battle — Event",
-			"collector_number": "182",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/148.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/148.jpg"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Creature — Human Cleric Boss",
-			"collector_number": "194",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/149.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/149.jpg"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "280",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/150.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/150.jpg"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/151.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/151.jpg"
 			}
 		},
 		{
@@ -1525,9 +1525,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/152.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/152.jpg"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Battle — Event",
-			"collector_number": "240",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/153.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/153.jpg"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{G}{W}",
 			"type": "Battle — Event",
-			"collector_number": "192",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/154.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/154.jpg"
 			}
 		},
 		{
@@ -1555,9 +1555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Battle — Event",
-			"collector_number": "224",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/155.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/155.jpg"
 			}
 		},
 		{
@@ -1565,9 +1565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Battle — Event",
-			"collector_number": "238",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/156.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/156.jpg"
 			}
 		},
 		{
@@ -1575,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "169",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/157.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/157.jpg"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}{U}{U}",
 			"type": "Legendary Creature — God Noble Boss",
-			"collector_number": "167",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/158.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/158.jpg"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Skeleton Citizen",
-			"collector_number": "221",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/159.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/159.jpg"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "303",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/160.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/160.jpg"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Insect",
-			"collector_number": "214",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/161.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/161.jpg"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Battle — Event",
-			"collector_number": "148",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/162.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/162.jpg"
 			}
 		},
 		{
@@ -1635,9 +1635,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
 			"type": "Legendary Creature — Elder Horror Noble Boss",
-			"collector_number": "200",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/163.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/163.jpg"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/164.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/164.jpg"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/165.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/165.jpg"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "122",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/166.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/166.jpg"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Spider",
-			"collector_number": "123",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/167.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/167.jpg"
 			}
 		},
 		{
@@ -1685,9 +1685,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "133",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/168.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/168.jpg"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Yeti",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/169.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/169.jpg"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Ooze",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/170.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/170.jpg"
 			}
 		},
 		{
@@ -1715,9 +1715,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/171.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/171.jpg"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "127",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/172.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/172.jpg"
 			}
 		},
 		{
@@ -1735,9 +1735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/173.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/173.jpg"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/174.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/174.jpg"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "137",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/175.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/175.jpg"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/176.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/176.jpg"
 			}
 		},
 		{
@@ -1775,9 +1775,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "116",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/177.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/177.jpg"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "71",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/178.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/178.jpg"
 			}
 		},
 		{
@@ -1795,9 +1795,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "131",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/179.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/179.jpg"
 			}
 		},
 		{
@@ -1805,9 +1805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/180.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/180.jpg"
 			}
 		},
 		{
@@ -1815,9 +1815,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Treefolk Horror Boss",
-			"collector_number": "125",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/181.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/181.jpg"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Kindred Artifact — Vehicle Alien Boss",
-			"collector_number": "197",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/182.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/182.jpg"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Treefolk Horror Boss",
-			"collector_number": "202",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/183.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/183.jpg"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Kindred Artifact — Vehicle Pirate Boss",
-			"collector_number": "173",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/184.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/184.jpg"
 			}
 		},
 		{
@@ -1855,9 +1855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Artifact Creature — Robot Boss",
-			"collector_number": "78",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/185.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/185.jpg"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}{R}{G}",
 			"type": "Legendary Creature — Dragon Boss",
-			"collector_number": "150",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/186.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/186.jpg"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Creature — Wizard Boss",
-			"collector_number": "159",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/187.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/187.jpg"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/188.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/188.jpg"
 			}
 		},
 		{
@@ -1895,9 +1895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Creature — Ogre Boss",
-			"collector_number": "205",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/189.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/189.jpg"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "107",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/190.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/190.jpg"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "53",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/191.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/191.jpg"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Scarecrow Specter",
-			"collector_number": "69",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/192.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/192.jpg"
 			}
 		},
 		{
@@ -1935,9 +1935,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "188",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/193.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/193.jpg"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "66",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/194.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/194.jpg"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/195.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/195.jpg"
 			}
 		},
 		{
@@ -1965,9 +1965,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/196.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/196.jpg"
 			}
 		},
 		{
@@ -1975,9 +1975,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/197.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/197.jpg"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "136",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/198.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/198.jpg"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "233",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/199.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/199.jpg"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Creature — Nautilus Horror Boss",
-			"collector_number": "163",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/200.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/200.jpg"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Alien Warrior Wizard",
-			"collector_number": "213",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/201.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/201.jpg"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Alien Soldier",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/202.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/202.jpg"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Alien Ooze",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/203.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/203.jpg"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Creature — Alien Jellyfish",
-			"collector_number": "172",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/204.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/204.jpg"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Battle — Event",
-			"collector_number": "245",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/205.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/205.jpg"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "309",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/206.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/206.jpg"
 			}
 		},
 		{
@@ -2075,9 +2075,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "314",
+			"collector_number": "319",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/207.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/207.jpg"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "316",
+			"collector_number": "321",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/208.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/208.jpg"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "317",
+			"collector_number": "322",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/209.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/209.jpg"
 			}
 		},
 		{
@@ -2105,9 +2105,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "319",
+			"collector_number": "324",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/210.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/210.jpg"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "320",
+			"collector_number": "325",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/211.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/211.jpg"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "321",
+			"collector_number": "326",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/212.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/212.jpg"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "324",
+			"collector_number": "329",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/213.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/213.jpg"
 			}
 		},
 		{
@@ -2145,9 +2145,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "325",
+			"collector_number": "330",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/214.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/214.jpg"
 			}
 		},
 		{
@@ -2155,9 +2155,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "326",
+			"collector_number": "331",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/215.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/215.jpg"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "106",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/216.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/216.jpg"
 			}
 		},
 		{
@@ -2175,9 +2175,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Wurm Horror",
-			"collector_number": "60",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/217.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/217.jpg"
 			}
 		},
 		{
@@ -2185,9 +2185,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Shark",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/218.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/218.jpg"
 			}
 		},
 		{
@@ -2195,9 +2195,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Worm",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/219.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/219.jpg"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "132",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/220.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/220.jpg"
 			}
 		},
 		{
@@ -2215,9 +2215,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Elemental Noble Boss",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/221.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/221.jpg"
 			}
 		},
 		{
@@ -2225,9 +2225,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "292",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/222.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/222.jpg"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "273",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/223.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/223.jpg"
 			}
 		},
 		{
@@ -2245,9 +2245,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}{B}{G}",
 			"type": "Battle — Event",
-			"collector_number": "231",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/224.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/224.jpg"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}{G}",
 			"type": "Creature — Insect Boss",
-			"collector_number": "201",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/225.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/225.jpg"
 			}
 		},
 		{
@@ -2265,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Skeleton Wurm Serpent",
-			"collector_number": "56",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/226.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/226.jpg"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Merfolk",
-			"collector_number": "61",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/227.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/227.jpg"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire",
-			"collector_number": "81",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/228.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/228.jpg"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Plant Horror",
-			"collector_number": "237",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/229.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/229.jpg"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Specter",
-			"collector_number": "77",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/230.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/230.jpg"
 			}
 		},
 		{
@@ -2315,9 +2315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Horror",
-			"collector_number": "76",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/231.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/231.jpg"
 			}
 		},
 		{
@@ -2325,9 +2325,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "278",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/232.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/232.jpg"
 			}
 		},
 		{
@@ -2335,9 +2335,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "64",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/233.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/233.jpg"
 			}
 		},
 		{
@@ -2345,9 +2345,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "65",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/234.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/234.jpg"
 			}
 		},
 		{
@@ -2355,9 +2355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "74",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/235.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/235.jpg"
 			}
 		},
 		{
@@ -2365,9 +2365,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Eye Zombie Horror",
-			"collector_number": "67",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/236.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/236.jpg"
 			}
 		},
 		{
@@ -2375,9 +2375,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Human Insect Doctor",
-			"collector_number": "161",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/237.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/237.jpg"
 			}
 		},
 		{
@@ -2385,9 +2385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}",
 			"type": "Instant",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/238.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/238.jpg"
 			}
 		},
 		{
@@ -2395,9 +2395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "179",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/239.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/239.jpg"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "79",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/240.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/240.jpg"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "199",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/241.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/241.jpg"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "174",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/242.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/242.jpg"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "149",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/243.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/243.jpg"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact Creature — Blood Ooze",
-			"collector_number": "158",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/244.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/244.jpg"
 			}
 		},
 		{
@@ -2455,9 +2455,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon Warrior Wizard",
-			"collector_number": "226",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/245.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/245.jpg"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/246.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/246.jpg"
 			}
 		},
 		{
@@ -2475,9 +2475,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/247.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/247.jpg"
 			}
 		},
 		{
@@ -2485,9 +2485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "134",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/248.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/248.jpg"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Instant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/249.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/249.jpg"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "129",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/250.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/250.jpg"
 			}
 		},
 		{
@@ -2515,9 +2515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "225",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/251.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/251.jpg"
 			}
 		},
 		{
@@ -2525,9 +2525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/252.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/252.jpg"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/253.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/253.jpg"
 			}
 		},
 		{
@@ -2545,9 +2545,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Skeleton Wizard",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/254.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/254.jpg"
 			}
 		},
 		{
@@ -2555,9 +2555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Skeleton Knight Boss",
-			"collector_number": "165",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/255.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/255.jpg"
 			}
 		},
 		{
@@ -2565,9 +2565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "206",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/256.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/256.jpg"
 			}
 		},
 		{
@@ -2575,9 +2575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Skeleton Ninja",
-			"collector_number": "152",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/257.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/257.jpg"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "142",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/258.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/258.jpg"
 			}
 		},
 		{
@@ -2595,9 +2595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/259.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/259.jpg"
 			}
 		},
 		{
@@ -2605,9 +2605,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/260.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/260.jpg"
 			}
 		},
 		{
@@ -2615,9 +2615,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Sorcery",
-			"collector_number": "248",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/261.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/261.jpg"
 			}
 		},
 		{
@@ -2625,9 +2625,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "140",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/262.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/262.jpg"
 			}
 		},
 		{
@@ -2635,9 +2635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "268",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/263.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/263.jpg"
 			}
 		},
 		{
@@ -2645,9 +2645,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/264.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/264.jpg"
 			}
 		},
 		{
@@ -2655,9 +2655,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/265.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/265.jpg"
 			}
 		},
 		{
@@ -2665,9 +2665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Creature — Fungus Worm",
-			"collector_number": "239",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/266.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/266.jpg"
 			}
 		},
 		{
@@ -2675,9 +2675,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "143",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/267.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/267.jpg"
 			}
 		},
 		{
@@ -2685,9 +2685,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/268.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/268.jpg"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Food Scarecrow",
-			"collector_number": "298",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/269.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/269.jpg"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "286",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/270.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/270.jpg"
 			}
 		},
 		{
@@ -2715,9 +2715,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "145",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/271.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/271.jpg"
 			}
 		},
 		{
@@ -2725,9 +2725,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Battle — Event",
-			"collector_number": "177",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/272.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/272.jpg"
 			}
 		},
 		{
@@ -2735,9 +2735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Food Golem",
-			"collector_number": "282",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/273.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/273.jpg"
 			}
 		},
 		{
@@ -2745,9 +2745,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Zombie Elf",
-			"collector_number": "176",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/274.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/274.jpg"
 			}
 		},
 		{
@@ -2755,9 +2755,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Yeti",
-			"collector_number": "178",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/275.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/275.jpg"
 			}
 		},
 		{
@@ -2765,9 +2765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Ooze",
-			"collector_number": "207",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/276.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/276.jpg"
 			}
 		},
 		{
@@ -2775,9 +2775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Skeleton Warrior",
-			"collector_number": "55",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/277.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/277.jpg"
 			}
 		},
 		{
@@ -2785,9 +2785,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}{B}{R}{G}",
 			"type": "Battle — Event",
-			"collector_number": "155",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/278.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/278.jpg"
 			}
 		},
 		{
@@ -2795,9 +2795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "269",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/279.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/279.jpg"
 			}
 		},
 		{
@@ -2805,9 +2805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "270",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/280.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/280.jpg"
 			}
 		},
 		{
@@ -2815,9 +2815,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact Creature — Robot Artificer",
-			"collector_number": "297",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/281.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/281.jpg"
 			}
 		},
 		{
@@ -2825,9 +2825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Goblin Warlock Boss",
-			"collector_number": "183",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/282.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/282.jpg"
 			}
 		},
 		{
@@ -2835,9 +2835,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "283",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/283.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/283.jpg"
 			}
 		},
 		{
@@ -2845,9 +2845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/284.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/284.jpg"
 			}
 		},
 		{
@@ -2855,9 +2855,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Fortification",
-			"collector_number": "274",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/285.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/285.jpg"
 			}
 		},
 		{
@@ -2865,9 +2865,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "111",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/286.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/286.jpg"
 			}
 		},
 		{
@@ -2875,9 +2875,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Pirate Ranger",
-			"collector_number": "209",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/287.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/287.jpg"
 			}
 		},
 		{
@@ -2885,9 +2885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Human Pirate Ranger",
-			"collector_number": "210",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/288.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/288.jpg"
 			}
 		},
 		{
@@ -2895,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "110",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/289.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/289.jpg"
 			}
 		},
 		{
@@ -2905,9 +2905,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Pirate",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/290.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/290.jpg"
 			}
 		},
 		{
@@ -2915,9 +2915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Creature — Human Pirate Boss",
-			"collector_number": "208",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/291.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/291.jpg"
 			}
 		},
 		{
@@ -2925,9 +2925,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Skeleton Pirate",
-			"collector_number": "62",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/292.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/292.jpg"
 			}
 		},
 		{
@@ -2935,9 +2935,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Battle — Event",
-			"collector_number": "211",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/293.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/293.jpg"
 			}
 		},
 		{
@@ -2945,9 +2945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "312",
+			"collector_number": "317",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/294.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/294.jpg"
 			}
 		},
 		{
@@ -2955,9 +2955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "313",
+			"collector_number": "318",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/295.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/295.jpg"
 			}
 		},
 		{
@@ -2965,9 +2965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "323",
+			"collector_number": "328",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/296.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/296.jpg"
 			}
 		},
 		{
@@ -2975,9 +2975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "318",
+			"collector_number": "323",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/297.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/297.jpg"
 			}
 		},
 		{
@@ -2985,9 +2985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "307",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/298.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/298.jpg"
 			}
 		},
 		{
@@ -2995,9 +2995,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "272",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/299.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/299.jpg"
 			}
 		},
 		{
@@ -3005,9 +3005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/300.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/300.jpg"
 			}
 		},
 		{
@@ -3015,9 +3015,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "288",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/301.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/301.jpg"
 			}
 		},
 		{
@@ -3025,9 +3025,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/302.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/302.jpg"
 			}
 		},
 		{
@@ -3035,9 +3035,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/303.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/303.jpg"
 			}
 		},
 		{
@@ -3045,9 +3045,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/304.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/304.jpg"
 			}
 		},
 		{
@@ -3057,7 +3057,7 @@
 			"type": "Instant",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/305.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/305.jpg"
 			}
 		},
 		{
@@ -3067,7 +3067,7 @@
 			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/306.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/306.jpg"
 			}
 		},
 		{
@@ -3075,9 +3075,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Ooze",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/307.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/307.jpg"
 			}
 		},
 		{
@@ -3085,9 +3085,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Ooze",
-			"collector_number": "63",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/308.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/308.jpg"
 			}
 		},
 		{
@@ -3095,9 +3095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/309.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/309.jpg"
 			}
 		},
 		{
@@ -3105,9 +3105,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
-			"collector_number": "80",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/310.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/310.jpg"
 			}
 		},
 		{
@@ -3115,9 +3115,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact",
-			"collector_number": "94",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/311.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/311.jpg"
 			}
 		},
 		{
@@ -3125,9 +3125,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/312.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/312.jpg"
 			}
 		},
 		{
@@ -3135,9 +3135,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "120",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/313.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/313.jpg"
 			}
 		},
 		{
@@ -3145,19 +3145,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "130",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/314.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/314.jpg"
 			}
 		},
 		{
 			"name": "Tim, Bone Wizard",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature — Skeleton Wizard",
-			"collector_number": "51",
+			"type": "Legendary Creature — Skeleton Wizard Boss",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/315.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/315.jpg"
 			}
 		},
 		{
@@ -3165,9 +3165,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "54",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/316.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/316.jpg"
 			}
 		},
 		{
@@ -3175,9 +3175,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Skeleton Wizard",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/317.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/317.jpg"
 			}
 		},
 		{
@@ -3185,9 +3185,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "101",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/318.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/318.jpg"
 			}
 		},
 		{
@@ -3195,9 +3195,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "88",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/319.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/319.jpg"
 			}
 		},
 		{
@@ -3205,9 +3205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Battle — Event",
-			"collector_number": "175",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/320.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/320.jpg"
 			}
 		},
 		{
@@ -3215,9 +3215,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Elemental Mercenary",
-			"collector_number": "73",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/321.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/321.jpg"
 			}
 		},
 		{
@@ -3225,9 +3225,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elemental Mercenary",
-			"collector_number": "141",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/322.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/322.jpg"
 			}
 		},
 		{
@@ -3235,9 +3235,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental Mercenary",
-			"collector_number": "115",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/323.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/323.jpg"
 			}
 		},
 		{
@@ -3245,9 +3245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/324.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/324.jpg"
 			}
 		},
 		{
@@ -3255,9 +3255,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment Food",
-			"collector_number": "267",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/325.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/325.jpg"
 			}
 		},
 		{
@@ -3265,9 +3265,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}{R}{R}",
 			"type": "Token Battle — Event",
-			"collector_number": "327",
+			"collector_number": "332",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/326.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/326.jpg"
 			}
 		},
 		{
@@ -3275,9 +3275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}{W}{W}",
 			"type": "Token Battle — Event",
-			"collector_number": "328",
+			"collector_number": "333",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/327.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/327.jpg"
 			}
 		},
 		{
@@ -3285,9 +3285,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Token Battle — Event",
-			"collector_number": "329",
+			"collector_number": "334",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/328.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/328.jpg"
 			}
 		},
 		{
@@ -3295,9 +3295,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}{B}{B}",
 			"type": "Token Battle — Event",
-			"collector_number": "330",
+			"collector_number": "335",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/329.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/329.jpg"
 			}
 		},
 		{
@@ -3307,7 +3307,7 @@
 			"type": "Token Creature — Hero",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/330.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/330.jpg"
 			}
 		},
 		{
@@ -3317,7 +3317,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/331.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/331.jpg"
 			}
 		},
 		{
@@ -3327,7 +3327,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/332.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/332.jpg"
 			}
 		},
 		{
@@ -3337,7 +3337,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/333.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/333.jpg"
 			}
 		},
 		{
@@ -3347,7 +3347,7 @@
 			"type": "Token Creature — Faerie",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/334.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/334.jpg"
 			}
 		},
 		{
@@ -3357,7 +3357,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/335.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/335.jpg"
 			}
 		},
 		{
@@ -3367,7 +3367,7 @@
 			"type": "Token Legendary Creature — Human",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/336.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/336.jpg"
 			}
 		},
 		{
@@ -3377,7 +3377,7 @@
 			"type": "Token Creature — Rabbit",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/337.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/337.jpg"
 			}
 		},
 		{
@@ -3387,7 +3387,7 @@
 			"type": "Token Creature — Alien Soldier",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/338.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/338.jpg"
 			}
 		},
 		{
@@ -3397,7 +3397,7 @@
 			"type": "Token Creature — Alien Insect",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/339.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/339.jpg"
 			}
 		},
 		{
@@ -3407,7 +3407,7 @@
 			"type": "Token Creature — Alien Insect Egg",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/340.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/340.jpg"
 			}
 		},
 		{
@@ -3417,7 +3417,7 @@
 			"type": "Token Creature — Alien Ooze",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/341.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/341.jpg"
 			}
 		},
 		{
@@ -3427,7 +3427,7 @@
 			"type": "Token Creature — Alien Insect Noble",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/342.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/342.jpg"
 			}
 		},
 		{
@@ -3437,7 +3437,7 @@
 			"type": "Token Creature — Cleric Illusion",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/343.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/343.jpg"
 			}
 		},
 		{
@@ -3447,7 +3447,7 @@
 			"type": "Token Creature — Drake Illusion",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/344.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/344.jpg"
 			}
 		},
 		{
@@ -3457,7 +3457,7 @@
 			"type": "Token Creature — Fish",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/345.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/345.jpg"
 			}
 		},
 		{
@@ -3467,7 +3467,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/346.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/346.jpg"
 			}
 		},
 		{
@@ -3477,7 +3477,7 @@
 			"type": "Token Creature — Elemental Noble Boss",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/347.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/347.jpg"
 			}
 		},
 		{
@@ -3487,7 +3487,7 @@
 			"type": "Token Creature — Bird Pirate",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/348.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/348.jpg"
 			}
 		},
 		{
@@ -3497,7 +3497,7 @@
 			"type": "Token Creature — Shark",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/349.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/349.jpg"
 			}
 		},
 		{
@@ -3507,7 +3507,7 @@
 			"type": "Token Creature — Alien Ooze",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/350.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/350.jpg"
 			}
 		},
 		{
@@ -3517,7 +3517,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/351.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/351.jpg"
 			}
 		},
 		{
@@ -3527,7 +3527,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/352.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/352.jpg"
 			}
 		},
 		{
@@ -3537,7 +3537,7 @@
 			"type": "Token Creature — Yeti",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/353.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/353.jpg"
 			}
 		},
 		{
@@ -3547,7 +3547,7 @@
 			"type": "Token Creature — Rabbit Horror",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/354.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/354.jpg"
 			}
 		},
 		{
@@ -3557,7 +3557,7 @@
 			"type": "Token Creature — Merfolk",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/355.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/355.jpg"
 			}
 		},
 		{
@@ -3567,7 +3567,7 @@
 			"type": "Token Creature — Skeleton Pirate",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/356.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/356.jpg"
 			}
 		},
 		{
@@ -3577,7 +3577,7 @@
 			"type": "Token Creature — Human Assassin",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/357.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/357.jpg"
 			}
 		},
 		{
@@ -3587,7 +3587,7 @@
 			"type": "Token Creature — Human Assassin",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/358.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/358.jpg"
 			}
 		},
 		{
@@ -3597,7 +3597,7 @@
 			"type": "Token Creature — Eye Zombie Horror",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/359.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/359.jpg"
 			}
 		},
 		{
@@ -3607,7 +3607,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/360.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/360.jpg"
 			}
 		},
 		{
@@ -3617,7 +3617,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/361.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/361.jpg"
 			}
 		},
 		{
@@ -3627,7 +3627,7 @@
 			"type": "Token Creature — Scarecrow Specter",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/362.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/362.jpg"
 			}
 		},
 		{
@@ -3637,7 +3637,7 @@
 			"type": "Token Creature — Elemental Mercenary",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/363.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/363.jpg"
 			}
 		},
 		{
@@ -3647,7 +3647,7 @@
 			"type": "Token Creature — Human Assassin",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/364.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/364.jpg"
 			}
 		},
 		{
@@ -3657,7 +3657,7 @@
 			"type": "Token Creature — Human Horror",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/365.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/365.jpg"
 			}
 		},
 		{
@@ -3667,7 +3667,7 @@
 			"type": "Token Creature — Specter",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/366.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/366.jpg"
 			}
 		},
 		{
@@ -3677,7 +3677,7 @@
 			"type": "Token Artifact Creature — Robot Boss",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/367.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/367.jpg"
 			}
 		},
 		{
@@ -3687,7 +3687,7 @@
 			"type": "Token Creature — Vampire",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/368.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/368.jpg"
 			}
 		},
 		{
@@ -3697,7 +3697,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/369.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/369.jpg"
 			}
 		},
 		{
@@ -3707,7 +3707,7 @@
 			"type": "Token Creature — Alien Warrior",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/370.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/370.jpg"
 			}
 		},
 		{
@@ -3717,7 +3717,7 @@
 			"type": "Token Legendary Creature — Human Citizen",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/371.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/371.jpg"
 			}
 		},
 		{
@@ -3727,7 +3727,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/372.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/372.jpg"
 			}
 		},
 		{
@@ -3737,7 +3737,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/373.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/373.jpg"
 			}
 		},
 		{
@@ -3747,7 +3747,7 @@
 			"type": "Token Creature — Drake",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/374.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/374.jpg"
 			}
 		},
 		{
@@ -3757,7 +3757,7 @@
 			"type": "Token Creature — Alien Beast",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/375.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/375.jpg"
 			}
 		},
 		{
@@ -3767,7 +3767,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/376.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/376.jpg"
 			}
 		},
 		{
@@ -3777,7 +3777,7 @@
 			"type": "Token Creature — Alien Beast",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/377.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/377.jpg"
 			}
 		},
 		{
@@ -3787,7 +3787,7 @@
 			"type": "Token Creature — Goblin Soldier",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/378.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/378.jpg"
 			}
 		},
 		{
@@ -3797,7 +3797,7 @@
 			"type": "Token Creature — Goblin Shaman",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/379.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/379.jpg"
 			}
 		},
 		{
@@ -3807,7 +3807,7 @@
 			"type": "Token Creature — Goblin Scout",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/380.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/380.jpg"
 			}
 		},
 		{
@@ -3817,7 +3817,7 @@
 			"type": "Token Creature — Imp Wizard",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/381.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/381.jpg"
 			}
 		},
 		{
@@ -3827,7 +3827,7 @@
 			"type": "Token Creature — Human Pirate",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/382.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/382.jpg"
 			}
 		},
 		{
@@ -3837,7 +3837,7 @@
 			"type": "Token Creature — Human Pirate",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/383.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/383.jpg"
 			}
 		},
 		{
@@ -3847,7 +3847,7 @@
 			"type": "Token Creature — Elemental Mercenary",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/384.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/384.jpg"
 			}
 		},
 		{
@@ -3857,7 +3857,7 @@
 			"type": "Token Creature — Rabbit Horror",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/385.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/385.jpg"
 			}
 		},
 		{
@@ -3867,7 +3867,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/386.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/386.jpg"
 			}
 		},
 		{
@@ -3877,7 +3877,7 @@
 			"type": "Token Creature — Treefolk Horror Boss",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/387.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/387.jpg"
 			}
 		},
 		{
@@ -3887,7 +3887,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/388.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/388.jpg"
 			}
 		},
 		{
@@ -3897,7 +3897,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/389.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/389.jpg"
 			}
 		},
 		{
@@ -3907,7 +3907,7 @@
 			"type": "Token Creature — Insect Egg",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/390.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/390.jpg"
 			}
 		},
 		{
@@ -3917,7 +3917,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/391.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/391.jpg"
 			}
 		},
 		{
@@ -3927,7 +3927,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/392.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/392.jpg"
 			}
 		},
 		{
@@ -3937,7 +3937,7 @@
 			"type": "Token Creature — Elemental Mercenary",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/393.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/393.jpg"
 			}
 		},
 		{
@@ -3947,7 +3947,7 @@
 			"type": "Token Creature — Treefolk",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/394.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/394.jpg"
 			}
 		},
 		{
@@ -3957,7 +3957,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/395.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/395.jpg"
 			}
 		},
 		{
@@ -3967,7 +3967,7 @@
 			"type": "Token Creature — Wurm",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/396.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/396.jpg"
 			}
 		},
 		{
@@ -3977,7 +3977,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/397.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/397.jpg"
 			}
 		},
 		{
@@ -3987,7 +3987,7 @@
 			"type": "Token Creature — Eye Horror",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/398.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/398.jpg"
 			}
 		},
 		{
@@ -3997,7 +3997,7 @@
 			"type": "Token Artifact Creature — Bomb Rabbit",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/399.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/399.jpg"
 			}
 		},
 		{
@@ -4007,7 +4007,7 @@
 			"type": "Token Legendary Creature — Horror Boss",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/400.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/400.jpg"
 			}
 		},
 		{
@@ -4017,7 +4017,7 @@
 			"type": "Token Creature — Alien Beast",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/401.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/401.jpg"
 			}
 		},
 		{
@@ -4027,7 +4027,7 @@
 			"type": "Token Creature — Citizen",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/402.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/402.jpg"
 			}
 		},
 		{
@@ -4037,7 +4037,7 @@
 			"type": "Token Creature — Cleric",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/403.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/403.jpg"
 			}
 		},
 		{
@@ -4047,7 +4047,7 @@
 			"type": "Token Creature — Cleric Archer Ranger",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/404.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/404.jpg"
 			}
 		},
 		{
@@ -4057,7 +4057,7 @@
 			"type": "Token Creature — Alien Worm",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/405.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/405.jpg"
 			}
 		},
 		{
@@ -4067,7 +4067,7 @@
 			"type": "Token Legendary Artifact Creature — Wurm Boss",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/406.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/406.jpg"
 			}
 		},
 		{
@@ -4077,7 +4077,7 @@
 			"type": "Token Creature — Human Insect Doctor",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/407.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/407.jpg"
 			}
 		},
 		{
@@ -4087,7 +4087,7 @@
 			"type": "Token Creature — Alien Warrior",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/408.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/408.jpg"
 			}
 		},
 		{
@@ -4097,7 +4097,7 @@
 			"type": "Token Legendary Creature — Leviathan Noble Boss",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/409.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/409.jpg"
 			}
 		},
 		{
@@ -4107,7 +4107,7 @@
 			"type": "Token Legendary Creature — God Noble Boss",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/410.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/410.jpg"
 			}
 		},
 		{
@@ -4117,7 +4117,7 @@
 			"type": "Token Legendary Creature — Eye Horror Boss",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/411.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/411.jpg"
 			}
 		},
 		{
@@ -4127,7 +4127,7 @@
 			"type": "Token Creature — Alien Jellyfish",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/412.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/412.jpg"
 			}
 		},
 		{
@@ -4137,7 +4137,7 @@
 			"type": "Token Legendary Kindred Artifact — Vehicle Pirate Boss",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/413.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/413.jpg"
 			}
 		},
 		{
@@ -4147,7 +4147,7 @@
 			"type": "Token Creature — Zombie Elf",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/414.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/414.jpg"
 			}
 		},
 		{
@@ -4157,7 +4157,7 @@
 			"type": "Token Creature — Yeti",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/415.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/415.jpg"
 			}
 		},
 		{
@@ -4167,7 +4167,7 @@
 			"type": "Token Creature — Goblin Archer Ranger",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/416.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/416.jpg"
 			}
 		},
 		{
@@ -4177,7 +4177,7 @@
 			"type": "Token Creature — Goblin Warrior",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/417.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/417.jpg"
 			}
 		},
 		{
@@ -4187,7 +4187,7 @@
 			"type": "Token Creature — Horror Illusion",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/418.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/418.jpg"
 			}
 		},
 		{
@@ -4197,7 +4197,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/419.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/419.jpg"
 			}
 		},
 		{
@@ -4207,7 +4207,7 @@
 			"type": "Token Legendary Creature — Human Citizen",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/420.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/420.jpg"
 			}
 		},
 		{
@@ -4217,7 +4217,7 @@
 			"type": "Token Legendary Creature — Human Cleric Boss",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/421.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/421.jpg"
 			}
 		},
 		{
@@ -4227,7 +4227,7 @@
 			"type": "Token Creature — Insect Boss",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/422.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/422.jpg"
 			}
 		},
 		{
@@ -4237,7 +4237,7 @@
 			"type": "Token Creature — Treefolk Horror Boss",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/423.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/423.jpg"
 			}
 		},
 		{
@@ -4247,7 +4247,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/424.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/424.jpg"
 			}
 		},
 		{
@@ -4257,7 +4257,7 @@
 			"type": "Token Creature — Human Pirate Boss",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/425.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/425.jpg"
 			}
 		},
 		{
@@ -4267,7 +4267,7 @@
 			"type": "Token Creature — Human Pirate Ranger",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/426.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/426.jpg"
 			}
 		},
 		{
@@ -4277,7 +4277,7 @@
 			"type": "Token Creature — Human Pirate Ranger",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/427.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/427.jpg"
 			}
 		},
 		{
@@ -4287,7 +4287,7 @@
 			"type": "Token Legendary Creature — Plant Avatar Boss",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/428.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/428.jpg"
 			}
 		},
 		{
@@ -4297,7 +4297,7 @@
 			"type": "Token Creature — Alien Shaman Warrior",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/429.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/429.jpg"
 			}
 		},
 		{
@@ -4307,7 +4307,7 @@
 			"type": "Token Creature — Scarecrow Noble Boss",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/430.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/430.jpg"
 			}
 		},
 		{
@@ -4317,7 +4317,7 @@
 			"type": "Token Creature — Eye",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/431.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/431.jpg"
 			}
 		},
 		{
@@ -4327,7 +4327,7 @@
 			"type": "Token Legendary Creature — Insect Noble Boss",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/432.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/432.jpg"
 			}
 		},
 		{
@@ -4337,7 +4337,7 @@
 			"type": "Token Legendary Artifact Creature — Eye Boss",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/433.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/433.jpg"
 			}
 		},
 		{
@@ -4347,7 +4347,7 @@
 			"type": "Token Creature — Alien Warrior",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/434.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/434.jpg"
 			}
 		},
 		{
@@ -4357,7 +4357,7 @@
 			"type": "Token Legendary Creature — Skeleton Boss",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/435.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/435.jpg"
 			}
 		},
 		{
@@ -4367,7 +4367,7 @@
 			"type": "Token Legendary Artifact Creature — Skeleton Boss",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/436.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/436.jpg"
 			}
 		},
 		{
@@ -4377,7 +4377,7 @@
 			"type": "Token Creature — Alien Ranger Soldier",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/437.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/437.jpg"
 			}
 		},
 		{
@@ -4387,7 +4387,7 @@
 			"type": "Token Creature — Plant Horror",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/438.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/438.jpg"
 			}
 		},
 		{
@@ -4397,7 +4397,7 @@
 			"type": "Token Legendary Creature — Wall Horror Boss",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/439.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/439.jpg"
 			}
 		},
 		{
@@ -4407,7 +4407,7 @@
 			"type": "TokenCreature — Zombie Horror",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/440.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/440.jpg"
 			}
 		},
 		{
@@ -4417,7 +4417,7 @@
 			"type": "Token Legendary Creature — Wurm Horror Boss",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/441.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/441.jpg"
 			}
 		},
 		{
@@ -4427,7 +4427,7 @@
 			"type": "Token Legendary Artifact — Equipment",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/442.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/442.jpg"
 			}
 		},
 		{
@@ -4437,7 +4437,7 @@
 			"type": "Token Legendary Creature — Ooze Noble Boss",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/443.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/443.jpg"
 			}
 		},
 		{
@@ -4447,7 +4447,7 @@
 			"type": "Token Legendary Artifact — Equipment",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/444.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/444.jpg"
 			}
 		},
 		{
@@ -4457,7 +4457,7 @@
 			"type": "Token Artifact — Equipment Food",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/445.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/445.jpg"
 			}
 		},
 		{
@@ -4467,7 +4467,7 @@
 			"type": "Token Artifact — Bomb",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/446.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/446.jpg"
 			}
 		},
 		{
@@ -4477,7 +4477,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/447.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/447.jpg"
 			}
 		},
 		{
@@ -4487,7 +4487,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/448.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/448.jpg"
 			}
 		},
 		{
@@ -4497,7 +4497,7 @@
 			"type": "Token Artifact — Fortification",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/449.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/449.jpg"
 			}
 		},
 		{
@@ -4507,7 +4507,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/450.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/450.jpg"
 			}
 		},
 		{
@@ -4517,7 +4517,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/451.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/451.jpg"
 			}
 		},
 		{
@@ -4527,7 +4527,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/452.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/452.jpg"
 			}
 		},
 		{
@@ -4537,7 +4537,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/453.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/453.jpg"
 			}
 		},
 		{
@@ -4547,7 +4547,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/454.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/454.jpg"
 			}
 		},
 		{
@@ -4557,7 +4557,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/455.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/455.jpg"
 			}
 		},
 		{
@@ -4567,7 +4567,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/456.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/456.jpg"
 			}
 		},
 		{
@@ -4577,7 +4577,7 @@
 			"type": "Token Artifact Creature — Food Golem",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/457.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/457.jpg"
 			}
 		},
 		{
@@ -4587,7 +4587,7 @@
 			"type": "Token Artifact — Vehicle",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/458.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/458.jpg"
 			}
 		},
 		{
@@ -4597,7 +4597,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/459.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/459.jpg"
 			}
 		},
 		{
@@ -4607,7 +4607,7 @@
 			"type": "Token Artifact",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/460.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/460.jpg"
 			}
 		},
 		{
@@ -4617,7 +4617,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/461.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/461.jpg"
 			}
 		},
 		{
@@ -4627,7 +4627,7 @@
 			"type": "Token Artifact",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/462.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/462.jpg"
 			}
 		},
 		{
@@ -4637,7 +4637,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/463.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/463.jpg"
 			}
 		},
 		{
@@ -4647,7 +4647,7 @@
 			"type": "Token Artifact Creature — Food Scarecrow",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/464.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/464.jpg"
 			}
 		},
 		{
@@ -4657,7 +4657,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/465.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/465.jpg"
 			}
 		},
 		{
@@ -4667,7 +4667,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/466.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/466.jpg"
 			}
 		},
 		{
@@ -4677,7 +4677,7 @@
 			"type": "Token Artifact",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/467.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/467.jpg"
 			}
 		},
 		{
@@ -4687,7 +4687,7 @@
 			"type": "Token Artifact",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/468.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/468.jpg"
 			}
 		},
 		{
@@ -4697,7 +4697,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/469.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/469.jpg"
 			}
 		},
 		{
@@ -4707,7 +4707,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/470.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/470.jpg"
 			}
 		},
 		{
@@ -4717,7 +4717,7 @@
 			"type": "Token Land — Forest",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/471.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/471.jpg"
 			}
 		},
 		{
@@ -4727,7 +4727,7 @@
 			"type": "Token Land — Forest Plains",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/472.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/472.jpg"
 			}
 		},
 		{
@@ -4737,7 +4737,57 @@
 			"type": "Token Land — Mountain Forest",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/473.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/473.jpg"
+			}
+		},
+		{
+			"name": "Completely Boned",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Enchantment — Skeleton",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/474.jpg"
+			}
+		},
+		{
+			"name": "Star Destroyer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Enchantment — Alien",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/475.jpg"
+			}
+		},
+		{
+			"name": "Eye on You!",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Enchantment — Eye",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/476.jpg"
+			}
+		},
+		{
+			"name": "Sticky Situation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Enchantment — Ooze",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/477.jpg"
+			}
+		},
+		{
+			"name": "Combat Ready Village",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Enchantment — Citizen",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRA-files/img/478.jpg"
 			}
 		}
 	]
@@ -4911,6 +4961,11 @@
 	4 Metallic Blessing
 	4 The Frost Legion
 	4 Dale, Otherworldly Barkeep
+	4 Completely Boned
+	4 Star Destroyer
+	4 Eye on You!
+	4 Sticky Situation
+	4 Combat Ready Village
 [common(6)]
 	8 Slime Crown
 	8 Bravery Against the Odds
@@ -5570,6 +5625,11 @@
 	12 The Solar Pillar
 	12 The Stardust Pillar
 	12 The Vortex Pillar
+	6 Completely Boned
+	6 Star Destroyer
+	6 Eye on You!
+	6 Sticky Situation
+	6 Combat Ready Village
 [wildcard(1)]
 	7 Skeletron, Dungeon Guardian
 	4 The Dungeon's Entrance
@@ -5901,3 +5961,8 @@
 	6 The Solar Pillar
 	6 The Stardust Pillar
 	6 The Vortex Pillar
+	15 Completely Boned
+	15 Star Destroyer
+	15 Eye on You!
+	15 Sticky Situation
+	15 Combat Ready Village

@@ -1,4 +1,21 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Completely Boned added.
+Star Destroyer added.
+Eye on You! added.
+Sticky Situation added.
+Combat Ready Village added.
+
+
+Corruption Slimer
+cost: {U}{B}{B} => {1}{U}{B}
+
+Tim, Bone Wizard
+type: Legendary Creature — Skeleton Wizard => Legendary Creature — Skeleton Wizard Boss
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The Nebula Pillar added.
