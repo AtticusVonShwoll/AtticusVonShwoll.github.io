@@ -1316,12 +1316,12 @@
         "position": "158"
     },
     {
-        "card_name": "Bone Lee",
-        "number": 157,
-        "shape": "normal",
+        "card_name": "The Vortex Pillar",
+        "number": 246,
+        "shape": "battle split",
         "set": "TRA",
-        "rotated": false,
-        "position": "257"
+        "rotated": true,
+        "position": "68"
     },
     {
         "card_name": "Eye of Cthulhu",
@@ -1356,12 +1356,12 @@
         "position": "86"
     },
     {
-        "card_name": "Corruption Slimer",
-        "number": 161,
+        "card_name": "Bone Lee",
+        "number": 157,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "89"
+        "position": "257"
     },
     {
         "card_name": "Wall of Flesh",
@@ -1396,12 +1396,12 @@
         "position": "161"
     },
     {
-        "card_name": "Dark Mage",
-        "number": 164,
+        "card_name": "Corruption Slimer",
+        "number": 161,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "187"
+        "position": "89"
     },
     {
         "card_name": "Old One's Ogre",
@@ -1436,12 +1436,12 @@
         "position": "51"
     },
     {
-        "card_name": "Frost Moon Yeti",
-        "number": 183,
+        "card_name": "Dark Mage",
+        "number": 164,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "275"
+        "position": "187"
     },
     {
         "card_name": "Pirate Deadeye",
@@ -1476,12 +1476,12 @@
         "position": "53"
     },
     {
-        "card_name": "Pirate Crossbower",
-        "number": 214,
+        "card_name": "Frost Moon Yeti",
+        "number": 183,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "287"
+        "position": "275"
     },
     {
         "card_name": "Rise of the Blood Moon",
@@ -1511,12 +1511,12 @@
         "position": "90"
     },
     {
-        "card_name": "Storm Diver",
-        "number": 240,
+        "card_name": "Pirate Crossbower",
+        "number": 214,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "97"
+        "position": "287"
     },
     {
         "card_name": "You Feel an Evil Presence Watching You",
@@ -1546,12 +1546,12 @@
         "position": "126"
     },
     {
-        "card_name": "Corrupt Pigron",
-        "number": 255,
+        "card_name": "Storm Diver",
+        "number": 240,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "127"
+        "position": "97"
     },
     {
         "card_name": "Blood Drippler",
@@ -1576,12 +1576,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "The Vortex Pillar",
-        "number": 335,
-        "shape": "battle split",
+        "card_name": "Corrupt Pigron",
+        "number": 255,
+        "shape": "normal",
         "set": "TRA",
-        "rotated": true,
-        "position": "329"
+        "rotated": false,
+        "position": "127"
     },
     {
         "card_name": "Horrific Destruction",
@@ -1606,7 +1606,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "The Vortex Pillar (Token)",
+        "number": 335,
+        "shape": "battle split",
+        "set": "TRA",
+        "rotated": true,
+        "position": "329"
     },
     {
         "card_name": "Pursuing Eye",
@@ -1742,12 +1747,12 @@
         "position": "87"
     },
     {
-        "card_name": "Andrew, Helpful Guide",
-        "number": 152,
-        "shape": "normal",
+        "card_name": "The Solar Pillar",
+        "number": 237,
+        "shape": "battle split",
         "set": "TRA",
-        "rotated": false,
-        "position": "142"
+        "rotated": true,
+        "position": "145"
     },
     {
         "card_name": "Royal Gel",
@@ -1782,12 +1787,12 @@
         "position": "139"
     },
     {
-        "card_name": "Drakomire Rider",
-        "number": 167,
+        "card_name": "Andrew, Helpful Guide",
+        "number": 152,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "91"
+        "position": "142"
     },
     {
         "card_name": "King Slime",
@@ -1822,12 +1827,12 @@
         "position": "237"
     },
     {
-        "card_name": "Pinky",
-        "number": 212,
+        "card_name": "Drakomire Rider",
+        "number": 167,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "276"
+        "position": "91"
     },
     {
         "card_name": "Slime Rain",
@@ -1862,12 +1867,12 @@
         "position": "274"
     },
     {
-        "card_name": "Selenian",
-        "number": 232,
+        "card_name": "Pinky",
+        "number": 212,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "94"
+        "position": "276"
     },
     {
         "card_name": "Mushi Ladybug",
@@ -1902,12 +1907,12 @@
         "position": "183"
     },
     {
-        "card_name": "Xavier, Arms Dealer",
-        "number": 249,
+        "card_name": "Selenian",
+        "number": 232,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "45"
+        "position": "94"
     },
     {
         "card_name": "e"
@@ -1937,12 +1942,12 @@
         "position": "229"
     },
     {
-        "card_name": "Crawltipede",
-        "number": 162,
+        "card_name": "Xavier, Arms Dealer",
+        "number": 249,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "93"
+        "position": "45"
     },
     {
         "card_name": "e"
@@ -1972,6 +1977,26 @@
         "position": "132"
     },
     {
+        "card_name": "Crawltipede",
+        "number": 162,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Chaos Elemental",
         "number": 254,
         "shape": "normal",
@@ -1992,7 +2017,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "The Solar Pillar",
+        "card_name": "The Solar Pillar (Token)",
         "number": 333,
         "shape": "battle split",
         "set": "TRA",
@@ -2090,12 +2115,12 @@
         "position": "52"
     },
     {
-        "card_name": "The Summoner",
-        "number": 241,
-        "shape": "normal",
+        "card_name": "The Stardust Pillar",
+        "number": 239,
+        "shape": "battle split",
         "set": "TRA",
-        "rotated": false,
-        "position": "19"
+        "rotated": true,
+        "position": "70"
     },
     {
         "card_name": "Martian Saucer",
@@ -2130,12 +2155,12 @@
         "position": "154"
     },
     {
-        "card_name": "Flow Invader",
-        "number": 177,
+        "card_name": "The Summoner",
+        "number": 241,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "204"
+        "position": "19"
     },
     {
         "card_name": "e"
@@ -2165,12 +2190,12 @@
         "position": "62"
     },
     {
-        "card_name": "The Stardust Pillar",
-        "number": 334,
-        "shape": "battle split",
+        "card_name": "Flow Invader",
+        "number": 177,
+        "shape": "normal",
         "set": "TRA",
-        "rotated": true,
-        "position": "328"
+        "rotated": false,
+        "position": "204"
     },
     {
         "card_name": "e"
@@ -2200,7 +2225,12 @@
         "position": "63"
     },
     {
-        "card_name": "e"
+        "card_name": "The Stardust Pillar (Token)",
+        "number": 334,
+        "shape": "battle split",
+        "set": "TRA",
+        "rotated": true,
+        "position": "328"
     },
     {
         "card_name": "er"
@@ -2301,12 +2331,12 @@
         "position": "156"
     },
     {
-        "card_name": "Truffle Worm",
-        "number": 244,
-        "shape": "normal",
+        "card_name": "The Nebula Pillar",
+        "number": 208,
+        "shape": "battle split",
         "set": "TRA",
-        "rotated": false,
-        "position": "266"
+        "rotated": true,
+        "position": "69"
     },
     {
         "card_name": "e"
@@ -2324,6 +2354,26 @@
         "set": "TRA",
         "rotated": false,
         "position": "157"
+    },
+    {
+        "card_name": "Truffle Worm",
+        "number": 244,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "266"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Predictor",
@@ -2346,7 +2396,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "The Nebula Pillar",
+        "card_name": "The Nebula Pillar (Token)",
         "number": 332,
         "shape": "battle split",
         "set": "TRA",
@@ -2984,7 +3034,7 @@
     },
     "a->token",
     {
-        "card_name": "Hero",
+        "card_name": "Hero Token",
         "number": 1,
         "shape": "token",
         "set": "TRA",
@@ -2992,7 +3042,7 @@
         "position": "330"
     },
     {
-        "card_name": "Baby Mothron",
+        "card_name": "Baby Mothron Token",
         "number": 68,
         "shape": "token",
         "set": "TRA",
@@ -3000,7 +3050,7 @@
         "position": "397"
     },
     {
-        "card_name": "Ale Tosser",
+        "card_name": "Ale Tosser (Token)",
         "number": 116,
         "shape": "token",
         "set": "TRA",
@@ -3008,7 +3058,7 @@
         "position": "445"
     },
     {
-        "card_name": "Bomb",
+        "card_name": "Bomb Token",
         "number": 117,
         "shape": "token",
         "set": "TRA",
@@ -3016,7 +3066,7 @@
         "position": "446"
     },
     {
-        "card_name": "Bounding Balloon",
+        "card_name": "Bounding Balloon (Token)",
         "number": 118,
         "shape": "token",
         "set": "TRA",
@@ -3024,7 +3074,7 @@
         "position": "447"
     },
     {
-        "card_name": "Broken Hero Sword",
+        "card_name": "Broken Hero Sword (Token)",
         "number": 119,
         "shape": "token",
         "set": "TRA",
@@ -3032,7 +3082,7 @@
         "position": "448"
     },
     {
-        "card_name": "Clentaminator Solution",
+        "card_name": "Clentaminator Solution (Token)",
         "number": 120,
         "shape": "token",
         "set": "TRA",
@@ -3040,7 +3090,7 @@
         "position": "449"
     },
     {
-        "card_name": "Clue",
+        "card_name": "Clue Token",
         "number": 121,
         "shape": "token",
         "set": "TRA",
@@ -3048,7 +3098,7 @@
         "position": "450"
     },
     {
-        "card_name": "Combined Gear",
+        "card_name": "Combined Gear (Token)",
         "number": 122,
         "shape": "token",
         "set": "TRA",
@@ -3056,7 +3106,7 @@
         "position": "451"
     },
     {
-        "card_name": "Construct",
+        "card_name": "Construct Token (Probe)",
         "number": 123,
         "shape": "token",
         "set": "TRA",
@@ -3064,7 +3114,7 @@
         "position": "452"
     },
     {
-        "card_name": "Construct",
+        "card_name": "Construct Token (Melee)",
         "number": 124,
         "shape": "token",
         "set": "TRA",
@@ -3072,7 +3122,7 @@
         "position": "453"
     },
     {
-        "card_name": "Construct",
+        "card_name": "Construct Token (Ranged)",
         "number": 125,
         "shape": "token",
         "set": "TRA",
@@ -3080,7 +3130,7 @@
         "position": "454"
     },
     {
-        "card_name": "Deadly Sphere",
+        "card_name": "Deadly Sphere (Token)",
         "number": 126,
         "shape": "token",
         "set": "TRA",
@@ -3088,7 +3138,7 @@
         "position": "455"
     },
     {
-        "card_name": "Food",
+        "card_name": "Food Token",
         "number": 127,
         "shape": "token",
         "set": "TRA",
@@ -3096,7 +3146,7 @@
         "position": "456"
     },
     {
-        "card_name": "Gingerbread Man",
+        "card_name": "Gingerbread Man (Token)",
         "number": 128,
         "shape": "token",
         "set": "TRA",
@@ -3104,7 +3154,7 @@
         "position": "457"
     },
     {
-        "card_name": "Golf Cart",
+        "card_name": "Golf Cart (Token)",
         "number": 129,
         "shape": "token",
         "set": "TRA",
@@ -3112,7 +3162,7 @@
         "position": "458"
     },
     {
-        "card_name": "Grapple Hook",
+        "card_name": "Grapple Hook (Token)",
         "number": 130,
         "shape": "token",
         "set": "TRA",
@@ -3120,7 +3170,7 @@
         "position": "459"
     },
     {
-        "card_name": "Guide Voodoo Doll",
+        "card_name": "Guide Voodoo Doll (Token)",
         "number": 131,
         "shape": "token",
         "set": "TRA",
@@ -3128,7 +3178,7 @@
         "position": "460"
     },
     {
-        "card_name": "Leather Armor",
+        "card_name": "Leather Armor (Token)",
         "number": 132,
         "shape": "token",
         "set": "TRA",
@@ -3136,7 +3186,7 @@
         "position": "461"
     },
     {
-        "card_name": "Mana Crystal",
+        "card_name": "Mana Crystal (Token)",
         "number": 133,
         "shape": "token",
         "set": "TRA",
@@ -3144,7 +3194,7 @@
         "position": "462"
     },
     {
-        "card_name": "Pirate's Cutlass",
+        "card_name": "Pirate's Cutlass (Token)",
         "number": 134,
         "shape": "token",
         "set": "TRA",
@@ -3152,7 +3202,7 @@
         "position": "463"
     },
     {
-        "card_name": "Pumpkin Scarecrow",
+        "card_name": "Pumpkin Scarecrow (Token)",
         "number": 135,
         "shape": "token",
         "set": "TRA",
@@ -3160,7 +3210,7 @@
         "position": "464"
     },
     {
-        "card_name": "Rocket Boots",
+        "card_name": "Rocket Boots (Token)",
         "number": 136,
         "shape": "token",
         "set": "TRA",
@@ -3168,7 +3218,7 @@
         "position": "465"
     },
     {
-        "card_name": "Rogue's Gloves",
+        "card_name": "Rogue's Gloves (Token)",
         "number": 137,
         "shape": "token",
         "set": "TRA",
@@ -3176,7 +3226,7 @@
         "position": "466"
     },
     {
-        "card_name": "Strange Brew",
+        "card_name": "Strange Brew (Token)",
         "number": 138,
         "shape": "token",
         "set": "TRA",
@@ -3184,7 +3234,7 @@
         "position": "467"
     },
     {
-        "card_name": "Tinkerer's Workshop",
+        "card_name": "Tinkerer's Workshop (Token)",
         "number": 139,
         "shape": "token",
         "set": "TRA",
@@ -3192,7 +3242,7 @@
         "position": "468"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Treasure Token",
         "number": 140,
         "shape": "token",
         "set": "TRA",
@@ -3200,7 +3250,7 @@
         "position": "469"
     },
     {
-        "card_name": "Umbrella",
+        "card_name": "Umbrella Token",
         "number": 141,
         "shape": "token",
         "set": "TRA",
@@ -3208,7 +3258,7 @@
         "position": "470"
     },
     {
-        "card_name": "Forest",
+        "card_name": "Forest Token",
         "number": 142,
         "shape": "token",
         "set": "TRA",
@@ -3216,7 +3266,7 @@
         "position": "471"
     },
     {
-        "card_name": "Forest Plains",
+        "card_name": "Forest Plains Token",
         "number": 143,
         "shape": "token",
         "set": "TRA",
@@ -3224,7 +3274,7 @@
         "position": "472"
     },
     {
-        "card_name": "Mountain Forest",
+        "card_name": "Mountain Forest Token",
         "number": 144,
         "shape": "token",
         "set": "TRA",
@@ -3232,7 +3282,7 @@
         "position": "473"
     },
     {
-        "card_name": "The Bride",
+        "card_name": "The Bride (Token)",
         "number": 2,
         "shape": "token",
         "set": "TRA",
@@ -3240,7 +3290,7 @@
         "position": "331"
     },
     {
-        "card_name": "Bride's Gown",
+        "card_name": "Bride's Gown (Token)",
         "number": 3,
         "shape": "token",
         "set": "TRA",
@@ -3248,7 +3298,7 @@
         "position": "332"
     },
     {
-        "card_name": "Flinx Fur Coat",
+        "card_name": "Flinx Fur Coat (Token)",
         "number": 4,
         "shape": "token",
         "set": "TRA",
@@ -3256,7 +3306,7 @@
         "position": "333"
     },
     {
-        "card_name": "Hallow Pixie",
+        "card_name": "Hallow Pixie (Token)",
         "number": 5,
         "shape": "token",
         "set": "TRA",
@@ -3264,7 +3314,7 @@
         "position": "334"
     },
     {
-        "card_name": "Insect",
+        "card_name": "Insect Token (White)",
         "number": 6,
         "shape": "token",
         "set": "TRA",
@@ -3272,7 +3322,7 @@
         "position": "335"
     },
     {
-        "card_name": "Old Man",
+        "card_name": "Old Man Token",
         "number": 7,
         "shape": "token",
         "set": "TRA",
@@ -3280,7 +3330,7 @@
         "position": "336"
     },
     {
-        "card_name": "Rabbit",
+        "card_name": "Rabbit Token",
         "number": 8,
         "shape": "token",
         "set": "TRA",
@@ -3288,7 +3338,7 @@
         "position": "337"
     },
     {
-        "card_name": "Stargazer",
+        "card_name": "Stargazer (Token)",
         "number": 9,
         "shape": "token",
         "set": "TRA",
@@ -3296,7 +3346,7 @@
         "position": "338"
     },
     {
-        "card_name": "Alien Hornet",
+        "card_name": "Alien Hornet (Token)",
         "number": 10,
         "shape": "token",
         "set": "TRA",
@@ -3304,7 +3354,7 @@
         "position": "339"
     },
     {
-        "card_name": "Alien Insect Egg",
+        "card_name": "Alien Insect Egg Token",
         "number": 11,
         "shape": "token",
         "set": "TRA",
@@ -3312,7 +3362,7 @@
         "position": "340"
     },
     {
-        "card_name": "Alien Ooze",
+        "card_name": "Alien Ooze Token",
         "number": 12,
         "shape": "token",
         "set": "TRA",
@@ -3320,7 +3370,7 @@
         "position": "341"
     },
     {
-        "card_name": "Alien Queen",
+        "card_name": "Alien Queen (Token)",
         "number": 13,
         "shape": "token",
         "set": "TRA",
@@ -3328,7 +3378,7 @@
         "position": "342"
     },
     {
-        "card_name": "Cleric Illusion",
+        "card_name": "Cleric Illusion Token",
         "number": 14,
         "shape": "token",
         "set": "TRA",
@@ -3336,7 +3386,7 @@
         "position": "343"
     },
     {
-        "card_name": "Drake Illusion",
+        "card_name": "Drake Illusion Token",
         "number": 15,
         "shape": "token",
         "set": "TRA",
@@ -3344,7 +3394,7 @@
         "position": "344"
     },
     {
-        "card_name": "Fish",
+        "card_name": "Fish Token",
         "number": 16,
         "shape": "token",
         "set": "TRA",
@@ -3352,7 +3402,7 @@
         "position": "345"
     },
     {
-        "card_name": "Flocko",
+        "card_name": "Flocko (Token)",
         "number": 17,
         "shape": "token",
         "set": "TRA",
@@ -3360,7 +3410,7 @@
         "position": "346"
     },
     {
-        "card_name": "Ice Queen",
+        "card_name": "Ice Queen (Token)",
         "number": 18,
         "shape": "token",
         "set": "TRA",
@@ -3368,7 +3418,7 @@
         "position": "347"
     },
     {
-        "card_name": "Pirate's Parrot",
+        "card_name": "Pirate's Parrot (Token)",
         "number": 19,
         "shape": "token",
         "set": "TRA",
@@ -3376,7 +3426,7 @@
         "position": "348"
     },
     {
-        "card_name": "Shark",
+        "card_name": "Shark Token",
         "number": 20,
         "shape": "token",
         "set": "TRA",
@@ -3384,7 +3434,7 @@
         "position": "349"
     },
     {
-        "card_name": "Star Cell",
+        "card_name": "Star Cell (Token)",
         "number": 21,
         "shape": "token",
         "set": "TRA",
@@ -3392,7 +3442,7 @@
         "position": "350"
     },
     {
-        "card_name": "Surface Slime",
+        "card_name": "Surface Slime (Token)",
         "number": 22,
         "shape": "token",
         "set": "TRA",
@@ -3400,7 +3450,7 @@
         "position": "351"
     },
     {
-        "card_name": "Wizard Attire",
+        "card_name": "Wizard Attire (Token)",
         "number": 23,
         "shape": "token",
         "set": "TRA",
@@ -3408,7 +3458,7 @@
         "position": "352"
     },
     {
-        "card_name": "Yeti",
+        "card_name": "Yeti Token",
         "number": 24,
         "shape": "token",
         "set": "TRA",
@@ -3416,7 +3466,7 @@
         "position": "353"
     },
     {
-        "card_name": "Corrupt Bunny",
+        "card_name": "Corrupt Bunny (Token)",
         "number": 25,
         "shape": "token",
         "set": "TRA",
@@ -3424,7 +3474,7 @@
         "position": "354"
     },
     {
-        "card_name": "Creature from the Deep",
+        "card_name": "Creature from the Deep (Token)",
         "number": 26,
         "shape": "token",
         "set": "TRA",
@@ -3432,7 +3482,7 @@
         "position": "355"
     },
     {
-        "card_name": "Cursed Pirate",
+        "card_name": "Cursed Pirate (Token)",
         "number": 27,
         "shape": "token",
         "set": "TRA",
@@ -3440,7 +3490,7 @@
         "position": "356"
     },
     {
-        "card_name": "Eclipse Butcher",
+        "card_name": "Eclipse Butcher (Token)",
         "number": 28,
         "shape": "token",
         "set": "TRA",
@@ -3448,7 +3498,7 @@
         "position": "357"
     },
     {
-        "card_name": "Eclipse Psycho",
+        "card_name": "Eclipse Psycho (Token)",
         "number": 29,
         "shape": "token",
         "set": "TRA",
@@ -3456,7 +3506,7 @@
         "position": "358"
     },
     {
-        "card_name": "Eyezor",
+        "card_name": "Eyezor (Token)",
         "number": 30,
         "shape": "token",
         "set": "TRA",
@@ -3464,7 +3514,7 @@
         "position": "359"
     },
     {
-        "card_name": "The Groom",
+        "card_name": "The Groom (Token)",
         "number": 31,
         "shape": "token",
         "set": "TRA",
@@ -3472,7 +3522,7 @@
         "position": "360"
     },
     {
-        "card_name": "Groom's Finery",
+        "card_name": "Groom's Finery (Token)",
         "number": 32,
         "shape": "token",
         "set": "TRA",
@@ -3480,7 +3530,7 @@
         "position": "361"
     },
     {
-        "card_name": "Headless Horserider",
+        "card_name": "Headless Horserider (Token)",
         "number": 33,
         "shape": "token",
         "set": "TRA",
@@ -3488,7 +3538,7 @@
         "position": "362"
     },
     {
-        "card_name": "Mister Stabby",
+        "card_name": "Mister Stabby (Token)",
         "number": 34,
         "shape": "token",
         "set": "TRA",
@@ -3496,7 +3546,7 @@
         "position": "363"
     },
     {
-        "card_name": "Nailhead",
+        "card_name": "Nailhead (Token)",
         "number": 35,
         "shape": "token",
         "set": "TRA",
@@ -3504,7 +3554,7 @@
         "position": "364"
     },
     {
-        "card_name": "The Possessed",
+        "card_name": "The Possessed (Token)",
         "number": 36,
         "shape": "token",
         "set": "TRA",
@@ -3512,7 +3562,7 @@
         "position": "365"
     },
     {
-        "card_name": "Reaper of the Eclipse",
+        "card_name": "Reaper of the Eclipse (Token)",
         "number": 37,
         "shape": "token",
         "set": "TRA",
@@ -3520,7 +3570,7 @@
         "position": "366"
     },
     {
-        "card_name": "Santa-NK1",
+        "card_name": "Santa-NK1 (Token)",
         "number": 38,
         "shape": "token",
         "set": "TRA",
@@ -3528,7 +3578,7 @@
         "position": "367"
     },
     {
-        "card_name": "Shapeshifting Vampire",
+        "card_name": "Shapeshifting Vampire (Token)",
         "number": 39,
         "shape": "token",
         "set": "TRA",
@@ -3536,7 +3586,7 @@
         "position": "368"
     },
     {
-        "card_name": "Skeleton",
+        "card_name": "Skeleton Token",
         "number": 40,
         "shape": "token",
         "set": "TRA",
@@ -3544,7 +3594,7 @@
         "position": "369"
     },
     {
-        "card_name": "Vortexian",
+        "card_name": "Vortexian (Token)",
         "number": 41,
         "shape": "token",
         "set": "TRA",
@@ -3552,7 +3602,7 @@
         "position": "370"
     },
     {
-        "card_name": "Warren, Tax Collector",
+        "card_name": "Warren, Tax Collector (Token)",
         "number": 42,
         "shape": "token",
         "set": "TRA",
@@ -3560,7 +3610,7 @@
         "position": "371"
     },
     {
-        "card_name": "Zombie",
+        "card_name": "Zombie Token",
         "number": 43,
         "shape": "token",
         "set": "TRA",
@@ -3568,7 +3618,7 @@
         "position": "372"
     },
     {
-        "card_name": "Bomb Slime",
+        "card_name": "Bomb Slime (Token)",
         "number": 44,
         "shape": "token",
         "set": "TRA",
@@ -3576,7 +3626,7 @@
         "position": "373"
     },
     {
-        "card_name": "Drake",
+        "card_name": "Drake Token",
         "number": 45,
         "shape": "token",
         "set": "TRA",
@@ -3584,7 +3634,7 @@
         "position": "374"
     },
     {
-        "card_name": "Drakomire",
+        "card_name": "Drakomire (Token)",
         "number": 46,
         "shape": "token",
         "set": "TRA",
@@ -3592,7 +3642,7 @@
         "position": "375"
     },
     {
-        "card_name": "Enchanted Sword",
+        "card_name": "Enchanted Sword (Token)",
         "number": 47,
         "shape": "token",
         "set": "TRA",
@@ -3600,7 +3650,7 @@
         "position": "376"
     },
     {
-        "card_name": "Evolution Beast",
+        "card_name": "Evolution Beast (Token)",
         "number": 48,
         "shape": "token",
         "set": "TRA",
@@ -3608,7 +3658,7 @@
         "position": "377"
     },
     {
-        "card_name": "Goblin Peon",
+        "card_name": "Goblin Peon (Token)",
         "number": 49,
         "shape": "token",
         "set": "TRA",
@@ -3616,7 +3666,7 @@
         "position": "378"
     },
     {
-        "card_name": "Goblin Sorcerer",
+        "card_name": "Goblin Sorcerer (Token)",
         "number": 50,
         "shape": "token",
         "set": "TRA",
@@ -3624,7 +3674,7 @@
         "position": "379"
     },
     {
-        "card_name": "Goblin Thief",
+        "card_name": "Goblin Thief (Token)",
         "number": 51,
         "shape": "token",
         "set": "TRA",
@@ -3632,7 +3682,7 @@
         "position": "380"
     },
     {
-        "card_name": "Imp Wizard",
+        "card_name": "Imp Wizard Token",
         "number": 52,
         "shape": "token",
         "set": "TRA",
@@ -3640,7 +3690,7 @@
         "position": "381"
     },
     {
-        "card_name": "Pirate Corsair",
+        "card_name": "Pirate Corsair (Token)",
         "number": 53,
         "shape": "token",
         "set": "TRA",
@@ -3648,7 +3698,7 @@
         "position": "382"
     },
     {
-        "card_name": "Pirate Deckhand",
+        "card_name": "Pirate Deckhand (Token)",
         "number": 54,
         "shape": "token",
         "set": "TRA",
@@ -3656,7 +3706,7 @@
         "position": "383"
     },
     {
-        "card_name": "Snow Balla",
+        "card_name": "Snow Balla (Token)",
         "number": 55,
         "shape": "token",
         "set": "TRA",
@@ -3664,7 +3714,7 @@
         "position": "384"
     },
     {
-        "card_name": "Vicious Bunny",
+        "card_name": "Vicious Bunny (Token)",
         "number": 56,
         "shape": "token",
         "set": "TRA",
@@ -3672,7 +3722,7 @@
         "position": "385"
     },
     {
-        "card_name": "Coin Slime",
+        "card_name": "Coin Slime (Token)",
         "number": 57,
         "shape": "token",
         "set": "TRA",
@@ -3680,7 +3730,7 @@
         "position": "386"
     },
     {
-        "card_name": "Everscream",
+        "card_name": "Everscream (Token)",
         "number": 58,
         "shape": "token",
         "set": "TRA",
@@ -3688,7 +3738,7 @@
         "position": "387"
     },
     {
-        "card_name": "Flinx Staff",
+        "card_name": "Flinx Staff (Token)",
         "number": 59,
         "shape": "token",
         "set": "TRA",
@@ -3696,7 +3746,7 @@
         "position": "388"
     },
     {
-        "card_name": "Insect",
+        "card_name": "Insect Token (Green)",
         "number": 60,
         "shape": "token",
         "set": "TRA",
@@ -3704,7 +3754,7 @@
         "position": "389"
     },
     {
-        "card_name": "Insect Egg",
+        "card_name": "Insect Egg Token",
         "number": 61,
         "shape": "token",
         "set": "TRA",
@@ -3712,7 +3762,7 @@
         "position": "390"
     },
     {
-        "card_name": "Ooze",
+        "card_name": "Ooze Token",
         "number": 62,
         "shape": "token",
         "set": "TRA",
@@ -3720,7 +3770,7 @@
         "position": "391"
     },
     {
-        "card_name": "Plant",
+        "card_name": "Plant Token",
         "number": 63,
         "shape": "token",
         "set": "TRA",
@@ -3728,7 +3778,7 @@
         "position": "392"
     },
     {
-        "card_name": "Snowman Gangsta",
+        "card_name": "Snowman Gangsta (Token)",
         "number": 64,
         "shape": "token",
         "set": "TRA",
@@ -3736,7 +3786,7 @@
         "position": "393"
     },
     {
-        "card_name": "Splinterling",
+        "card_name": "Splinterling (Token)",
         "number": 65,
         "shape": "token",
         "set": "TRA",
@@ -3744,7 +3794,7 @@
         "position": "394"
     },
     {
-        "card_name": "Wurm",
+        "card_name": "Wurm Token (Big)",
         "number": 66,
         "shape": "token",
         "set": "TRA",
@@ -3752,7 +3802,7 @@
         "position": "395"
     },
     {
-        "card_name": "Wurm",
+        "card_name": "Wurm Token (Small)",
         "number": 67,
         "shape": "token",
         "set": "TRA",
@@ -3760,7 +3810,7 @@
         "position": "396"
     },
     {
-        "card_name": "Blood Drippler",
+        "card_name": "Blood Drippler (Token)",
         "number": 69,
         "shape": "token",
         "set": "TRA",
@@ -3768,7 +3818,7 @@
         "position": "398"
     },
     {
-        "card_name": "Bomb Rabbit",
+        "card_name": "Bomb Rabbit Token",
         "number": 70,
         "shape": "token",
         "set": "TRA",
@@ -3776,7 +3826,7 @@
         "position": "399"
     },
     {
-        "card_name": "Brain of Cthulhu",
+        "card_name": "Brain of Cthulhu (Token)",
         "number": 71,
         "shape": "token",
         "set": "TRA",
@@ -3784,7 +3834,7 @@
         "position": "400"
     },
     {
-        "card_name": "Brain Suckler",
+        "card_name": "Brain Suckler (Token)",
         "number": 72,
         "shape": "token",
         "set": "TRA",
@@ -3792,7 +3842,7 @@
         "position": "401"
     },
     {
-        "card_name": "Citizen",
+        "card_name": "Citizen Token",
         "number": 73,
         "shape": "token",
         "set": "TRA",
@@ -3800,7 +3850,7 @@
         "position": "402"
     },
     {
-        "card_name": "Cleric",
+        "card_name": "Cleric Token",
         "number": 74,
         "shape": "token",
         "set": "TRA",
@@ -3808,7 +3858,7 @@
         "position": "403"
     },
     {
-        "card_name": "Cleric Archer Ranger",
+        "card_name": "Cleric Archer Ranger Token",
         "number": 75,
         "shape": "token",
         "set": "TRA",
@@ -3816,7 +3866,7 @@
         "position": "404"
     },
     {
-        "card_name": "Crawltipede",
+        "card_name": "Crawltipede (Token)",
         "number": 76,
         "shape": "token",
         "set": "TRA",
@@ -3824,7 +3874,7 @@
         "position": "405"
     },
     {
-        "card_name": "Dr. Man Fly",
+        "card_name": "Dr. Man Fly (Token)",
         "number": 78,
         "shape": "token",
         "set": "TRA",
@@ -3832,7 +3882,7 @@
         "position": "407"
     },
     {
-        "card_name": "Drakomire Rider",
+        "card_name": "Drakomire Rider (Token)",
         "number": 79,
         "shape": "token",
         "set": "TRA",
@@ -3840,7 +3890,7 @@
         "position": "408"
     },
     {
-        "card_name": "The Empress of Light",
+        "card_name": "The Empress of Light (Token)",
         "number": 81,
         "shape": "token",
         "set": "TRA",
@@ -3848,7 +3898,7 @@
         "position": "410"
     },
     {
-        "card_name": "Eye of Cthulhu",
+        "card_name": "Eye of Cthulhu (Token)",
         "number": 82,
         "shape": "token",
         "set": "TRA",
@@ -3856,7 +3906,7 @@
         "position": "411"
     },
     {
-        "card_name": "Frost Moon Elf",
+        "card_name": "Frost Moon Elf (Token)",
         "number": 85,
         "shape": "token",
         "set": "TRA",
@@ -3864,7 +3914,7 @@
         "position": "414"
     },
     {
-        "card_name": "Frost Moon Yeti",
+        "card_name": "Frost Moon Yeti (Token)",
         "number": 86,
         "shape": "token",
         "set": "TRA",
@@ -3872,7 +3922,7 @@
         "position": "415"
     },
     {
-        "card_name": "Goblin Archer",
+        "card_name": "Goblin Archer (Token)",
         "number": 87,
         "shape": "token",
         "set": "TRA",
@@ -3880,7 +3930,7 @@
         "position": "416"
     },
     {
-        "card_name": "Goblin Warrior",
+        "card_name": "Goblin Warrior (Token)",
         "number": 88,
         "shape": "token",
         "set": "TRA",
@@ -3888,7 +3938,7 @@
         "position": "417"
     },
     {
-        "card_name": "Horror Illusion",
+        "card_name": "Horror Illusion Token",
         "number": 89,
         "shape": "token",
         "set": "TRA",
@@ -3896,7 +3946,7 @@
         "position": "418"
     },
     {
-        "card_name": "Insect",
+        "card_name": "Insect Token (Gruul)",
         "number": 90,
         "shape": "token",
         "set": "TRA",
@@ -3904,7 +3954,7 @@
         "position": "419"
     },
     {
-        "card_name": "Jey, Young Angler",
+        "card_name": "Jey, Young Angler (Token)",
         "number": 91,
         "shape": "token",
         "set": "TRA",
@@ -3912,7 +3962,7 @@
         "position": "420"
     },
     {
-        "card_name": "Mourning Wood",
+        "card_name": "Mourning Wood (Token)",
         "number": 94,
         "shape": "token",
         "set": "TRA",
@@ -3920,7 +3970,7 @@
         "position": "423"
     },
     {
-        "card_name": "Paladin's Gear",
+        "card_name": "Paladin's Gear (Token)",
         "number": 95,
         "shape": "token",
         "set": "TRA",
@@ -3928,7 +3978,7 @@
         "position": "424"
     },
     {
-        "card_name": "Pirate Crossbower",
+        "card_name": "Pirate Crossbower (Token)",
         "number": 97,
         "shape": "token",
         "set": "TRA",
@@ -3936,7 +3986,7 @@
         "position": "426"
     },
     {
-        "card_name": "Pirate Deadeye",
+        "card_name": "Pirate Deadeye (Token)",
         "number": 98,
         "shape": "token",
         "set": "TRA",
@@ -3944,7 +3994,7 @@
         "position": "427"
     },
     {
-        "card_name": "Pumpking",
+        "card_name": "Pumpking (Token)",
         "number": 101,
         "shape": "token",
         "set": "TRA",
@@ -3952,7 +4002,7 @@
         "position": "430"
     },
     {
-        "card_name": "Pursuing Eye",
+        "card_name": "Pursuing Eye (Token)",
         "number": 102,
         "shape": "token",
         "set": "TRA",
@@ -3960,7 +4010,7 @@
         "position": "431"
     },
     {
-        "card_name": "Queen Bee",
+        "card_name": "Queen Bee (Token)",
         "number": 103,
         "shape": "token",
         "set": "TRA",
@@ -3968,7 +4018,7 @@
         "position": "432"
     },
     {
-        "card_name": "Selenian",
+        "card_name": "Selenian (Token)",
         "number": 105,
         "shape": "token",
         "set": "TRA",
@@ -3976,7 +4026,7 @@
         "position": "434"
     },
     {
-        "card_name": "Storm Diver",
+        "card_name": "Storm Diver (Token)",
         "number": 108,
         "shape": "token",
         "set": "TRA",
@@ -3984,7 +4034,7 @@
         "position": "437"
     },
     {
-        "card_name": "Swamp Thing",
+        "card_name": "Swamp Thing (Token)",
         "number": 109,
         "shape": "token",
         "set": "TRA",
@@ -3992,7 +4042,7 @@
         "position": "438"
     },
     {
-        "card_name": "Wall of Flesh",
+        "card_name": "Wall of Flesh (Token)",
         "number": 110,
         "shape": "token",
         "set": "TRA",
@@ -4000,7 +4050,7 @@
         "position": "439"
     },
     {
-        "card_name": "Blood Zombie",
+        "card_name": "Blood Zombie (Token)",
         "number": 111,
         "shape": "token",
         "set": "TRA",
@@ -4008,7 +4058,7 @@
         "position": "440"
     },
     {
-        "card_name": "King Slime",
+        "card_name": "King Slime (Token)",
         "number": 114,
         "shape": "token",
         "set": "TRA",
@@ -4016,7 +4066,7 @@
         "position": "443"
     },
     {
-        "card_name": "The Destroyer",
+        "card_name": "The Destroyer (Token)",
         "number": 77,
         "shape": "token",
         "set": "TRA",
@@ -4024,7 +4074,7 @@
         "position": "406"
     },
     {
-        "card_name": "Duke Fishron",
+        "card_name": "Duke Fishron (Token)",
         "number": 80,
         "shape": "token",
         "set": "TRA",
@@ -4032,7 +4082,7 @@
         "position": "409"
     },
     {
-        "card_name": "Flow Invader",
+        "card_name": "Flow Invader (Token)",
         "number": 83,
         "shape": "token",
         "set": "TRA",
@@ -4040,7 +4090,7 @@
         "position": "412"
     },
     {
-        "card_name": "Flying Dutchman",
+        "card_name": "Flying Dutchman (Token)",
         "number": 84,
         "shape": "token",
         "set": "TRA",
@@ -4048,7 +4098,7 @@
         "position": "413"
     },
     {
-        "card_name": "The Lunatic Cultist",
+        "card_name": "The Lunatic Cultist (Token)",
         "number": 92,
         "shape": "token",
         "set": "TRA",
@@ -4056,7 +4106,7 @@
         "position": "421"
     },
     {
-        "card_name": "Mothron",
+        "card_name": "Mothron (Token)",
         "number": 93,
         "shape": "token",
         "set": "TRA",
@@ -4064,7 +4114,7 @@
         "position": "422"
     },
     {
-        "card_name": "Pirate Captain",
+        "card_name": "Pirate Captain (Token)",
         "number": 96,
         "shape": "token",
         "set": "TRA",
@@ -4072,7 +4122,7 @@
         "position": "425"
     },
     {
-        "card_name": "Plantera, Jungle's Soul",
+        "card_name": "Plantera, Jungle's Soul (Token)",
         "number": 99,
         "shape": "token",
         "set": "TRA",
@@ -4080,7 +4130,7 @@
         "position": "428"
     },
     {
-        "card_name": "Predictor",
+        "card_name": "Predictor (Token)",
         "number": 100,
         "shape": "token",
         "set": "TRA",
@@ -4088,7 +4138,7 @@
         "position": "429"
     },
     {
-        "card_name": "Retinazer and Spazmatism",
+        "card_name": "Retinazer and Spazmatism (Token)",
         "number": 104,
         "shape": "token",
         "set": "TRA",
@@ -4096,7 +4146,7 @@
         "position": "433"
     },
     {
-        "card_name": "Skeletron, Dungeon Guardian",
+        "card_name": "Skeletron, Dungeon Guardian (Token)",
         "number": 106,
         "shape": "token",
         "set": "TRA",
@@ -4104,7 +4154,7 @@
         "position": "435"
     },
     {
-        "card_name": "Skeletron Prime",
+        "card_name": "Skeletron Prime (Token)",
         "number": 107,
         "shape": "token",
         "set": "TRA",
@@ -4112,7 +4162,7 @@
         "position": "436"
     },
     {
-        "card_name": "The Eater of Worlds",
+        "card_name": "The Eater of Worlds (Token)",
         "number": 112,
         "shape": "token",
         "set": "TRA",
@@ -4120,7 +4170,7 @@
         "position": "441"
     },
     {
-        "card_name": "Excalibur",
+        "card_name": "Excalibur (Token)",
         "number": 113,
         "shape": "token",
         "set": "TRA",
@@ -4128,7 +4178,7 @@
         "position": "442"
     },
     {
-        "card_name": "Night's Edge",
+        "card_name": "Night's Edge (Token)",
         "number": 115,
         "shape": "token",
         "set": "TRA",

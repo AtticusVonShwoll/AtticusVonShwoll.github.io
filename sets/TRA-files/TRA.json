@@ -4121,7 +4121,7 @@
             "type": "Artifact \u2014 Equipment",
             "number": 13,
             "color_identity": "W",
-            "cost": "{2}{W}",
+            "cost": "{1}{W}",
             "rules_text": "Equipped creature gets +3/+3 and has ward {1}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nEquip {3}. This ability costs {1} less to activate for each other Equipment you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4130,7 +4130,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Bohrokki",
-            "alias": "Plate Armor",
+            "alias": "Hallowed Armor",
             "position": "195",
             "rotated": false,
             "notes": ""
@@ -6866,7 +6866,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Nebula Pillar",
+            "card_name": "The Nebula Pillar (Token)",
             "color": "URG",
             "rarity": "common",
             "type": "Token Battle \u2014 Event",
@@ -6887,7 +6887,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Solar Pillar",
+            "card_name": "The Solar Pillar (Token)",
             "color": "WR",
             "rarity": "common",
             "type": "Token Battle \u2014 Event",
@@ -6908,7 +6908,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Stardust Pillar",
+            "card_name": "The Stardust Pillar (Token)",
             "color": "WUG",
             "rarity": "common",
             "type": "Token Battle \u2014 Event",
@@ -6929,7 +6929,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Vortex Pillar",
+            "card_name": "The Vortex Pillar (Token)",
             "color": "UB",
             "rarity": "common",
             "type": "Token Battle \u2014 Event",
@@ -6950,7 +6950,7 @@
             "notes": ""
         },
         {
-            "card_name": "Hero",
+            "card_name": "Hero Token",
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Hero",
@@ -6971,7 +6971,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Bride",
+            "card_name": "The Bride (Token)",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Zombie",
@@ -6992,7 +6992,7 @@
             "notes": ""
         },
         {
-            "card_name": "Bride's Gown",
+            "card_name": "Bride's Gown (Token)",
             "color": "W",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -7013,7 +7013,7 @@
             "notes": ""
         },
         {
-            "card_name": "Flinx Fur Coat",
+            "card_name": "Flinx Fur Coat (Token)",
             "color": "W",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -7034,7 +7034,7 @@
             "notes": ""
         },
         {
-            "card_name": "Hallow Pixie",
+            "card_name": "Hallow Pixie (Token)",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Faerie",
@@ -7055,7 +7055,7 @@
             "notes": ""
         },
         {
-            "card_name": "Insect",
+            "card_name": "Insect Token (White)",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect",
@@ -7076,7 +7076,7 @@
             "notes": ""
         },
         {
-            "card_name": "Old Man",
+            "card_name": "Old Man Token",
             "color": "W",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Human",
@@ -7097,7 +7097,7 @@
             "notes": ""
         },
         {
-            "card_name": "Rabbit",
+            "card_name": "Rabbit Token",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Rabbit",
@@ -7118,7 +7118,7 @@
             "notes": ""
         },
         {
-            "card_name": "Stargazer",
+            "card_name": "Stargazer (Token)",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Soldier",
@@ -7139,7 +7139,7 @@
             "notes": ""
         },
         {
-            "card_name": "Alien Hornet",
+            "card_name": "Alien Hornet (Token)",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Insect",
@@ -7160,7 +7160,7 @@
             "notes": ""
         },
         {
-            "card_name": "Alien Insect Egg",
+            "card_name": "Alien Insect Egg Token",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Insect Egg",
@@ -7181,7 +7181,7 @@
             "notes": ""
         },
         {
-            "card_name": "Alien Ooze",
+            "card_name": "Alien Ooze Token",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Ooze",
@@ -7202,7 +7202,7 @@
             "notes": ""
         },
         {
-            "card_name": "Alien Queen",
+            "card_name": "Alien Queen (Token)",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Insect Noble",
@@ -7223,7 +7223,7 @@
             "notes": ""
         },
         {
-            "card_name": "Cleric Illusion",
+            "card_name": "Cleric Illusion Token",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Cleric Illusion",
@@ -7244,7 +7244,7 @@
             "notes": ""
         },
         {
-            "card_name": "Drake Illusion",
+            "card_name": "Drake Illusion Token",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Drake Illusion",
@@ -7265,7 +7265,7 @@
             "notes": ""
         },
         {
-            "card_name": "Fish",
+            "card_name": "Fish Token",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Fish",
@@ -7286,7 +7286,7 @@
             "notes": ""
         },
         {
-            "card_name": "Flocko",
+            "card_name": "Flocko (Token)",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -7307,7 +7307,7 @@
             "notes": ""
         },
         {
-            "card_name": "Ice Queen",
+            "card_name": "Ice Queen (Token)",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental Noble Boss",
@@ -7328,7 +7328,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pirate's Parrot",
+            "card_name": "Pirate's Parrot (Token)",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Bird Pirate",
@@ -7349,7 +7349,7 @@
             "notes": ""
         },
         {
-            "card_name": "Shark",
+            "card_name": "Shark Token",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Shark",
@@ -7370,7 +7370,7 @@
             "notes": ""
         },
         {
-            "card_name": "Star Cell",
+            "card_name": "Star Cell (Token)",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Ooze",
@@ -7391,7 +7391,7 @@
             "notes": ""
         },
         {
-            "card_name": "Surface Slime",
+            "card_name": "Surface Slime (Token)",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Ooze",
@@ -7412,7 +7412,7 @@
             "notes": ""
         },
         {
-            "card_name": "Wizard Attire",
+            "card_name": "Wizard Attire (Token)",
             "color": "U",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -7433,7 +7433,7 @@
             "notes": ""
         },
         {
-            "card_name": "Yeti",
+            "card_name": "Yeti Token",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Yeti",
@@ -7454,7 +7454,7 @@
             "notes": ""
         },
         {
-            "card_name": "Corrupt Bunny",
+            "card_name": "Corrupt Bunny (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Rabbit Horror",
@@ -7475,7 +7475,7 @@
             "notes": ""
         },
         {
-            "card_name": "Creature from the Deep",
+            "card_name": "Creature from the Deep (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Merfolk",
@@ -7496,7 +7496,7 @@
             "notes": ""
         },
         {
-            "card_name": "Cursed Pirate",
+            "card_name": "Cursed Pirate (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Skeleton Pirate",
@@ -7517,7 +7517,7 @@
             "notes": ""
         },
         {
-            "card_name": "Eclipse Butcher",
+            "card_name": "Eclipse Butcher (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Assassin",
@@ -7538,7 +7538,7 @@
             "notes": ""
         },
         {
-            "card_name": "Eclipse Psycho",
+            "card_name": "Eclipse Psycho (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Assassin",
@@ -7559,7 +7559,7 @@
             "notes": ""
         },
         {
-            "card_name": "Eyezor",
+            "card_name": "Eyezor (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Eye Zombie Horror",
@@ -7580,7 +7580,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Groom",
+            "card_name": "The Groom (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Zombie",
@@ -7601,7 +7601,7 @@
             "notes": ""
         },
         {
-            "card_name": "Groom's Finery",
+            "card_name": "Groom's Finery (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -7622,7 +7622,7 @@
             "notes": ""
         },
         {
-            "card_name": "Headless Horserider",
+            "card_name": "Headless Horserider (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Scarecrow Specter",
@@ -7643,7 +7643,7 @@
             "notes": ""
         },
         {
-            "card_name": "Mister Stabby",
+            "card_name": "Mister Stabby (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental Mercenary",
@@ -7664,7 +7664,7 @@
             "notes": ""
         },
         {
-            "card_name": "Nailhead",
+            "card_name": "Nailhead (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Assassin",
@@ -7685,7 +7685,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Possessed",
+            "card_name": "The Possessed (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Horror",
@@ -7706,7 +7706,7 @@
             "notes": ""
         },
         {
-            "card_name": "Reaper of the Eclipse",
+            "card_name": "Reaper of the Eclipse (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Specter",
@@ -7727,7 +7727,7 @@
             "notes": ""
         },
         {
-            "card_name": "Santa-NK1",
+            "card_name": "Santa-NK1 (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Robot Boss",
@@ -7748,7 +7748,7 @@
             "notes": ""
         },
         {
-            "card_name": "Shapeshifting Vampire",
+            "card_name": "Shapeshifting Vampire (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Vampire",
@@ -7769,7 +7769,7 @@
             "notes": ""
         },
         {
-            "card_name": "Skeleton",
+            "card_name": "Skeleton Token",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Skeleton",
@@ -7790,7 +7790,7 @@
             "notes": ""
         },
         {
-            "card_name": "Vortexian",
+            "card_name": "Vortexian (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Warrior",
@@ -7811,7 +7811,7 @@
             "notes": ""
         },
         {
-            "card_name": "Warren, Tax Collector",
+            "card_name": "Warren, Tax Collector (Token)",
             "color": "B",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Human Citizen",
@@ -7832,7 +7832,7 @@
             "notes": ""
         },
         {
-            "card_name": "Zombie",
+            "card_name": "Zombie Token",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Zombie",
@@ -7853,7 +7853,7 @@
             "notes": ""
         },
         {
-            "card_name": "Bomb Slime",
+            "card_name": "Bomb Slime (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Ooze",
@@ -7874,7 +7874,7 @@
             "notes": ""
         },
         {
-            "card_name": "Drake",
+            "card_name": "Drake Token",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Drake",
@@ -7895,7 +7895,7 @@
             "notes": ""
         },
         {
-            "card_name": "Drakomire",
+            "card_name": "Drakomire (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Beast",
@@ -7916,7 +7916,7 @@
             "notes": ""
         },
         {
-            "card_name": "Enchanted Sword",
+            "card_name": "Enchanted Sword (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -7937,7 +7937,7 @@
             "notes": ""
         },
         {
-            "card_name": "Evolution Beast",
+            "card_name": "Evolution Beast (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Beast",
@@ -7958,7 +7958,7 @@
             "notes": ""
         },
         {
-            "card_name": "Goblin Peon",
+            "card_name": "Goblin Peon (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Goblin Soldier",
@@ -7979,7 +7979,7 @@
             "notes": ""
         },
         {
-            "card_name": "Goblin Sorcerer",
+            "card_name": "Goblin Sorcerer (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Goblin Shaman",
@@ -8000,7 +8000,7 @@
             "notes": ""
         },
         {
-            "card_name": "Goblin Thief",
+            "card_name": "Goblin Thief (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Goblin Scout",
@@ -8021,7 +8021,7 @@
             "notes": ""
         },
         {
-            "card_name": "Imp Wizard",
+            "card_name": "Imp Wizard Token",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Imp Wizard",
@@ -8042,7 +8042,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pirate Corsair",
+            "card_name": "Pirate Corsair (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Pirate",
@@ -8063,7 +8063,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pirate Deckhand",
+            "card_name": "Pirate Deckhand (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Pirate",
@@ -8084,7 +8084,7 @@
             "notes": ""
         },
         {
-            "card_name": "Snow Balla",
+            "card_name": "Snow Balla (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental Mercenary",
@@ -8105,7 +8105,7 @@
             "notes": ""
         },
         {
-            "card_name": "Vicious Bunny",
+            "card_name": "Vicious Bunny (Token)",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Rabbit Horror",
@@ -8126,7 +8126,7 @@
             "notes": ""
         },
         {
-            "card_name": "Coin Slime",
+            "card_name": "Coin Slime (Token)",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Ooze",
@@ -8147,7 +8147,7 @@
             "notes": ""
         },
         {
-            "card_name": "Everscream",
+            "card_name": "Everscream (Token)",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Treefolk Horror Boss",
@@ -8168,7 +8168,7 @@
             "notes": ""
         },
         {
-            "card_name": "Flinx Staff",
+            "card_name": "Flinx Staff (Token)",
             "color": "G",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -8189,7 +8189,7 @@
             "notes": ""
         },
         {
-            "card_name": "Insect",
+            "card_name": "Insect Token (Green)",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect",
@@ -8210,7 +8210,7 @@
             "notes": ""
         },
         {
-            "card_name": "Insect Egg",
+            "card_name": "Insect Egg Token",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect Egg",
@@ -8231,7 +8231,7 @@
             "notes": ""
         },
         {
-            "card_name": "Ooze",
+            "card_name": "Ooze Token",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Ooze",
@@ -8252,7 +8252,7 @@
             "notes": ""
         },
         {
-            "card_name": "Plant",
+            "card_name": "Plant Token",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Plant",
@@ -8273,7 +8273,7 @@
             "notes": ""
         },
         {
-            "card_name": "Snowman Gangsta",
+            "card_name": "Snowman Gangsta (Token)",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental Mercenary",
@@ -8294,7 +8294,7 @@
             "notes": ""
         },
         {
-            "card_name": "Splinterling",
+            "card_name": "Splinterling (Token)",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Treefolk",
@@ -8315,7 +8315,7 @@
             "notes": ""
         },
         {
-            "card_name": "Wurm",
+            "card_name": "Wurm Token (Big)",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Wurm",
@@ -8336,7 +8336,7 @@
             "notes": ""
         },
         {
-            "card_name": "Wurm",
+            "card_name": "Wurm Token (Small)",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Wurm",
@@ -8357,7 +8357,7 @@
             "notes": ""
         },
         {
-            "card_name": "Baby Mothron",
+            "card_name": "Baby Mothron Token",
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect",
@@ -8378,7 +8378,7 @@
             "notes": ""
         },
         {
-            "card_name": "Blood Drippler",
+            "card_name": "Blood Drippler (Token)",
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2014 Eye Horror",
@@ -8399,7 +8399,7 @@
             "notes": ""
         },
         {
-            "card_name": "Bomb Rabbit",
+            "card_name": "Bomb Rabbit Token",
             "color": "WR",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Bomb Rabbit",
@@ -8420,7 +8420,7 @@
             "notes": ""
         },
         {
-            "card_name": "Brain of Cthulhu",
+            "card_name": "Brain of Cthulhu (Token)",
             "color": "UR",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Horror Boss",
@@ -8441,7 +8441,7 @@
             "notes": ""
         },
         {
-            "card_name": "Brain Suckler",
+            "card_name": "Brain Suckler (Token)",
             "color": "UR",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Beast",
@@ -8462,7 +8462,7 @@
             "notes": ""
         },
         {
-            "card_name": "Citizen",
+            "card_name": "Citizen Token",
             "color": "WG",
             "rarity": "common",
             "type": "Token Creature \u2014 Citizen",
@@ -8483,7 +8483,7 @@
             "notes": ""
         },
         {
-            "card_name": "Cleric",
+            "card_name": "Cleric Token",
             "color": "WB",
             "rarity": "common",
             "type": "Token Creature \u2014 Cleric",
@@ -8504,7 +8504,7 @@
             "notes": ""
         },
         {
-            "card_name": "Cleric Archer Ranger",
+            "card_name": "Cleric Archer Ranger Token",
             "color": "WB",
             "rarity": "common",
             "type": "Token Creature \u2014 Cleric Archer Ranger",
@@ -8525,7 +8525,7 @@
             "notes": ""
         },
         {
-            "card_name": "Crawltipede",
+            "card_name": "Crawltipede (Token)",
             "color": "WR",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Worm",
@@ -8546,7 +8546,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Destroyer",
+            "card_name": "The Destroyer (Token)",
             "color": "UBR",
             "rarity": "common",
             "type": "Token Legendary Artifact Creature \u2014 Wurm Boss",
@@ -8567,7 +8567,7 @@
             "notes": ""
         },
         {
-            "card_name": "Dr. Man Fly",
+            "card_name": "Dr. Man Fly (Token)",
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Insect Doctor",
@@ -8588,7 +8588,7 @@
             "notes": ""
         },
         {
-            "card_name": "Drakomire Rider",
+            "card_name": "Drakomire Rider (Token)",
             "color": "WR",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Warrior",
@@ -8609,7 +8609,7 @@
             "notes": ""
         },
         {
-            "card_name": "Duke Fishron",
+            "card_name": "Duke Fishron (Token)",
             "color": "URG",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Leviathan Noble Boss",
@@ -8630,7 +8630,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Empress of Light",
+            "card_name": "The Empress of Light (Token)",
             "color": "WU",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 God Noble Boss",
@@ -8651,7 +8651,7 @@
             "notes": ""
         },
         {
-            "card_name": "Eye of Cthulhu",
+            "card_name": "Eye of Cthulhu (Token)",
             "color": "BR",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Eye Horror Boss",
@@ -8672,7 +8672,7 @@
             "notes": ""
         },
         {
-            "card_name": "Flow Invader",
+            "card_name": "Flow Invader (Token)",
             "color": "WUG",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Jellyfish",
@@ -8693,7 +8693,7 @@
             "notes": ""
         },
         {
-            "card_name": "Flying Dutchman",
+            "card_name": "Flying Dutchman (Token)",
             "color": "UBR",
             "rarity": "common",
             "type": "Token Legendary Kindred Artifact \u2014 Vehicle Pirate Boss",
@@ -8714,7 +8714,7 @@
             "notes": ""
         },
         {
-            "card_name": "Frost Moon Elf",
+            "card_name": "Frost Moon Elf (Token)",
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Zombie Elf",
@@ -8735,7 +8735,7 @@
             "notes": ""
         },
         {
-            "card_name": "Frost Moon Yeti",
+            "card_name": "Frost Moon Yeti (Token)",
             "color": "UB",
             "rarity": "common",
             "type": "Token Creature \u2014 Yeti",
@@ -8756,7 +8756,7 @@
             "notes": ""
         },
         {
-            "card_name": "Goblin Archer",
+            "card_name": "Goblin Archer (Token)",
             "color": "RG",
             "rarity": "common",
             "type": "Token Creature \u2014 Goblin Archer Ranger",
@@ -8777,7 +8777,7 @@
             "notes": ""
         },
         {
-            "card_name": "Goblin Warrior",
+            "card_name": "Goblin Warrior (Token)",
             "color": "RG",
             "rarity": "common",
             "type": "Token Creature \u2014 Goblin Warrior",
@@ -8798,7 +8798,7 @@
             "notes": ""
         },
         {
-            "card_name": "Horror Illusion",
+            "card_name": "Horror Illusion Token",
             "color": "UR",
             "rarity": "common",
             "type": "Token Creature \u2014 Horror Illusion",
@@ -8819,7 +8819,7 @@
             "notes": ""
         },
         {
-            "card_name": "Insect",
+            "card_name": "Insect Token (Gruul)",
             "color": "RG",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect",
@@ -8840,7 +8840,7 @@
             "notes": ""
         },
         {
-            "card_name": "Jey, Young Angler",
+            "card_name": "Jey, Young Angler (Token)",
             "color": "WU",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Human Citizen",
@@ -8861,7 +8861,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Lunatic Cultist",
+            "card_name": "The Lunatic Cultist (Token)",
             "color": "WUB",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Human Cleric Boss",
@@ -8882,7 +8882,7 @@
             "notes": ""
         },
         {
-            "card_name": "Mothron",
+            "card_name": "Mothron (Token)",
             "color": "WBG",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect Boss",
@@ -8903,7 +8903,7 @@
             "notes": ""
         },
         {
-            "card_name": "Mourning Wood",
+            "card_name": "Mourning Wood (Token)",
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Treefolk Horror Boss",
@@ -8924,7 +8924,7 @@
             "notes": ""
         },
         {
-            "card_name": "Paladin's Gear",
+            "card_name": "Paladin's Gear (Token)",
             "color": "WB",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -8945,7 +8945,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pirate Captain",
+            "card_name": "Pirate Captain (Token)",
             "color": "UBR",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Pirate Boss",
@@ -8966,7 +8966,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pirate Crossbower",
+            "card_name": "Pirate Crossbower (Token)",
             "color": "UB",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Pirate Ranger",
@@ -8987,7 +8987,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pirate Deadeye",
+            "card_name": "Pirate Deadeye (Token)",
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Pirate Ranger",
@@ -9008,7 +9008,7 @@
             "notes": ""
         },
         {
-            "card_name": "Plantera, Jungle's Soul",
+            "card_name": "Plantera, Jungle's Soul (Token)",
             "color": "WRG",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Plant Avatar Boss",
@@ -9029,7 +9029,7 @@
             "notes": ""
         },
         {
-            "card_name": "Predictor",
+            "card_name": "Predictor (Token)",
             "color": "URG",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Shaman Warrior",
@@ -9050,7 +9050,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pumpking",
+            "card_name": "Pumpking (Token)",
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Scarecrow Noble Boss",
@@ -9071,7 +9071,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pursuing Eye",
+            "card_name": "Pursuing Eye (Token)",
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2014 Eye",
@@ -9092,7 +9092,7 @@
             "notes": ""
         },
         {
-            "card_name": "Queen Bee",
+            "card_name": "Queen Bee (Token)",
             "color": "RG",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Insect Noble Boss",
@@ -9113,7 +9113,7 @@
             "notes": ""
         },
         {
-            "card_name": "Retinazer and Spazmatism",
+            "card_name": "Retinazer and Spazmatism (Token)",
             "color": "WBR",
             "rarity": "common",
             "type": "Token Legendary Artifact Creature \u2014 Eye Boss",
@@ -9134,7 +9134,7 @@
             "notes": ""
         },
         {
-            "card_name": "Selenian",
+            "card_name": "Selenian (Token)",
             "color": "WR",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Warrior",
@@ -9155,7 +9155,7 @@
             "notes": ""
         },
         {
-            "card_name": "Skeletron, Dungeon Guardian",
+            "card_name": "Skeletron, Dungeon Guardian (Token)",
             "color": "WBR",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Skeleton Boss",
@@ -9176,7 +9176,7 @@
             "notes": ""
         },
         {
-            "card_name": "Skeletron Prime",
+            "card_name": "Skeletron Prime (Token)",
             "color": "WUR",
             "rarity": "common",
             "type": "Token Legendary Artifact Creature \u2014 Skeleton Boss",
@@ -9197,7 +9197,7 @@
             "notes": ""
         },
         {
-            "card_name": "Storm Diver",
+            "card_name": "Storm Diver (Token)",
             "color": "UB",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien Ranger Soldier",
@@ -9218,7 +9218,7 @@
             "notes": ""
         },
         {
-            "card_name": "Swamp Thing",
+            "card_name": "Swamp Thing (Token)",
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Plant Horror",
@@ -9239,7 +9239,7 @@
             "notes": ""
         },
         {
-            "card_name": "Wall of Flesh",
+            "card_name": "Wall of Flesh (Token)",
             "color": "BR",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Wall Horror Boss",
@@ -9260,7 +9260,7 @@
             "notes": ""
         },
         {
-            "card_name": "Blood Zombie",
+            "card_name": "Blood Zombie (Token)",
             "color": "BR",
             "rarity": "common",
             "type": "TokenCreature \u2014 Zombie Horror",
@@ -9281,7 +9281,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Eater of Worlds",
+            "card_name": "The Eater of Worlds (Token)",
             "color": "BRG",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Wurm Horror Boss",
@@ -9302,7 +9302,7 @@
             "notes": ""
         },
         {
-            "card_name": "Excalibur",
+            "card_name": "Excalibur (Token)",
             "color": "WRG",
             "rarity": "common",
             "type": "Token Legendary Artifact \u2014 Equipment",
@@ -9323,7 +9323,7 @@
             "notes": ""
         },
         {
-            "card_name": "King Slime",
+            "card_name": "King Slime (Token)",
             "color": "UG",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Ooze Noble Boss",
@@ -9344,7 +9344,7 @@
             "notes": ""
         },
         {
-            "card_name": "Night's Edge",
+            "card_name": "Night's Edge (Token)",
             "color": "BRG",
             "rarity": "common",
             "type": "Token Legendary Artifact \u2014 Equipment",
@@ -9365,7 +9365,7 @@
             "notes": ""
         },
         {
-            "card_name": "Ale Tosser",
+            "card_name": "Ale Tosser (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment Food",
@@ -9386,7 +9386,7 @@
             "notes": ""
         },
         {
-            "card_name": "Bomb",
+            "card_name": "Bomb Token",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Bomb",
@@ -9407,7 +9407,7 @@
             "notes": ""
         },
         {
-            "card_name": "Bounding Balloon",
+            "card_name": "Bounding Balloon (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9428,7 +9428,7 @@
             "notes": ""
         },
         {
-            "card_name": "Broken Hero Sword",
+            "card_name": "Broken Hero Sword (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9449,7 +9449,7 @@
             "notes": ""
         },
         {
-            "card_name": "Clentaminator Solution",
+            "card_name": "Clentaminator Solution (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Fortification",
@@ -9470,7 +9470,7 @@
             "notes": ""
         },
         {
-            "card_name": "Clue",
+            "card_name": "Clue Token",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Clue",
@@ -9491,7 +9491,7 @@
             "notes": ""
         },
         {
-            "card_name": "Combined Gear",
+            "card_name": "Combined Gear (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9512,7 +9512,7 @@
             "notes": ""
         },
         {
-            "card_name": "Construct",
+            "card_name": "Construct Token (Probe)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Construct",
@@ -9533,7 +9533,7 @@
             "notes": ""
         },
         {
-            "card_name": "Construct",
+            "card_name": "Construct Token (Melee)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Construct",
@@ -9554,7 +9554,7 @@
             "notes": ""
         },
         {
-            "card_name": "Construct",
+            "card_name": "Construct Token (Ranged)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Construct",
@@ -9575,7 +9575,7 @@
             "notes": ""
         },
         {
-            "card_name": "Deadly Sphere",
+            "card_name": "Deadly Sphere (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Construct",
@@ -9596,7 +9596,7 @@
             "notes": ""
         },
         {
-            "card_name": "Food",
+            "card_name": "Food Token",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Food",
@@ -9617,7 +9617,7 @@
             "notes": ""
         },
         {
-            "card_name": "Gingerbread Man",
+            "card_name": "Gingerbread Man (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Food Golem",
@@ -9638,7 +9638,7 @@
             "notes": ""
         },
         {
-            "card_name": "Golf Cart",
+            "card_name": "Golf Cart (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Vehicle",
@@ -9659,7 +9659,7 @@
             "notes": ""
         },
         {
-            "card_name": "Grapple Hook",
+            "card_name": "Grapple Hook (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9680,7 +9680,7 @@
             "notes": ""
         },
         {
-            "card_name": "Guide Voodoo Doll",
+            "card_name": "Guide Voodoo Doll (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact",
@@ -9701,7 +9701,7 @@
             "notes": ""
         },
         {
-            "card_name": "Leather Armor",
+            "card_name": "Leather Armor (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9722,7 +9722,7 @@
             "notes": ""
         },
         {
-            "card_name": "Mana Crystal",
+            "card_name": "Mana Crystal (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact",
@@ -9743,7 +9743,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pirate's Cutlass",
+            "card_name": "Pirate's Cutlass (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9764,7 +9764,7 @@
             "notes": ""
         },
         {
-            "card_name": "Pumpkin Scarecrow",
+            "card_name": "Pumpkin Scarecrow (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Food Scarecrow",
@@ -9785,7 +9785,7 @@
             "notes": ""
         },
         {
-            "card_name": "Rocket Boots",
+            "card_name": "Rocket Boots (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9806,7 +9806,7 @@
             "notes": ""
         },
         {
-            "card_name": "Rogue's Gloves",
+            "card_name": "Rogue's Gloves (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9827,7 +9827,7 @@
             "notes": ""
         },
         {
-            "card_name": "Strange Brew",
+            "card_name": "Strange Brew (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact",
@@ -9848,7 +9848,7 @@
             "notes": ""
         },
         {
-            "card_name": "Tinkerer's Workshop",
+            "card_name": "Tinkerer's Workshop (Token)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact",
@@ -9869,7 +9869,7 @@
             "notes": ""
         },
         {
-            "card_name": "Treasure",
+            "card_name": "Treasure Token",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
@@ -9890,7 +9890,7 @@
             "notes": ""
         },
         {
-            "card_name": "Umbrella",
+            "card_name": "Umbrella Token",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
@@ -9911,7 +9911,7 @@
             "notes": ""
         },
         {
-            "card_name": "Forest",
+            "card_name": "Forest Token",
             "color": "",
             "rarity": "common",
             "type": "Token Land \u2014 Forest",
@@ -9932,7 +9932,7 @@
             "notes": ""
         },
         {
-            "card_name": "Forest Plains",
+            "card_name": "Forest Plains Token",
             "color": "",
             "rarity": "common",
             "type": "Token Land \u2014 Forest Plains",
@@ -9953,7 +9953,7 @@
             "notes": ""
         },
         {
-            "card_name": "Mountain Forest",
+            "card_name": "Mountain Forest Token",
             "color": "",
             "rarity": "common",
             "type": "Token Land \u2014 Mountain Forest",
@@ -10079,5 +10079,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

@@ -1,4 +1,309 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+The Nebula Pillar (Token) added.
+The Solar Pillar (Token) added.
+The Stardust Pillar (Token) added.
+The Vortex Pillar (Token) added.
+Hero Token added.
+The Bride (Token) added.
+Bride's Gown (Token) added.
+Flinx Fur Coat (Token) added.
+Hallow Pixie (Token) added.
+Insect Token (White) added.
+Old Man Token added.
+Rabbit Token added.
+Stargazer (Token) added.
+Alien Hornet (Token) added.
+Alien Insect Egg Token added.
+Alien Ooze Token added.
+Alien Queen (Token) added.
+Cleric Illusion Token added.
+Drake Illusion Token added.
+Fish Token added.
+Flocko (Token) added.
+Ice Queen (Token) added.
+Pirate's Parrot (Token) added.
+Shark Token added.
+Star Cell (Token) added.
+Surface Slime (Token) added.
+Wizard Attire (Token) added.
+Yeti Token added.
+Corrupt Bunny (Token) added.
+Creature from the Deep (Token) added.
+Cursed Pirate (Token) added.
+Eclipse Butcher (Token) added.
+Eclipse Psycho (Token) added.
+Eyezor (Token) added.
+The Groom (Token) added.
+Groom's Finery (Token) added.
+Headless Horserider (Token) added.
+Mister Stabby (Token) added.
+Nailhead (Token) added.
+The Possessed (Token) added.
+Reaper of the Eclipse (Token) added.
+Santa-NK1 (Token) added.
+Shapeshifting Vampire (Token) added.
+Skeleton Token added.
+Vortexian (Token) added.
+Warren, Tax Collector (Token) added.
+Zombie Token added.
+Bomb Slime (Token) added.
+Drake Token added.
+Drakomire (Token) added.
+Enchanted Sword (Token) added.
+Evolution Beast (Token) added.
+Goblin Peon (Token) added.
+Goblin Sorcerer (Token) added.
+Goblin Thief (Token) added.
+Imp Wizard Token added.
+Pirate Corsair (Token) added.
+Pirate Deckhand (Token) added.
+Snow Balla (Token) added.
+Vicious Bunny (Token) added.
+Coin Slime (Token) added.
+Everscream (Token) added.
+Flinx Staff (Token) added.
+Insect Token (Green) added.
+Insect Egg Token added.
+Ooze Token added.
+Plant Token added.
+Snowman Gangsta (Token) added.
+Splinterling (Token) added.
+Wurm Token (Big) added.
+Wurm Token (Small) added.
+Baby Mothron Token added.
+Blood Drippler (Token) added.
+Bomb Rabbit Token added.
+Brain of Cthulhu (Token) added.
+Brain Suckler (Token) added.
+Citizen Token added.
+Cleric Token added.
+Cleric Archer Ranger Token added.
+Crawltipede (Token) added.
+The Destroyer (Token) added.
+Dr. Man Fly (Token) added.
+Drakomire Rider (Token) added.
+Duke Fishron (Token) added.
+The Empress of Light (Token) added.
+Eye of Cthulhu (Token) added.
+Flow Invader (Token) added.
+Flying Dutchman (Token) added.
+Frost Moon Elf (Token) added.
+Frost Moon Yeti (Token) added.
+Goblin Archer (Token) added.
+Goblin Warrior (Token) added.
+Horror Illusion Token added.
+Insect Token (Gruul) added.
+Jey, Young Angler (Token) added.
+The Lunatic Cultist (Token) added.
+Mothron (Token) added.
+Mourning Wood (Token) added.
+Paladin's Gear (Token) added.
+Pirate Captain (Token) added.
+Pirate Crossbower (Token) added.
+Pirate Deadeye (Token) added.
+Plantera, Jungle's Soul (Token) added.
+Predictor (Token) added.
+Pumpking (Token) added.
+Pursuing Eye (Token) added.
+Queen Bee (Token) added.
+Retinazer and Spazmatism (Token) added.
+Selenian (Token) added.
+Skeletron, Dungeon Guardian (Token) added.
+Skeletron Prime (Token) added.
+Storm Diver (Token) added.
+Swamp Thing (Token) added.
+Wall of Flesh (Token) added.
+Blood Zombie (Token) added.
+The Eater of Worlds (Token) added.
+Excalibur (Token) added.
+King Slime (Token) added.
+Night's Edge (Token) added.
+Ale Tosser (Token) added.
+Bomb Token added.
+Bounding Balloon (Token) added.
+Broken Hero Sword (Token) added.
+Clentaminator Solution (Token) added.
+Clue Token added.
+Combined Gear (Token) added.
+Construct Token (Probe) added.
+Construct Token (Melee) added.
+Construct Token (Ranged) added.
+Deadly Sphere (Token) added.
+Food Token added.
+Gingerbread Man (Token) added.
+Golf Cart (Token) added.
+Grapple Hook (Token) added.
+Guide Voodoo Doll (Token) added.
+Leather Armor (Token) added.
+Mana Crystal (Token) added.
+Pirate's Cutlass (Token) added.
+Pumpkin Scarecrow (Token) added.
+Rocket Boots (Token) added.
+Rogue's Gloves (Token) added.
+Strange Brew (Token) added.
+Tinkerer's Workshop (Token) added.
+Treasure Token added.
+Umbrella Token added.
+Forest Token added.
+Forest Plains Token added.
+Mountain Forest Token added.
+
+The Nebula Pillar removed.
+The Solar Pillar removed.
+The Stardust Pillar removed.
+The Vortex Pillar removed.
+Hero removed.
+The Bride removed.
+Bride's Gown removed.
+Flinx Fur Coat removed.
+Hallow Pixie removed.
+Insect removed.
+Old Man removed.
+Rabbit removed.
+Stargazer removed.
+Alien Hornet removed.
+Alien Insect Egg removed.
+Alien Ooze removed.
+Alien Queen removed.
+Cleric Illusion removed.
+Drake Illusion removed.
+Fish removed.
+Flocko removed.
+Ice Queen removed.
+Pirate's Parrot removed.
+Shark removed.
+Star Cell removed.
+Surface Slime removed.
+Wizard Attire removed.
+Yeti removed.
+Corrupt Bunny removed.
+Creature from the Deep removed.
+Cursed Pirate removed.
+Eclipse Butcher removed.
+Eclipse Psycho removed.
+Eyezor removed.
+The Groom removed.
+Groom's Finery removed.
+Headless Horserider removed.
+Mister Stabby removed.
+Nailhead removed.
+The Possessed removed.
+Reaper of the Eclipse removed.
+Santa-NK1 removed.
+Shapeshifting Vampire removed.
+Skeleton removed.
+Vortexian removed.
+Warren, Tax Collector removed.
+Zombie removed.
+Bomb Slime removed.
+Drake removed.
+Drakomire removed.
+Enchanted Sword removed.
+Evolution Beast removed.
+Goblin Peon removed.
+Goblin Sorcerer removed.
+Goblin Thief removed.
+Imp Wizard removed.
+Pirate Corsair removed.
+Pirate Deckhand removed.
+Snow Balla removed.
+Vicious Bunny removed.
+Coin Slime removed.
+Everscream removed.
+Flinx Staff removed.
+Insect removed.
+Insect Egg removed.
+Ooze removed.
+Plant removed.
+Snowman Gangsta removed.
+Splinterling removed.
+Wurm removed.
+Wurm removed.
+Baby Mothron removed.
+Blood Drippler removed.
+Bomb Rabbit removed.
+Brain of Cthulhu removed.
+Brain Suckler removed.
+Citizen removed.
+Cleric removed.
+Cleric Archer Ranger removed.
+Crawltipede removed.
+The Destroyer removed.
+Dr. Man Fly removed.
+Drakomire Rider removed.
+Duke Fishron removed.
+The Empress of Light removed.
+Eye of Cthulhu removed.
+Flow Invader removed.
+Flying Dutchman removed.
+Frost Moon Elf removed.
+Frost Moon Yeti removed.
+Goblin Archer removed.
+Goblin Warrior removed.
+Horror Illusion removed.
+Insect removed.
+Jey, Young Angler removed.
+The Lunatic Cultist removed.
+Mothron removed.
+Mourning Wood removed.
+Paladin's Gear removed.
+Pirate Captain removed.
+Pirate Crossbower removed.
+Pirate Deadeye removed.
+Plantera, Jungle's Soul removed.
+Predictor removed.
+Pumpking removed.
+Pursuing Eye removed.
+Queen Bee removed.
+Retinazer and Spazmatism removed.
+Selenian removed.
+Skeletron, Dungeon Guardian removed.
+Skeletron Prime removed.
+Storm Diver removed.
+Swamp Thing removed.
+Wall of Flesh removed.
+Blood Zombie removed.
+The Eater of Worlds removed.
+Excalibur removed.
+King Slime removed.
+Night's Edge removed.
+Ale Tosser removed.
+Bomb removed.
+Bounding Balloon removed.
+Broken Hero Sword removed.
+Clentaminator Solution removed.
+Clue removed.
+Combined Gear removed.
+Construct removed.
+Construct removed.
+Construct removed.
+Deadly Sphere removed.
+Food removed.
+Gingerbread Man removed.
+Golf Cart removed.
+Grapple Hook removed.
+Guide Voodoo Doll removed.
+Leather Armor removed.
+Mana Crystal removed.
+Pirate's Cutlass removed.
+Pumpkin Scarecrow removed.
+Rocket Boots removed.
+Rogue's Gloves removed.
+Strange Brew removed.
+Tinkerer's Workshop removed.
+Treasure removed.
+Umbrella removed.
+Forest removed.
+Forest Plains removed.
+Mountain Forest removed.
+
+Hallowed Armor
+cost: {2}{W} => {1}{W}
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.
