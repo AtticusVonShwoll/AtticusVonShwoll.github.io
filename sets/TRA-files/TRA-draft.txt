@@ -79,7 +79,7 @@
 			"related_cards": [
 			"Wurm Token",
 			"Wurm Token2"
-			],
+			]
 		},
 		{
 			"name": "The Eater of Worlds Token",
@@ -126,7 +126,7 @@
 			},
 			"related_cards": [
 			"The Eater of Worlds Token"
-			],
+			]
 		},
 		{
 			"name": "Eye of Cthulhu",
@@ -173,7 +173,7 @@
 			},
 			"related_cards": [
 			"Eye of Cthulhu Token"
-			],
+			]
 		},
 		{
 			"name": "King Slime",
@@ -193,7 +193,7 @@
 			},
 			"related_cards": [
 			"Ooze Token"
-			],
+			]
 		},
 		{
 			"name": "King Slime Token",
@@ -240,7 +240,7 @@
 			},
 			"related_cards": [
 			"Insect Token RG"
-			],
+			]
 		},
 		{
 			"name": "Queen Bee Token",
@@ -287,7 +287,7 @@
 			},
 			"related_cards": [
 			"Horror Illusion Token"
-			],
+			]
 		},
 		{
 			"name": "Brain of Cthulhu Token",
@@ -333,7 +333,7 @@
 			},
 			"related_cards": [
 			"King Slime Token"
-			],
+			]
 		},
 		{
 			"name": "Slime Rain",
@@ -358,8 +358,7 @@
 			"Surface Slime Token",
 			"Ooze Token",
 			"King Slime Token"
-			],
-		},
+			]
 			{
 			"name": "Treasure Token",
 			"mana_cost": "",
@@ -426,8 +425,7 @@
 			"related_cards": [
 			"Insect Token RG",
 			"Queen Bee Token"
-			],
-		},
+			]
 		{
 			"name": "Bloody Spine",
 			"rarity": "uncommon",
@@ -441,8 +439,7 @@
 			},
 			"related_cards": [
 			"Brain of Cthulhu Token"
-			],
-		},
+			]
 		{
 			"name": "Retinazer and Spazmatism",
 			"rarity": "mythic",
@@ -488,8 +485,7 @@
 			},
 			"related_cards": [
 			"Wall of Flesh Token"
-			],
-		},
+			]
 		{
 			"name": "Guide Voodoo Doll Token",
 			"mana_cost": "{2}",
@@ -519,8 +515,7 @@
 			"related_cards": [
 			"Construct Token Ranged",
 			"Construct Token Melee"
-			],
-		},
+			]
 		{
 			"name": "Skeletron Prime Token",
 			"mana_cost": "{3}{U}{R}{W}",
@@ -578,8 +573,7 @@
 			},
 			"related_cards": [
 			"Construct Token Drone"
-			],
-		},
+			]
 		{
 			"name": "The Destroyer Token",
 			"mana_cost": "{3}{U}{B}{R}",
@@ -693,8 +687,7 @@
 			},
 			"related_cards": [
 			"Retinazer and Spazmatism Token"
-			],
-		},
+			]
 		{
 			"name": "Mechanical Wurm",
 			"rarity": "uncommon",
@@ -709,8 +702,7 @@
 			"related_cards": [
 			"The Destroyer Token",
 			"Construct Token Drone"
-			],
-		},
+			]
 		{
 			"name": "Mechanical Skull",
 			"rarity": "uncommon",
@@ -726,8 +718,7 @@
 			"Skeletron Prime Token",
 			"Construct Token Ranged",
 			"Construct Token Melee"
-			],
-		},
+			]
 		{
 			"name": "Sandy River",
 			"rarity": "uncommon",
@@ -866,8 +857,7 @@
 			},
 			"related_cards": [
 			"Eye of Cthulhu Token"
-			],
-		},
+			]
 		{
 			"name": "Pursuing Eye Token",
 			"mana_cost": "{B}{R}",
@@ -928,8 +918,7 @@
 			},
 			"related_cards": [
 			"Plantera, Jungle's Soul Token"
-			],
-		},
+			]
 		{
 			"name": "The Journey's Beginning",
 			"rarity": "mythic",
@@ -947,8 +936,7 @@
 			"related_cards": [
 			"Coin Slime Token",
 			"Zombie Token"
-			],
-		},
+			]
 			{
 			"name": "Zombie Token",
 			"mana_cost": "",
@@ -975,8 +963,7 @@
 			"related_cards": [
 			"Treasure Token",
 			"The Eater of Worlds Token"
-			],
-		},
+			]
 		{
 			"name": "Mecha Mayhem",
 			"rarity": "rare",
@@ -1004,8 +991,7 @@
 			"The Destroyer Token",
 			"Retinazer and Spazmatism Token",
 			"Skeletron Prime Token"
-			],
-		},
+			]
 		{
 			"name": "Duke Fishron",
 			"rarity": "mythic",
@@ -1024,8 +1010,7 @@
 			},
 			"related_cards": [
 			"Shark Token"
-			],
-		},
+			]
 		{
 			"name": "Duke Fishron Token",
 			"mana_cost": "{3}{G}{U}{R}",
@@ -1092,8 +1077,7 @@
 			"Treasure Token",
 			"Night's Edge Token",
 			"Hero Token"
-			],
-		},
+			]
 		{
 			"name": "Boss Rush",
 			"rarity": "rare",
@@ -1123,8 +1107,7 @@
 			"Plant Token",
 			"Treasure Token",
 			"Clue Token"
-			],
-		},
+			]
 			{
 			"name": "Plant Token",
 			"mana_cost": "",
@@ -1251,8 +1234,7 @@
 			},
 			"related_cards": [
 			"Hero Token"
-			],
-		},
+			]
 		{
 			"name": "Night's Edge Token",
 			"mana_cost": "{4}{R/G}{B}",
@@ -1284,8 +1266,7 @@
 			},
 			"related_cards": [
 			"Ooze Token"
-			],
-		},
+			]
 		{
 			"name": "Luciano, Inspired Painter",
 			"rarity": "uncommon",
@@ -1304,8 +1285,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Jey, Young Angler",
 			"rarity": "uncommon",
@@ -1325,8 +1305,7 @@
 			"related_cards": [
 			"Fish Token",
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Jey, Young Angler Token",
 			"mana_cost": "{1}{W}{U}",
@@ -1432,8 +1411,7 @@
 			},
 			"related_cards": [
 			"Enchanted Sword Token"
-			],
-		},
+			]
 		{
 			"name": "No-Dachi",
 			"rarity": "uncommon",
@@ -1465,8 +1443,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Nightly Defending",
 			"rarity": "common",
@@ -1480,8 +1457,7 @@
 			},
 			"related_cards": [
 			"Zombie Token"
-			],
-		},
+			]
 		{
 			"name": "Strength in Numbers",
 			"rarity": "common",
@@ -1509,8 +1485,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Magic Missile",
 			"rarity": "uncommon",
@@ -1539,8 +1514,7 @@
 			},
 			"related_cards": [
 			"Hero Token"
-			],
-		},
+			]
 		{
 			"name": "Excalibur Token",
 			"mana_cost": "{4}{R/G}{W}",
@@ -1572,8 +1546,7 @@
 			},
 			"related_cards": [
 			"Rabbit Token"
-			],
-		},
+			]
 			{
 			"name": "Rabbit Token",
 			"mana_cost": "",
@@ -1616,8 +1589,7 @@
 			},
 			"related_cards": [
 			"Bomb Token"
-			],
-		},
+			]
 		{
 			"name": "Bomb Slime Token",
 			"mana_cost": "{R}",
@@ -1651,8 +1623,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Coin Slime Token",
 			"rarity": "common",
@@ -1704,8 +1675,7 @@
 			"Alien Queen Token",
 			"Storm Diver Token",
 			"Vortexian Token"
-			],
-		},
+			]
 		{
 			"name": "The Vortex Pillar Token",
 			"mana_cost": "{1}{U}{U}{B}{B}",
@@ -1739,8 +1709,7 @@
 			"Brain Suckler Token",
 			"Evolution Beast Token",
 			"Predictor Token"
-			],
-		},
+			]
 		{
 			"name": "The Nebula Pillar Token",
 			"mana_cost": "{G}{U}{R}{R}",
@@ -1775,8 +1744,7 @@
 			"Alien Ooze Token",
 			"Star Cell Token",
 			"Stargazer Token"
-			],
-		},
+			]
 		{
 			"name": "The Stardust Pillar Token",
 			"mana_cost": "{1}{G}{W}{U}",
@@ -1811,8 +1779,7 @@
 			"Drakomire Rider Token",
 			"Drakomire Token",
 			"Selenian Token"
-			],
-		},
+			]
 		{
 			"name": "The Solar Pillar Token",
 			"mana_cost": "{1}{R}{R}{W}{W}",
@@ -1845,8 +1812,7 @@
 			},
 			"related_cards": [
 			"Bomb Token"
-			],
-		},
+			]
 		{
 			"name": "Booby Trapped Cache",
 			"rarity": "common",
@@ -1946,8 +1912,7 @@
 			},
 			"related_cards": [
 			"Umbrella"
-			],
-		},
+			]
 			{
 			"name": "Umbrella",
 			"mana_cost": "",
@@ -1992,8 +1957,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Emilia, Hallow Princess",
 			"rarity": "rare",
@@ -2012,8 +1976,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Dazzle, Life of the Party",
 			"rarity": "uncommon",
@@ -2032,8 +1995,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Warren, Tax Collector",
 			"rarity": "uncommon",
@@ -2052,8 +2014,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Warren, Tax Collector Token",
 			"mana_cost": "{3}{B}{B}",
@@ -2087,8 +2048,7 @@
 			},
 			"related_cards": [
 			"Warren, Tax Collector Token"
-			],
-		},
+			]
 		{
 			"name": "Purification Powder",
 			"rarity": "common",
@@ -2119,8 +2079,7 @@
 			},
 			"related_cards": [
 			"Groom's Finery Token"
-			],
-		},
+			]
 		{
 			"name": "The Groom Token",
 			"mana_cost": "{1}{B}",
@@ -2267,8 +2226,7 @@
 			},
 			"related_cards": [
 			"Drakomire Token"
-			],
-		},
+			]
 		{
 			"name": "Drakomire Rider Token",
 			"mana_cost": "{1}{R}{R}{W}",
@@ -2399,8 +2357,7 @@
 			"related_cards": [
 			"Alien Queen Token",
 			"Alien Insect Egg Token"
-			],
-		},
+			]
 		{
 			"name": "Alien Hornet Token",
 			"mana_cost": "{2}{U}{U}",
@@ -2435,8 +2392,7 @@
 			"related_cards": [
 			"Alien Insect Egg Token",
 			"Alien Hornet Token"
-			],
-		},
+			]
 		{
 			"name": "Alien Queen Token",
 			"mana_cost": "{3}{U}{U}",
@@ -2582,8 +2538,7 @@
 			"Grapple Hook Token",
 			"Rocket Boots Token",
 			"Tinkerer's Workshop Token"
-			],
-		},
+			]
 		{
 			"name": "Grapple Hook",
 			"rarity": "common",
@@ -3343,8 +3298,7 @@
 			},
 			"related_cards": [
 			"Bomb Rabbit Token"
-			],
-		},
+			]
 			{
 			"name": "Bomb Rabbit Token",
 			"mana_cost": "",
@@ -3377,8 +3331,7 @@
 			"Treasure Token",
 			"Leather Armor Token",
 			"Rogue's Gloves Token"
-			],
-		},
+			]
 			{
 			"name": "Leather Armor Token",
 			"mana_cost": "1",
@@ -3412,8 +3365,7 @@
 			},
 			"related_cards": [
 			"Skeletron, Dungeon Guardian Token"
-			],
-		},
+			]
 		{
 			"name": "Gray Grunt",
 			"rarity": "common",
@@ -3473,8 +3425,7 @@
 			"Splinterling Token",
 			"Headless Horserider Token",
 			"Mourning Wood Token",
-			],
-		},
+			]
 		{
 			"name": "Pumpking Token",
 			"mana_cost": "{1}{B}{B}{G}",
@@ -3540,8 +3491,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Excessive Mining",
 			"rarity": "rare",
@@ -3555,8 +3505,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "The Air Becomes Colder",
 			"rarity": "rare",
@@ -3577,8 +3526,7 @@
 			"Skeletron Prime Token",
 			"Construct Token Ranged",
 			"Construct Token Melee"
-			],
-		},
+			]
 		{
 			"name": "The Celestial Invasion",
 			"rarity": "mythic",
@@ -3615,8 +3563,7 @@
 			"Alien Insect Egg Token",
 			"Storm Diver Token",
 			"Vortexian Token"
-			],
-		},
+			]
 		{
 			"name": "The Mage",
 			"rarity": "mythic",
@@ -3635,8 +3582,7 @@
 			},
 			"related_cards": [
 			"Mana Crystal Token"
-			],
-		},
+			]
 		{
 			"name": "Gathering of the Cultists",
 			"rarity": "rare",
@@ -3658,8 +3604,7 @@
 			"The Lunatic Cultist Token",
 			"Cleric Illusion Token",
 			"Drake Illusion Token"
-			],
-		},
+			]
 			{
 			"name": "Cleric Token",
 			"mana_cost": "",
@@ -3705,8 +3650,7 @@
 			"Goblin Sorcerer Token",
 			"Goblin Thief Token",
 			"Goblin Warrior Token"
-			],
-		},
+			]
 		{
 			"name": "The Lunatic Cultist",
 			"rarity": "mythic",
@@ -3726,8 +3670,7 @@
 			"related_cards": [
 			"Cleric Illusion Token",
 			"Drake Illusion Token"
-			],
-		},
+			]
 		{
 			"name": "The Lunatic Cultist Token",
 			"mana_cost": "{2}{W}{U}{B}",
@@ -3780,8 +3723,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Minimus Containment",
 			"rarity": "common",
@@ -3826,8 +3768,7 @@
 			},
 			"related_cards": [
 			"The Destroyer Token"
-			],
-		},
+			]
 		{
 			"name": "Jungle Grows Restless",
 			"rarity": "rare",
@@ -3848,8 +3789,7 @@
 			"Mountain Forest Token",
 			"Forest Plains Token",
 			"Plantera, Jungle's Soul Token"
-			],
-		},
+			]
 			{
 			"name": "Forest Token",
 			"mana_cost": "",
@@ -3902,8 +3842,7 @@
 			"The Bride Token",
 			"The Groom Token",
 			"Vicious Bunny Token"
-			],
-		},
+			]
 		{
 			"name": "A Terrible Night",
 			"rarity": "rare",
@@ -3922,8 +3861,7 @@
 			"related_cards": [
 			"Zombie Token",
 			"Retinazer and Spazmatism Token"
-			],
-		},
+			]
 		{
 			"name": "Endless Events",
 			"rarity": "uncommon",
@@ -3988,8 +3926,7 @@
 			"Bomb Token",
 			"Treasure Token",
 			"Strange Brew Token"
-			],
-		},
+			]
 		{
 			"name": "Strange Brew",
 			"rarity": "uncommon",
@@ -4030,8 +3967,7 @@
 			},
 			"related_cards": [
 			"The Empress of Light Token"
-			],
-		},
+			]
 		{
 			"name": "Angering a Light God",
 			"rarity": "mythic",
@@ -4051,8 +3987,7 @@
 			"Insect Token W",
 			"Hallow Pixie Token",
 			"The Empress of Light Token"
-			],
-		},
+			]
 			{
 			"name": "Insect Token W",
 			"mana_cost": "",
@@ -4110,8 +4045,7 @@
 			},
 			"related_cards": [
 			"Moon Lord"
-			],
-		},
+			]
 		{
 			"name": "Hornet Nest",
 			"rarity": "common",
@@ -4130,8 +4064,7 @@
 			},
 			"related_cards": [
 			"Insect Token"
-			],
-		},
+			]
 			{
 			"name": "Insect Token",
 			"mana_cost": "",
@@ -4179,8 +4112,7 @@
 			},
 			"related_cards": [
 			"Ooze Token"
-			],
-		},
+			]
 		{
 			"name": "Snow Flinxes",
 			"rarity": "common",
@@ -4202,8 +4134,7 @@
 			"Hero Token",
 			"Flinx Staff Token",
 			"Yeti Token"
-			],
-		},
+			]
 		{
 			"name": "Ice Slime",
 			"rarity": "common",
@@ -4269,8 +4200,7 @@
 			"related_cards": [
 			"Hero Token",
 			"Yeti Token"
-			],
-		},
+			]
 		{
 			"name": "Flinx Staff Token",
 			"mana_cost": "{1}{G}",
@@ -4366,8 +4296,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Lifeforce Potion",
 			"rarity": "common",
@@ -4460,8 +4389,7 @@
 			},
 			"related_cards": [
 			"Skeleton Token"
-			],
-		},
+			]
 			{
 			"name": "Skeleton Token",
 			"mana_cost": "",
@@ -4531,8 +4459,7 @@
 			},
 			"related_cards": [
 			"Moon Lord"
-			],
-		},
+			]
 		{
 			"name": "Ever-Returning Threat",
 			"rarity": "common",
@@ -4546,8 +4473,7 @@
 			},
 			"related_cards": [
 			"Moon Lord"
-			],
-		},
+			]
 		{
 			"name": "Hallowed Armor",
 			"rarity": "uncommon",
@@ -4725,8 +4651,7 @@
 			},
 			"related_cards": [
 			"Alien Ooze Token"
-			],
-		},
+			]
 		{
 			"name": "Flow Invader Token",
 			"mana_cost": "{G}{W}{U}",
@@ -4773,8 +4698,7 @@
 			"Zombie Token",
 			"Pursuing Eye Token",
 			"Eye of Cthulhu Token"
-			],
-		},
+			]
 		{
 			"name": "Contaminated Aquifer",
 			"rarity": "common",
@@ -4923,8 +4847,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Corrupt Devourer",
 			"rarity": "common",
@@ -4943,8 +4866,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Relentless Shark",
 			"rarity": "common",
@@ -5058,8 +4980,7 @@
 			"Hero Token",
 			"Excalibur Token",
 			"Night's Edge Token"
-			],
-		},
+			]
 		{
 			"name": "Broken Hero Sword Token",
 			"mana_cost": "{2}",
@@ -5096,8 +5017,7 @@
 			"Night's Edge Token",
 			"Insect Egg Token",
 			"Insect Token WBG"
-			],
-		},
+			]
 		{
 			"name": "Mothron Token",
 			"mana_cost": "{2}{W}{B}{G}",
@@ -5546,8 +5466,7 @@
 			},
 			"related_cards": [
 			"Hero Token"
-			],
-		},
+			]
 			{
 			"name": "Hero Token",
 			"mana_cost": "",
@@ -5576,8 +5495,7 @@
 			},
 			"related_cards": [
 			"Hero Token"
-			],
-		},
+			]
 		{
 			"name": "Fossil Armor",
 			"rarity": "common",
@@ -5594,8 +5512,7 @@
 			},
 			"related_cards": [
 			"Hero Token"
-			],
-		},
+			]
 		{
 			"name": "Bee Armor",
 			"rarity": "common",
@@ -5612,8 +5529,7 @@
 			},
 			"related_cards": [
 			"Hero Token"
-			],
-		},
+			]
 		{
 			"name": "Crimslime",
 			"rarity": "common",
@@ -5649,8 +5565,7 @@
 			},
 			"related_cards": [
 			"Guide Voodoo Doll Token"
-			],
-		},
+			]
 		{
 			"name": "All the Buffs",
 			"rarity": "rare",
@@ -5727,8 +5642,7 @@
 			},
 			"related_cards": [
 			"Ooze Token"
-			],
-		},
+			]
 		{
 			"name": "Ruinous Rampage",
 			"rarity": "uncommon",
@@ -5792,8 +5706,7 @@
 			"related_cards": [
 			"Paladin's Gear Token",
 			"Hero Token"
-			],
-		},
+			]
 		{
 			"name": "Paladin's Gear",
 			"rarity": "uncommon",
@@ -5810,8 +5723,7 @@
 			},
 			"related_cards": [
 			"Hero Token"
-			],
-		},
+			]
 		{
 			"name": "Paladin's Gear Token",
 			"mana_cost": "{4}{W}{B}",
@@ -5880,8 +5792,7 @@
 			"Headless Horserider Token",
 			"Mourning Wood Token",
 			"Pumpking Token"
-			],
-		},
+			]
 		{
 			"name": "Mourning Wood",
 			"rarity": "common",
@@ -5980,8 +5891,7 @@
 			"Night's Edge Token",
 			"Insect Egg Token",
 			"Insect Token WBG"
-			],
-		},
+			]
 		{
 			"name": "Song of the Dryads",
 			"rarity": "rare",
@@ -6010,8 +5920,7 @@
 			},
 			"related_cards": [
 			"Fish Token"
-			],
-		},
+			]
 		{
 			"name": "Geistwave",
 			"rarity": "common",
@@ -6037,8 +5946,7 @@
 			},
 			"related_cards": [
 			"Citizen Token"
-			],
-		},
+			]
 			{
 			"name": "Citizen Token",
 			"mana_cost": "",
@@ -6064,8 +5972,7 @@
 			},
 			"related_cards": [
 			"Ooze Token"
-			],
-		},
+			]
 		{
 			"name": "Ankh Shield",
 			"rarity": "rare",
@@ -6091,8 +5998,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Lantern Night",
 			"rarity": "rare",
@@ -6127,8 +6033,7 @@
 			"related_cards": [
 			"Fish Token",
 			"Duke Fishron Token"
-			],
-		},
+			]
 		{
 			"name": "Splinterling",
 			"rarity": "common",
@@ -6275,8 +6180,7 @@
 			"Frost Moon Yeti Token",
 			"Ice Queen Token",
 			"Santa-NK1 Token"
-			],
-		},
+			]
 		{
 			"name": "Gingerbrute",
 			"rarity": "common",
@@ -6393,8 +6297,7 @@
 			"Bomb Token",
 			"Food Token",
 			"Treasure Token"
-			],
-		},
+			]
 			{
 			"name": "Food Token",
 			"mana_cost": "",
@@ -6467,8 +6370,7 @@
 			},
 			"related_cards": [
 			"Golf Cart Token"
-			],
-		},
+			]
 		{
 			"name": "Dreadnautilus",
 			"rarity": "rare",
@@ -6565,8 +6467,7 @@
 			},
 			"related_cards": [
 			"Drake Token"
-			],
-		},
+			]
 			{
 			"name": "Drake Token",
 			"mana_cost": "",
@@ -6614,8 +6515,7 @@
 			},
 			"related_cards": [
 			"Clentaminator Solution Token"
-			],
-		},
+			]
 		{
 			"name": "Phi, Explosive Cyborg",
 			"rarity": "rare",
@@ -6634,8 +6534,7 @@
 			},
 			"related_cards": [
 			"Bomb Token"
-			],
-		},
+			]
 		{
 			"name": "Clentaminator Solution",
 			"rarity": "common",
@@ -6715,8 +6614,7 @@
 			"related_cards": [
 			"Bomb Token",
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Pirate Deckhand Token",
 			"mana_cost": "{1}{R}",
@@ -6750,8 +6648,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Pirate Crossbower Token",
 			"mana_cost": "{U}{B}",
@@ -6785,8 +6682,7 @@
 			},
 			"related_cards": [
 			"Bomb Token"
-			],
-		},
+			]
 		{
 			"name": "Pirate Deadeye Token",
 			"mana_cost": "{B}{R}",
@@ -6820,8 +6716,7 @@
 			},
 			"related_cards": [
 			"Pirate's Cutlass Token"
-			],
-		},
+			]
 		{
 			"name": "Pirate Corsair Token",
 			"mana_cost": "{2}{R}",
@@ -6898,8 +6793,7 @@
 			"related_cards": [
 			"Cursed Pirate Token",
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Pirate Captain Token",
 			"mana_cost": "{2}{U}{B}{R}",
@@ -6933,8 +6827,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Cursed Pirate Token",
 			"mana_cost": "{B}",
@@ -6977,8 +6870,7 @@
 			"Flying Dutchman Token",
 			"Pirate Captain Token",
 			"Cursed Pirate Token"
-			],
-		},
+			]
 		{
 			"name": "Bounding Balloon",
 			"rarity": "common",
@@ -7025,8 +6917,7 @@
 			"Fish Token",
 			"Jey, Young Angler Token",
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Light Pet",
 			"rarity": "common",
@@ -7106,8 +6997,7 @@
 			},
 			"related_cards": [
 			"Treasure Token"
-			],
-		},
+			]
 		{
 			"name": "Windy Balloon",
 			"rarity": "common",
