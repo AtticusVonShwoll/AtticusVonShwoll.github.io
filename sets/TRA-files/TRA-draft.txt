@@ -1,8 +1,3 @@
-[Settings]
-{
-"name": "An Exploration of Terraria",
-"showSlots": true,
-}
 [CustomCards]
 	[	
 		{
@@ -2223,7 +2218,7 @@
 		{
 			"name": "Corruption Slimer",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{B}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"cmc": 3,
 			"power": "2",
 			"toughness": "2",
@@ -7241,7 +7236,7 @@
 			"oracle_text": "{T}: Add one mana of any color. This mana can't be spent to cast creature spells.\nWhen Tim dies, call upon Wizard Attire. (Create a token that's a copy of a card named Wizard Attire)",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Skeleton Wizard"
+			"Skeleton Wizard Boss"
 			],
 			"collector_number": "50",
 			"image_uris": {
@@ -8272,3 +8267,8 @@
 	10 Sunlit Marsh
 	10 Tangled Islet
 	10 Wooded Ridgeline
+[Settings]
+{
+"name": "An Exploration of Terraria",
+"showSlots": true,
+}
