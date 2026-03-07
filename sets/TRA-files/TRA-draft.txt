@@ -3470,7 +3470,7 @@
 			"Pumpkin Scarecrow Token",
 			"Splinterling Token",
 			"Headless Horserider Token",
-			"Mourning Wood Token",
+			"Mourning Wood Token"
 			]
 		},
 		{
