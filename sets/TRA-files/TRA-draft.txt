@@ -1340,7 +1340,7 @@
 			],
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Jey, Young Angler Token.png"
-			},
+			}
 		},
 			{
 			"name": "Fish Token",
