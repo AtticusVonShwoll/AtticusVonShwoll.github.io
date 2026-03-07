@@ -1327,7 +1327,7 @@
 			"Treasure Token"
 			]
 		},
-		{
+			{
 			"name": "Jey, Young Angler Token",
 			"mana_cost": "{1}{W}{U}",
 			"cmc": 3,
@@ -1338,10 +1338,8 @@
 			"subtypes": [
 			"Human Citizen"
 			],
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Jey, Young Angler Token.png"
-			}
-		},
+			"image_uris": { "en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Jey, Young Angler Token.png" }
+			},
 			{
 			"name": "Fish Token",
 			"mana_cost": "",
