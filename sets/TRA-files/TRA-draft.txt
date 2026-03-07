@@ -7596,7 +7596,7 @@
 			"related_cards": [
 			"Citizen Token"
 			]
-		},
+		}
 		]
 	[RareSlot(1)]
 		2 Skeletron, Dungeon Guardian
