@@ -359,6 +359,7 @@
 			"Ooze Token",
 			"King Slime Token"
 			]
+		},
 			{
 			"name": "Treasure Token",
 			"mana_cost": "",
