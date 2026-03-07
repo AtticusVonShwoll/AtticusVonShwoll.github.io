@@ -578,7 +578,7 @@ def generateHTML(code):
 
 			const draft_headers = draft_file.matchAll(/\\[(.*?)\\]/g); // match text between [ and ]
 			for (const result of draft_headers) {
-				if (result[1] == "CustomCards")
+				if (result[1] == "CustomCards" || result[1] == 'Settings')
 					continue; // skip the CustomCards header
 
 				if (mapping)
