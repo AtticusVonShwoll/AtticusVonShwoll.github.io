@@ -1,4 +1,360 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Sting Operation added.
+Jungle Hornet added.
+Spitting Antlion added.
+Antlion Swarmer added.
+Baleful Harvest added.
+Crown Claiming added.
+Against the World added.
+Summon Focus added.
+Magic Focus added.
+Ranged Focus added.
+Melee Focus added.
+Goblin Punter added.
+Horrific Bloodbath added.
+The Nebula Pillar Token added.
+The Solar Pillar Token added.
+The Stardust Pillar Token added.
+The Vortex Pillar Token added.
+The Bride Token added.
+Bride's Gown Token added.
+Flinx Fur Coat Token added.
+Hallow Pixie Token added.
+Insect Token added.
+Stargazer Token added.
+Alien Hornet Token added.
+Alien Queen Token added.
+Flocko Token added.
+Ice Queen Token added.
+Pirate's Parrot Token added.
+Star Cell Token added.
+Surface Slime Token added.
+Wizard Attire Token added.
+Corrupt Bunny Token added.
+Creature from the Deep Token added.
+Cursed Pirate Token added.
+Eclipse Butcher Token added.
+Eclipse Psycho Token added.
+Eyezor Token added.
+The Groom Token added.
+Groom's Finery Token added.
+Headless Horserider Token added.
+Mister Stabby Token added.
+Nailhead Token added.
+The Possessed Token added.
+Reaper of the Eclipse Token added.
+Santa-NK1 Token added.
+Shapeshifting Vampire Token added.
+Vortexian Token added.
+Warren, Tax Collector Token added.
+Bomb Slime Token added.
+Drakomire Token added.
+Enchanted Sword Token added.
+Evolution Beast Token added.
+Goblin Peon Token added.
+Goblin Sorcerer Token added.
+Goblin Thief Token added.
+Pirate Corsair Token added.
+Pirate Deckhand Token added.
+Snow Balla Token added.
+Vicious Bunny Token added.
+Coin Slime Token added.
+Everscream Token added.
+Flinx Staff Token added.
+Insect Token added.
+Snowman Gangsta Token added.
+Splinterling Token added.
+Wurm Token added.
+Wurm Token added.
+Blood Drippler Token added.
+Brain of Cthulhu Token added.
+Brain Suckler Token added.
+Crawltipede Token added.
+The Destroyer Token added.
+Dr. Man Fly Token added.
+Drakomire Rider Token added.
+Duke Fishron Token added.
+The Empress of Light Token added.
+Eye of Cthulhu Token added.
+Flow Invader Token added.
+Flying Dutchman Token added.
+Frost Moon Elf Token added.
+Frost Moon Yeti Token added.
+Goblin Archer Token added.
+Goblin Warrior Token added.
+Insect Token added.
+Jey, Young Angler Token added.
+The Lunatic Cultist Token added.
+Mothron Token added.
+Mourning Wood Token added.
+Paladin's Gear Token added.
+Pirate Captain Token added.
+Pirate Crossbower Token added.
+Pirate Deadeye Token added.
+Plantera, Jungle's Soul Token added.
+Predictor Token added.
+Pumpking Token added.
+Pursuing Eye Token added.
+Queen Bee Token added.
+Retinazer and Spazmatism Token added.
+Selenian Token added.
+Skeletron, Dungeon Guardian Token added.
+Skeletron Prime Token added.
+Storm Diver Token added.
+Swamp Thing Token added.
+Wall of Flesh Token added.
+Blood Zombie Token added.
+The Eater of Worlds Token added.
+Excalibur Token added.
+King Slime Token added.
+Night's Edge Token added.
+Ale Tosser Token added.
+Bounding Balloon Token added.
+Broken Hero Sword Token added.
+Clentaminator Solution Token added.
+Combined Gear Token added.
+Construct Token added.
+Construct Token added.
+Construct Token added.
+Deadly Sphere Token added.
+Gingerbread Man Token added.
+Golf Cart Token added.
+Grapple Hook Token added.
+Guide Voodoo Doll Token added.
+Leather Armor Token added.
+Mana Crystal Token added.
+Pirate's Cutlass Token added.
+Pumpkin Scarecrow Token added.
+Rocket Boots Token added.
+Rogue's Gloves Token added.
+Strange Brew Token added.
+Tinkerer's Workshop Token added.
+Spitting Antlion Token added.
+Antlion Swarmer Token added.
+Antlion Charger Token added.
+Edmund, Town Merchant Token added.
+
+The Nebula Pillar (Token) removed.
+The Solar Pillar (Token) removed.
+The Stardust Pillar (Token) removed.
+The Vortex Pillar (Token) removed.
+The Bride (Token) removed.
+Bride's Gown (Token) removed.
+Flinx Fur Coat (Token) removed.
+Hallow Pixie (Token) removed.
+Insect Token (White) removed.
+Stargazer (Token) removed.
+Alien Hornet (Token) removed.
+Alien Queen (Token) removed.
+Flocko (Token) removed.
+Ice Queen (Token) removed.
+Pirate's Parrot (Token) removed.
+Star Cell (Token) removed.
+Surface Slime (Token) removed.
+Wizard Attire (Token) removed.
+Corrupt Bunny (Token) removed.
+Creature from the Deep (Token) removed.
+Cursed Pirate (Token) removed.
+Eclipse Butcher (Token) removed.
+Eclipse Psycho (Token) removed.
+Eyezor (Token) removed.
+The Groom (Token) removed.
+Groom's Finery (Token) removed.
+Headless Horserider (Token) removed.
+Mister Stabby (Token) removed.
+Nailhead (Token) removed.
+The Possessed (Token) removed.
+Reaper of the Eclipse (Token) removed.
+Santa-NK1 (Token) removed.
+Shapeshifting Vampire (Token) removed.
+Vortexian (Token) removed.
+Warren, Tax Collector (Token) removed.
+Bomb Slime (Token) removed.
+Drakomire (Token) removed.
+Enchanted Sword (Token) removed.
+Evolution Beast (Token) removed.
+Goblin Peon (Token) removed.
+Goblin Sorcerer (Token) removed.
+Goblin Thief (Token) removed.
+Pirate Corsair (Token) removed.
+Pirate Deckhand (Token) removed.
+Snow Balla (Token) removed.
+Vicious Bunny (Token) removed.
+Coin Slime (Token) removed.
+Everscream (Token) removed.
+Flinx Staff (Token) removed.
+Insect Token (Green) removed.
+Snowman Gangsta (Token) removed.
+Splinterling (Token) removed.
+Wurm Token (Big) removed.
+Wurm Token (Small) removed.
+Blood Drippler (Token) removed.
+Brain of Cthulhu (Token) removed.
+Brain Suckler (Token) removed.
+Crawltipede (Token) removed.
+The Destroyer (Token) removed.
+Dr. Man Fly (Token) removed.
+Drakomire Rider (Token) removed.
+Duke Fishron (Token) removed.
+The Empress of Light (Token) removed.
+Eye of Cthulhu (Token) removed.
+Flow Invader (Token) removed.
+Flying Dutchman (Token) removed.
+Frost Moon Elf (Token) removed.
+Frost Moon Yeti (Token) removed.
+Goblin Archer (Token) removed.
+Goblin Warrior (Token) removed.
+Insect Token (Gruul) removed.
+Jey, Young Angler (Token) removed.
+The Lunatic Cultist (Token) removed.
+Mothron (Token) removed.
+Mourning Wood (Token) removed.
+Paladin's Gear (Token) removed.
+Pirate Captain (Token) removed.
+Pirate Crossbower (Token) removed.
+Pirate Deadeye (Token) removed.
+Plantera, Jungle's Soul (Token) removed.
+Predictor (Token) removed.
+Pumpking (Token) removed.
+Pursuing Eye (Token) removed.
+Queen Bee (Token) removed.
+Retinazer and Spazmatism (Token) removed.
+Selenian (Token) removed.
+Skeletron, Dungeon Guardian (Token) removed.
+Skeletron Prime (Token) removed.
+Storm Diver (Token) removed.
+Swamp Thing (Token) removed.
+Wall of Flesh (Token) removed.
+Blood Zombie (Token) removed.
+The Eater of Worlds (Token) removed.
+Excalibur (Token) removed.
+King Slime (Token) removed.
+Night's Edge (Token) removed.
+Ale Tosser (Token) removed.
+Bounding Balloon (Token) removed.
+Broken Hero Sword (Token) removed.
+Clentaminator Solution (Token) removed.
+Combined Gear (Token) removed.
+Construct Token (Probe) removed.
+Construct Token (Melee) removed.
+Construct Token (Ranged) removed.
+Deadly Sphere (Token) removed.
+Gingerbread Man (Token) removed.
+Golf Cart (Token) removed.
+Grapple Hook (Token) removed.
+Guide Voodoo Doll (Token) removed.
+Leather Armor (Token) removed.
+Mana Crystal (Token) removed.
+Pirate's Cutlass (Token) removed.
+Pumpkin Scarecrow (Token) removed.
+Rocket Boots (Token) removed.
+Rogue's Gloves (Token) removed.
+Strange Brew (Token) removed.
+Tinkerer's Workshop (Token) removed.
+
+The Dungeon's Entrance
+special_text:  => https://atticusvonshwoll.github.io/card?set=TRA&num=110&name=Skeletron%2C+Dungeon+Guardian+Token
+
+Wurm Food
+type: Artifact => Kindred Artifact — Wurm Boss
+
+Suspicious Looking Eye
+type: Artifact => Kindred Artifact — Eye Boss
+
+Slime Crown
+type: Artifact — Equipment => Kindred Artifact — Ooze Boss Equipment
+
+Abeemination
+type: Artifact => Kindred Artifact — Insect Boss
+
+Bloody Spine
+type: Artifact => Kindred Artifact — Horror Boss
+
+Guide Voodoo Doll
+type: Artifact => Kindred Artifact — Horror Boss
+
+Mechanical Eye
+type: Artifact => Kindred Artifact — Eye Boss
+
+Mechanical Wurm
+type: Artifact => Kindred Artifact — Wurm Boss
+
+Mechanical Skull
+type: Artifact => Kindred Artifact — Skeleton Boss
+
+Madeline, Crisis Nurse
+type: Legendary Creature — Human Doctor => Legendary Creature — Human Doctor Citizen
+
+Xavier, Arms Dealer
+type: Legendary Creature — Human Rogue => Legendary Creature — Human Rogue Citizen
+
+Plantera's Bulb
+type: Artifact => Kindred Artifact — Plant Boss
+
+Robyn, Cursed Zoologist
+type: Legendary Creature — Human Fox => Legendary Creature — Human Fox Citizen
+
+Garval, Demolition Dealer
+type: Legendary Creature — Dwarf Artificer => Legendary Creature — Dwarf Artificer Citizen
+
+Korrie, Free Mechanic
+type: Legendary Creature — Human Artificer => Legendary Creature — Human Artificer Citizen
+
+Nort, Goblin Tinkerer
+type: Legendary Creature — Goblin Artificer => Legendary Creature — Goblin Artificer Citizen
+
+Goblin Sorcerer
+type: Creature — Goblin Shaman => Creature — Goblin Sorcerer Wizard
+
+Lost Nymph
+type: Creature — Nymph => Creature — Nymph Horror
+
+Captain Bullywort
+type: Legendary Creature — Human Pirate => Legendary Creature — Human Pirate Citizen
+
+Clothier Voodoo Doll
+type: Artifact => Kindred Artifact — Skeleton Boss
+
+Pumpking
+type: Creature — Scarecrow Noble Boss => Creature — Scarecrow Horror Noble Boss
+
+Faye, the Last Dryad
+type: Legendary Creature — Dryad => Legendary Creature — Dryad Citizen
+
+Andrew, Helpful Guide
+type: Legendary Creature — Human Advisor => Legendary Creature — Human Advisor Citizen
+
+Whitney, Genius Steampunker
+type: Legendary Creature — Human Artificer => Legendary Creature — Human Artificer Citizen
+
+Hallowed Armor
+
+Flow Invader
+type: Creature — Alien Jellyfish => Creature — Alien Jellyfish Shaman
+
+Ankh Shield
+cost: {5} => {4}
+
+Splinterling
+type: Creature — Treefolk => Creature — Treefolk Horror
+rules_text: {T}: Add {G}.
+{T}: Add two mana of any one color. Spend this mana only to cast Boss or Event spells. => {T}: Add {G}.
+{T}: Add two mana of any one color. Spend this mana only to cast Boss or Event spells or activate abilities of Boss or Event sources.
+
+Phi, Explosive Cyborg
+type: Legendary Artifact Creature — Robot Artificer => Legendary Artifact Creature — Robot Artificer Citizen
+
+Combat Ready Village
+rules_text: When this enchantment enters, create a 1/1 green and white Citizen creature token.
+Each creature you control that's a Human or a Citizen gets +1/+0.
+Whenever a Human or Citizen you control dies, put a +1/+1 counter on up to one target creature. => When this enchantment enters, create a 1/1 green and white Citizen creature token.
+Citizen creatures you control get +1/+0.
+Whenever a Citizen you control dies, put a +1/+1 counter on up to one target creature.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 The Nebula Pillar (Token) added.
