@@ -5234,6 +5234,62 @@ Whenever this creature attacks, another target attacking creature without flying
 Whenever an Insect you control dies, you gain 2 life.</text>
       <related>Treasure Token</related>
     </card>
+    <card>
+      <name>Plains</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Plains.png" rarity="common" uuid="f8225ea8-bd7d-4caa-a9f7-d863dabea3c4">TRA</set>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Plains.png">TRA</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land — Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Island.png" rarity="common" uuid="701c248e-cbe8-4685-ab71-d8477df4efd3">TRA</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land — Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Swamp.png" rarity="common" uuid="93fdbf64-6078-4ba9-b6d3-9c4134635806">TRA</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land — Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Mountain.png" rarity="common" uuid="6e8a7df9-0c4a-4228-b49e-597f602e2625">TRA</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land — Mountain</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Forest.png" rarity="common" uuid="266a8b2c-77d0-46dc-b527-1db1cf909839">TRA</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land — Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
+    </card>
     <!-->Tokens</-->
     <card>
       <name>Bomb Rabbit Token</name>
