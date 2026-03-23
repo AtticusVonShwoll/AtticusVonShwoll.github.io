@@ -97,7 +97,7 @@ def removeStaleFiles(set_dir):
 		s_dir = os.path.join(set_dir, entry.name)
 		for set_entry in os.scandir(s_dir):
 			filename, file_extension = os.path.splitext(set_entry.name)
-			if set_entry.name not in filesToKeep and file_extension != '.json' and file_extension != '.xml':
+			if set_entry.name not in filesToKeep and file_extension != '.json' and file_extension != '.xml' and file_extension != '.txt':
 				if set_entry.is_dir():
 					shutil.rmtree(set_entry)
 				else:
@@ -154,20 +154,20 @@ for code in set_codes:
 	set_dir = code + '-files'
 	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
 		raw = json.load(f)
-	if 'draft_structure' not in raw or not raw['draft_structure'] == 'none' and not os.path.isfile(os.path.join('custom', 'sets', code + '-files', code + '-draft.txt')):
-		try:
-			print_draft_file.generateFile(code)
-			print('Generated draft file for {0}.'.format(code))
-		except Exception as e:
-			print('! Unable to generate draft file for {0}: {1}'.format(code, e))
+	# if 'draft_structure' not in raw or not raw['draft_structure'] == 'none' and not os.path.isfile(os.path.join('custom', 'sets', code + '-files', code + '-draft.txt')):
+		# try:
+		# 	print_draft_file.generateFile(code)
+		# 	print('Generated draft file for {0}.'.format(code))
+		# except Exception as e:
+		# 	print('! Unable to generate draft file for {0}: {1}'.format(code, e))
 
 	# CE: Trice
-	if not os.path.isfile(os.path.join('custom', 'sets', code + '-files', code + '.xml')):
-		try:
-			print_cockatrice_file.generateFile(code)
-			print('Generated Cockatrice file for {0}.'.format(code))
-		except Exception as e:
-			print('! Unable to generate Cockatrice file for {0}: {1}'.format(code, e))
+	# if not os.path.isfile(os.path.join('custom', 'sets', code + '-files', code + '.xml')):
+	# 	try:
+	# 		print_cockatrice_file.generateFile(code)
+	# 		print('Generated Cockatrice file for {0}.'.format(code))
+	# 	except Exception as e:
+	# 		print('! Unable to generate Cockatrice file for {0}: {1}'.format(code, e))
 
 	#CE: this code is all for version history
 	if 'version' not in raw:

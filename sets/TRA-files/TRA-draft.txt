@@ -5141,7 +5141,7 @@
 			"Excalibur Token",
 			"Night's Edge Token",
 			"Insect Egg Token",
-			"Insect Token WBG"
+			"Baby Mothron Token"
 			]
 		},
 		{
@@ -5172,7 +5172,7 @@
 			"image_uris": { "en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Insect Egg Token.png" }
 			},
 			{
-			"name": "Insect Token WBG",
+			"name": "Baby Mothron Token",
 			"mana_cost": "",
 			"power": "2",
 			"toughness": "2",
@@ -6025,7 +6025,7 @@
 			"Excalibur Token",
 			"Night's Edge Token",
 			"Insect Egg Token",
-			"Insect Token WBG"
+			"Baby Mothron Token"
 			]
 		},
 		{

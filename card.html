@@ -147,6 +147,13 @@
 	.hidden {
 		display: none;
 	}
+	.hover-card {
+		display: none;
+		position: absolute;
+		height: 262px;
+		width: 188px;
+		pointer-events: none;
+	}
 </style>
 <body>
 	<div class="header">
@@ -186,6 +193,8 @@
 
 	<div class="grid-container" id="grid">
 	</div>
+
+	<img id="hover-card" class="hover-card">
 
 	<script>
 		let card_list_arrayified = [];
@@ -343,6 +352,7 @@
 			document.getElementById("grid").appendChild(gridifyCard(card, false, card.rotated));
 
 			other_printings = [];
+			related_cards = await fetchRelatedCards();
 			for (const c of card_list_arrayified)
 			{
 				if (c.rules_text == card.rules_text && c.card_name == card.card_name && c.type == card.type && !c.shape.includes("Token") && (c.set != card.set || c.number != card.number))
@@ -386,6 +396,54 @@
 
 				document.getElementById("card-text").appendChild(printings);
 				document.getElementById("other-printings").style.display = "block";
+			}
+
+			if (related_cards.length > 0) {
+				const others = document.createElement("div");
+				others.className = "related";
+				others.id = "related-cards";
+				others.innerText = "Related Cards: ";
+
+				for (let i = 0; i < related_cards.length; i++) {
+					let related_card;
+					const related = related_cards[i];
+					const setlink = document.createElement("a");
+					setlink.innerText = related;
+
+					setlink.onmouseover = function () { showCardHover(related) };
+					setlink.onmousemove = function (event) { moveCardHover(event) };
+					setlink.onmouseout = hideCardHover;
+
+					for (const card_ of card_list_arrayified) {
+						if (card_.card_name == related) {
+							related_card = card_;
+						}
+					}
+
+					if (!related_card) continue;
+
+					const url = new URL('card', window.location.origin);
+					const params = {
+						set: related_card.set,
+						num: related_card.number,
+						name: related_card.card_name
+					}
+					for (const key in params) {
+						url.searchParams.append(key, params[key]);
+					}
+					setlink.href = url;
+
+					others.appendChild(setlink);
+
+					if (i != related_cards.length - 1) {
+						const dot = document.createElement("text");
+						dot.innerText = " • ";
+						others.appendChild(dot);
+					}
+				}
+
+				document.getElementById("card-text").appendChild(others);
+				document.getElementById("related-cards").style.display = "block";
 			}
 		});
 
@@ -713,6 +771,51 @@
 			let regexHTML = symbolize(HTML);
 
 			return regexHTML;
+		}
+		
+		async function fetchRelatedCards() {
+			let draftmancer_file;
+			await fetch(rootPath + `/sets/${card.set}-files/${card.set}-draft.txt`)
+					.then(response => response.text())
+					.then(text => {
+						draftmancer_file = text; 
+				}).catch(error => console.error('Error:', error));
+
+			const custom_cards = ('[' + draftmancer_file.split('[CustomCards]')[1].split('\n\t[')[1]);
+			
+			for (const custom_card of JSON.parse(custom_cards)) {
+				if (custom_card.name == card.card_name) {
+					return custom_card.related_cards || [];
+				}
+			}
+			
+			return [];
+		}
+
+		function showCardHover(card_name, set = false, num = false) {
+			// console.log(set, num);
+			for (const card_stats of card_list_arrayified) {
+				if (card_stats.card_name == card_name && (!set || card_stats.set == set) && (!num || card_stats.number == num)) {
+					const hover_card = document.getElementById("hover-card");
+					hover_card.style.display = "block";
+					if ("position" in card_stats) {
+						hover_card.src = rootPath + "/sets/" + card_stats.set + "-files/img/" + card_stats.position + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+					}
+					else {
+						hover_card.src = rootPath + "/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+					}
+					return;
+				}
+			}
+		}
+
+		function moveCardHover(event) {
+			document.getElementById("hover-card").style.left = event.pageX + "px";
+			document.getElementById("hover-card").style.top = event.pageY - 262 + "px";
+		}
+
+		function hideCardHover() {
+			document.getElementById("hover-card").style.display = "none";
 		}
 
 		document.getElementById("search").addEventListener("keypress", function(event) {
