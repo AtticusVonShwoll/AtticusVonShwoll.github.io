@@ -1,4 +1,1006 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+No-Dachi added.
+Minimus Containment added.
+Hornet Nest added.
+Prophetic Prism added.
+Brought Back added.
+Ionize added.
+Scale the Heights added.
+Aether Tunnel added.
+Into the Flood Maw added.
+Deadly Derision added.
+Fountain of Renewal added.
+Strong Back added.
+Gingerbrute added.
+Patchwork Banner added.
+Spark Elemental added.
+Insect Token W added.
+Rabbit Token Token added.
+Wurm Token2 added.
+Insect Token RG added.
+Construct Token Drone added.
+Construct Token Melee added.
+Construct Token Ranged added.
+Gingerbrute Token added.
+Fungus Token added.
+Treefolk Horror Token added.
+Biome Crossovers added.
+Clumsy Slime added.
+Mystic Slime added.
+Diva Slime added.
+Undead Miner added.
+Slingshot added.
+Face the Enemy added.
+New Encounter added.
+Martian Walker added.
+Martian Officer added.
+Martian Drone added.
+Angry Tumbler added.
+Sand Shark added.
+Desert Mummy added.
+Battle for the Ages added.
+Spooky Armor added.
+Blood Moon Eel added.
+Wandering Eye Fish added.
+Death Laser added.
+Anomura Fungus added.
+Illuminant Bat added.
+Guiding Fairy added.
+Heart Slime added.
+Slime Drops added.
+Terrarian Orca added.
+Jungle Moth added.
+Face Monster added.
+Sand Elemental added.
+Rainbow Slime added.
+Revel in Riches added.
+Acidic Slime added.
+Sand Slime added.
+Squire Slime added.
+Loyal Cultists added.
+Konah, Witch Doctor added.
+Mechanical Destruction added.
+Princess of Slime added.
+Prince of Slime added.
+Dulais, Wizard of Old added.
+Scarlett, Cutthroat Stylist added.
+Enoki, Sentient Truffle added.
+Hunter's Blowgun Token added.
+Crystal Ball Token added.
+
+Starfury removed.
+Sold to the Shop removed.
+Bee Hive removed.
+Mana Flower removed.
+Respawn removed.
+Frostburn Interruption removed.
+Healing Honey removed.
+Dipped in the Shimmer removed.
+Gone Fishing removed.
+Killed for Coins removed.
+Heart Crystal removed.
+Well Fed removed.
+Gingerbread Man removed.
+Banner Collection removed.
+Blazing Wheel removed.
+Rabbit Token removed.
+Insect Token removed.
+Wurm Token removed.
+Insect Token removed.
+Construct Token removed.
+Construct Token removed.
+Construct Token removed.
+Gingerbread Man Token removed.
+
+The Dungeon's Entrance
+special_text: https://atticusvonshwoll.github.io/card?set=TRA&num=110&name=Skeletron%2C+Dungeon+Guardian+Token => 
+
+Bravery Against the Odds
+
+Mana Crystal
+
+Edmund, Town Merchant
+
+Madeline, Crisis Nurse
+
+Xavier, Arms Dealer
+
+Lucky Coins
+
+Night's Edge
+
+Plantera's Bulb
+
+Queen Slime
+
+Luciano, Inspired Painter
+
+Jey, Young Angler
+
+Golem, Jungle Defender
+
+Wyvern of the Sky Island
+
+Enchanted Sword
+cost: {2R} => {1}{R}
+rules_text: Equipped creature gets +1/+1 and has reach.
+Equip {1} => Job select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1, has reach and is a Warrior in addition to its other types.
+Equip {1}
+
+Search for an Enchanted Sword
+
+Critter Catching Net
+
+Nightly Defending
+
+Strength in Numbers
+
+Golden Rabbit
+
+Magic Missile
+
+Excalibur
+
+Robyn, Cursed Zoologist
+
+Release of the Souls
+
+Bomb Slime
+
+Coin Slime
+
+Obsidian Shield
+
+The Vortex Pillar
+
+The Nebula Pillar
+
+The Stardust Pillar
+
+Garval, Demolition Dealer
+
+Booby Trapped Cache
+
+Glowing Jellyfish
+
+Surface Slime
+
+Hallow Unicorn
+
+Umbrella Slime
+
+Collection of Pots
+
+Korrie, Free Mechanic
+
+Emilia, Hallow Princess
+
+Dazzle, Life of the Party
+
+Warren, Tax Collector
+
+Tortured Soul
+
+Purification Powder
+
+The Groom
+
+The Bride
+
+Enchanted Sundial
+
+The Pumpkin Moon is Rising
+
+Magic Lantern
+
+Corruption Slimer
+
+Sky Harpy
+
+Drakomire Rider
+
+Drakomire
+
+Crawltipede
+
+Selenian
+
+Alien Hornet
+
+Alien Queen
+
+Storm Diver
+
+Hallow Pixie
+
+Blood Crawler
+
+Diamond Bunny
+
+Nort, Goblin Tinkerer
+
+Grapple Hook
+
+Chest Mimic
+
+Undead Hordling
+rules_text: Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters the battlefield, create that many tokens that are copies of it.)[/i] => Squad {2} [i](As an additional cost to cast this spell, you may pay {2} any number of times. When this creature enters, create that many tokens that are copies of it.)[/i]
+
+Blood Drippler
+
+Blood Zombie
+
+Vicious Bunny
+
+Corrupt Bunny
+
+Goblin Archer
+
+Gravitation Potion
+
+Goblin Sorcerer
+
+Goblin Thief
+
+Goblin Warrior
+
+Goblin Peon
+
+Healing Potion
+
+Thorns Potion
+
+Battle Potion
+
+Illuminant Slime
+
+Wrath Potion
+
+Tinkerer's Workshop
+
+Rocket Boots
+
+Vortexian
+
+Brain Suckler
+
+Evolution Beast
+
+Chaos Elemental
+
+Hallowed Pigron
+
+Corrupt Pigron
+
+Crimson Pigron
+
+Goblin Scout
+
+Mushi Ladybug
+
+Undead Hoplite
+
+Lost Nymph
+
+Etherian Drakin
+
+Captain Bullywort
+
+James, Curseless Clothier
+
+Clothier Voodoo Doll
+
+Gray Grunt
+
+The Ranger
+
+Pumpking
+
+Shield of Cthulhu
+
+Faye, the Last Dryad
+
+Andrew, Helpful Guide
+
+Excessive Mining
+
+The Air Becomes Colder
+
+The Solar Pillar
+
+The Mage
+
+Gathering of the Cultists
+
+Goblin Invasion
+
+The Lunatic Cultist
+
+Dungeon Depths
+
+Visit the Nurse
+
+Vibrations From Below
+
+Jungle Grows Restless
+
+Rise of the Blood Moon
+
+A Terrible Night
+
+Endless Events
+
+The Empress of Light
+
+Rattles Magoo, Bone Merchant
+
+Strange Brew
+
+Prismatic Lacewing
+
+Angering a Light God
+
+Moon Lord
+
+Imprisoned in the Moon
+
+Escape Imprisonment
+
+Climbing Jungle Creeper
+
+Mother Slime
+
+Snow Flinxes
+
+Ice Slime
+
+Flinx Fur Coat
+rules_text: Job select
+Equipped creature gets +0/+1, has “Creature tokens you control get +1/+0” and is a Shaman in addition to its other types.
+Equip {3}
+Equip Shaman {W} => Job select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]
+Equipped creature gets +0/+1, has “Creature tokens you control get +1/+0” and is a Shaman in addition to its other types.
+Equip {3}
+Equip Shaman {W}
+
+Flinx Staff
+rules_text: Job select
+Equipped creature is a Shaman in addition to its other types and has “Whenever this creature attacks, create a 1/1 blue Yeti creature token.”
+Equip {4}
+Equip Shaman {G} => Job select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]
+Equipped creature is a Shaman in addition to its other types and has “Whenever this creature attacks, create a 1/1 blue Yeti creature token.”
+Equip {4}
+Equip Shaman {G}
+
+Ironskin Potion
+
+Builder Potion
+
+Reforestation
+
+Slash of Regrowth
+
+Spelunker Potion
+
+Lifeforce Potion
+
+Magic Regeneration Potion
+cost: {3}{G} => {2}{G}
+
+Not Today
+
+Everscream
+
+Martian Saucer
+cost: {2}{W}{U}{B} => {1}{W}{U}{B}
+
+Mourning Wood
+
+Flying Dutchman
+cost: {2}{U}{B}{R} => {1}{U}{B}{R}
+
+Santa-NK1
+
+Betsy, Draconic General
+
+Dark Mage
+
+An Ancient Warning
+
+Old One's Ogre
+
+Jim Mulligan, the Golfer
+
+Whitney, Genius Steampunker
+
+Headless Horserider
+
+Horrific Destruction
+
+Ever-Returning Threat
+
+Hallowed Armor
+
+Illusionary Replication
+
+Lost Encounter
+
+Quality Over Quantity
+
+Something Sinister Approaches
+
+Dreadnautilus
+
+Predictor
+
+Stargazer
+
+Star Cell
+
+Flow Invader
+
+You Feel an Evil Presence Watching You
+
+Contaminated Aquifer
+
+Geothermal Bog
+
+Haunted Mire
+
+Idyllic Beachfront
+
+Molten Tributary
+
+Radiant Grove
+
+Sacred Peaks
+
+Sunlit Marsh
+
+Tangled Islet
+
+Wooded Ridgeline
+
+Granite Golem
+
+Corrupt Devourer
+
+Relentless Shark
+
+Tomb Crawler
+
+Man Eater
+
+Ice Queen
+
+Broken Hero Sword
+
+A Solar Eclipse is Happening
+
+Mothron
+
+Bone Serpent
+
+Creature from the Deep
+
+Shapeshifting Vampire
+
+Swamp Thing
+
+Reaper of the Eclipse
+
+The Possessed
+
+Deadly Sphere
+
+Eclipse Butcher
+
+Eclipse Psycho
+
+Nailhead
+
+Eyezor
+
+Dr. Man Fly
+
+Shadow Armor
+
+Meteorite Armor
+
+Fossil Armor
+
+Bee Armor
+
+Crimslime
+
+Scythe Demon
+
+All the Buffs
+
+Shower of Arrows
+
+Overrun
+
+Blasted by Rainbows
+
+Royal Gel
+
+Ruinous Rampage
+
+Dark Caster
+
+Dungeon Paladin
+
+Paladin's Gear
+
+Bone Lee
+
+Song of the Dryads
+
+Back to Spawn
+
+Building a Town
+
+Slime Symposium
+
+Ankh Shield
+
+Lantern Night
+
+Truffle Worm
+
+Splinterling
+
+Flocko
+
+Pumpkin Scarecrow
+
+The Frost Moon is Rising
+
+Frost Moon Elf
+
+Frost Moon Yeti
+
+Pinky
+
+Armored Bones
+
+The Celestial Invasion
+
+Avenger Emblem
+
+Phi, Explosive Cyborg
+
+Goblin Warlock
+
+Golf Cart
+
+Falling Meteors
+
+Clentaminator Solution
+
+Pirate Deckhand
+
+Pirate Crossbower
+
+Pirate Deadeye
+
+Pirate Corsair
+
+Pirate's Parrot
+
+Pirate Captain
+
+Cursed Pirate
+
+The Pirate Invasion
+
+Dungeon Corridor
+
+Frosted Cavern
+
+Sky Islands
+
+Lihzahrd Temple
+
+Beachfront Pier
+
+Bounding Balloon
+
+Finding the Ocean
+
+Light Pet
+
+K.O. Cannon
+
+Shared Loot
+
+Through the Pylons
+
+Change Loadout
+
+Rare Find
+
+Windy Balloon
+
+Dungeon Slime
+
+Metallic Blessing
+
+Shadow Orb
+
+Crimson Heart
+
+Flying Fish
+
+Antlion Charger
+
+Jungle Excavation
+
+Tim, Bone Wizard
+
+Wizard Attire
+
+Librarian Skeleton
+
+Fire Imp Assault
+
+The Frost Legion
+
+Mister Stabby
+
+Snowman Gangsta
+
+Snow Balla
+
+Dale, Otherworldly Barkeep
+
+Ale Tosser
+
+The Nebula Pillar Token
+
+The Solar Pillar Token
+
+The Stardust Pillar Token
+
+The Vortex Pillar Token
+
+Hero Token
+
+The Bride Token
+
+Bride's Gown Token
+
+Flinx Fur Coat Token
+
+Hallow Pixie Token
+
+Old Man Token
+
+Stargazer Token
+
+Alien Hornet Token
+
+Alien Insect Egg Token
+
+Alien Ooze Token
+
+Alien Queen Token
+
+Cleric Illusion Token
+
+Drake Illusion Token
+
+Fish Token
+
+Flocko Token
+
+Ice Queen Token
+
+Pirate's Parrot Token
+
+Shark Token
+
+Star Cell Token
+
+Surface Slime Token
+
+Wizard Attire Token
+
+Yeti Token
+
+Corrupt Bunny Token
+
+Creature from the Deep Token
+
+Cursed Pirate Token
+
+Eclipse Butcher Token
+
+Eclipse Psycho Token
+
+Eyezor Token
+
+The Groom Token
+
+Groom's Finery Token
+
+Headless Horserider Token
+
+Mister Stabby Token
+
+Nailhead Token
+
+The Possessed Token
+
+Reaper of the Eclipse Token
+
+Santa-NK1 Token
+
+Shapeshifting Vampire Token
+
+Skeleton Token
+
+Vortexian Token
+
+Warren, Tax Collector Token
+
+Zombie Token
+
+Bomb Slime Token
+
+Drake Token
+
+Drakomire Token
+
+Enchanted Sword Token
+cost: {2R} => {1}{R}
+rules_text: Equipped creature gets +1/+1 and has reach.
+Equip {1} => Job select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]
+Equipped creature gets +1/+1, has reach and is a Warrior in addition to its other types.
+Equip {1}
+
+Evolution Beast Token
+
+Goblin Peon Token
+
+Goblin Sorcerer Token
+
+Goblin Thief Token
+
+Imp Wizard Token
+
+Pirate Corsair Token
+
+Pirate Deckhand Token
+
+Snow Balla Token
+
+Vicious Bunny Token
+
+Coin Slime Token
+
+Everscream Token
+
+Flinx Staff Token
+
+Insect Token
+rules_text: Flying => Flying, deathtouch
+pt: 0/1 => 1/1
+
+Insect Egg Token
+
+Ooze Token
+
+Plant Token
+
+Snowman Gangsta Token
+
+Splinterling Token
+
+Wurm Token
+
+Baby Mothron Token
+
+Blood Drippler Token
+
+Bomb Rabbit Token
+
+Brain of Cthulhu Token
+
+Brain Suckler Token
+
+Citizen Token
+
+Cleric Token
+
+Cleric Archer Ranger Token
+
+Crawltipede Token
+
+The Destroyer Token
+
+Dr. Man Fly Token
+
+Drakomire Rider Token
+
+Duke Fishron Token
+
+The Empress of Light Token
+
+Eye of Cthulhu Token
+
+Flow Invader Token
+
+Flying Dutchman Token
+cost: {2}{U}{B}{R} => {1}{U}{B}{R}
+
+Frost Moon Elf Token
+
+Frost Moon Yeti Token
+
+Goblin Archer Token
+
+Goblin Warrior Token
+
+Horror Illusion Token
+
+Jey, Young Angler Token
+
+The Lunatic Cultist Token
+
+Mothron Token
+
+Mourning Wood Token
+
+Paladin's Gear Token
+
+Pirate Captain Token
+
+Pirate Crossbower Token
+
+Pirate Deadeye Token
+
+Plantera, Jungle's Soul Token
+
+Predictor Token
+
+Pumpking Token
+
+Pursuing Eye Token
+
+Queen Bee Token
+
+Retinazer and Spazmatism Token
+
+Selenian Token
+
+Skeletron, Dungeon Guardian Token
+
+Skeletron Prime Token
+
+Storm Diver Token
+
+Swamp Thing Token
+
+Wall of Flesh Token
+
+Blood Zombie Token
+
+The Eater of Worlds Token
+
+Excalibur Token
+
+King Slime Token
+
+Night's Edge Token
+
+Ale Tosser Token
+
+Bomb Token
+
+Bounding Balloon Token
+
+Broken Hero Sword Token
+
+Clentaminator Solution Token
+
+Clue Token
+
+Combined Gear Token
+
+Deadly Sphere Token
+
+Food Token
+
+Golf Cart Token
+
+Grapple Hook Token
+
+Guide Voodoo Doll Token
+
+Leather Armor Token
+
+Mana Crystal Token
+
+Pirate's Cutlass Token
+
+Pumpkin Scarecrow Token
+
+Rocket Boots Token
+
+Rogue's Gloves Token
+
+Strange Brew Token
+
+Tinkerer's Workshop Token
+
+Treasure Token
+
+Umbrella Token
+
+Forest Token
+
+Forest Plains Token
+
+Mountain Forest Token
+
+Completely Boned
+
+Star Destroyer
+
+Eye on You!
+
+Sticky Situation
+
+Combat Ready Village
+
+Sting Operation
+
+Jungle Hornet
+
+Spitting Antlion
+
+Antlion Swarmer
+
+Baleful Harvest
+
+Crown Claiming
+
+Against the World
+
+Summon Focus
+
+Magic Focus
+
+Ranged Focus
+
+Melee Focus
+
+Goblin Punter
+
+Horrific Bloodbath
+
+Spitting Antlion Token
+
+Antlion Swarmer Token
+
+Antlion Charger Token
+
+Edmund, Town Merchant Token
+
+Hanno, Dye Trader
+rules_text: At the beginning of your upkeep, create a 0/1 green Plant creature token.
+{T}, Sacrifice a Plant: Choose one —
+• Create a Clue token.
+• Create a Treasure token. => At the beginning of your upkeep, create a 0/1 green Plant creature token.
+{T}, Sacrifice a Plant: Create a Clue token or a Treasure token.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Sting Operation added.
