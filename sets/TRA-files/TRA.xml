@@ -789,7 +789,7 @@ At the beginning of the end step, sacrifice this enchantment.</text>
         <colors>WG</colors>
         <manacost>1GW</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature — Human Doctor</type>
+        <type>Legendary Creature — Human Doctor Citizen</type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
       </prop>
@@ -804,7 +804,7 @@ At the beginning of the end step, sacrifice this enchantment.</text>
         <colors>WR</colors>
         <manacost>2RW</manacost>
         <cmc>4</cmc>
-        <type>Legendary Creature — Human Rogue </type>
+        <type>Legendary Creature — Human Rogue Citizen</type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
       </prop>
@@ -1065,7 +1065,7 @@ Equip {2}</text>
         <colors>WRG</colors>
         <manacost>2R/GWW</manacost>
         <cmc>5</cmc>
-        <type>Legendary Creature — Human Fox </type>
+        <type>Legendary Creature — Human Fox Citizen</type>
         <maintype>Creature</maintype>
         <pt>2/*</pt>
       </prop>
@@ -1308,7 +1308,7 @@ Whenever a creature dealt damage by this creature this turn dies, you gain 3 lif
         <colors>U</colors>
         <manacost>U</manacost>
         <cmc>1</cmc>
-        <type>Legendary Creature — Human Artificer </type>
+        <type>Legendary Creature — Human Artificer Citizen</type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
       </prop>
@@ -1635,7 +1635,7 @@ When this creature dies, create two 0/1 blue Alien Insect Egg creature tokens wi
         <colors>UR</colors>
         <manacost>UR</manacost>
         <cmc>2</cmc>
-        <type>Legendary Creature — Goblin Artificer </type>
+        <type>Legendary Creature — Goblin Artificer Citizen</type>
         <maintype>Creature</maintype>
         <pt>0/3</pt>
       </prop>
@@ -2128,7 +2128,7 @@ This creature has first strike as long as you control a Plains.</text>
         <colors>B</colors>
         <manacost>1BB</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature — Human Pirate </type>
+        <type>Legendary Creature — Human Pirate Citizen</type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
@@ -2274,7 +2274,7 @@ Equip Warrior {R}</text>
         <colors>G</colors>
         <manacost>2G</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature — Dryad </type>
+        <type>Legendary Creature — Dryad Citizen</type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
       </prop>
@@ -2289,7 +2289,7 @@ Equip Warrior {R}</text>
         <colors>WR</colors>
         <manacost>RW</manacost>
         <cmc>2</cmc>
-        <type>Legendary Creature — Human Advisor </type>
+        <type>Legendary Creature — Human Advisor Citizen</type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
       </prop>
@@ -4386,7 +4386,7 @@ When this creature enters, up to one target creature gets -4/-4 until end of tur
         <colors>U</colors>
         <manacost>2U</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature — Human Artificer </type>
+        <type>Legendary Creature — Human Artificer Citizen</type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
       </prop>
@@ -4415,7 +4415,7 @@ Fortify {1} ({1}: Attach to target land you control. Fortify only as a sorcery.)
         <colors></colors>
         <manacost>5</manacost>
         <cmc>5</cmc>
-        <type>Legendary Artifact Creature — Robot Artificer </type>
+        <type>Legendary Artifact Creature — Robot Artificer Citizen</type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>

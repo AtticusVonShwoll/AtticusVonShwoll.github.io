@@ -1244,7 +1244,7 @@
 			"oracle_text": "Whenever Madeline or another creature you control enters, you gain 1 life.\n{T} or Sacrifice a Treasure: Prevent all damage that would be dealt to target creature this turn.",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Human Doctor"
+			"Human Doctor Citizen"
 			],
 	  "set": "tra", "collector_number": "140",
 			"image_uris": {
@@ -1261,7 +1261,7 @@
 			"oracle_text": "First strike\nWhenever a creature an opponent controls dies, Xavier deals 1 damage to that creature's controller.\n{T} or Sacrifice a Treasure: Put a +1/+1 counter on target creature. Activate only as a sorcery.",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Human Rogue"
+			"Human Rogue Citizen"
 			],
 	  "set": "tra", "collector_number": "177",
 			"image_uris": {
@@ -1610,7 +1610,7 @@
 			"oracle_text": "Robyn's toughness is equal to the number of creature types among non-Shapeshifter creatures you control.\n{R/G}{W}{W}, {T} or {R/G}{W}{W}, Sacrifice a Treasure: Create a number of 0/1 white Rabbit creature tokens equal to half of Robyn's toughness, rounded down.",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Human Fox"
+			"Human Fox Citizen"
 			],
 	  "set": "tra", "collector_number": "195",
 			"image_uris": {
@@ -2030,7 +2030,7 @@
 			"oracle_text": "Whenever you sacrifice a Treasure, scry 1.\n{U}, {T}, Tap two untapped artifacts you control: Create a tapped Treasure token. Activate only as a sorcery.",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Human Artificer"
+			"Human Artificer Citizen"
 			],
 	  "set": "tra", "collector_number": "27",
 			"image_uris": {
@@ -2618,7 +2618,7 @@
 			"oracle_text": "Sacrifice a Treasure: Put an upgrade counter on target Equipment. That artifact gains “Equipped creature gets +1/+1.”\n{U}{U}{R}{R}, {T} or {U}{R}, Sacrifice two Treasures: Choose one —\n• Call upon Grapple Hook.\n• Call upon Rocket Boots.\n• Call upon Tinkerer's Workshop.",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Goblin Artificer"
+			"Goblin Artificer Citizen"
 			],
 	  "set": "tra", "collector_number": "148",
 			"image_uris": {
@@ -3381,7 +3381,7 @@
 			"oracle_text": "{2/W}, Sacrifice a non-Rabbit Bomb or {2/R}, Sacrifice a non-Bomb creature: Create a 0/1 red and white Bomb Rabbit artifact creature token with “When this creature dies, it deals 2 damage to any target.”",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Human Pirate"
+			"Human Pirate Citizen"
 			],
 	  "set": "tra", "collector_number": "35",
 			"image_uris": {
@@ -3564,7 +3564,7 @@
 			"oracle_text": "{T}: Put a bramble counter on target land. That land is a Forest in addition to its other types for as long as it has a bramble counter on it.\n{3}, {T}: Put a seed counter on target Forest. If it didn't have a seed counter on it, it gains “Whenever this land is tapped for mana, add {G} for each seed counter on it.”",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Dryad"
+			"Dryad Citizen"
 			],
 	  "set": "tra", "collector_number": "88",
 			"image_uris": {
@@ -3581,7 +3581,7 @@
 			"oracle_text": "Vigilance\n{T}: Scry 1, then you may reveal the top card of your library. If it's an artifact card, create a Treasure token.",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Human Advisor"
+			"Human Advisor Citizen"
 			],
 	  "set": "tra", "collector_number": "102",
 			"image_uris": {
@@ -6655,7 +6655,7 @@
 			"oracle_text": "{1}, {T} or Sacrifice two Treasures: Call upon Clentaminator Solution. You may attach it to target nonbasic land. This ability costs {3} more to activate if it targets a land you don’t control. (Create a token that’s a copy of a card named Clentaminator Solution.)",
 			"type": "Legendary Creature",
 			"subtypes": [
-			"Human Artificer"
+			"Human Artificer Citizen"
 			],
 			"collector_number": "40",
 			"image_uris": {
@@ -6675,7 +6675,7 @@
 			"oracle_text": "When Phi enters or whenever you sacrifice one or more Treasure tokens, create a Bomb token. This ability triggers only once each turn.\n{2/R}: Put a launcher counter on target non-Equipment Bomb you control. It becomes an Equipment in addition to its other types and gains “Equipped creature gets +2/+0” and equip {2/R}. You may attach it to target creature. Activate only as a sorcery.",
 			"type": "Legendary Artifact Creature",
 			"subtypes": [
-			"Robot Artificer"
+			"Robot Artificer Citizen"
 			],
 			"collector_number": "261",
 			"image_uris": {
