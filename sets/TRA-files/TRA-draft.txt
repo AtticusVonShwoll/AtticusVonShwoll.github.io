@@ -882,7 +882,7 @@
 			"cmc": 2,
 			"power": "1",
 			"toughness": "1",
-			"oracle_text": "Flying\nWhen this creature enters or leaves the battlefield, scry 1.\n{B}{R}{R}, Exile this creature and another card named Pursuing Eye from your hand or graveyard: Call upon Eye of Cthulhu. (Create a token that's a copy of a card named Eye of Cthulhu.)",
+			"oracle_text": "Flying\nWhen this creature enters or leaves the battlefield, scry 1.\n{B}{B}{R}{R}, Exile this creature and another Eye permanent or Eye card from your battlefield, hand or graveyard: Call upon Eye of Cthulhu. (Create a token that's a copy of a card named Eye of Cthulhu.)",
 			"type": "Creature",
 			"subtypes": [
 			"Eye"
@@ -1880,7 +1880,7 @@
 			"cmc": 4,
 			"power": "2",
 			"toughness": "4",
-			"oracle_text": "When Garval enters, destroy up to one target nonbasic land.\n{2/R}, {T} or {2/R}, Sacrifice a Treasure: Create a Bomb token. (It's an artifact with “{2/R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”)",
+			"oracle_text": "When Garval enters, destroy up to one target nonbasic land.\n{2/R}, {T} or {2/R}, Sacrifice a Treasure: Create a Bomb token. Activate only once each turn. (It's an artifact with “{2/R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”)",
 			"type": "Legendary Creature",
 			"subtypes": [
 			"Dwarf Artificer"
@@ -4402,8 +4402,8 @@
 		{
 			"name": "Spelunker Potion",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"cmc": 4,
+			"mana_cost": "{2}{R}",
+			"cmc": 3,
 			"oracle_text": "Enchant player\nWhenever you attack, if this Aura is attached to you, you may discard a card. If you do, draw a card and create a Treasure token.\nWhenever an opponent is attacked, if this Aura is attached to them, you may sacrifice any number of permanents. When you do, that many target creatures can’t block this turn.",
 			"type": "Enchantment",
 			"subtypes": [
@@ -6304,10 +6304,10 @@
 		{
 			"name": "The Frost Moon is Rising",
 			"rarity": "mythic",
-			"mana_cost": "{3}{B}{G}{U}",
-			"cmc": 6,
+			"mana_cost": "{4}{B}{G}{U}",
+			"cmc": 7,
 			"loyalty": "8",
-			"oracle_text": "(Events are protected by you. When it's defeated, sacrifice it and exile all creature tokens created with it.)\nWhen this Event enters or at the beginning of your upkeep, choose one or more —\n• Call upon your choice of Flocko, Frost Moon Elf or Gingerbrute.\n• Remove two defense counters from this Event. Call upon your choice of Everscream or Frost Moon Yeti.\n• Remove three defense counters from this Event. Call upon your choice of Ice Queen or Santa-NK1.",
+			"oracle_text": "(Events are protected by you. When it's defeated, sacrifice it and exile all creature tokens created with it.)\nWhen this Event enters or at the beginning of your upkeep, choose one or more —\n• Call upon your choice of Flocko, Frost Moon Elf or Gingerbrute.\n• Remove two defense counters from this Event. Call upon Frost Moon Yeti.\n• Remove three defense counters from this Event. Call upon your choice of Everscream, Ice Queen, or Santa-NK1.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"

@@ -564,7 +564,7 @@ Equip {0}. Activate only once each turn.</text>
       <tablerow>2</tablerow>
       <text>Flying
 When this creature enters or leaves the battlefield, scry 1.
-{B}{R}{R}, Exile this creature and another card named Pursuing Eye from your hand or graveyard: Call upon Eye of Cthulhu. (Create a token that's a copy of a card named Eye of Cthulhu.)</text>
+{B}{B}{R}{R}, Exile this creature and another Eye permanent or Eye card from your battlefield, hand or graveyard: Call upon Eye of Cthulhu. (Create a token that's a copy of a card named Eye of Cthulhu.)</text>
     </card>
     <card>
       <name>Plantera, Jungle's Soul</name>
@@ -1209,7 +1209,7 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       </prop>
       <tablerow>2</tablerow>
       <text>When Garval enters, destroy up to one target nonbasic land.
-{2/R}, {T} or {2/R}, Sacrifice a Treasure: Create a Bomb token. (It's an artifact with “{2/R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”)</text>
+{2/R}, {T} or {2/R}, Sacrifice a Treasure: Create a Bomb token. Activate only once each turn. (It's an artifact with “{2/R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”)</text>
     </card>
     <card>
       <name>Booby Trapped Cache</name>
@@ -2836,8 +2836,8 @@ As long as this Aura is attached to an opponent, artifacts that player controls 
       <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Spelunker Potion.png">TRA</set>
       <prop>
         <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
         <type>Enchantment — Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -3701,7 +3701,7 @@ Equip {4}</text>
       <tablerow>1</tablerow>
       <text>Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
 Equipped creature gets +2/+0, has vigilance, and is a Ranger in addition to its other types.
-Equip {5}</text>
+Equip {4}</text>
       <related attach="attach">Hero Token</related>
     </card>
     <card>
@@ -4152,8 +4152,8 @@ Enchanted creature gets +2/+2 for each Aura and Equipment attached to it.</text>
       <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/The Frost Moon is Rising.png">TRA</set>
       <prop>
         <colors>UBG</colors>
-        <manacost>3BGU</manacost>
-        <cmc>6</cmc>
+        <manacost>4BGU</manacost>
+        <cmc>7</cmc>
         <type>Battle — Event </type>
         <maintype>Battle</maintype>
         <loyalty>8</loyalty>
@@ -4162,8 +4162,8 @@ Enchanted creature gets +2/+2 for each Aura and Equipment attached to it.</text>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
 When this Event enters or at the beginning of your upkeep, choose one or more —
 • Call upon your choice of Flocko, Frost Moon Elf or Gingerbrute.
-• Remove two defense counters from this Event. Call upon your choice of Everscream or Frost Moon Yeti.
-• Remove three defense counters from this Event. Call upon your choice of Ice Queen or Santa-NK1.</text>
+• Remove two defense counters from this Event. Call upon Frost Moon Yeti.
+• Remove three defense counters from this Event. Call upon your choice of Everscream, Ice Queen, or Santa-NK1.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -7260,7 +7260,7 @@ GWW, {T}: Plantera deals damage equal to the number of Forests you control to ta
       <tablerow>2</tablerow>
       <text>Flying
 When this creature enters or leaves the battlefield, scry 1.
-BRR, Exile this creature and another card named Pursuing Eye from your hand or graveyard: Call upon Eye of Cthulhu. (Create a token that's a copy of a card named Eye of Cthulhu.)</text>
+{B}{B}{R}{R}, Exile this creature and another Eye permanent or Eye card from your battlefield, hand or graveyard: Call upon Eye of Cthulhu. (Create a token that's a copy of a card named Eye of Cthulhu.)</text>
       <token>1</token>
       <reverse-related>You Feel an Evil Presence Watching You</reverse-related>
     </card>
