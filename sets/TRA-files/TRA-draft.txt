@@ -8907,11 +8907,11 @@
 		9 Mechanical Destruction
 		9 Scarlett, Cutthroat Stylist
 		9 Enoki, Sentient Truffle
-		[CommonSlot(7)]
+		[CommonSlot(6)]
 		30 Slime Crown
 		30 Bravery Against the Odds
 		30 Acorn Bag
-		45 Pursuing Eye
+		30 Pursuing Eye
 		30 Enchanted Sword
 		30 Search for an Enchanted Sword
 		30 Critter Catching Net
@@ -8999,11 +8999,11 @@
 		30 Sunlit Marsh
 		30 Tangled Islet
 		30 Wooded Ridgeline
-		45 Granite Golem
-		45 Corrupt Devourer
-		45 Relentless Shark
-		45 Tomb Crawler
-		45 Man Eater
+		30 Granite Golem
+		30 Corrupt Devourer
+		30 Relentless Shark
+		30 Tomb Crawler
+		30 Man Eater
 		30 Prophetic Prism
 		30 Broken Hero Sword
 		30 Bone Serpent
@@ -9030,8 +9030,8 @@
 		30 Mourning Wood
 		30 Geistwave
 		30 Building a Town
-		60 Slime Symposium
-		60 Shadow Orb
+		30 Slime Symposium
+		30 Shadow Orb
 		30 Deadly Derision
 		30 Splinterling
 		30 Flocko
@@ -9049,12 +9049,12 @@
 		30 Bounding Balloon
 		30 Light Pet
 		30 K.O. Cannon
-		60 Shared Loot
-		60 Through the Pylons
+		30 Shared Loot
+		30 Through the Pylons
 		30 Change Loadout
 		30 Windy Balloon
 		30 Dungeon Slime
-		60 Crimson Heart
+		30 Crimson Heart
 		30 Flying Fish
 		30 Antlion Charger
 		30 Jungle Excavation
@@ -9093,6 +9093,22 @@
 		30 Sand Slime
 		30 Squire Slime
 		30 Loyal Cultists
+		[HighValueCommon(1)]
+		10 Tomb Crawler
+		10 Relentless Shark
+		10 Corrupt Devourer
+		10 Granite Golem
+		10 Man Eater
+		10 Shared Loot
+		10 Through the Pylons
+		10 Shadow Orb
+		10 Crimson Heart
+		10 Slime Symposium
+		10 Blasted by Rainbows
+		10 Not Today
+		10 Deadly Derision
+		10 Fire Imp Assualt
+		10 Slash of Regrowth
 		[WildcardSlot(2)]
 	10 Skeletron, Dungeon Guardian
 	10 The Dungeon's Entrance
