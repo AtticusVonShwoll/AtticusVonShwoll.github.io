@@ -2239,7 +2239,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{U}",
 			"cmc": 4,
-			"oracle_text": "Sagas you control have read ahead. (Choose a chapter and start with that many lore counters. Skipped chapters don't trigger.)\n{T}: Remove two defense counters from each battle your opponent's protect and two time counters from each suspended card you own in exile. You may end the turn. Activate only during your turn.",
+			"oracle_text": "Sagas you control have read ahead. (Choose a chapter and start with that many lore counters. Skipped chapters don't trigger.)\n{T}: Remove two defense counters from each battle your opponents protect and two time counters from each suspended card you own in exile. You may end the turn. Activate only during your turn.",
 			"type": "Artifact",
 	  "set": "tra", "collector_number": "119",
 			"image_uris": {

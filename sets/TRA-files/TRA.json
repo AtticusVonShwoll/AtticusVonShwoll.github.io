@@ -1800,7 +1800,7 @@
             "number": 207,
             "color_identity": "WU",
             "cost": "{1}{W}{U}{U}",
-            "rules_text": "Sagas you control have read ahead. [i](Choose a chapter and start with that many lore counters. Skipped chapters don't trigger.)[/i]\n{T}: Remove two defense counters from each battle your opponent's protect and two time counters from each suspended card you own in exile. You may end the turn. Activate only during your turn.",
+            "rules_text": "Sagas you control have read ahead. [i](Choose a chapter and start with that many lore counters. Skipped chapters don't trigger.)[/i]\n{T}: Remove two defense counters from each battle your opponents protect and two time counters from each suspended card you own in exile. You may end the turn. Activate only during your turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
