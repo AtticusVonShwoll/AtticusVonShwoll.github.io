@@ -5543,14 +5543,14 @@
             "notes": ""
         },
         {
-            "card_name": "Deadly Derision",
+            "card_name": "Killed for Coins",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
             "number": 90,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Destroy target creature or planeswalker. Create a Treasure token.",
+            "rules_text": "Destroy target battle or creature. Create a Treasure token.",
             "flavor_text": "[i]\u201cA little more gold to fund my reforges.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -5558,7 +5558,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Victor Vaz",
-            "alias": "Killed for Coins",
+            "alias": "",
             "position": "263",
             "rotated": false,
             "notes": ""

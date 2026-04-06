@@ -6128,11 +6128,11 @@
 			}
 		},
 		{
-			"name": "Deadly Derision",
+			"name": "Killed for Coins",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"cmc": 4,
-			"oracle_text": "Destroy target creature or planeswalker. Create a Treasure token.",
+			"oracle_text": "Destroy target battle or creature. Create a Treasure token.",
 			"type": "Instant",
 	  "set": "tra", "collector_number": "53",
 			"image_uris": {
@@ -9032,7 +9032,7 @@
 		30 Building a Town
 		30 Slime Symposium
 		30 Shadow Orb
-		30 Deadly Derision
+		30 Killed for Coins
 		30 Splinterling
 		30 Flocko
 		30 Pumpkin Scarecrow
@@ -9106,8 +9106,8 @@
 		10 Slime Symposium
 		10 Blasted by Rainbows
 		10 Not Today
-		10 Deadly Derision
-		10 Fire Imp Assualt
+		10 Killed for Coins
+		10 Fire Imp Assault
 		10 Slash of Regrowth
 		[WildcardSlot(2)]
 	10 Skeletron, Dungeon Guardian
@@ -9365,7 +9365,7 @@
 	10 Building a Town
 	10 Slime Symposium
 	10 Ankh Shield
-	10 Deadly Derision
+	10 Killed for Coins
 	10 Lantern Night
 	10 Truffle Worm
 	10 Splinterling

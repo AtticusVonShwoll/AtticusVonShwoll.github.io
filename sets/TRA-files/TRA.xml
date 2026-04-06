@@ -4027,7 +4027,7 @@ A deck can have any number of cards named Slime Symposium.</text>
 If a source an opponent controls would deal damage to you, prevent 1 of that damage.</text>
     </card>
     <card>
-      <name>Deadly Derision</name>
+      <name>Killed for Coins</name>
       <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Killed for Coins.png">TRA</set>
       <prop>
         <colors>B</colors>
@@ -4037,7 +4037,7 @@ If a source an opponent controls would deal damage to you, prevent 1 of that dam
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target creature or planeswalker. Create a Treasure token.</text>
+      <text>Destroy target battle or creature. Create a Treasure token.</text>
     </card>
     <card>
       <name>Lantern Night</name>
