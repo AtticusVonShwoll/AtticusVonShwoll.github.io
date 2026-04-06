@@ -841,6 +841,7 @@ Whenever a creature an opponent controls dies, Xavier deals 1 damage to that cre
       <text>Job select
 Equipped creature gets +5/+5, has menace and trample, and is a Warrior in addition to its other types.
 Equip {2}</text>
+      <related attach="attach">Hero Token</related>
     </card>
     <card>
       <name>Queen Slime</name>
@@ -1057,6 +1058,7 @@ Magic Missile deals 3 damage divided as you choose among one, two, or three targ
       <text>Job select
 Equipped creature gets +5/+5 and has lifelink and haste, and is a Warrior in addition to its other types.
 Equip {2}</text>
+      <related attach="attach">Hero Token</related>
     </card>
     <card>
       <name>Robyn, Cursed Zoologist</name>
@@ -2710,6 +2712,8 @@ Whenever this creature deals combat damage to a player or battle, you may have i
       <tablerow>2</tablerow>
       <text>When this creature enters, you may pay {U}. If you do, create two 1/1 green Ooze creature tokens.
 When this creature dies, create three 1/1 green Ooze creature tokens.</text>
+      <related count="3">Ooze Token</related>
+      <related count="2">Ooze Token</related>
     </card>
     <card>
       <name>Snow Flinxes</name>
@@ -4704,6 +4708,7 @@ Search your library for an artifact card, reveal it, put it into your hand, then
 When this creature dies, choose one —
 • Create a 1/1 green Ooze creature token.
 • Call upon Bounding Balloon. (Create a token that's a copy of a card named Bounding Balloon)</text>
+      <related>Ooze Token</related>
     </card>
     <card>
       <name>Dungeon Slime</name>
@@ -5037,6 +5042,7 @@ Whenever an Eye you control dies or is exiled, create a Clue token.</text>
       <text>When this enchantment enters, create a 2/2 green Ooze creature token. Then you may behold a Boss or Event. If you do, create a Treasure token.
 Whenever an Ooze you control with base power or toughness 2 or greater dies, create a 1/1 green Ooze creature token.</text>
       <related>Treasure Token</related>
+      <related>Ooze Token</related>
     </card>
     <card>
       <name>Horrific Bloodbath</name>
@@ -6708,8 +6714,8 @@ Equip Shaman {G}</text>
 Whenever this creature deals combat damage to a player, put a charge counter on it.
 When this creature dies, you may pay {X}. When you do, call upon Star Cell X times. X can't be greater than the number of counters that were on this creature.</text>
       <token>1</token>
-      <reverse-related count="X">Star Cell</reverse-related>
-      <reverse-related count="X">Star Cell (Token)</reverse-related>
+      <reverse-related count="x">Star Cell</reverse-related>
+      <reverse-related count="x">Star Cell (Token)</reverse-related>
       <reverse-related>The Stardust Pillar</reverse-related>
       <reverse-related>The Stardust Pillar (Token)</reverse-related>
     </card>
@@ -7263,6 +7269,7 @@ When this creature enters or leaves the battlefield, scry 1.
 {B}{B}{R}{R}, Exile this creature and another Eye permanent or Eye card from your battlefield, hand or graveyard: Call upon Eye of Cthulhu. (Create a token that's a copy of a card named Eye of Cthulhu.)</text>
       <token>1</token>
       <reverse-related>You Feel an Evil Presence Watching You</reverse-related>
+      <reverse-related>Eye on You!</reverse-related>
     </card>
     <card>
       <name>Queen Bee (Token)</name>
@@ -7466,6 +7473,7 @@ Equip {2}</text>
       <reverse-related>Demon Altar</reverse-related>
       <reverse-related>Broken Hero Sword</reverse-related>
       <reverse-related>Broken Hero Sword (Token)</reverse-related>
+      <related attach="attach">Hero Token</related>
     </card>
     <card>
       <name>Grapple Hook (Token)</name>
@@ -7586,6 +7594,7 @@ Equip {2}</text>
       <token>1</token>
       <reverse-related>Broken Hero Sword</reverse-related>
       <reverse-related>Broken Hero Sword (Token)</reverse-related>
+      <related attach="attach">Hero Token</related>
     </card>
     <card>
       <name>Paladin's Gear (Token)</name>
