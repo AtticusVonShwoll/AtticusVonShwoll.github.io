@@ -37,7 +37,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"cmc": 4.0,
-			"oracle_text": "When The Dungeon’s Entrance enters, create Old Man, a legendary 0/2 white Human creature token with “When this creature dies, call upon Skeletron, Dungeon Guardian.” (Create a token that’s a copy of a card named Skeletron, Dungeon Guardian.)\nWhenever a creature attacks you or a planeswalker you control, create a Treasure token.",
+			"oracle_text": "When The Dungeon’s Entrance enters, create Old Man, a legendary 0/2 white Human creature token with “When this creature dies, call upon Skeletron, Dungeon Guardian.” (Create a token that’s a copy of a card named Skeletron, Dungeon Guardian.)\nWhenever a creature attacks you, create a Treasure token.",
 			"type": "Legendary Artifact",
 	  "set": "tra", "collector_number": "207",
 			"image_uris": {
@@ -347,7 +347,7 @@
 			"mana_cost": "{2}{G/U}{G/U}",
 			"cmc": 4,
 			"loyalty": "5",
-			"oracle_text": "",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create a 2/2 green Ooze creature token if it has exactly two hour counters on it. If it has exactly three, call upon King Slime. Otherwise, call upon your choice of Bomb Slime, Coin Slime or Surface Slime.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -1736,7 +1736,7 @@
 			"mana_cost": "{1}{U}{U}{B}{B}",
 			"cmc": 5,
 			"loyalty": "10",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -1757,7 +1757,7 @@
 			"mana_cost": "{1}{U}{U}{B}{B}",
 			"cmc": 5,
 			"loyalty": "10",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian.",
 			"type": "Token Battle",
 			"subtypes": [
 			"Event"
@@ -1772,7 +1772,7 @@
 			"mana_cost": "{G}{U}{R}{R}",
 			"cmc": 4,
 			"loyalty": "10",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -1792,7 +1792,7 @@
 			"mana_cost": "{G}{U}{R}{R}",
 			"cmc": 4,
 			"loyalty": "10",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor.",
 			"type": "Token Battle",
 			"subtypes": [
 			"Event"
@@ -3594,8 +3594,8 @@
 		{
 			"name": "Excessive Mining",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"cmc": 4,
+			"mana_cost": "{1}{R}{R}",
+			"cmc": 3,
 			"oracle_text": "Tap an untapped land and creature you control: Put a mining counter on this enchantment and create a Treasure token.\nSacrifice a land, remove three mining counters from this enchantment: Draw a card.",
 			"type": "Enchantment",
 	  "set": "tra", "collector_number": "70",
@@ -3612,7 +3612,7 @@
 			"mana_cost": "{3}{U}{R}{W}",
 			"cmc": 6,
 			"loyalty": "5",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create three Bomb tokens if it has exactly one hour counter. If it has exactly three, put a lifelink counter on each Bomb you control. If it has exactly four, call upon Skeletron Prime. Otherwise, target artifact becomes a 4/4 Construct creature in addition to its other types.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create three Bomb tokens if it has exactly one hour counter. If it has exactly three, put a lifelink counter on each Bomb you control. If it has exactly four, call upon Skeletron Prime. Otherwise, target artifact becomes a 4/4 Construct creature in addition to its other types.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -3634,7 +3634,7 @@
 			"mana_cost": "{3}{W}{U}{B}{R}{G}",
 			"cmc": 8,
 			"loyalty": "10",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nWhen this Event enters and at the beginning of your upkeep, call upon a card name that you don’t control from among The Nebula Pillar, The Solar Pillar, The Stardust Pillar or The Vortex Pillar. If you don’t make a token this way, put a defense counter on each other battle you protect.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters and at the beginning of your upkeep, call upon a card name that you don’t control from among The Nebula Pillar, The Solar Pillar, The Stardust Pillar or The Vortex Pillar. If you don’t make a token this way, put a defense counter on each other battle you protect.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -3692,7 +3692,7 @@
 			"mana_cost": "{2}{W}{U}{B}",
 			"cmc": 5,
 			"loyalty": "5",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create two 0/2 white and black Cleric creature tokens with defender if it has exactly one hour counter on it. If it has exactly two, create two 2/1 white and black Cleric Archer Ranger creature tokens with reach. If it has exactly three, draw a card for each Cleric token you control. If it has exactly four, call upon The Lunatic Cultist.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create two 0/2 white and black Cleric creature tokens with defender if it has exactly one hour counter on it. If it has exactly two, create two 2/1 white and black Cleric Archer Ranger creature tokens with reach. If it has exactly three, draw a card for each Cleric token you control. If it has exactly four, call upon The Lunatic Cultist.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -3739,7 +3739,7 @@
 			"mana_cost": "{1}{R}{R}{G}",
 			"cmc": 4,
 			"loyalty": "4",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nAt the beginning of combat on your turn, call upon a card name chosen at random from among Goblin Archer, Goblin Peon, Goblin Sorcerer or Goblin Warrior. If you call upon Goblin Peon this way, call upon Goblin Thief.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of combat on your turn, call upon a card name chosen at random from among Goblin Archer, Goblin Peon, Goblin Sorcerer or Goblin Warrior. If you call upon Goblin Peon this way, call upon Goblin Thief.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -3864,7 +3864,7 @@
 			"mana_cost": "{3}{U}{B}{R}",
 			"cmc": 6,
 			"loyalty": "10",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, it deals 2 damage to each creature without flying and each opponent if it has exactly one hour counter on it. If it has exactly two, destroy up to one target nonbasic land. If it has exactly three, tap each artifact and creature your opponents control, put a stun counter on each of those permanents. If it has exactly four, call upon The Destroyer.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, it deals 2 damage to each creature without flying and each opponent if it has exactly one hour counter on it. If it has exactly two, destroy up to one target nonbasic land. If it has exactly three, tap each artifact and creature your opponents control, put a stun counter on each of those permanents. If it has exactly four, call upon The Destroyer.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -3883,7 +3883,7 @@
 			"mana_cost": "{R}{G}{G}{W}",
 			"cmc": 4,
 			"loyalty": "3",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create a Forest land token if it has exactly one hour counter on it. If it has exactly two, create a tapped Mountain Forest land token. If it has exactly three, create a tapped Forest Plains land token. If it has exactly four, call upon Plantera, Jungle's Soul.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create a Forest land token if it has exactly one hour counter on it. If it has exactly two, create a tapped Mountain Forest land token. If it has exactly three, create a tapped Forest Plains land token. If it has exactly four, call upon Plantera, Jungle's Soul.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -3959,7 +3959,7 @@
 			"mana_cost": "{3}{R}{W}{B}",
 			"cmc": 6,
 			"loyalty": "4",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, target player reveals their hand if this Event has exactly one hour counter on it. You choose a nonland card from it. That player discards that card. If it has exactly three, this Event deals 3 damage to each of up to two targets. If it has exactly four, call upon Retinazer and Spazmatism. Otherwise, create two 2/2 black Zombie creature tokens.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, target player reveals their hand if this Event has exactly one hour counter on it. You choose a nonland card from it. That player discards that card. If it has exactly three, this Event deals 3 damage to each of up to two targets. If it has exactly four, call upon Retinazer and Spazmatism. Otherwise, create two 2/2 black Zombie creature tokens.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -4087,7 +4087,7 @@
 			"mana_cost": "{3}{W}{U}",
 			"cmc": 5,
 			"loyalty": "6",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create a 0/1 white Insect creature token with flying if it has exactly one hour counter on it. If it has exactly two, call upon Hallow Pixie. Otherwise, choose a creature you control. At the beginning of your next upkeep, draw a card if that creature is on the battlefield. Otherwise, sacrifice this Event. When you do, call upon The Empress of Light.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put onto this Event, create a 0/1 white Insect creature token with flying if it has exactly one hour counter on it. If it has exactly two, call upon Hallow Pixie. Otherwise, choose a creature you control. At the beginning of your next upkeep, draw a card if that creature is on the battlefield. Otherwise, sacrifice this Event. When you do, call upon The Empress of Light.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -4132,7 +4132,7 @@
 			}
 		},
 		{
-			"name": "Imprisoned in the Moon",
+			"name": "Lunar Imprisonment",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"cmc": 3,
@@ -4143,7 +4143,7 @@
 			],
 	  "set": "tra", "collector_number": "26",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Imprisoned in the Moon.png"
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Lunar Imprisonment.png"
 			}
 		},
 		{
@@ -4809,7 +4809,7 @@
 			"mana_cost": "{1}{B}{R}",
 			"cmc": 3,
 			"loyalty": "4",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put on this Event, create a 2/2 black Zombie creature token if it has exactly one hour counter on it. If it has exactly three, call upon Eye of Cthulhu. Otherwise, call upon Pursuing Eye.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nWhen this Event enters or at the beginning of your upkeep, put an hour counter on it.\nWhenever an hour counter is put on this Event, create a 2/2 black Zombie creature token if it has exactly one hour counter on it. If it has exactly three, call upon Eye of Cthulhu. Otherwise, call upon Pursuing Eye.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -4961,7 +4961,7 @@
 			"cmc": 6,
 			"power": "5",
 			"toughness": "5",
-			"oracle_text": "Trample\nWhen this creature dies, create a Treasure token.\nMountaincycling {2/R} ({2/R}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",
+			"oracle_text": "Trample\nWhen this creature dies, create a Bomb token. (It’s an artifact with “{2/R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”).\nMountaincycling {2/R} ({2/R}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",
 			"type": "Artifact Creature",
 			"subtypes": [
 			"Golem"
@@ -4981,7 +4981,7 @@
 			"cmc": 6,
 			"power": "6",
 			"toughness": "5",
-			"oracle_text": "Menace\nWhen this creature dies, create a Treasure token.\nSwampcycling {2/B} ({2/B}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",
+			"oracle_text": "Menace\nWhen this creature dies, create a Clue token.\nSwampcycling {2/B} ({2/B}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",
 			"type": "Creature",
 			"subtypes": [
 			"Wurm Horror"
@@ -5584,7 +5584,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"cmc": 3,
-			"oracle_text": "Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)\nEquipped creature gets +2/+1 and is a Warrior in addition to its other types.\nEquip {4}",
+			"oracle_text": "Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)\nEquipped creature gets +2/+1, has menace and is a Warrior in addition to its other types.\nEquip {4}",
 			"type": "Artifact",
 			"subtypes": [
 			"Equipment"
@@ -7005,7 +7005,7 @@
 			"mana_cost": "{2}{U}{B}{R}",
 			"cmc": 5,
 			"loyalty": "6",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nAt the beginning of combat on your turn, call upon a card name chosen randomly from among Pirate Corsair, Pirate Crossbower, Pirate Deadeye, Pirate Deckhand and Pirate's Parrot. Then if you control at least three permanents with different names from that list and you don’t control a Pirate Boss token, call upon a card name chosen randomly from among Flying Dutchman and Pirate Captain.",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of combat on your turn, call upon a card name chosen randomly from among Pirate Corsair, Pirate Crossbower, Pirate Deadeye, Pirate Deckhand and Pirate's Parrot. Then if you control at least three permanents with different names from that list and you don’t control a Pirate Boss token, call upon a card name chosen randomly from among Flying Dutchman and Pirate Captain.",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -7409,7 +7409,7 @@
 			"mana_cost": "{B}{R}{G}",
 			"cmc": 3,
 			"loyalty": "4",
-			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)\nAt the beginning of combat on your turn, call upon a card name chosen at random from among Mister Stabby, Snow Balla, or Snowman Gangsta. (Create a token that's a copy of the named card.)",
+			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of combat on your turn, call upon a card name chosen at random from among Mister Stabby, Snow Balla, or Snowman Gangsta. (Create a token that's a copy of the named card.)",
 			"type": "Battle",
 			"subtypes": [
 			"Event"
@@ -7574,7 +7574,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"cmc": 2,
-			"oracle_text": "When this enchantment enters, you may behold a Boss or Event. If you do, create two 1/1 black Skeleton creature tokens. Otherwise, create one of those tokens.\nWhenever a Skeleton you control dies, you may pay 1 life. If you do, create a Treasure token.",
+			"oracle_text": "When this enchantment enters, you may behold a Boss or Event. If you do, create two 1/1 black Skeleton creature tokens. Otherwise, create one of those tokens.\nWhenever a Skeleton you control dies, create a Treasure token.",
 			"type": "Kindred Enchantment",
 			"subtypes": [
 			"Skeleton"
@@ -8964,7 +8964,7 @@
 		30 Gray Grunt
 		30 Minimus Containment
 		30 Visit the Nurse
-		30 Imprisoned in the Moon
+		30 Lunar Imprisonment
 		30 Escape Imprisonment
 		30 Hornet Nest
 		30 Climbing Jungle Creeper
@@ -9280,7 +9280,7 @@
 	10 Prismatic Lacewing
 	10 Angering a Light God
 	10 Moon Lord
-	10 Imprisoned in the Moon
+	10 Lunar Imprisonment
 	10 Escape Imprisonment
 	10 Hornet Nest
 	10 Climbing Jungle Creeper

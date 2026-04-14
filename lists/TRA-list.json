@@ -329,7 +329,7 @@
     },
     {
         "card_name": "Korrie, Free Mechanic",
-        "number": 55,
+        "number": 54,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -808,12 +808,12 @@
         "position": "114"
     },
     {
-        "card_name": "Imprisoned in the Moon",
+        "card_name": "K.O. Cannon",
         "number": 53,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "163"
+        "position": "301"
     },
     {
         "card_name": "Ever-Returning Threat",
@@ -848,12 +848,12 @@
         "position": "524"
     },
     {
-        "card_name": "K.O. Cannon",
-        "number": 54,
+        "card_name": "Librarian Skeleton",
+        "number": 55,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "301"
+        "position": "316"
     },
     {
         "card_name": "Eyezor",
@@ -888,12 +888,12 @@
         "position": "117"
     },
     {
-        "card_name": "Librarian Skeleton",
+        "card_name": "Lunar Imprisonment",
         "number": 56,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "316"
+        "position": "163"
     },
     {
         "card_name": "The Groom",

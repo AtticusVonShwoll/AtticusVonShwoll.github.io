@@ -35,7 +35,7 @@ When Skeletron enters, if it's a token, it deals damage equal to its power to ta
       </prop>
       <tablerow>1</tablerow>
       <text>When The Dungeon's Entrance enters, create Old Man, a legendary 0/2 white Human creature token with “When this creature dies, call upon Skeletron, Dungeon Guardian.”
-Whenever a creature attacks you or a planeswalker you control, create a Treasure token.</text>
+Whenever a creature attacks you, create a Treasure token.</text>
       <related>Treasure Token</related>
     </card>
     <card>
@@ -175,7 +175,7 @@ Equip Ooze {2} ({2}: Attach to target Ooze creature you control. Equip only as a
         <loyalty>5</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, put an hour counter on it.
 Whenever an hour counter is put onto this Event, create a 2/2 green Ooze creature token if it has exactly two hour counters on it. If it has exactly three, call upon King Slime. Otherwise, call upon your choice of Bomb Slime, Coin Slime or Surface Slime.</text>
       <related>Ooze Token</related>
@@ -1146,7 +1146,7 @@ Equip Warrior {1}</text>
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -1162,7 +1162,7 @@ At the beginning of your end step, you may remove a defense counter from this Ev
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -1178,7 +1178,7 @@ At the beginning of your end step, you may remove a defense counter from this Ev
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon card name chosen at random from among Flow Invader, Star Cell and Stargazer.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -1194,7 +1194,7 @@ At the beginning of your end step, you may remove a defense counter from this Ev
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Crawltipede, Drakomire Rider or Selenian.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -2213,7 +2213,7 @@ Whenever The Ranger deals combat damage to a player, draw two cards, then discar
         <loyalty>8</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, choose one or more —
 • Call upon your choice of Pumpkin Scarecrow or Splinterling.
 • Remove a defense counter from this Event. Call upon Headless Horserider.
@@ -2305,8 +2305,8 @@ Equip Warrior {R}</text>
       <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Excessive Mining.png" uuid="537a0086-83a8-48d1-8266-1b3f6ca18ff2">TRA</set>
       <prop>
         <colors>R</colors>
-        <manacost>2RR</manacost>
-        <cmc>4</cmc>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -2327,7 +2327,7 @@ Sacrifice a land, remove three mining counters from this enchantment: Draw a car
         <loyalty>5</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, put an hour counter on it.
 Whenever an hour counter is put onto this Event, create three Bomb tokens if it has exactly one hour counter. If it has exactly three, put a lifelink counter on each Bomb you control. If it has exactly four, call upon Skeletron Prime. Otherwise, target artifact becomes a 4/4 Construct creature in addition to its other types.</text>
       <landscapeOrientation>1</landscapeOrientation>
@@ -2344,7 +2344,7 @@ Whenever an hour counter is put onto this Event, create three Bomb tokens if it 
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters and at the beginning of your upkeep, call upon a card name that you don't control from among The Nebula Pillar, The Solar Pillar, The Stardust Pillar or The Vortex Pillar. If you don't make a token this way, put a defense counter on each other battle you protect.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -2376,7 +2376,7 @@ Whenever you cast a noncreature spell with mana value X or less, copy it. You ma
         <loyalty>5</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, put an hour counter on it.
 Whenever an hour counter is put onto this Event, create two 0/2 white and black Cleric creature tokens with defender if it has exactly one hour counter on it. If it has exactly two, create two 2/1 white and black Cleric Archer Ranger creature tokens with reach. If it has exactly three, draw a card for each Cleric token you control. If it has exactly four, call upon The Lunatic Cultist.</text>
       <landscapeOrientation>1</landscapeOrientation>
@@ -2393,7 +2393,7 @@ Whenever an hour counter is put onto this Event, create two 0/2 white and black 
         <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of combat on your turn, call upon a card name chosen at random from among Goblin Archer, Goblin Peon, Goblin Sorcerer or Goblin Warrior. If you call upon Goblin Peon this way, call upon Goblin Thief.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -2469,7 +2469,7 @@ Put a +1/+1 counter on up to one target creature. You gain 3 life.</text>
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, put an hour counter on it.
 Whenever an hour counter is put onto this Event, it deals 2 damage to each creature without flying and each opponent if it has exactly one hour counter on it. If it has exactly two, destroy up to one target nonbasic land. If it has exactly three, tap each artifact and creature your opponents control, put a stun counter on each of those permanents. If it has exactly four, call upon The Destroyer.</text>
       <landscapeOrientation>1</landscapeOrientation>
@@ -2486,7 +2486,7 @@ Whenever an hour counter is put onto this Event, it deals 2 damage to each creat
         <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, put an hour counter on it.
 Whenever an hour counter is put onto this Event, create a Forest land token if it has exactly one hour counter on it. If it has exactly two, create a tapped Mountain Forest land token. If it has exactly three, create a tapped Forest Plains land token. If it has exactly four, call upon Plantera, Jungle's Soul.</text>
       <landscapeOrientation>1</landscapeOrientation>
@@ -2504,7 +2504,7 @@ Whenever an hour counter is put onto this Event, create a Forest land token if i
         <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of combat on your turn, call upon a card name chosen at random from among Blood Drippler, Blood Zombie, Corrupt Bunny, The Bride or The Groom. If you call upon Corrupt Bunny this way, call upon Vicious Bunny.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -2520,7 +2520,7 @@ At the beginning of combat on your turn, call upon a card name chosen at random 
         <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, put an hour counter on it.
 Whenever an hour counter is put onto this Event, target player reveals their hand if this Event has exactly one hour counter on it. You choose a nonland card from it. That player discards that card. If it has exactly three, this Event deals 3 damage to each of up to two targets. If it has exactly four, call upon Retinazer and Spazmatism. Otherwise, create two 2/2 black Zombie creature tokens.</text>
       <related count="2">Zombie Token</related>
@@ -2618,7 +2618,7 @@ When this creature dies, if it wasn't blocking, call upon The Empress of Light.
         <loyalty>6</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, put an hour counter on it.
 Whenever an hour counter is put onto this Event, create a 0/1 white Insect creature token with flying if it has exactly one hour counter on it. If it has exactly two, call upon Hallow Pixie. Otherwise, choose a creature you control. At the beginning of your next upkeep, draw a card if that creature is on the battlefield. Otherwise, sacrifice this Event. When you do, call upon The Empress of Light.</text>
       <landscapeOrientation>1</landscapeOrientation>
@@ -2641,8 +2641,8 @@ If Moon Lord would be put into a graveyard from anywhere, exile it instead.
 You may cast Moon Lord from exile if a Boss or Event has been put into a graveyard from the battlefield this turn.</text>
     </card>
     <card>
-      <name>Imprisoned in the Moon</name>
-      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Imprisoned in the Moon.png" uuid="c916079d-907e-4b25-9583-c0f19d1da5b2">TRA</set>
+      <name>Lunar Imprisonment</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Lunar Imprisonment.png" uuid="c916079d-907e-4b25-9583-c0f19d1da5b2">TRA</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -3112,7 +3112,7 @@ Whenever this creature attacks, create a 1/1 blue Alien Ooze creature token with
         <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, put an hour counter on it.
 Whenever an hour counter is put on this Event, create a 2/2 black Zombie creature token if it has exactly one hour counter on it. If it has exactly three, call upon Eye of Cthulhu. Otherwise, call upon Pursuing Eye.</text>
       <related>Zombie Token</related>
@@ -3281,9 +3281,9 @@ This land enters tapped.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When this creature dies, create a Treasure token.
+When this creature dies, create a Bomb token. (It's an artifact with "{2/R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.")
 Mountaincycling {2/R} ({2/R}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-      <related>Treasure Token</related>
+      <related>Bomb Token</related>
     </card>
     <card>
       <name>Corrupt Devourer</name>
@@ -3298,9 +3298,9 @@ Mountaincycling {2/R} ({2/R}, Discard this card: Search your library for a Mount
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-When this creature dies, create a Treasure token.
+When this creature dies, create a Clue token.
 Swampcycling {2/B} ({2/B}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-      <related>Treasure Token</related>
+      <related>Clue Token</related>
     </card>
     <card>
       <name>Relentless Shark</name>
@@ -3452,7 +3452,7 @@ Unearth {1}{B}{B}</text>
         <loyalty>6</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of combat on your turn, call upon a card name chosen randomly from among Creature from the Deep, Deadly Sphere, Dr. Man Fly, Eclipse Butcher, Eclipse Psycho, Eyezor, Nailhead, Reaper of the Eclipse, Shapeshifting Vampire, Swamp Thing or The Possessed.
 At the beginning of your second main phase, if you control three tokens created by this Event and you don't control an Insect Boss, call upon Mothron.</text>
       <landscapeOrientation>1</landscapeOrientation>
@@ -3672,7 +3672,7 @@ When this creature enters, each player sacrifices a creature.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
-Equipped creature gets +2/+1 and is a Warrior in addition to its other types.
+Equipped creature gets +2/+1, has menace and is a Warrior in addition to its other types.
 Equip {4}</text>
       <related attach="attach">Hero Token</related>
     </card>
@@ -4042,6 +4042,7 @@ If a source an opponent controls would deal damage to you, prevent 1 of that dam
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target battle or creature. Create a Treasure token.</text>
+      <related>Treasure Token</related>
     </card>
     <card>
       <name>Lantern Night</name>
@@ -4163,7 +4164,7 @@ Enchanted creature gets +2/+2 for each Aura and Equipment attached to it.</text>
         <loyalty>8</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 When this Event enters or at the beginning of your upkeep, choose one or more —
 • Call upon your choice of Flocko, Frost Moon Elf or Gingerbrute.
 • Remove two defense counters from this Event. Call upon Frost Moon Yeti.
@@ -4569,7 +4570,7 @@ When this creature dies, choose one —
         <loyalty>6</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of combat on your turn, call upon a card name chosen randomly from among Pirate Corsair, Pirate Crossbower, Pirate Deadeye, Pirate Deckhand and Pirate's Parrot. Then if you control at least three permanents with different names from that list and you don't control a Pirate Boss token, call upon a card name chosen randomly from among Flying Dutchman and Pirate Captain.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -4884,7 +4885,7 @@ At the beginning of the end step, sacrifice this creature.</text>
         <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of combat on your turn, call upon a card name chosen at random from among Mister Stabby, Snow Balla, or Snowman Gangsta. (Create a token that's a copy of the named card.)</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -5008,7 +5009,7 @@ Whenever an Alien you control dies, proliferate.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, you may behold a Boss or Event. If you do, create two 1/1 black Skeleton creature tokens. Otherwise, create one of those tokens.
-Whenever a Skeleton you control dies, you may pay 1 life. If you do, create a Treasure token.</text>
+Whenever a Skeleton you control dies, create a Treasure token.</text>
       <related>Treasure Token</related>
       <related>Skeleton Token </related>
     </card>
@@ -6496,7 +6497,7 @@ When this creature dies, create a 2/2 white, black, and green Insect creature to
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor.</text>
       <token>1</token>
       <reverse-related>The Celestial Invasion</reverse-related>
@@ -6515,7 +6516,7 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       </prop>
       <tablerow>1</tablerow>
       <token>1</token>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Crawltipede, Drakomire Rider or Selenian.</text>
       <reverse-related>The Celestial Invasion</reverse-related>
       <landscapeOrientation>1</landscapeOrientation>
@@ -6532,7 +6533,7 @@ At the beginning of your end step, you may remove a defense counter from this Ev
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon card name chosen at random from among Flow Invader, Star Cell and Stargazer.</text>
       <token>1</token>
       <reverse-related>The Celestial Invasion</reverse-related>
@@ -6550,7 +6551,7 @@ At the beginning of your end step, you may remove a defense counter from this Ev
         <loyalty>10</loyalty>
       </prop>
       <tablerow>1</tablerow>
-      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures.)
+      <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
 At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian.</text>
       <token>1</token>
       <reverse-related>The Celestial Invasion</reverse-related>
