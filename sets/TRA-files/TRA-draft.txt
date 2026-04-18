@@ -4971,7 +4971,7 @@
 				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Granite Golem.png"
 			},
 			"related_cards": [
-			"Treasure Token"
+			"Bomb Token"
 			]
 		},
 		{
@@ -4991,7 +4991,7 @@
 				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Corrupt Devourer.png"
 			},
 			"related_cards": [
-			"Treasure Token"
+			"Clue Token"
 			]
 		},
 		{
