@@ -2239,7 +2239,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{U}",
 			"cmc": 4,
-			"oracle_text": "Sagas you control have read ahead. (Choose a chapter and start with that many lore counters. Skipped chapters don't trigger.)\n{T}: Remove two defense counters from each battle your opponents protect and two time counters from each suspended card you own in exile. You may end the turn. Activate only during your turn.",
+			"oracle_text": "Sagas you control have read ahead. (Choose a chapter and start with that many lore counters. Skipped chapters don't trigger.)\n{T}: Remove two defense counters from each battle your opponents protect. Time travel two times. You may end the turn. Activate only during your turn.",
 			"type": "Artifact",
 	  "set": "tra", "collector_number": "119",
 			"image_uris": {
@@ -2598,7 +2598,7 @@
 			"cmc": 2,
 			"power": "0",
 			"toughness": "2",
-			"oracle_text": "{T}: Add {C}.\n{T}, Sacrifice this creature: Add one mana of any color.",
+			"oracle_text": "{1}: Add one mana of any color. Activate only once each turn.\n{T}: Add one mana of any color.",
 			"type": "Artifact Creature",
 			"subtypes": [
 			"Treasure Rabbit"
@@ -8703,6 +8703,166 @@
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Fungus Token.png"
 			}
+		},
+		{
+			"name": "Swift Reconfiguration",
+			"rarity": "masterpiece",
+			"mana_cost": "{W}",
+			"cmc": 1,
+			"oracle_text": "Flash\nEnchant creature or Vehicle\nEnchanted permanent is a Vehicle artifact with crew 5 and it loses all other card types. (It’s not a creature unless it’s crewed.)",
+			"type": "Enchantment",
+			"subtypes": [
+			"Aura"
+			],
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/OOZE/Swift Reconfiguration.png"
+			}
+		},
+		{
+			"name": "Beastmaster Ascension",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}",
+			"cmc": 3,
+			"oracle_text": "Whenever a creature you control attacks, you may put a quest counter on this enchantment.\nAs long as this enchantment has seven or more quest counters on it, creatures you control get +5/+5.",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/OOZE/Beastmaster Ascension.png"
+			}
+		},
+		{
+			"name": "Dryad's Ward",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"cmc": 3,
+			"oracle_text": "Creatures you control get +0/+1.\nOpponents can’t gain life.\nAt the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.",
+			"type": "Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Dryad's Ward.png"
+			}
+		},
+		{
+			"name": "Random Encounter",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{R}{R}",
+			"cmc": 6,
+			"oracle_text": "Shuffle your library, then mill four cards. Put each creature card milled this way onto the battlefield. They gain haste. At the beginning of the next end step, return those creatures to their owner’s hand.\nFlashback {6}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/OOZE/Random Encounter.png"
+			}
+		},
+		{
+			"name": "Goblin Bombardment",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{R}",
+			"cmc": 2,
+			"oracle_text": "Sacrifice a creature: This enchantment deals 1 damage to any target.",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/OOZE/Goblin Bombardment.png"
+			}
+		},
+		{
+			"name": "Massacre Wurm",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{B}{B}{B}",
+			"cmc": 6,
+			"power": "6",
+			"toughness": "5",
+			"oracle_text": "When this creature enters, creatures your opponents control get -2/-2 until end of turn.\nWhenever a creature an opponent controls dies, that player loses 2 life.",
+			"type": "Creature",
+			"subtypes": [
+			"Phyrexian Wurm"
+			],
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/OOZE/Massacre Wurm.png"
+			}
+		},
+		{
+			"name": "Cultivator Colossus",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{G}{G}{G}",
+			"cmc": 7,
+			"power": "*",
+			"toughness": "*",
+			"oracle_text": "Trample\nCultivator Colossus’s power and toughness are each equal to the number of lands you control.\nWhen this creature enters, you may put a land card from your hand onto the battlefield tapped. If you do, draw a card and repeat this process.",
+			"type": "Creature",
+			"subtypes": [
+			"Plant Beast"
+			],
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/OOZE/Cultivator Colossus.png"
+			}
+		},
+		{
+			"name": "Alternate Appearances",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"cmc": 4,
+			"oracle_text": "When this enchantment enters, create a token that’s a copy of target creature you control, except it isn’t legendary.\nThe “legend rule” doesn’t apply to permanents you control.",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Alternate Appearances.png"
+			}
+		},
+		{
+			"name": "Ocram, Forgotten Terror",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}{G}",
+			"cmc": 5,
+			"power": "5",
+			"toughness": "5",
+			"oracle_text": "Flying\nHorror spells you cast from your hand have casualty 1. (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)\nThe “legend rule” doesn’t apply to Horror tokens you control.",
+			"type": "Legendary Creature",
+			"subtypes": [
+			"Horror Boss"
+			],
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Ocram, Forgotten Terror.png"
+			}
+		},
+		{
+			"name": "Deerclops, Frost Lurker",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"cmc": 6,
+			"power": "6",
+			"toughness": "6",
+			"oracle_text": "Vigilance, menace, reach\nWhenever a creature you control with menace becomes blocked, tap each creature blocking it and put a stun counter on each of them.\nWhenever a creature you control with reach blocks, it gets +3/+3 until end of turn.",
+			"type": "Legendary Creature",
+			"subtypes": [
+			"Elk Mutant Horror Boss"
+			],
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Deerclops, Frost Lurker.png"
+			}
+		},
+		{
+			"name": "Mechdusa, False Deity",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}{R}",
+			"cmc": 5,
+			"power": "5",
+			"toughness": "5",
+			"oracle_text": "Flying\nMechdusa enters with three shield counters.\nOther artifacts you control have indestructible.",
+			"type": "Legendary Artifact Creature",
+			"subtypes": [
+			"Construct Boss"
+			],
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Mechdusa, False Deity.png"
+			}
 		}
 		]
 	[RareSlot(1)]
@@ -8756,6 +8916,8 @@
 		2 Princess of Slime
 		2 Prince of Slime
 		2 Dulais, Wizard of Old
+		2 Dryad's Ward
+		2 Alternate Appearances
 		1 The Dungeon's Entrance
 		1 Retinazer and Spazmatism
 		1 Skeletron Prime
@@ -8781,6 +8943,9 @@
 		1 A Solar Eclipse is Happening
 		1 The Frost Moon is Rising
 		1 The Pirate Invasion
+		1 Ocram, Forgotten Terror
+		1 Deerclops, Frost Lurker
+		1 Mechdusa, False Deity
 		[UncommonSlot(3)]
 		9 Wurm Food
 		9 Suspicious Looking Eye
@@ -9487,6 +9652,17 @@
 	10 Dulais, Wizard of Old
 	10 Scarlett, Cutthroat Stylist
 	10 Enoki, Sentient Truffle
+	1 Swift Reconfiguration
+	1 Beastmaster Ascension
+	10 Dryad's Ward
+	1 Random Encounter
+	1 Goblin Bombardment
+	1 Massacre Wurm
+	1 Cultivator Colossus
+	10 Alternate Appearances
+	10 Ocram, Forgotten Terror
+	10 Deerclops, Frost Lurker
+	10 Mechdusa, False Deity
 	[LandSlot(1)]
 	10 Contaminated Aquifer
 	10 Geothermal Bog
