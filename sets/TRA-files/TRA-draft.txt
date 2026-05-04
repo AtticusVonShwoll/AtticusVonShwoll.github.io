@@ -8706,7 +8706,7 @@
 		},
 		{
 			"name": "Swift Reconfiguration",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"cmc": 1,
 			"oracle_text": "Flash\nEnchant creature or Vehicle\nEnchanted permanent is a Vehicle artifact with crew 5 and it loses all other card types. (It’s not a creature unless it’s crewed.)",
@@ -8721,7 +8721,7 @@
 		},
 		{
 			"name": "Beastmaster Ascension",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"cmc": 3,
 			"oracle_text": "Whenever a creature you control attacks, you may put a quest counter on this enchantment.\nAs long as this enchantment has seven or more quest counters on it, creatures you control get +5/+5.",
@@ -8745,7 +8745,7 @@
 		},
 		{
 			"name": "Random Encounter",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"cmc": 6,
 			"oracle_text": "Shuffle your library, then mill four cards. Put each creature card milled this way onto the battlefield. They gain haste. At the beginning of the next end step, return those creatures to their owner’s hand.\nFlashback {6}{R}{R}",
@@ -8757,7 +8757,7 @@
 		},
 		{
 			"name": "Goblin Bombardment",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"cmc": 2,
 			"oracle_text": "Sacrifice a creature: This enchantment deals 1 damage to any target.",
@@ -8769,7 +8769,7 @@
 		},
 		{
 			"name": "Massacre Wurm",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}{B}",
 			"cmc": 6,
 			"power": "6",
@@ -8786,7 +8786,7 @@
 		},
 		{
 			"name": "Cultivator Colossus",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}{G}",
 			"cmc": 7,
 			"power": "*",
@@ -8820,7 +8820,7 @@
 			"cmc": 5,
 			"power": "5",
 			"toughness": "5",
-			"oracle_text": "Flying\nHorror spells you cast from your hand have casualty 1. (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)\nThe “legend rule” doesn’t apply to Horror tokens you control.",
+			"oracle_text": "Flying\nHorror spells you cast have casualty 1. (As you cast this spell, you may sacrifice a creature with power 1 or greater. When you do, copy this spell.)\nThe “legend rule” doesn’t apply to Horror tokens you control.",
 			"type": "Legendary Creature",
 			"subtypes": [
 			"Horror Boss"
