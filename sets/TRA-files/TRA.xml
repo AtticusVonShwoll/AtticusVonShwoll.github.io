@@ -1037,7 +1037,7 @@ When this creature dies, create X Treasure tokens, where X is twice its toughnes
     </card>
     <card>
       <name>Magic Missile</name>
-      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Magic Missile.png" uuid="8880d895-e767-4eb6-b472-804b66261c87">TRA</set>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Magic Missile.png" uuid="8880d895-e767-4eb6-b472-804b66261c87">TRA</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -6078,6 +6078,20 @@ Whenever a creature an opponent controls dies, that player loses 2 life.</text>
       <text>Trample
 Cultivator Colossus’s power and toughness are each equal to the number of lands you control.
 When this creature enters, you may put a land card from your hand onto the battlefield tapped. If you do, draw a card and repeat this process.</text>
+    </card>
+    <card>
+      <name>Firework Barrage</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Firework Barrage.png">TRA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice X permanents.
+This spell deals 3 damage to each of X targets.</text>
     </card>
     <!-->Tokens</picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/.png"-->
     <card>

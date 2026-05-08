@@ -1559,7 +1559,7 @@
 		},
 		{
 			"name": "Magic Missile",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"cmc": 3,
 			"oracle_text": "This spell can't be countered.\nMagic Missile deals 3 damage divided as you choose among one, two, or three targets.",
@@ -8863,6 +8863,18 @@
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Mechdusa, False Deity.png"
 			}
+		},
+		{
+			"name": "Firework Barrage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"cmc": 3,
+			"oracle_text": "As an additional cost to cast this spell, sacrifice X permanents.\nThis spell deals 3 damage each of X targets.",
+			"type": "Sorcery",
+	  "set": "tra", "collector_number": "76",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Firework Barrage.png"
+			}
 		}
 		]
 	[RareSlot(1)]
@@ -8982,7 +8994,7 @@
 		9 Wyvern of the Sky Island
 		9 No-Dachi
 		9 Golden Rabbit
-		9 Magic Missile
+		9 Firework Barrage
 		9 Robyn, Cursed Zoologist
 		9 Obsidian Shield
 		9 Garval, Demolition Dealer
@@ -9258,6 +9270,7 @@
 		30 Sand Slime
 		30 Squire Slime
 		30 Loyal Cultists
+		30 Magic Missile
 		[HighValueCommon(1)]
 		10 Tomb Crawler
 		10 Relentless Shark
@@ -9663,6 +9676,7 @@
 	10 Ocram, Forgotten Terror
 	10 Deerclops, Frost Lurker
 	10 Mechdusa, False Deity
+	10 Firework Barrage
 	[LandSlot(1)]
 	10 Contaminated Aquifer
 	10 Geothermal Bog
