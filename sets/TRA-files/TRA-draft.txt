@@ -9868,7 +9868,6 @@
 		2 Jungle Grows Restless
 		2 A Terrible Night
 		2 Prismatic Lacewing
-		2 Illusionary Replication
 		2 Ice Queen
 		2 Brought Back
 		2 Ionize
@@ -9996,7 +9995,6 @@
 		9 Clothier Voodoo Doll
 		9 Shield of Cthulhu
 		9 Faye, The Last Dryad
-		9 Andrew, Helpful Guide
 		9 Goblin Invasion
 		9 Rise of the Blood Moon
 		9 Endless Events
@@ -10029,6 +10027,7 @@
 		9 Finding the Ocean
 		9 Rare Find
 		9 Metallic Blessing
+		9 Illusionary Replication
 		9 The Frost Legion
 		9 Dale, Otherworldly Barkeep
 		9 Armored Bones
@@ -10080,6 +10079,7 @@
 		9 Live or Die
 		9 Giant Worm
 		9 Ground Digger
+		9 Quality Over Quantity
 		[CommonSlot(6)]
 		30 Slime Crown
 		30 Bravery Against the Odds
@@ -10111,6 +10111,7 @@
 		30 Grapple Hook
 		30 Chest Mimic
 		30 Undead Hordling
+		30 Andrew, Helpful Guide
 		30 Blood Drippler
 		30 Blood Zombie
 		30 Vicious Bunny
@@ -10159,7 +10160,6 @@
 		30 Horrific Destruction
 		30 Ever-Returning Threat
 		30 Lost Encounter
-		30 Quality Over Quantity
 		30 Stargazer
 		30 Star Cell
 		30 Contaminated Aquifer
