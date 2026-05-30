@@ -1266,7 +1266,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Starfury",
+            "card_name": "No-Dachi",
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2013 Equipment",
@@ -1281,7 +1281,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Suweeka",
-            "alias": "No-Dachi",
+            "alias": "Starfury",
             "position": "55",
             "rotated": false,
             "notes": "",
@@ -3463,7 +3463,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Sold to the Shop",
+            "card_name": "Minimus Containment",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2013 Aura",
@@ -3478,7 +3478,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Edofenrir",
-            "alias": "Minimus Containment",
+            "alias": "Sold to the Shop",
             "position": "150",
             "rotated": false,
             "notes": "",
@@ -3785,7 +3785,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Bee Hive",
+            "card_name": "Hornet Nest",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2013 Insect",
@@ -3800,7 +3800,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Astronomic727",
-            "alias": "Hornet Nest",
+            "alias": "Bee Hive",
             "position": "164",
             "rotated": false,
             "notes": "",
@@ -5050,7 +5050,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Mana Flower",
+            "card_name": "Prophetic Prism",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -5065,7 +5065,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Terraria",
-            "alias": "Prophetic Prism",
+            "alias": "Mana Flower",
             "position": "219",
             "rotated": false,
             "notes": "",
@@ -5418,7 +5418,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Respawn",
+            "card_name": "Brought Back",
             "color": "W",
             "rarity": "rare",
             "type": "Instant",
@@ -5433,7 +5433,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Re-Logic",
-            "alias": "Brought Back",
+            "alias": "Respawn",
             "position": "235",
             "rotated": false,
             "notes": "",
@@ -5441,7 +5441,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Frostburn Interruption",
+            "card_name": "Ionize",
             "color": "UR",
             "rarity": "rare",
             "type": "Instant",
@@ -5456,7 +5456,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Terraria",
-            "alias": "Ionize",
+            "alias": "Frostburn Interruption",
             "position": "236",
             "rotated": false,
             "notes": "",
@@ -5694,7 +5694,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Healing Honey",
+            "card_name": "Scale the Heights",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
@@ -5709,7 +5709,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "ppowersteef",
-            "alias": "Scale the Heights",
+            "alias": "Healing Honey",
             "position": "247",
             "rotated": false,
             "notes": "",
@@ -5763,7 +5763,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Dipped in the Shimmer",
+            "card_name": "Aether Tunnel",
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment \u2013 Aura",
@@ -5778,7 +5778,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "MoonRite",
-            "alias": "Aether Tunnel",
+            "alias": "Dipped in the Shimmer",
             "position": "250",
             "rotated": false,
             "notes": "",
@@ -5901,7 +5901,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Gone Fishing",
+            "card_name": "Into the Flood Maw",
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
@@ -5916,7 +5916,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "drawnbykrishna",
-            "alias": "Into the Flood Maw",
+            "alias": "Gone Fishing",
             "position": "256",
             "rotated": false,
             "notes": "",
@@ -5924,7 +5924,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Back to Spawn",
+            "card_name": "Geistwave",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
@@ -5939,7 +5939,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Yollie_the_dude",
-            "alias": "Geistwave",
+            "alias": "Back to Spawn",
             "position": "257",
             "rotated": false,
             "notes": "",
@@ -6154,7 +6154,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Heart Crystal",
+            "card_name": "Fountain of Renewal",
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
@@ -6169,7 +6169,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "an_tonio0",
-            "alias": "Fountain of Renewal",
+            "alias": "Heart Crystal",
             "position": "267",
             "rotated": false,
             "notes": "",
@@ -6177,7 +6177,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Well Fed",
+            "card_name": "Strong Back",
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment \u2013 Aura",
@@ -6192,7 +6192,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "BionicBandit",
-            "alias": "Strong Back",
+            "alias": "Well Fed",
             "position": "268",
             "rotated": false,
             "notes": "",
@@ -6223,7 +6223,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Gingerbread Man",
+            "card_name": "Gingerbrute",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2013 Food Golem",
@@ -6238,7 +6238,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "BionicBandit",
-            "alias": "Gingerbrute",
+            "alias": "Gingerbread Man",
             "position": "270",
             "rotated": false,
             "notes": "",
@@ -6384,7 +6384,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Banner Collection",
+            "card_name": "Patchwork Banner",
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
@@ -6399,7 +6399,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Terraria and Nigth-cheez",
-            "alias": "Patchwork Banner",
+            "alias": "Banner Collection",
             "position": "277",
             "rotated": false,
             "notes": "",
@@ -7281,7 +7281,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Blazing Wheel",
+            "card_name": "Spark Elemental",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2013 Elemental",
@@ -7296,7 +7296,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "BionicBandit",
-            "alias": "Spark Elemental",
+            "alias": "Blazing Wheel",
             "position": "316",
             "rotated": false,
             "notes": "",
@@ -8615,7 +8615,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Forging the Zenith",
+            "card_name": "Revel in Riches",
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment",
@@ -8630,7 +8630,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Kurisuu101",
-            "alias": "Revel in Riches",
+            "alias": "Forging the Zenith",
             "position": "528",
             "rotated": false,
             "notes": "",
@@ -8638,7 +8638,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Jungle Slime",
+            "card_name": "Acidic Slime",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2013 Ooze",
@@ -8653,7 +8653,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "BionicBandit",
-            "alias": "Acidic Slime",
+            "alias": "Jungle Slime",
             "position": "529",
             "rotated": false,
             "notes": "",
@@ -13422,7 +13422,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Gingerbread Man Token",
+            "card_name": "Gingerbrute Token",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2013 Food Golem",
@@ -13437,7 +13437,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "BionicBandit",
-            "alias": "Gingerbrute",
+            "alias": "Gingerbread Man Token",
             "position": "454",
             "rotated": false,
             "notes": "",
@@ -14112,7 +14112,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Bee Hive Token",
+            "card_name": "Hornet Nest Token",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2013 Insect",
@@ -14127,7 +14127,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "Astronomic727",
-            "alias": "Hornet Nest",
+            "alias": "Bee Hive Token",
             "position": "613",
             "rotated": false,
             "notes": "",
@@ -14158,7 +14158,7 @@
             "v_mana": ""
         },
         {
-            "card_name": "Jungle Slime Token",
+            "card_name": "Acidic Slime Token",
             "color": "G",
             "rarity": "uncommon",
             "type": "Token Creature \u2013 Ooze",
@@ -14173,7 +14173,7 @@
             "set": "TRA",
             "loyalty": "",
             "artist": "BionicBandit",
-            "alias": "Acidic Slime",
+            "alias": "Jungle Slime Token",
             "position": "615",
             "rotated": false,
             "notes": "",

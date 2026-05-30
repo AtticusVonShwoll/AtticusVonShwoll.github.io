@@ -9051,7 +9051,7 @@
 		},
 		{
 			"name": "Hornet Queen",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}{G}",
 			"cmc": 7,
 			"power": "2",
@@ -9179,16 +9179,6 @@
 			"name": "Floaty Gross",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Horror ",
-			"collector_number": "151",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Floaty Gross.png"
-			}
-		},
-		{
-			"name": "Floaty Gross",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
 			"cmc": 3,
 			"power": "3",
 			"toughness": "2",
@@ -9287,8 +9277,7 @@
 			"Spider"
 			],
 			"image_uris": { "en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Spider Token.png" }
-			}
-		},
+			},
 		{
 			"name": "Spread of Evil",
 			"rarity": "uncommon",

@@ -120,7 +120,7 @@
         "position": "607"
     },
     {
-        "card_name": "Respawn",
+        "card_name": "Brought Back",
         "number": 35,
         "shape": "normal",
         "set": "TRA",
@@ -136,7 +136,7 @@
         "position": "566"
     },
     {
-        "card_name": "Forging the Zenith",
+        "card_name": "Revel in Riches",
         "number": 107,
         "shape": "normal",
         "set": "TRA",
@@ -192,7 +192,7 @@
         "position": "515"
     },
     {
-        "card_name": "Well Fed",
+        "card_name": "Strong Back",
         "number": 216,
         "shape": "normal",
         "set": "TRA",
@@ -288,7 +288,7 @@
         "position": "597"
     },
     {
-        "card_name": "Dipped in the Shimmer",
+        "card_name": "Aether Tunnel",
         "number": 54,
         "shape": "normal",
         "set": "TRA",
@@ -368,7 +368,7 @@
         "position": "193"
     },
     {
-        "card_name": "Gone Fishing",
+        "card_name": "Into the Flood Maw",
         "number": 60,
         "shape": "normal",
         "set": "TRA",
@@ -472,7 +472,7 @@
         "position": "534"
     },
     {
-        "card_name": "Jungle Slime",
+        "card_name": "Acidic Slime",
         "number": 196,
         "shape": "normal",
         "set": "TRA",
@@ -664,7 +664,7 @@
         "position": "118"
     },
     {
-        "card_name": "Blazing Wheel",
+        "card_name": "Spark Elemental",
         "number": 132,
         "shape": "normal",
         "set": "TRA",
@@ -728,7 +728,7 @@
         "position": "246"
     },
     {
-        "card_name": "Back to Spawn",
+        "card_name": "Geistwave",
         "number": 50,
         "shape": "normal",
         "set": "TRA",
@@ -872,7 +872,7 @@
         "position": "517"
     },
     {
-        "card_name": "Bee Hive",
+        "card_name": "Hornet Nest",
         "number": 180,
         "shape": "normal",
         "set": "TRA",
@@ -1112,7 +1112,7 @@
         "position": "569"
     },
     {
-        "card_name": "Healing Honey",
+        "card_name": "Scale the Heights",
         "number": 192,
         "shape": "normal",
         "set": "TRA",
@@ -1480,7 +1480,7 @@
         "position": "244"
     },
     {
-        "card_name": "Sold to the Shop",
+        "card_name": "Minimus Containment",
         "number": 40,
         "shape": "normal",
         "set": "TRA",
@@ -2296,7 +2296,7 @@
         "position": "63"
     },
     {
-        "card_name": "Frostburn Interruption",
+        "card_name": "Ionize",
         "number": 256,
         "shape": "normal",
         "set": "TRA",
@@ -3278,7 +3278,7 @@
         "position": "276"
     },
     {
-        "card_name": "Banner Collection",
+        "card_name": "Patchwork Banner",
         "number": 379,
         "shape": "normal",
         "set": "TRA",
@@ -3318,7 +3318,7 @@
         "position": "15"
     },
     {
-        "card_name": "Heart Crystal",
+        "card_name": "Fountain of Renewal",
         "number": 396,
         "shape": "normal",
         "set": "TRA",
@@ -3390,7 +3390,7 @@
         "position": "584"
     },
     {
-        "card_name": "Starfury",
+        "card_name": "No-Dachi",
         "number": 413,
         "shape": "normal",
         "set": "TRA",
@@ -3502,7 +3502,7 @@
         "position": "563"
     },
     {
-        "card_name": "Gingerbread Man",
+        "card_name": "Gingerbrute",
         "number": 392,
         "shape": "normal",
         "set": "TRA",
@@ -3534,7 +3534,7 @@
         "position": "298"
     },
     {
-        "card_name": "Mana Flower",
+        "card_name": "Prophetic Prism",
         "number": 402,
         "shape": "normal",
         "set": "TRA",
@@ -3999,7 +3999,7 @@
         "position": "453"
     },
     {
-        "card_name": "Gingerbread Man Token",
+        "card_name": "Gingerbrute Token",
         "number": 145,
         "shape": "token",
         "set": "TRA",
@@ -4151,7 +4151,7 @@
         "position": "617"
     },
     {
-        "card_name": "Jungle Slime Token",
+        "card_name": "Acidic Slime Token",
         "number": 71,
         "shape": "token",
         "set": "TRA",
@@ -4631,7 +4631,7 @@
         "position": "491"
     },
     {
-        "card_name": "Bee Hive Token",
+        "card_name": "Hornet Nest Token",
         "number": 61,
         "shape": "token",
         "set": "TRA",
