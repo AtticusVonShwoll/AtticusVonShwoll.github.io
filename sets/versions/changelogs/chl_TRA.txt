@@ -1,4 +1,410 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Starfury added.
+Sold to the Shop added.
+Bee Hive added.
+Mana Flower added.
+Respawn added.
+Frostburn Interruption added.
+Healing Honey added.
+Dipped in the Shimmer added.
+Gone Fishing added.
+Back to Spawn added.
+Heart Crystal added.
+Well Fed added.
+Gingerbread Man added.
+Banner Collection added.
+Blazing Wheel added.
+Forging the Zenith added.
+Jungle Slime added.
+Withering Torment added.
+Journey's End added.
+Pestilent Spirit added.
+Blood Moon added.
+Hornet Queen added.
+Heliophobic Gnome added.
+Fortunate Clover added.
+Focus Down added.
+Giant Jungle Tortoise added.
+Ice Tortoise added.
+Dig Too Deep added.
+Floaty Gross added.
+Creating a New World added.
+Shimmering Pool added.
+Artisan Loaf added.
+Pierce the Eye added.
+Spider Armor added.
+Spread of Evil added.
+Welcome to the Jungle added.
+Unicorn Mount added.
+Stardust Armor added.
+Vortex Armor added.
+Solar Armor added.
+Nebula Armor added.
+Winged Slime Mount added.
+Slime Mount added.
+Rover Blades added.
+Desert Vulture added.
+Drakanian Warrior added.
+Shimmer Slime added.
+Death Goat added.
+Previously Departed added.
+Ice Bat added.
+Honey Slime added.
+Hallow Gastropod added.
+Martian Probe added.
+Prevail added.
+Return from the Depths added.
+Darkest of Souls added.
+Desert Spirit added.
+Novice Adventurer added.
+Repeat Encounter added.
+Map the Surroundings added.
+Rune Wizard added.
+Live or Die added.
+Giant Worm added.
+Ground Digger added.
+Jungle Derpling added.
+Basilisk Mount added.
+Slime Statue added.
+Insect Token added.
+Insect Token added.
+Construct Token added.
+Construct Token added.
+Construct Token added.
+Gingerbread Man Token added.
+Bird Horror Token added.
+Andrew, Helpful Guide Token added.
+Spider Token added.
+Climbing Jungle Creeper Token added.
+Jungle Hornet Token added.
+Jungle Derpling Token added.
+Bee Hive Token added.
+Jungle Moth Token added.
+Jungle Slime Token added.
+Man Eater Token added.
+Giant Jungle Tortoise Token added.
+
+No-Dachi removed.
+Minimus Containment removed.
+Hornet Nest removed.
+Prophetic Prism removed.
+Brought Back removed.
+Ionize removed.
+Scale the Heights removed.
+Aether Tunnel removed.
+Into the Flood Maw removed.
+Geistwave removed.
+Fountain of Renewal removed.
+Strong Back removed.
+Gingerbrute removed.
+Patchwork Banner removed.
+Spark Elemental removed.
+Revel in Riches removed.
+Acidic Slime removed.
+Insect Token W removed.
+Insect Token RG removed.
+Construct Token Drone removed.
+Construct Token Melee removed.
+Construct Token Ranged removed.
+Gingerbrute Token removed.
+Treefolk Horror Token removed.
+
+Slime Rain
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put an hour counter on it.
+Whenever an hour counter is put onto this Event, create a 2/2 green Ooze creature token if it has exactly two hour counters on it. If it has exactly three, call upon King Slime. Otherwise, call upon your choice of Bomb Slime, Coin Slime or Surface Slime. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever an hour counter is put onto this Event, create a 2/2 green Ooze creature token if it has exactly two time counters on it. If it has exactly three, call upon King Slime. Otherwise, call upon your choice of Bomb Slime, Coin Slime or Surface Slime.
+
+Unprepared Fight
+rules_text: You lose 2 life, then choose one —
+• Destroy target non-Boss creature.
+• Put a +1/+1 counter on target creature you control. Draw a card.
+• Choose target creature card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped. => Choose one, then you lose 2 life.
+• Destroy target non-Boss creature.
+• Put a +1/+1 counter on target creature you control. Draw a card.
+• Choose target creature card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.
+
+The Vortex Pillar
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+[b]1[/b] — Vortexian, [b]2–4[/b] — Storm Diver or [b]5–6[/b] — Alien Hornet.
+
+The Nebula Pillar
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+[b]1–2[/b] — Brain Suckler, [b]3–5[/b] — Evolution Beast or [b]6[/b] — Predictor.
+
+The Stardust Pillar
+cost: {1}{G}{W}{U} => {G}{W}{W}{U}{U}
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon card name chosen at random from among Flow Invader, Star Cell and Stargazer. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+[b]1–3[/b] — Star Cell, [b]4–5[/b] —Stargazer or [b]6[/b] — Flow Invader.
+
+Collection of Pots
+cost: {5} => {1}
+rules_text: When this artifact enters, if it was cast, create three tapped tokens that are copies of it.
+{T}, Sacrifice this artifact: Choose one at random —
+• Create two Treasure tokens.
+• Create a Bomb token. [i](It's an artifact with “{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”)[/i] => Multikicker {1} [i](You may pay an additional {1} any number of times as you cast this spell.)[/i]
+When this artifact enters, create a tapped token that's a copy of it for each time it was kicked.
+{T}, Sacrifice this artifact: Roll a d4.
+[b]1[/b] — Create a Bomb token.
+[b]2[/b] — Create a Clue token.
+[b]3[/b] — Create a Food token.
+[b]4[/b] — Create a Treasure token.
+
+Goblin Warrior
+type: Creature — Goblin Warrior => Creature — Goblin Warrior Soldier
+
+Goblin Scout
+type: Creature — Goblin Scout => Creature — Goblin Scout Soldier
+
+Undead Hoplite
+type: Creature — Skeleton Soldier => Creature — Skeleton Warrior Soldier
+
+Andrew, Helpful Guide
+
+The Air Becomes Colder
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put an hour counter on it.
+Whenever an hour counter is put onto this Event, create three Bomb tokens if it has exactly one hour counter. If it has exactly three, put a lifelink counter on each Bomb you control. If it has exactly four, call upon Skeletron Prime. Otherwise, target artifact becomes a 4/4 Construct creature in addition to its other types. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever an hour counter is put onto this Event, create three Bomb tokens if it has exactly one time counter. If it has exactly three, put a lifelink counter on each Bomb you control. If it has exactly four, call upon Skeletron Prime. Otherwise, target artifact becomes a 4/4 Construct creature in addition to its other types.
+
+The Solar Pillar
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Crawltipede, Drakomire Rider or Selenian. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do,roll a d6. Call upon the result.
+[b]1–3[/b] — Selenian, [b]4–5[/b] — Crawltipede or [b]6[/b] — Drakomire Rider.
+
+Gathering of the Cultists
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put an hour counter on it.
+Whenever an hour counter is put onto this Event, create two 0/2 white and black Cleric creature tokens with defender if it has exactly one hour counter on it. If it has exactly two, create two 2/1 white and black Cleric Archer Ranger creature tokens with reach. If it has exactly three, draw a card for each Cleric token you control. If it has exactly four, call upon The Lunatic Cultist. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever an hour counter is put onto this Event, create two 0/2 white and black Cleric creature tokens with defender if it has exactly one time counter on it. If it has exactly two, create two 2/1 white and black Cleric Archer Ranger creature tokens with reach. If it has exactly three, draw a card for each Cleric token you control. If it has exactly four, call upon The Lunatic Cultist.
+
+Goblin Invasion
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, call upon a card name chosen at random from among Goblin Archer, Goblin Peon, Goblin Sorcerer or Goblin Warrior. If you call upon Goblin Peon this way, call upon Goblin Thief. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, roll a d6. Call upon the result. [b]1[/b] — Goblin Archer, [b]2[/b] — Goblin Thief, [b]3[/b] — Goblin Sorcerer,
+[b]4[/b] — Goblin Warrior or [b]5[/b] — Goblin Peon. If you roll a [b]6[/b], you choose the result. If you call upon Goblin Peon this way, call upon Goblin Thief.
+
+Vibrations From Below
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put an hour counter on it.
+Whenever an hour counter is put onto this Event, it deals 2 damage to each creature without flying and each opponent if it has exactly one hour counter on it. If it has exactly two, destroy up to one target nonbasic land. If it has exactly three, tap each artifact and creature your opponents control, put a stun counter on each of those permanents. If it has exactly four, call upon The Destroyer. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever an hour counter is put onto this Event, it deals 2 damage to each creature without flying and each opponent if it has exactly one time counter on it. If it has exactly two, destroy up to one target nonbasic land. If it has exactly three, tap each artifact and creature your opponents control, put a stun counter on each of those permanents. If it has exactly four, call upon The Destroyer.
+
+Jungle Grows Restless
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put an hour counter on it.
+Whenever an hour counter is put onto this Event, create a Forest land token if it has exactly one hour counter on it. If it has exactly two, create a tapped Mountain Forest land token. If it has exactly three, create a tapped Forest Plains land token. If it has exactly four, call upon Plantera, Jungle's Soul. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever an hour counter is put onto this Event, create a Forest land token if it has exactly one time counter on it. If it has exactly two, create a tapped Mountain Forest land token. If it has exactly three, create a tapped Forest Plains land token. If it has exactly four, call upon Plantera, Jungle's Soul.
+
+Rise of the Blood Moon
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, call upon a card name chosen at random from among Blood Drippler, Blood Zombie, Corrupt Bunny, The Bride or The Groom. If you call upon Corrupt Bunny this way, call upon Vicious Bunny. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, roll a d6. Call upon the result. [b]1[/b] — Corrupt Bunny, [b]2[/b] — Blood Drippler, [b]3[/b] — Blood Zombie, [b]4[/b] — The Bride or [b]5[/b] — The Groom. If you roll a [b]6[/b], you choose the result. If you call upon Corrupt Bunny this way, call upon Vicious Bunny.
+
+A Terrible Night
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put an hour counter on it.
+Whenever an hour counter is put onto this Event, target player reveals their hand if this Event has exactly one hour counter on it. You choose a nonland card from it. That player discards that card. If it has exactly three, this Event deals 3 damage to each of up to two targets. If it has exactly four, call upon Retinazer and Spazmatism. Otherwise, create two 2/2 black Zombie creature tokens. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever an hour counter is put onto this Event, target player reveals their hand if this Event has exactly one time counter on it. You choose a nonland card from it. That player discards that card. If it has exactly three, this Event deals 3 damage to each of up to two targets. If it has exactly four, call upon Retinazer and Spazmatism. Otherwise, create two 2/2 black Zombie creature tokens.
+
+Angering a Light God
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put an hour counter on it.
+Whenever an hour counter is put onto this Event, create a 0/1 white Insect creature token with flying if it has exactly one hour counter on it. If it has exactly two, call upon Hallow Pixie. Otherwise, choose a creature you control. At the beginning of your next upkeep, draw a card if that creature is on the battlefield. Otherwise, sacrifice this Event. When you do, call upon The Empress of Light. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put onto this Event, create a 0/1 white Insect creature token with flying if it has exactly one time counter on it. If it has exactly two, call upon Hallow Pixie. Otherwise, choose a creature you control. At the beginning of your next upkeep, draw a card if that creature is on the battlefield. Otherwise, sacrifice this Event. When you do, call upon The Empress of Light.
+
+Illusionary Replication
+
+Quality Over Quantity
+
+You Feel an Evil Presence Watching You
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put an hour counter on it.
+Whenever an hour counter is put on this Event, create a 2/2 black Zombie creature token if it has exactly one hour counter on it. If it has exactly three, call upon Eye of Cthulhu. Otherwise, call upon Pursuing Eye. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever an hour counter is put on this Event, create a 2/2 black Zombie creature token if it has exactly one time counter on it. If it has exactly three, call upon Eye of Cthulhu. Otherwise, call upon Pursuing Eye.
+
+A Solar Eclipse is Happening
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, call upon a card name chosen randomly from among Creature from the Deep, Deadly Sphere, Dr. Man Fly, Eclipse Butcher, Eclipse Psycho, Eyezor, Nailhead, Reaper of the Eclipse, Shapeshifting Vampire, Swamp Thing or The Possessed.
+At the beginning of your second main phase, if you control three tokens created by this Event and you don't control an Insect Boss, call upon Mothron. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, roll a d12. Call upon the result. 
+[b]1[/b] — Creature from the Deep, [b]2[/b] — Eclipse Butcher, [b]3[/b] — Eclipse Psycho, [b]4[/b] — Swamp Thing, [b]5[/b] — The Possessed, [b]6[/b] — Deadly Sphere, [b]7[/b] — Dr. Man Fly, [b]8[/b] — Eyezor, 
+[b]9[/b] — Nailhead, [b]10[/b] — Reaper of the Eclipse or [b]11[/b] — Shapeshifting Vampire. If you roll a [b]12[/b], repeat this process twice.
+At the beginning of your second main phase, if you control three tokens created by this Event and you don't control an Insect Boss, call upon Mothron.
+
+The Frost Moon is Rising
+
+The Pirate Invasion
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, call upon a card name chosen randomly from among Pirate Corsair, Pirate Crossbower, Pirate Deadeye, Pirate Deckhand and Pirate's Parrot. Then if you control at least three permanents with different names from that list and you don't control a Pirate Boss token, call upon a card name chosen randomly from among Flying Dutchman and Pirate Captain. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, roll a d10. Call upon the result.
+[b]1–2[/b] — Pirate Crossbower, [b]3–4[/b] — Pirate Deadeye, [b]5–6[/b] — Pirate Deckhand, 
+[b]7–8[/b] — Pirate Corsair and [b]9–10[/b] — Pirate's Parrot. Then if you control at least three permanents with different names from that list and you don't control a Pirate Boss token, call upon your choice of Flying Dutchman or Pirate Captain.
+
+Shadow Orb
+rules_text: Tap an untapped creature you control, sacrifice this artifact: Draw a card and create two Treasure tokens. If there are three or more cards in your graveyard named Shadow Orb, exile them and call upon The Eater of Worlds. [i](Create a token that's a copy of a card named The Eater of Worlds)[/i]
+A deck can have any number of cards named Shadow Orb. => Tap an untapped creature you control, sacrifice this artifact: Draw a card and create two tapped Treasure tokens. If there are three or more cards in your graveyard named Shadow Orb, exile them and call upon The Eater of Worlds. [i](Create a token that's a copy of a card named The Eater of Worlds)[/i]
+A deck can have any number of cards named Shadow Orb.
+
+Crimson Heart
+rules_text: Tap an untapped creature you control, sacrifice this artifact: Exile the top two cards of your library, you may play those cards this turn. Then create two Treasure tokens. If there are three or more cards in your graveyard named Crimson Heart, exile them and call upon Brain of Cthulhu. [i](Create a token that's a copy of a card named Brain of Cthulhu)[/i]
+A deck can have any number of cards named Crimson Heart. => Tap an untapped creature you control, sacrifice this artifact: Exile the top two cards of your library, you may play those cards until the end of your next turn. Then create two tapped Treasure tokens. If there are three or more cards in your graveyard named Crimson Heart, exile them and call upon Brain of Cthulhu. [i](Create a token that's a copy of a card named Brain of Cthulhu)[/i]
+A deck can have any number of cards named Crimson Heart.
+
+The Frost Legion
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, call upon a card name chosen at random from among Mister Stabby, Snow Balla, or Snowman Gangsta. [i](Create a token that's a copy of the named card.)[/i] => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of combat on your turn, roll a d4. Call upon the result. [b]1[/b] — Mister Stabby, [b]2[/b] — Snow Balla, or 
+[b]3[/b] — Snowman Gangsta. If you roll a [b]4[/b], you choose the result.(Create a token that's a copy of the named card.)
+
+Blood Moon Eel
+
+Wandering Eye Fish
+
+Death Laser
+
+Anomura Fungus
+
+Illuminant Bat
+
+Guiding Fairy
+
+Heart Slime
+
+Slime Drops
+rules_text: When this enchantment enters, create a 2/2 green Ooze creature token.
+Whenever an Ooze you control dies, create a token at random from among Bomb, Clue, Food, and Treasure. => When this enchantment enters, create a 2/2 green Ooze creature token.
+Whenever an Ooze you control dies, roll a d4. Create the resulting token. 
+[b]1[/b] — Bomb, [b]2[/b] — Clue, [b]3[/b] — Food, and [b]4[/b] — Treasure.
+
+Terrarian Orca
+
+Jungle Moth
+
+Face Monster
+
+Sand Elemental
+
+Rainbow Slime
+
+Sand Slime
+
+Squire Slime
+
+Loyal Cultists
+
+Konah, Witch Doctor
+
+Mechanical Destruction
+
+Princess of Slime
+
+Prince of Slime
+
+Dulais, Wizard of Old
+
+Scarlett, Cutthroat Stylist
+
+Enoki, Sentient Truffle
+
+Hanno, Dye Trader
+
+Granite Golem
+
+Lunar Imprisonment
+
+Swift Reconfiguration
+
+Beastmaster Ascension
+
+Dryad's Ward
+
+Random Encounter
+
+Goblin Bombardment
+type: Sorcery => Enchantment
+
+Massacre Wurm
+
+Cultivator Colossus
+
+Alternate Appearances
+
+Ocram, Forgotten Terror
+
+Deerclops, Frost Lurker
+
+Mechdusa, False Deity
+
+Firework Barrage
+
+Spooky Armor
+rules_text: Job select [i](When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)[/i]
+Equipped creature gets +3/+1, is a Shaman in addition to its other types, and has menace and “Whenever a nontoken creature you control dies, create a 1/1 black and green Treefolk Horror creature token with menace.”
+Equip {3} => Job select
+Equipped creature gets +3/+1, is a Shaman in addition to its other types, and has menace and “Whenever a nontoken creature you control dies, create a 1/1 black Bird Horror creature token with flying.”
+Equip {3}
+
+The Nebula Pillar Token
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+[b]1–2 [/b]— Brain Suckler, [b]3–5 [/b]— Evolution Beast or [b]6[/b] — Predictor.
+
+The Solar Pillar Token
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Crawltipede, Drakomire Rider or Selenian. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do,roll a d6. Call upon the result.
+[b]1–3[/b] — Selenian, [b]4–5[/b] — Crawltipede or [b]6[/b] — Drakomire Rider.
+
+The Stardust Pillar Token
+cost: {1}{G}{W}{U} => {G}{W}{W}{U}{U}
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon card name chosen at random from among Flow Invader, Star Cell and Stargazer. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+[b]1–3[/b] — Star Cell, [b]4–5[/b] —Stargazer or [b]6[/b] — Flow Invader.
+
+The Vortex Pillar Token
+rules_text: [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian. => [i](Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)[/i]
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+[b]1[/b] — Vortexian, [b]2–4[/b] — Storm Diver or [b]5–6[/b] — Alien Hornet.
+
+Insect Token
+rules_text: Flying, deathtouch => Flying
+pt: 1/1 => 0/1
+
+Goblin Warrior Token
+type: Token Creature — Goblin Warrior => Token Creature — Goblin Warrior Soldier
+
+Horror Illusion Token
+
+Blood Zombie Token
+type: TokenCreature — Zombie Horror => Token Creature — Zombie Horror
+
+Hunter's Blowgun Token
+
+Crystal Ball Token
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No-Dachi added.

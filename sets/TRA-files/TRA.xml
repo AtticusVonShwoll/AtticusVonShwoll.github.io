@@ -181,8 +181,8 @@ Equip Ooze {2} ({2}: Attach to target Ooze creature you control. Equip only as a
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-When this Event enters or at the beginning of your upkeep, put an hour counter on it.
-Whenever an hour counter is put onto this Event, create a 2/2 green Ooze creature token if it has exactly two hour counters on it. If it has exactly three, call upon King Slime. Otherwise, call upon your choice of Bomb Slime, Coin Slime or Surface Slime.</text>
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put onto this Event, create a 2/2 green Ooze creature token if it has exactly two time counters on it. If it has exactly three, call upon King Slime. Otherwise, call upon your choice of Bomb Slime, Coin Slime or Surface Slime.</text>
       <related>Ooze Token</related>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -630,7 +630,7 @@ IV — Search your library for a battle card, reveal it and put it into your han
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap an untapped creature you control, sacrifice this artifact: Draw a card and create two Treasure tokens. If there are three or more cards in your graveyard named Shadow Orb, exile them and call upon The Eater of Worlds. (Create a token that's a copy of a card named The Eater of Worlds)
+      <text>Tap an untapped creature you control, sacrifice this artifact: Draw a card and create two tapped Treasure tokens. If there are three or more cards in your graveyard named Shadow Orb, exile them and call upon The Eater of Worlds. (Create a token that’s a copy of a card named The Eater of Worlds)
 A deck can have any number of cards named Shadow Orb.</text>
       <related count="2">Treasure Token</related>
     </card>
@@ -703,7 +703,7 @@ Exile target battle, Boss or enchantment.</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You lose 2 life, then choose one —
+      <text>Choose one, then you lose 2 life.
 • Destroy target non-Boss creature.
 • Put a +1/+1 counter on target creature you control. Draw a card.
 • Choose target creature card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield under your control tapped.</text>
@@ -1152,7 +1152,8 @@ Equip Warrior {1}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian.</text>
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+1 — Vortexian, 2–4 — Storm Diver or 5–6 — Alien Hornet.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -1168,7 +1169,8 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor.</text>
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+1–2 — Brain Suckler, 3–5 — Evolution Beast or 6 — Predictor.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -1184,7 +1186,8 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon card name chosen at random from among Flow Invader, Star Cell and Stargazer.</text>
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+1–3 — Star Cell, 4–5 —Stargazer or 6 — Flow Invader.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -1200,7 +1203,8 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Crawltipede, Drakomire Rider or Selenian.</text>
+At the beginning of your end step, you may remove a defense counter from this Event. If you do,roll a d6. Call upon the result.
+1–3 — Selenian, 4–5 — Crawltipede or 6 — Drakomire Rider.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -1296,17 +1300,22 @@ Whenever a creature dealt damage by this creature this turn dies, you gain 3 lif
       <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Collection of Pots.png">TRA</set>
       <prop>
         <colors></colors>
-        <manacost>5</manacost>
-        <cmc>5</cmc>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, if it was cast, create three tapped tokens that are copies of it.
-{T}, Sacrifice this artifact: Choose one at random —
-• Create two Treasure tokens.
-• Create a Bomb token. (It's an artifact with “{2/R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”)</text>
-      <related count="2">Treasure Token</related>
+      <text>Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+When this artifact enters, create a tapped token that’s a copy of it for each time it was kicked.
+{T}, Sacrifice this artifact: Roll a d4.
+1 — Create a Bomb token.
+2 — Create a Clue token.
+3 — Create a Food token.
+4 — Create a Treasure token.</text>
+      <related>Treasure Token</related>
+      <related>Clue Token</related>
+      <related>Food Token</related>
     </card>
     <card>
       <name>Korrie, Free Mechanic</name>
@@ -1823,7 +1832,7 @@ This creature can't block.</text>
         <colors>RG</colors>
         <manacost>1RG</manacost>
         <cmc>3</cmc>
-        <type>Creature — Goblin Warrior </type>
+        <type>Creature — Goblin Warrior Soldier</type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
       </prop>
@@ -2060,7 +2069,7 @@ This creature has haste as long as you control a Mountain.</text>
         <colors>RG</colors>
         <manacost>1R/G</manacost>
         <cmc>2</cmc>
-        <type>Creature — Goblin Scout </type>
+        <type>Creature — Goblin Scout Soldier</type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
       </prop>
@@ -2090,7 +2099,7 @@ This creature has flying as long as you control an Island.</text>
         <colors>WB</colors>
         <manacost>2W/B</manacost>
         <cmc>3</cmc>
-        <type>Creature — Skeleton Soldier </type>
+        <type>Creature — Skeleton Warrior Soldier </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
       </prop>
@@ -2291,7 +2300,7 @@ Equip Warrior {R}</text>
     </card>
     <card>
       <name>Andrew, Helpful Guide</name>
-      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Andrew, Helpful Guide.png" uuid="61abb12c-6f2a-49bf-bf29-5eea542cf3ab">TRA</set>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Andrew, Helpful Guide.png" uuid="61abb12c-6f2a-49bf-bf29-5eea542cf3ab">TRA</set>
       <prop>
         <colors>WR</colors>
         <manacost>RW</manacost>
@@ -2333,8 +2342,8 @@ Sacrifice a land, remove three mining counters from this enchantment: Draw a car
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-When this Event enters or at the beginning of your upkeep, put an hour counter on it.
-Whenever an hour counter is put onto this Event, create three Bomb tokens if it has exactly one hour counter. If it has exactly three, put a lifelink counter on each Bomb you control. If it has exactly four, call upon Skeletron Prime. Otherwise, target artifact becomes a 4/4 Construct creature in addition to its other types.</text>
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put onto this Event, create three Bomb tokens if it has exactly one time counter. If it has exactly three, put a lifelink counter on each Bomb you control. If it has exactly four, call upon Skeletron Prime. Otherwise, target artifact becomes a 4/4 Construct creature in addition to its other types.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -2382,8 +2391,8 @@ Whenever you cast a noncreature spell with mana value X or less, copy it. You ma
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-When this Event enters or at the beginning of your upkeep, put an hour counter on it.
-Whenever an hour counter is put onto this Event, create two 0/2 white and black Cleric creature tokens with defender if it has exactly one hour counter on it. If it has exactly two, create two 2/1 white and black Cleric Archer Ranger creature tokens with reach. If it has exactly three, draw a card for each Cleric token you control. If it has exactly four, call upon The Lunatic Cultist.</text>
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put onto this Event, create two 0/2 white and black Cleric creature tokens with defender if it has exactly one time counter on it. If it has exactly two, create two 2/1 white and black Cleric Archer Ranger creature tokens with reach. If it has exactly three, draw a card for each Cleric token you control. If it has exactly four, call upon The Lunatic Cultist.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -2399,7 +2408,7 @@ Whenever an hour counter is put onto this Event, create two 0/2 white and black 
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of combat on your turn, call upon a card name chosen at random from among Goblin Archer, Goblin Peon, Goblin Sorcerer or Goblin Warrior. If you call upon Goblin Peon this way, call upon Goblin Thief.</text>
+At the beginning of combat on your turn, roll a d6. Call upon the result. 1 — Goblin Archer, 2 — Goblin Thief, 3 — Goblin Sorcerer, 4 — Goblin Warrior or 5 — Goblin Peon. If you roll a 6, you choose the result. If you call upon Goblin Peon this way, call upon Goblin Thief.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -2475,8 +2484,8 @@ Put a +1/+1 counter on up to one target creature. You gain 3 life.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-When this Event enters or at the beginning of your upkeep, put an hour counter on it.
-Whenever an hour counter is put onto this Event, it deals 2 damage to each creature without flying and each opponent if it has exactly one hour counter on it. If it has exactly two, destroy up to one target nonbasic land. If it has exactly three, tap each artifact and creature your opponents control, put a stun counter on each of those permanents. If it has exactly four, call upon The Destroyer.</text>
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put onto this Event, it deals 2 damage to each creature without flying and each opponent if it has exactly one time counter on it. If it has exactly two, destroy up to one target nonbasic land. If it has exactly three, tap each artifact and creature your opponents control, put a stun counter on each of those permanents. If it has exactly four, call upon The Destroyer.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -2492,8 +2501,8 @@ Whenever an hour counter is put onto this Event, it deals 2 damage to each creat
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-When this Event enters or at the beginning of your upkeep, put an hour counter on it.
-Whenever an hour counter is put onto this Event, create a Forest land token if it has exactly one hour counter on it. If it has exactly two, create a tapped Mountain Forest land token. If it has exactly three, create a tapped Forest Plains land token. If it has exactly four, call upon Plantera, Jungle's Soul.</text>
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put onto this Event, create a Forest land token if it has exactly one time counter on it. If it has exactly two, create a tapped Mountain Forest land token. If it has exactly three, create a tapped Forest Plains land token. If it has exactly four, call upon Plantera, Jungle's Soul.</text>
       <landscapeOrientation>1</landscapeOrientation>
       <related>Forest Token</related>
     </card>
@@ -2510,7 +2519,7 @@ Whenever an hour counter is put onto this Event, create a Forest land token if i
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of combat on your turn, call upon a card name chosen at random from among Blood Drippler, Blood Zombie, Corrupt Bunny, The Bride or The Groom. If you call upon Corrupt Bunny this way, call upon Vicious Bunny.</text>
+At the beginning of combat on your turn, roll a d6. Call upon the result. 1 — Corrupt Bunny, 2 — Blood Drippler, 3 — Blood Zombie, 4 — The Bride or 5 — The Groom. If you roll a 6, you choose the result. If you call upon Corrupt Bunny this way, call upon Vicious Bunny.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -2526,8 +2535,8 @@ At the beginning of combat on your turn, call upon a card name chosen at random 
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-When this Event enters or at the beginning of your upkeep, put an hour counter on it.
-Whenever an hour counter is put onto this Event, target player reveals their hand if this Event has exactly one hour counter on it. You choose a nonland card from it. That player discards that card. If it has exactly three, this Event deals 3 damage to each of up to two targets. If it has exactly four, call upon Retinazer and Spazmatism. Otherwise, create two 2/2 black Zombie creature tokens.</text>
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put onto this Event, target player reveals their hand if this Event has exactly one time counter on it. You choose a nonland card from it. That player discards that card. If it has exactly three, this Event deals 3 damage to each of up to two targets. If it has exactly four, call upon Retinazer and Spazmatism. Otherwise, create two 2/2 black Zombie creature tokens.</text>
       <related count="2">Zombie Token</related>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -2624,8 +2633,8 @@ When this creature dies, if it wasn't blocking, call upon The Empress of Light.
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-When this Event enters or at the beginning of your upkeep, put an hour counter on it.
-Whenever an hour counter is put onto this Event, create a 0/1 white Insect creature token with flying if it has exactly one hour counter on it. If it has exactly two, call upon Hallow Pixie. Otherwise, choose a creature you control. At the beginning of your next upkeep, draw a card if that creature is on the battlefield. Otherwise, sacrifice this Event. When you do, call upon The Empress of Light.</text>
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put onto this Event, create a 0/1 white Insect creature token with flying if it has exactly one time counter on it. If it has exactly two, call upon Hallow Pixie. Otherwise, choose a creature you control. At the beginning of your next upkeep, draw a card if that creature is on the battlefield. Otherwise, sacrifice this Event. When you do, call upon The Empress of Light.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -2989,7 +2998,7 @@ Equip {3}. This ability costs {1} less to activate for each other Equipment you 
     </card>
     <card>
       <name>Illusionary Replication</name>
-      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Illusionary Replication.png">TRA</set>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Illusionary Replication.png">TRA</set>
       <prop>
         <colors>UR</colors>
         <manacost>1UR</manacost>
@@ -3018,7 +3027,7 @@ Damage can't be prevented this turn.</text>
     </card>
     <card>
       <name>Quality Over Quantity</name>
-      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Quality Over Quantity.png">TRA</set>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Quality Over Quantity.png">TRA</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -3118,8 +3127,8 @@ Whenever this creature attacks, create a 1/1 blue Alien Ooze creature token with
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-When this Event enters or at the beginning of your upkeep, put an hour counter on it.
-Whenever an hour counter is put on this Event, create a 2/2 black Zombie creature token if it has exactly one hour counter on it. If it has exactly three, call upon Eye of Cthulhu. Otherwise, call upon Pursuing Eye.</text>
+When this Event enters or at the beginning of your upkeep, put a time counter on it.
+Whenever a time counter is put on this Event, create a 2/2 black Zombie creature token if it has exactly one time counter on it. If it has exactly three, call upon Eye of Cthulhu. Otherwise, call upon Pursuing Eye.</text>
       <related>Zombie Token</related>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -3458,8 +3467,9 @@ Unearth {1}{B}{B}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of combat on your turn, call upon a card name chosen randomly from among Creature from the Deep, Deadly Sphere, Dr. Man Fly, Eclipse Butcher, Eclipse Psycho, Eyezor, Nailhead, Reaper of the Eclipse, Shapeshifting Vampire, Swamp Thing or The Possessed.
-At the beginning of your second main phase, if you control three tokens created by this Event and you don't control an Insect Boss, call upon Mothron.</text>
+At the beginning of combat on your turn, roll a d12. Call upon the result. 
+1 — Creature from the Deep, 2 — Eclipse Butcher, 3 — Eclipse Psycho, 4 — Swamp Thing, 5 — The Possessed, 6 — Deadly Sphere, 7 — Dr. Man Fly, 8 — Eyezor, 9 — Nailhead, 10 — Reaper of the Eclipse or 11 — Shapeshifting Vampire. If you roll a 12, repeat this process twice.
+At the beginning of your second main phase, if you control three tokens created by this Event and you don’t control an Insect Boss, call upon Mothron.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -4576,7 +4586,7 @@ When this creature dies, choose one —
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of combat on your turn, call upon a card name chosen randomly from among Pirate Corsair, Pirate Crossbower, Pirate Deadeye, Pirate Deckhand and Pirate's Parrot. Then if you control at least three permanents with different names from that list and you don't control a Pirate Boss token, call upon a card name chosen randomly from among Flying Dutchman and Pirate Captain.</text>
+At the beginning of combat on your turn, roll a d10. Call upon the result. 1–2 — Pirate Crossbower, 3–4 — Pirate Deadeye, 5–6 — Pirate Deckhand, 7–8 — Pirate Corsair and 9–10 — Pirate’s Parrot. Then if you control at least three permanents with different names from that list and you don’t control a Pirate Boss token, call upon your choice of Flying Dutchman or Pirate Captain.</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -4756,7 +4766,7 @@ When this creature dies, choose one —
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Tap an untapped creature you control, sacrifice this artifact: Exile the top two cards of your library, you may play those cards this turn. Then create two Treasure tokens. If there are three or more cards in your graveyard named Crimson Heart, exile them and call upon Brain of Cthulhu. (Create a token that's a copy of a card named Brain of Cthulhu)
+      <text>Tap an untapped creature you control, sacrifice this artifact: Exile the top two cards of your library, you may play those cards until the end of your next turn. Then create two tapped Treasure tokens. If there are three or more cards in your graveyard named Crimson Heart, exile them and call upon Brain of Cthulhu. (Create a token that’s a copy of a card named Brain of Cthulhu)
 A deck can have any number of cards named Crimson Heart.</text>
       <related count="2">Treasure Token</related>
     </card>
@@ -4891,7 +4901,7 @@ At the beginning of the end step, sacrifice this creature.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of combat on your turn, call upon a card name chosen at random from among Mister Stabby, Snow Balla, or Snowman Gangsta. (Create a token that's a copy of the named card.)</text>
+At the beginning of combat on your turn, roll a d4. Call upon the result. 1 — Mister Stabby, 2 — Snow Balla, or  3 — Snowman Gangsta. If you roll a 4, you choose the result.(Create a token that’s a copy of the named card.)</text>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
     <card>
@@ -5531,10 +5541,10 @@ Each opponent loses 3 life unless that player sacrifices a nonland permanent or 
       </prop>
       <tablerow>1</tablerow>
       <text>Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)
-Equipped creature gets +3/+1, is a Shaman in addition to its other types, and has menace and “Whenever a nontoken creature you control dies, create a 1/1 black and green Treefolk Horror creature token with menace.”
+Equipped creature gets +3/+1, is a Shaman in addition to its other types, and has menace and “Whenever a nontoken creature you control dies, create a 1/1 black Bird Horror creature token with flying.”
 Equip {3}</text>
       <related attach="attach">Hero Token</related>
-      <related>Treefolk Horror Token</related>
+      <related>Bird Horror Token</related>
     </card>
     <card>
       <name>Blood Moon Eel</name>
@@ -5649,7 +5659,8 @@ Whenever this creature attacks, look at the top three cards of your library. You
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, create a 2/2 green Ooze creature token.
-Whenever an Ooze you control dies, create a token at random from among Bomb, Clue, Food, and Treasure.</text>
+Whenever an Ooze you control dies, roll a d4. Create the resulting token. 
+1 — Bomb, 2 — Clue, 3 — Food, and 4 — Treasure.</text>
       <related>Ooze Token</related>
       <related>Bomb Token</related>
       <related>Clue Token</related>
@@ -5993,8 +6004,743 @@ Mechdusa enters with three shield counters.
 Other artifacts you control have indestructible.</text>
     </card>
     <card>
+      <name>Firework Barrage</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Firework Barrage.png">TRA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice X permanents.
+This spell deals 3 damage to each of X targets.</text>
+    </card>
+    <card>
+      <name>Withering Torment</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Withering Torment.png" uuid="f57b513d-4433-41d8-b157-3166279659db">TRA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or enchantment. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>Journey's End</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Journey's End.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target artifact, battle, enchantment, or creature with power 4 or greater. If it had 10 or more power or defense counters on it, Journey’s End deals that much damage to its owner.</text>
+    </card>
+    <card>
+      <name>Heliophobic Gnome</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Heliophobic Gnome.png">TRA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Gnome </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would roll one or more dice, instead roll that many plus one and you choose one of those rolls to ignore.
+When this permanent dies, if it was a creature, return it to the battlefield under its owner’s control. It’s an artifact. (It’s not a creature.)</text>
+    </card>
+    <card>
+      <name>Fortunate Clover</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Fortunate Clover.png">TRA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would roll one or more dice, instead roll that many plus one and you choose one of those rolls to ignore.
+{3}, Sacrifice this artifact: Draw a card and create a Treasure token.</text>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>Focus Down</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Focus Down.png">TRA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two. You may choose the same mode more than once.
+• Counter target spell.
+• Draw a card.
+• Return target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Giant Jungle Tortoise</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Giant Jungle Tortoise.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature — Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+This creature gets +3/+3 as long as it’s tapped.
+This creature can block as though it was untapped.</text>
+    </card>
+    <card>
+      <name>Ice Tortoise</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Ice Tortoise.png">TRA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature — Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, hexproof
+Creatures you control can’t have stun counters put on them.</text>
+    </card>
+    <card>
+      <name>Dig Too Deep</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Dig Too Deep.png">TRA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest into your graveyard. You lose life equal to the number of cards revealed this way plus that card’s mana value. If that card was a Demon, Horror, Skeleton or Wurm, you may repeat this process.</text>
+    </card>
+    <card>
+      <name>Floaty Gross</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Floaty Gross.png">TRA</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, menace</text>
+    </card>
+    <card>
+      <name>Creating a New World</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Creating a New World.png">TRA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment — Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Search your library for an artifact or creature card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
+Call upon Andrew, Helpful Guide. (Create a token that’s a copy of a card named Andrew, Helpful Guide)
+Put up to one target artifact card from your graveyard on top of your library.</text>
+      <related>Andrew, Helpful Guide (Token)</related>
+    </card>
+    <card>
+      <name>Shimmering Pool</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Shimmering Pool.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, put a +1/+1 counter on up to one target creature you control. It phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+    </card>
+    <card>
+      <name>Artisan Loaf</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Artisan Loaf.png">TRA</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Artifacts and lands you control enter untapped.
+{2}, {T}, Sacrifice this artifact: You gain 3 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Pierce the Eye</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Pierce the Eye.png">TRA</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. Then surveil X, where X is that creature’s mana value. If it was an Eye or a Boss, draw a card.</text>
+    </card>
+    <card>
+      <name>Spider Armor</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Spider Armor.png">TRA</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Job select
+Equipped creature gets +0/+1, is a Shaman in addition to its other types, and gains reach, deathtouch and “{1}, {T}, Exile a creature card from your graveyard: Create a 1/2 green Spider creature token with reach and deathtouch. Activate only as a sorcery.”
+Equip {1}{B}{G}</text>
+      <related attach="attach">Hero Token</related>
+      <related>Spider Token            </related>
+    </card>
+    <card>
+      <name>Spread of Evil</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Spread of Evil.png">TRA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature or land
+When enchanted permanent becomes tapped, destroy it.
+{2}{B}, Sacrifice a creature or land: Return Spread of Evil from your graveyard to your hand. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Welcome to the Jungle</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Welcome to the Jungle.png">TRA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>4GW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Roll three d20. Call upon each result. 
+1–4 — Climbing Jungle Creeper, 
+5–8 — Jungle Hornet,
+9–11 — Jungle Derpling,
+12–14 — Hornet Nest,
+15–16 — Jungle Moth, 
+17 — Acidic Slime, 
+18 — Man Eater, 
+19 — Giant Jungle Tortoise,
+20 — Plantera, Jungle’s Soul.</text>
+      <related>Climbing Jungle Creeper (Token)</related>
+      <related>Jungle Hornet (Token)</related>
+      <related>Jungle Derpling (Token)</related>
+      <related>Hornet Nest (Token)</related>
+      <related>Jungle Moth (Token)</related>
+      <related>Acidic Slime (Token)</related>
+      <related>Man Eater (Token)</related>
+      <related>Giant Jungle Tortoise (Token)</related>
+      <related>Plantera, Jungle's Soul (Token)</related>
+    </card>
+    <card>
+      <name>Unicorn Mount</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Unicorn Mount.png">TRA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Unicorn Mount </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you gain life, put a +1/+1 counter on target creature you control.
+Whenever this creature attacks while saddled, you gain 3 life.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Stardust Armor</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Stardust Armor.png">TRA</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Job select
+Equipped creature is a Shaman in addition to its other types and has “Whenever you attack, choose one —
+• Put a +1/+1 counter on each attacking token you control.
+• Choose a creature type. Create a 1/1 colorless creature token of the chosen type.”
+Equip {2}{G}{U}</text>
+      <related attach="attach">Hero Token</related>
+    </card>
+    <card>
+      <name>Vortex Armor</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Vortex Armor.png">TRA</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Job select
+Equipped creature gets +1/+1, is a Ranger in addition to its other types,  has “Whenever this creature deals combat damage to a player or battle, draw a card,” and can’t be blocked.
+Equip {2}{U}{B}</text>
+      <related attach="attach">Hero Token</related>
+    </card>
+    <card>
+      <name>Solar Armor</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Solar Armor.png">TRA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Job select
+Equipped creature gets +1/+1, is a Warrior in addition to its other types, and has flying, double strike and vigilance.
+Equip {2}{R}{W}</text>
+      <related attach="attach">Hero Token</related>
+    </card>
+    <card>
+      <name>Nebula Armor</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Nebula Armor.png">TRA</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Job select
+Equipped creature is a Wizard in addition to its other types, and has “At the beginning of your end step, you may pay {2}. If you do, call upon Mana Crystal” and “Tap an untapped artifact you control: This creature gets +1/+1 until end of turn.”
+Equip {1}{U}{R}</text>
+      <related attach="attach">Hero Token</related>
+      <related>Mana Crystal (Token)</related>
+    </card>
+    <card>
+      <name>Winged Slime Mount</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Winged Slime Mount.png">TRA</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Creature — Ooze Mount </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks, up to one other target attacking creature gains flying until end of turn. If this creature is saddled, both creatures get +1/+1 until end of turn.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Slime Mount</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Slime Mount.png">TRA</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Creature — Ooze Mount </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Jump — During your turn, this creature has flying.
+Whenever this creature attacks while saddled, put a +1/+1 counter on it.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Rover Blades</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Rover Blades.png" uuid="42c647f7-6dd2-4b35-93c7-a8b6aa46d882">TRA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact — Equipment Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Double strike
+Equipped creature has double strike.
+Equip {4}
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can’t be attached to other permanents.)</text>
+    </card>
+    <card>
+      <name>Desert Vulture</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Desert Vulture.png">TRA</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another creature you control dies, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Drakanian Warrior</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Drakanian Warrior.png">TRA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Alien Warrior Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, haste
+As long as this creature is equipped, it gets +1/+1.</text>
+    </card>
+    <card>
+      <name>Shimmer Slime</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Shimmer Slime.png">TRA</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+When this creature enters, if it was kicked, draw a card.</text>
+    </card>
+    <card>
+      <name>Death Goat</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Death Goat.png">TRA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Demon Goat Mount </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature attacks while saddled, if your life total is less than your starting life total, it gets +X/+X until end of turn, where X is the difference.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Previously Departed</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Previously Departed.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>Ice Bat</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Ice Bat.png">TRA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Bat </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, tap up to one target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>Honey Slime</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Honey Slime.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature attacks or is dealt damage, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Hallow Gastropod</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Hallow Gastropod.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature — Ooze Snail </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike</text>
+    </card>
+    <card>
+      <name>Martian Probe</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Martian Probe.png">TRA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature — Alien Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Boss spells and Event spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Prevail</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Prevail.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target creature gains indestructible and hexproof until end of turn.
+• Put a +1/+1 counter on target creature. Draw a card.
+• Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Return from the Depths</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Return from the Depths.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to three target artifact and/or creature cards with total mana value 3 or less from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Darkest of Souls</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Darkest of Souls.png">TRA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Wraith </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block and can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Desert Spirit</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Desert Spirit.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever a creature you control dies while this card is in your graveyard, you may pay {1}{W}. If you do, return this card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Novice Adventurer</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Novice Adventurer.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Human Hero </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature is also a Ranger, Shaman, Warrior, and Wizard.
+When this creature enters, if you control another Human, draw a card.
+At the beginning of combat on your turn, you may attach up to one target Equipment you control to this creature.</text>
+    </card>
+    <card>
+      <name>Repeat Encounter</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Repeat Encounter.png">TRA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target artifact, creature, or land.</text>
+    </card>
+    <card>
+      <name>Map the Surroundings</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Map the Surroundings.png">TRA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If you attacked with a creature this turn, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Draw two cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Rune Wizard</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Rune Wizard.png">TRA</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature — Skeleton Wizard Boss </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature deals combat damage to a player, draw a card.
+Whenever you draw a card, put a +1/+1 counter on this creature.
+{2}, Discard a card: This creature can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Live or Die</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Live or Die.png" uuid="5b148bb7-d66d-4ac5-a852-7f72b835bd36">TRA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Return target creature card from your graveyard to the battlefield.
+• Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Giant Worm</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Giant Worm.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature — Worm </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with X +1/+1 counters on it, where X is the amount of life you’ve gained this turn.</text>
+    </card>
+    <card>
+      <name>Ground Digger</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Ground Digger.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature — Worm </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this creature enters, scry 3, then reveal the top card of your library. You gain life equal to that card’s mana value.</text>
+    </card>
+    <card>
+      <name>Jungle Derpling</name>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Jungle Derpling.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature — Insect </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach</text>
+    </card>
+    <card>
+      <name>Basilisk Mount</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Basilisk Mount.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature — Basilisk Mount </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever a creature you control with deathtouch deals combat damage to a player or battle, put that many +1/+1 counters on that creature. Then double the number of +1/+1 counters on that creature if this creature is saddled.
+Saddle 3</text>
+    </card>
+    <card>
+      <name>Slime Statue</name>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Slime Statue.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Artifact — Ooze </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, you may discard a card. If you do, create a 0/0 green Ooze creature token, then put a +1/+1 counter on each Ooze creature you control.</text>
+      <related>Ooze Token</related>
+    </card>
+    <!--OOZE-->
+    <card>
       <name>Swift Reconfiguration</name>
-      <set rarity="" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Swift Reconfiguration.png" uuid="0c643d96-0800-4417-9a53-1eb892bc030c">OOZE</set>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Swift Reconfiguration.png" uuid="0c643d96-0800-4417-9a53-1eb892bc030c">OOZE</set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
@@ -6009,7 +6755,7 @@ Enchanted permanent is a Vehicle artifact with crew 5 and it loses all other car
     </card>
     <card>
       <name>Beastmaster Ascension</name>
-      <set rarity="" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Beastmaster Ascension.png" uuid="727debd4-794b-43e3-a2ee-77324a46a582">OOZE</set>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Beastmaster Ascension.png" uuid="727debd4-794b-43e3-a2ee-77324a46a582">OOZE</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -6023,7 +6769,7 @@ As long as this enchantment has seven or more quest counters on it, creatures yo
     </card>
     <card>
       <name>Random Encounter</name>
-      <set rarity="" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Random Encounter.png" uuid="729800e9-b051-463c-972c-423e446b693d">OOZE</set>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Random Encounter.png" uuid="729800e9-b051-463c-972c-423e446b693d">OOZE</set>
       <prop>
         <colors>R</colors>
         <manacost>4RR</manacost>
@@ -6037,20 +6783,20 @@ Flashback {6}{R}{R}</text>
     </card>
     <card>
       <name>Goblin Bombardment</name>
-      <set rarity="" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Goblin Bombardment.png" uuid="5689c22c-41a0-4e59-8d9b-681b17d1b02e">OOZE</set>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Goblin Bombardment.png" uuid="5689c22c-41a0-4e59-8d9b-681b17d1b02e">OOZE</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
       </prop>
-      <tablerow>3</tablerow>
+      <tablerow>1</tablerow>
       <text>Sacrifice a creature: This enchantment deals 1 damage to any target.</text>
     </card>
     <card>
       <name>Massacre Wurm</name>
-      <set rarity="" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Massacre Wurm.png" uuid="6dc3c274-408d-4f61-a97b-e156c10ed0d5">OOZE</set>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Massacre Wurm.png" uuid="6dc3c274-408d-4f61-a97b-e156c10ed0d5">OOZE</set>
       <prop>
         <colors>B</colors>
         <manacost>3BBB</manacost>
@@ -6065,7 +6811,7 @@ Whenever a creature an opponent controls dies, that player loses 2 life.</text>
     </card>
     <card>
       <name>Cultivator Colossus</name>
-      <set rarity="" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Cultivator Colossus.png" uuid="d88d718e-8249-4020-bc97-80bd0adf0773">OOZE</set>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Cultivator Colossus.png" uuid="d88d718e-8249-4020-bc97-80bd0adf0773">OOZE</set>
       <prop>
         <colors>G</colors>
         <manacost>4GGG</manacost>
@@ -6080,20 +6826,50 @@ Cultivator Colossus’s power and toughness are each equal to the number of land
 When this creature enters, you may put a land card from your hand onto the battlefield tapped. If you do, draw a card and repeat this process.</text>
     </card>
     <card>
-      <name>Firework Barrage</name>
-      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Firework Barrage.png">TRA</set>
+      <name>Pestilent Spirit</name>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Pesitlent Spirit.png" uuid="7966513c-66e0-42cd-b3bb-2ec7991a838b">TRA</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, deathtouch
+Instant and sorcery spells you control have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.)</text>
+    </card>
+    <card>
+      <name>Blood Moon</name>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Blood Moon.png" uuid="e4fe3bfd-2dae-45f1-8011-fe48b01fbbdd">TRA</set>
       <prop>
         <colors>R</colors>
-        <manacost>1RR</manacost>
+        <manacost>2R</manacost>
         <cmc>3</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
       </prop>
-      <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, sacrifice X permanents.
-This spell deals 3 damage to each of X targets.</text>
+      <tablerow>1</tablerow>
+      <text>Nonbasic lands are Mountains.</text>
+    </card>
+    <card>
+      <name>Hornet Queen</name>
+      <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Hornet Queen.png" uuid="1e6e677a-fd93-40e4-84e0-0520a844ba5a">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GGG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch
+When this creature enters, create four 1/1 green Insect creature tokens with flying and deathtouch.</text>
     </card>
     <!-->Tokens</picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/.png"-->
+    <!-->Tokens</picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/.png"-->
     <card>
       <name>Bomb Rabbit Token</name>
       <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Bomb Rabbit Token.png">TRA</set>
@@ -6276,6 +7052,19 @@ Equip {2}</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, deathtouch</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spider Token            </name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Spider Token.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature — Spider </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, deathtouch</text>
       <token>1</token>
     </card>
     <card>
@@ -6655,16 +7444,16 @@ When this creature dies, create a 2/2 white, black, and green Insect creature to
       <token>1</token>
     </card>
     <card>
-      <name>Treefolk Horror Token</name>
+      <name>Bird Horror Token</name>
       <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Treefolk Horror Token.png">TRA</set>
       <prop>
-        <colors>BG</colors>
-        <type>Token Creature — Treefolk Horror </type>
+        <colors>B</colors>
+        <type>Token Creature — Bird Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Menace</text>
+      <text>Flying</text>
       <token>1</token>
     </card>
     <card>
@@ -6680,7 +7469,8 @@ When this creature dies, create a 2/2 white, black, and green Insect creature to
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Brain Suckler, Evolution Beast or Predictor.</text>
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+1–2 — Brain Suckler, 3–5 — Evolution Beast or 6 — Predictor.</text>
       <token>1</token>
       <reverse-related>The Celestial Invasion</reverse-related>
       <landscapeOrientation>1</landscapeOrientation>
@@ -6699,7 +7489,8 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       <tablerow>1</tablerow>
       <token>1</token>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Crawltipede, Drakomire Rider or Selenian.</text>
+At the beginning of your end step, you may remove a defense counter from this Event. If you do,roll a d6. Call upon the result.
+1–3 — Selenian, 4–5 — Crawltipede or 6 — Drakomire Rider.</text>
       <reverse-related>The Celestial Invasion</reverse-related>
       <landscapeOrientation>1</landscapeOrientation>
     </card>
@@ -6716,7 +7507,8 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon card name chosen at random from among Flow Invader, Star Cell and Stargazer.</text>
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+1–3 — Star Cell, 4–5 —Stargazer or 6 — Flow Invader.</text>
       <token>1</token>
       <reverse-related>The Celestial Invasion</reverse-related>
       <landscapeOrientation>1</landscapeOrientation>
@@ -6734,7 +7526,8 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       </prop>
       <tablerow>1</tablerow>
       <text>(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)
-At the beginning of your end step, you may remove a defense counter from this Event. If you do, call upon a card name chosen at random from among Alien Hornet, Storm Diver or Vortexian.</text>
+At the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.
+1 — Vortexian, 2–4 — Storm Diver or 5–6 — Alien Hornet.</text>
       <token>1</token>
       <reverse-related>The Celestial Invasion</reverse-related>
       <landscapeOrientation>1</landscapeOrientation>
@@ -8677,6 +9470,154 @@ Equip {2}</text>
       </prop>
       <tablerow>1</tablerow>
       <text>{1}, {T}: Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Andrew, Helpful Guide (Token)</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Andrew Helpful Guide Token.png">TRA</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Token Legendary Creature — Human Advisor Citizen</type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Scry 1, then you may reveal the top card of your library. If it's an artifact card, create a Treasure token.</text>
+      <related>Treasure Token</related>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Climbing Jungle Creeper (Token)</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Climbing Jungle Creeper Token.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Token Creature — Spider </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, deathtouch
+Whenever this creature deals combat damage to a player or battle, you may have it fight target creature with flying. (Each deals damage equal to its power to the other.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Jungle Hornet (Token)</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Jungle Hornet Token.png">TRA</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Token Creature — Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch, lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Hornet Nest (Token)</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Hornet Nest Token.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Token Creature — Insect </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender (This creature can't attack.)
+Whenever this creature is dealt damage, create that many 1/1 green Insect creature tokens with flying and deathtouch.</text>
+      <token>1</token>
+      <related>Insect Token</related>
+      <related count="X">Insect Token</related>
+    </card>
+    <card>
+      <name>Jungle Moth (Token)</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Jungle Moth Token.png">TRA</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Token Creature — Insect </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, you gain 3 life.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Acidic Slime (Token)</name>
+      <set rarity="uncommon" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Jungle Slime Token.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Token Creature — Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When this creature enters, destroy target artifact, enchantment, or land.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Man Eater (Token)</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Man Eater Token.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Token Creature — Plant </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When this creature dies, you may put two +1/+1 counters on target creature.
+Forestcycling {2/G} ({2/G}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Giant Jungle Tortoise (Token)</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Giant Jungle Tortoise Token.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Token Creature — Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+This creature gets +3/+3 as long as it’s tapped.
+This creature can block as though it was untapped.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Jungle Derpling (Token)</name>
+      <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Jungle Derpling Token.png">TRA</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Token Creature — Insect </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach</text>
       <token>1</token>
     </card>
   </cards>

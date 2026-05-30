@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "All the Buffs",
-        "number": 2,
+        "number": 3,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -9,15 +9,15 @@
     },
     {
         "card_name": "Alternate Appearances",
-        "number": 39,
+        "number": 48,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "553"
+        "position": "552"
     },
     {
         "card_name": "Captain Bullywort",
-        "number": 76,
+        "number": 92,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -25,343 +25,423 @@
     },
     {
         "card_name": "Boss Rush",
-        "number": 115,
+        "number": 137,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "40"
     },
     {
-        "card_name": "Song of the Dryads",
-        "number": 180,
+        "card_name": "Basilisk Mount",
+        "number": 178,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "255"
+        "position": "606"
     },
     {
         "card_name": "Emilia, Hallow Princess",
-        "number": 10,
+        "number": 12,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "78"
     },
     {
-        "card_name": "Ice Queen",
-        "number": 52,
+        "card_name": "Focus Down",
+        "number": 58,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "218"
+        "position": "564"
     },
     {
-        "card_name": "Revel in Riches",
-        "number": 88,
+        "card_name": "Death Goat",
+        "number": 100,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "529"
+        "position": "588"
     },
     {
         "card_name": "Bucket of Bolts",
-        "number": 116,
+        "number": 138,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "35"
     },
     {
-        "card_name": "Strong Back",
-        "number": 185,
+        "card_name": "Giant Jungle Tortoise",
+        "number": 188,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "268"
+        "position": "565"
     },
     {
         "card_name": "Lantern Night",
-        "number": 24,
+        "number": 28,
         "shape": "saga",
         "set": "TRA",
         "rotated": false,
         "position": "262"
     },
     {
-        "card_name": "Whitney, Genius Steampunker",
-        "number": 71,
+        "card_name": "Ice Queen",
+        "number": 63,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "189"
+        "position": "218"
     },
     {
-        "card_name": "Armored Bones",
-        "number": 73,
+        "card_name": "Dig Too Deep",
+        "number": 101,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "274"
+        "position": "567"
     },
     {
         "card_name": "Excessive Mining",
-        "number": 123,
+        "number": 145,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "142"
     },
     {
-        "card_name": "Battle Potion",
-        "number": 154,
+        "card_name": "Slime Statue",
+        "number": 208,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "116"
+        "position": "607"
     },
     {
-        "card_name": "Brought Back",
-        "number": 28,
+        "card_name": "Respawn",
+        "number": 35,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "235"
     },
     {
-        "card_name": "Alien Queen",
-        "number": 38,
+        "card_name": "Ice Tortoise",
+        "number": 65,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "95"
+        "position": "566"
     },
     {
-        "card_name": "Battle for the Ages",
-        "number": 74,
+        "card_name": "Forging the Zenith",
+        "number": 107,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "514"
+        "position": "528"
     },
     {
         "card_name": "Jim Mulligan, the Golfer",
-        "number": 134,
+        "number": 158,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "188"
     },
     {
-        "card_name": "Enoki, Sentient Truffle",
-        "number": 159,
+        "card_name": "Song of the Dryads",
+        "number": 211,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "540"
+        "position": "255"
     },
     {
-        "card_name": "Combat Ready Village",
-        "number": 7,
+        "card_name": "Shimmering Pool",
+        "number": 39,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "475"
+        "position": "571"
     },
     {
-        "card_name": "An Ancient Warning",
-        "number": 40,
+        "card_name": "Whitney, Genius Steampunker",
+        "number": 87,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "186"
-    },
-    {
-        "card_name": "Completely Boned",
-        "number": 78,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "471"
-    },
-    {
-        "card_name": "Blood Moon Eel",
-        "number": 112,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "516"
-    },
-    {
-        "card_name": "Faye, the Last Dryad",
-        "number": 161,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "140"
-    },
-    {
-        "card_name": "Dale, Otherworldly Barkeep",
-        "number": 8,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "321"
-    },
-    {
-        "card_name": "Aether Tunnel",
-        "number": 45,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "250"
-    },
-    {
-        "card_name": "Nailhead",
-        "number": 95,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "232"
-    },
-    {
-        "card_name": "Dazzle, Life of the Party",
-        "number": 118,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "79"
-    },
-    {
-        "card_name": "Golden Rabbit",
-        "number": 163,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "59"
-    },
-    {
-        "card_name": "Guiding Fairy",
-        "number": 14,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "521"
-    },
-    {
-        "card_name": "Finding the Ocean",
-        "number": 46,
-        "shape": "saga",
-        "set": "TRA",
-        "rotated": false,
-        "position": "297"
-    },
-    {
-        "card_name": "Santa-NK1",
-        "number": 99,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "183"
-    },
-    {
-        "card_name": "Eye on You!",
-        "number": 124,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "473"
-    },
-    {
-        "card_name": "Acidic Slime",
-        "number": 166,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "530"
-    },
-    {
-        "card_name": "Hallowed Armor",
-        "number": 16,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "193"
-    },
-    {
-        "card_name": "Into the Flood Maw",
-        "number": 50,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "256"
+        "position": "189"
     },
     {
         "card_name": "Spooky Armor",
-        "number": 103,
+        "number": 123,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "568"
+    },
+    {
+        "card_name": "Blood Moon Eel",
+        "number": 134,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "515"
     },
     {
+        "card_name": "Well Fed",
+        "number": 216,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "268"
+    },
+    {
+        "card_name": "Combat Ready Village",
+        "number": 8,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "475"
+    },
+    {
+        "card_name": "Alien Queen",
+        "number": 47,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Armored Bones",
+        "number": 89,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "Dazzle, Life of the Party",
+        "number": 140,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Battle Potion",
+        "number": 179,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Dale, Otherworldly Barkeep",
+        "number": 9,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "321"
+    },
+    {
+        "card_name": "An Ancient Warning",
+        "number": 49,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "Battle for the Ages",
+        "number": 90,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "514"
+    },
+    {
+        "card_name": "Eye on You!",
+        "number": 146,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "473"
+    },
+    {
+        "card_name": "Enoki, Sentient Truffle",
+        "number": 184,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "539"
+    },
+    {
+        "card_name": "Desert Spirit",
+        "number": 11,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "597"
+    },
+    {
+        "card_name": "Dipped in the Shimmer",
+        "number": 54,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "Completely Boned",
+        "number": 94,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "471"
+    },
+    {
         "card_name": "Falling Meteors",
-        "number": 126,
+        "number": 148,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "281"
     },
     {
-        "card_name": "New Encounter",
-        "number": 170,
+        "card_name": "Faye, the Last Dryad",
+        "number": 186,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "507"
+        "position": "140"
     },
     {
-        "card_name": "Illuminant Bat",
-        "number": 19,
+        "card_name": "Guiding Fairy",
+        "number": 16,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "520"
     },
     {
+        "card_name": "Finding the Ocean",
+        "number": 55,
+        "shape": "saga",
+        "set": "TRA",
+        "rotated": false,
+        "position": "297"
+    },
+    {
+        "card_name": "Darkest of Souls",
+        "number": 99,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "596"
+    },
+    {
+        "card_name": "Firework Barrage",
+        "number": 150,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "556"
+    },
+    {
+        "card_name": "Giant Worm",
+        "number": 189,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "603"
+    },
+    {
+        "card_name": "Hallowed Armor",
+        "number": 19,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "Gone Fishing",
+        "number": 60,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "256"
+    },
+    {
+        "card_name": "Live or Die",
+        "number": 112,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "602"
+    },
+    {
+        "card_name": "Garval, Demolition Dealer",
+        "number": 152,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Golden Rabbit",
+        "number": 190,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Illuminant Bat",
+        "number": 22,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "519"
+    },
+    {
         "card_name": "Gravitation Potion",
-        "number": 51,
+        "number": 61,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "109"
     },
     {
-        "card_name": "Unprepared Fight",
-        "number": 106,
+        "card_name": "Nailhead",
+        "number": 115,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "38"
+        "position": "232"
     },
     {
-        "card_name": "Firework Barrage",
-        "number": 128,
+        "card_name": "Goblin Sorcerer",
+        "number": 154,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "557"
+        "position": "110"
     },
     {
-        "card_name": "Overrun",
-        "number": 171,
+        "card_name": "Ground Digger",
+        "number": 191,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "245"
+        "position": "604"
     },
     {
         "card_name": "Ironskin Potion",
-        "number": 21,
+        "number": 24,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -369,71 +449,231 @@
     },
     {
         "card_name": "Korrie, Free Mechanic",
-        "number": 55,
+        "number": 67,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "77"
     },
     {
-        "card_name": "Warren, Tax Collector",
-        "number": 108,
+        "card_name": "Santa-NK1",
+        "number": 119,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "80"
+        "position": "183"
     },
     {
-        "card_name": "Garval, Demolition Dealer",
-        "number": 129,
+        "card_name": "Mechanical Destruction",
+        "number": 160,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "70"
+        "position": "534"
     },
     {
-        "card_name": "Plantera's Bulb",
-        "number": 172,
+        "card_name": "Jungle Slime",
+        "number": 196,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "47"
+        "position": "529"
     },
     {
         "card_name": "James, Curseless Clothier",
-        "number": 22,
+        "number": 25,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "134"
     },
     {
+        "card_name": "Map the Surroundings",
+        "number": 70,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "600"
+    },
+    {
+        "card_name": "Spread of Evil",
+        "number": 124,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "575"
+    },
+    {
+        "card_name": "Metallic Blessing",
+        "number": 161,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "306"
+    },
+    {
+        "card_name": "New Encounter",
+        "number": 200,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "507"
+    },
+    {
+        "card_name": "Journey's End",
+        "number": 26,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "558"
+    },
+    {
         "card_name": "Mystic Slime",
-        "number": 58,
+        "number": 72,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "502"
     },
     {
+        "card_name": "Unprepared Fight",
+        "number": 127,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Ruinous Rampage",
+        "number": 164,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "Overrun",
+        "number": 201,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "Novice Adventurer",
+        "number": 32,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "598"
+    },
+    {
+        "card_name": "Repeat Encounter",
+        "number": 76,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "599"
+    },
+    {
+        "card_name": "Warren, Tax Collector",
+        "number": 129,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Shield of Cthulhu",
+        "number": 166,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "Plantera's Bulb",
+        "number": 202,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Prevail",
+        "number": 33,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "594"
+    },
+    {
+        "card_name": "Rune Wizard",
+        "number": 77,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "601"
+    },
+    {
+        "card_name": "Withering Torment",
+        "number": 130,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "557"
+    },
+    {
+        "card_name": "Thorns Potion",
+        "number": 170,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "Quality Over Quantity",
+        "number": 203,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "Return from the Depths",
+        "number": 36,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "595"
+    },
+    {
+        "card_name": "Star Destroyer",
+        "number": 81,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "472"
+    },
+    {
         "card_name": "Wrath Potion",
-        "number": 109,
+        "number": 131,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "118"
     },
     {
-        "card_name": "Goblin Sorcerer",
-        "number": 131,
+        "card_name": "Blazing Wheel",
+        "number": 132,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "110"
+        "position": "316"
     },
     {
         "card_name": "Sticky Situation",
-        "number": 183,
+        "number": 214,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -441,39 +681,39 @@
     },
     {
         "card_name": "Antlion Swarmer",
-        "number": 3,
+        "number": 4,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "479"
     },
     {
-        "card_name": "Star Destroyer",
-        "number": 65,
+        "card_name": "Alien Hornet",
+        "number": 46,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "472"
+        "position": "94"
     },
     {
         "card_name": "Bone Serpent",
-        "number": 75,
+        "number": 91,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "223"
     },
     {
-        "card_name": "Mechanical Destruction",
-        "number": 136,
+        "card_name": "Blood Crawler",
+        "number": 133,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "535"
+        "position": "98"
     },
     {
         "card_name": "Acorn Bag",
-        "number": 150,
+        "number": 174,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -481,39 +721,39 @@
     },
     {
         "card_name": "Blasted by Rainbows",
-        "number": 4,
+        "number": 5,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "246"
     },
     {
-        "card_name": "Alien Hornet",
-        "number": 37,
+        "card_name": "Back to Spawn",
+        "number": 50,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "94"
+        "position": "257"
     },
     {
         "card_name": "Chest Mimic",
-        "number": 77,
+        "number": 93,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "102"
     },
     {
-        "card_name": "Metallic Blessing",
-        "number": 137,
+        "card_name": "Bomb Slime",
+        "number": 135,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "306"
+        "position": "64"
     },
     {
         "card_name": "Angry Tumbler",
-        "number": 151,
+        "number": 175,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -521,79 +761,79 @@
     },
     {
         "card_name": "The Bride",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "84"
     },
     {
-        "card_name": "Geistwave",
-        "number": 41,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "257"
-    },
-    {
-        "card_name": "Corrupt Bunny",
-        "number": 79,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "107"
-    },
-    {
-        "card_name": "Ruinous Rampage",
-        "number": 140,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "249"
-    },
-    {
-        "card_name": "Anomura Fungus",
-        "number": 152,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "519"
-    },
-    {
-        "card_name": "Change Loadout",
-        "number": 6,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "302"
-    },
-    {
         "card_name": "Builder Potion",
-        "number": 42,
+        "number": 51,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "172"
     },
     {
+        "card_name": "Corrupt Bunny",
+        "number": 95,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "Booby Trapped Cache",
+        "number": 136,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Anomura Fungus",
+        "number": 176,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "518"
+    },
+    {
+        "card_name": "Change Loadout",
+        "number": 7,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "302"
+    },
+    {
+        "card_name": "Clumsy Slime",
+        "number": 52,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "501"
+    },
+    {
         "card_name": "Corrupt Devourer",
-        "number": 80,
+        "number": 96,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "214"
     },
     {
-        "card_name": "Shield of Cthulhu",
-        "number": 142,
+        "card_name": "Crimson Heart",
+        "number": 139,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "139"
+        "position": "308"
     },
     {
         "card_name": "Antlion Charger",
-        "number": 153,
+        "number": 177,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -601,39 +841,39 @@
     },
     {
         "card_name": "Desert Mummy",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "513"
     },
     {
-        "card_name": "Clumsy Slime",
-        "number": 43,
+        "card_name": "Dark Caster",
+        "number": 53,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "501"
+        "position": "251"
     },
     {
         "card_name": "Creature from the Deep",
-        "number": 81,
+        "number": 97,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "224"
     },
     {
-        "card_name": "Thorns Potion",
-        "number": 146,
+        "card_name": "Death Laser",
+        "number": 141,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "115"
+        "position": "517"
     },
     {
-        "card_name": "Hornet Nest",
-        "number": 155,
+        "card_name": "Bee Hive",
+        "number": 180,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -641,39 +881,39 @@
     },
     {
         "card_name": "Escape Imprisonment",
-        "number": 11,
+        "number": 13,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "163"
     },
     {
-        "card_name": "Dark Caster",
-        "number": 44,
+        "card_name": "Flocko",
+        "number": 56,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "251"
+        "position": "265"
     },
     {
         "card_name": "Cursed Pirate",
-        "number": 82,
+        "number": 98,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "289"
     },
     {
-        "card_name": "Spark Elemental",
-        "number": 110,
+        "card_name": "Drakomire",
+        "number": 142,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "316"
+        "position": "91"
     },
     {
         "card_name": "Climbing Jungle Creeper",
-        "number": 156,
+        "number": 181,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -681,39 +921,39 @@
     },
     {
         "card_name": "Flinx Fur Coat",
-        "number": 12,
+        "number": 14,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "169"
     },
     {
-        "card_name": "Flocko",
-        "number": 47,
+        "card_name": "Flying Fish",
+        "number": 57,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "265"
+        "position": "309"
     },
     {
         "card_name": "Dungeon Slime",
-        "number": 83,
+        "number": 102,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "305"
     },
     {
-        "card_name": "Blood Crawler",
-        "number": 111,
+        "card_name": "Enchanted Sword",
+        "number": 143,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "98"
+        "position": "53"
     },
     {
         "card_name": "Coin Slime",
-        "number": 157,
+        "number": 182,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -721,95 +961,95 @@
     },
     {
         "card_name": "Gray Grunt",
-        "number": 13,
+        "number": 15,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "136"
     },
     {
-        "card_name": "Flying Fish",
-        "number": 48,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "309"
-    },
-    {
-        "card_name": "Eclipse Butcher",
-        "number": 84,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "230"
-    },
-    {
-        "card_name": "Bomb Slime",
-        "number": 113,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "64"
-    },
-    {
-        "card_name": "Diva Slime",
-        "number": 158,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "503"
-    },
-    {
-        "card_name": "Hallow Pixie",
-        "number": 15,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "97"
-    },
-    {
         "card_name": "Glowing Jellyfish",
-        "number": 49,
+        "number": 59,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "72"
     },
     {
+        "card_name": "Eclipse Butcher",
+        "number": 103,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "Evolution Beast",
+        "number": 144,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "Diva Slime",
+        "number": 183,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "503"
+    },
+    {
+        "card_name": "Hallow Gastropod",
+        "number": 17,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "592"
+    },
+    {
+        "card_name": "Ice Bat",
+        "number": 62,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "590"
+    },
+    {
         "card_name": "Eclipse Psycho",
-        "number": 85,
+        "number": 104,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "231"
     },
     {
-        "card_name": "Booby Trapped Cache",
-        "number": 114,
+        "card_name": "Face Monster",
+        "number": 147,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "71"
+        "position": "525"
     },
     {
         "card_name": "Everscream",
-        "number": 160,
+        "number": 185,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "179"
     },
     {
-        "card_name": "Healing Potion",
-        "number": 17,
+        "card_name": "Hallow Pixie",
+        "number": 18,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "114"
+        "position": "97"
     },
     {
         "card_name": "Ice Slime",
-        "number": 53,
+        "number": 64,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -817,39 +1057,39 @@
     },
     {
         "card_name": "Ever-Returning Threat",
-        "number": 86,
+        "number": 105,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "192"
     },
     {
-        "card_name": "Crimson Heart",
-        "number": 117,
+        "card_name": "Fire Imp Assault",
+        "number": 149,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "308"
+        "position": "315"
     },
     {
         "card_name": "Flinx Staff",
-        "number": 162,
+        "number": 187,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "170"
     },
     {
-        "card_name": "Heart Slime",
-        "number": 18,
+        "card_name": "Healing Potion",
+        "number": 20,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "522"
+        "position": "114"
     },
     {
         "card_name": "K.O. Cannon",
-        "number": 54,
+        "number": 66,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -857,39 +1097,39 @@
     },
     {
         "card_name": "Eyezor",
-        "number": 87,
+        "number": 106,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "233"
     },
     {
-        "card_name": "Death Laser",
-        "number": 119,
+        "card_name": "Floaty Gross",
+        "number": 151,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "518"
+        "position": "569"
     },
     {
-        "card_name": "Scale the Heights",
-        "number": 164,
+        "card_name": "Healing Honey",
+        "number": 192,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "247"
     },
     {
-        "card_name": "Illuminant Slime",
-        "number": 20,
+        "card_name": "Heart Slime",
+        "number": 21,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "117"
+        "position": "521"
     },
     {
         "card_name": "Librarian Skeleton",
-        "number": 56,
+        "number": 68,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -897,71 +1137,111 @@
     },
     {
         "card_name": "The Groom",
-        "number": 89,
+        "number": 108,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "83"
     },
     {
-        "card_name": "Drakomire",
-        "number": 120,
+        "card_name": "Goblin Peon",
+        "number": 153,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "91"
+        "position": "113"
     },
     {
-        "card_name": "Jungle Excavation",
-        "number": 165,
+        "card_name": "Honey Slime",
+        "number": 193,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "311"
+        "position": "591"
     },
     {
-        "card_name": "Jungle Moth",
+        "card_name": "Illuminant Slime",
         "number": 23,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "525"
+        "position": "117"
     },
     {
         "card_name": "Lunar Imprisonment",
-        "number": 57,
+        "number": 69,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "545"
+        "position": "544"
     },
     {
         "card_name": "Headless Horserider",
-        "number": 90,
+        "number": 109,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "190"
     },
     {
-        "card_name": "Enchanted Sword",
-        "number": 121,
+        "card_name": "Goblin Thief",
+        "number": 155,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "53"
+        "position": "111"
     },
     {
-        "card_name": "Magic Regeneration Potion",
-        "number": 167,
+        "card_name": "Jungle Derpling",
+        "number": 194,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "177"
+        "position": "605"
+    },
+    {
+        "card_name": "Jungle Moth",
+        "number": 27,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "524"
+    },
+    {
+        "card_name": "Martian Probe",
+        "number": 71,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "593"
+    },
+    {
+        "card_name": "Killed for Coins",
+        "number": 110,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "Granite Golem",
+        "number": 156,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "543"
+    },
+    {
+        "card_name": "Jungle Excavation",
+        "number": 195,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "311"
     },
     {
         "card_name": "Martian Drone",
-        "number": 25,
+        "number": 29,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -969,39 +1249,39 @@
     },
     {
         "card_name": "Not Today",
-        "number": 59,
+        "number": 73,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "178"
     },
     {
-        "card_name": "Killed for Coins",
-        "number": 91,
+        "card_name": "Lifeforce Potion",
+        "number": 111,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "261"
+        "position": "176"
     },
     {
-        "card_name": "Evolution Beast",
-        "number": 122,
+        "card_name": "Heliophobic Gnome",
+        "number": 157,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "123"
+        "position": "562"
     },
     {
-        "card_name": "Man Eater",
-        "number": 168,
+        "card_name": "Magic Regeneration Potion",
+        "number": 197,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "217"
+        "position": "177"
     },
     {
         "card_name": "Martian Officer",
-        "number": 26,
+        "number": 30,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1009,39 +1289,39 @@
     },
     {
         "card_name": "Pirate's Parrot",
-        "number": 60,
+        "number": 74,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "287"
     },
     {
-        "card_name": "Lifeforce Potion",
-        "number": 92,
+        "card_name": "Lost Encounter",
+        "number": 113,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "176"
+        "position": "195"
     },
     {
-        "card_name": "Face Monster",
-        "number": 125,
+        "card_name": "Magic Missile",
+        "number": 159,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "526"
+        "position": "60"
     },
     {
-        "card_name": "Mother Slime",
-        "number": 169,
+        "card_name": "Man Eater",
+        "number": 198,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "166"
+        "position": "217"
     },
     {
         "card_name": "Martian Walker",
-        "number": 27,
+        "number": 31,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1049,475 +1329,390 @@
     },
     {
         "card_name": "Relentless Shark",
-        "number": 61,
+        "number": 75,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "215"
     },
     {
-        "card_name": "Lost Encounter",
-        "number": 93,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "195"
-    },
-    {
-        "card_name": "Fire Imp Assault",
-        "number": 127,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "315"
-    },
-    {
-        "card_name": "Quality Over Quantity",
-        "number": 173,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "196"
-    },
-    {
-        "card_name": "Sand Slime",
-        "number": 29,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "531"
-    },
-    {
-        "card_name": "Sand Shark",
-        "number": 62,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "512"
-    },
-    {
         "card_name": "Mister Stabby",
-        "number": 94,
+        "number": 114,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "318"
     },
     {
-        "card_name": "Goblin Peon",
-        "number": 130,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "113"
-    },
-    {
-        "card_name": "Reforestation",
-        "number": 174,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "173"
-    },
-    {
-        "card_name": "Shared Loot",
-        "number": 30,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "300"
-    },
-    {
-        "card_name": "Snow Flinxes",
-        "number": 63,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "167"
-    },
-    {
-        "card_name": "Nightly Defending",
-        "number": 96,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "57"
-    },
-    {
-        "card_name": "Goblin Thief",
-        "number": 132,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "111"
-    },
-    {
-        "card_name": "Sand Elemental",
-        "number": 175,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "527"
-    },
-    {
-        "card_name": "Minimus Containment",
-        "number": 31,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "150"
-    },
-    {
-        "card_name": "Star Cell",
-        "number": 64,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "201"
-    },
-    {
-        "card_name": "The Possessed",
-        "number": 97,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "228"
-    },
-    {
-        "card_name": "Granite Golem",
-        "number": 133,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "544"
-    },
-    {
-        "card_name": "Shower of Arrows",
-        "number": 176,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "244"
-    },
-    {
-        "card_name": "Squire Slime",
-        "number": 32,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "532"
-    },
-    {
-        "card_name": "Surface Slime",
-        "number": 66,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "73"
-    },
-    {
-        "card_name": "Reaper of the Eclipse",
-        "number": 98,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "227"
-    },
-    {
-        "card_name": "Magic Missile",
-        "number": 135,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "60"
-    },
-    {
-        "card_name": "Slash of Regrowth",
-        "number": 177,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "174"
-    },
-    {
-        "card_name": "Stargazer",
-        "number": 33,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "200"
-    },
-    {
-        "card_name": "Terrarian Orca",
-        "number": 67,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "524"
-    },
-    {
-        "card_name": "Shadow Armor",
-        "number": 100,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "237"
-    },
-    {
         "card_name": "Pirate Corsair",
-        "number": 138,
+        "number": 162,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "286"
     },
     {
-        "card_name": "Slime Symposium",
-        "number": 178,
+        "card_name": "Mother Slime",
+        "number": 199,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "259"
+        "position": "166"
     },
     {
-        "card_name": "Tomb Crawler",
+        "card_name": "Previously Departed",
         "number": 34,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "216"
+        "position": "589"
     },
     {
-        "card_name": "Through the Pylons",
-        "number": 68,
+        "card_name": "Sand Shark",
+        "number": 78,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "301"
+        "position": "512"
     },
     {
-        "card_name": "Shadow Orb",
-        "number": 101,
+        "card_name": "Nightly Defending",
+        "number": 116,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "307"
+        "position": "57"
     },
     {
         "card_name": "Pirate Deckhand",
-        "number": 139,
+        "number": 163,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "283"
     },
     {
-        "card_name": "Snowman Gangsta",
-        "number": 179,
+        "card_name": "Reforestation",
+        "number": 204,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "319"
+        "position": "173"
     },
     {
-        "card_name": "Visit the Nurse",
-        "number": 35,
+        "card_name": "Sand Slime",
+        "number": 37,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "151"
+        "position": "530"
     },
     {
-        "card_name": "Tim, Bone Wizard",
-        "number": 69,
+        "card_name": "Snow Flinxes",
+        "number": 79,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "312"
+        "position": "167"
     },
     {
-        "card_name": "Shapeshifting Vampire",
-        "number": 102,
+        "card_name": "The Possessed",
+        "number": 117,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "225"
+        "position": "228"
     },
     {
         "card_name": "Search for an Enchanted Sword",
-        "number": 141,
+        "number": 165,
         "shape": "saga",
         "set": "TRA",
         "rotated": false,
         "position": "54"
     },
     {
-        "card_name": "Spitting Antlion",
-        "number": 181,
+        "card_name": "Sand Elemental",
+        "number": 205,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "478"
+        "position": "526"
     },
     {
-        "card_name": "Windy Balloon",
-        "number": 36,
+        "card_name": "Shared Loot",
+        "number": 38,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "304"
+        "position": "300"
     },
     {
-        "card_name": "Umbrella Slime",
-        "number": 70,
+        "card_name": "Star Cell",
+        "number": 80,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "75"
+        "position": "201"
     },
     {
-        "card_name": "Tortured Soul",
-        "number": 104,
+        "card_name": "Reaper of the Eclipse",
+        "number": 118,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "81"
+        "position": "227"
     },
     {
         "card_name": "Slingshot",
-        "number": 143,
+        "number": 167,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "505"
     },
     {
-        "card_name": "Splinterling",
-        "number": 182,
+        "card_name": "Shower of Arrows",
+        "number": 206,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "264"
+        "position": "244"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Wizard Attire",
-        "number": 72,
+        "card_name": "Sold to the Shop",
+        "number": 40,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "313"
+        "position": "150"
     },
     {
-        "card_name": "Undead Hordling",
-        "number": 105,
+        "card_name": "Surface Slime",
+        "number": 82,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "103"
+        "position": "73"
+    },
+    {
+        "card_name": "Shadow Armor",
+        "number": 120,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "237"
     },
     {
         "card_name": "Snow Balla",
-        "number": 144,
+        "number": 168,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "320"
     },
     {
-        "card_name": "Strength in Numbers",
-        "number": 184,
+        "card_name": "Slash of Regrowth",
+        "number": 207,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "58"
+        "position": "174"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vortexian",
-        "number": 107,
+        "card_name": "Squire Slime",
+        "number": 41,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "121"
+        "position": "531"
+    },
+    {
+        "card_name": "Terrarian Orca",
+        "number": 83,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "523"
+    },
+    {
+        "card_name": "Shadow Orb",
+        "number": 121,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "307"
     },
     {
         "card_name": "Spelunker Potion",
-        "number": 145,
+        "number": 169,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "175"
     },
     {
-        "card_name": "e"
+        "card_name": "Slime Symposium",
+        "number": 209,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "259"
     },
     {
-        "card_name": "e"
+        "card_name": "Stargazer",
+        "number": 42,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "200"
     },
     {
-        "card_name": "e"
+        "card_name": "Through the Pylons",
+        "number": 84,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "301"
     },
     {
-        "card_name": "e"
+        "card_name": "Shapeshifting Vampire",
+        "number": 122,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "225"
     },
     {
         "card_name": "Undead Miner",
-        "number": 147,
+        "number": 171,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "504"
     },
     {
-        "card_name": "e"
+        "card_name": "Snowman Gangsta",
+        "number": 210,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "319"
     },
     {
-        "card_name": "e"
+        "card_name": "Tomb Crawler",
+        "number": 43,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "216"
     },
     {
-        "card_name": "e"
+        "card_name": "Tim, Bone Wizard",
+        "number": 85,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "312"
     },
     {
-        "card_name": "e"
+        "card_name": "Tortured Soul",
+        "number": 125,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "81"
     },
     {
         "card_name": "Vicious Bunny",
-        "number": 148,
+        "number": 172,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "106"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Wandering Eye Fish",
-        "number": 149,
+        "card_name": "Spitting Antlion",
+        "number": 212,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "517"
+        "position": "478"
+    },
+    {
+        "card_name": "Visit the Nurse",
+        "number": 44,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "Umbrella Slime",
+        "number": 86,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Undead Hordling",
+        "number": 126,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Wandering Eye Fish",
+        "number": 173,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "516"
+    },
+    {
+        "card_name": "Splinterling",
+        "number": 213,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "264"
+    },
+    {
+        "card_name": "Windy Balloon",
+        "number": 45,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "304"
+    },
+    {
+        "card_name": "Wizard Attire",
+        "number": 88,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "313"
+    },
+    {
+        "card_name": "Vortexian",
+        "number": 128,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "121"
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "Strength in Numbers",
+        "number": 215,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "58"
     },
     {
         "card_name": "er"
@@ -1534,7 +1729,7 @@
     "a->gold",
     {
         "card_name": "Angering a Light God",
-        "number": 188,
+        "number": 219,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -1542,7 +1737,7 @@
     },
     {
         "card_name": "The Ranger",
-        "number": 270,
+        "number": 306,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1550,7 +1745,7 @@
     },
     {
         "card_name": "Dreadnautilus",
-        "number": 204,
+        "number": 238,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1558,7 +1753,7 @@
     },
     {
         "card_name": "Goblin Warlock",
-        "number": 226,
+        "number": 260,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1566,15 +1761,15 @@
     },
     {
         "card_name": "Princess of Slime",
-        "number": 262,
+        "number": 298,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "536"
+        "position": "535"
     },
     {
         "card_name": "The Empress of Light",
-        "number": 210,
+        "number": 244,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1582,7 +1777,7 @@
     },
     {
         "card_name": "The Vortex Pillar",
-        "number": 293,
+        "number": 335,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -1590,7 +1785,7 @@
     },
     {
         "card_name": "Eye of Cthulhu",
-        "number": 213,
+        "number": 247,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1598,23 +1793,23 @@
     },
     {
         "card_name": "Queen Bee",
-        "number": 267,
+        "number": 303,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "7"
     },
     {
-        "card_name": "Hallow Unicorn",
-        "number": 229,
+        "card_name": "Welcome to the Jungle",
+        "number": 337,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "74"
+        "position": "576"
     },
     {
         "card_name": "Enchanted Sundial",
-        "number": 211,
+        "number": 245,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1622,15 +1817,15 @@
     },
     {
         "card_name": "Dulais, Wizard of Old",
-        "number": 207,
+        "number": 241,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "538"
+        "position": "537"
     },
     {
         "card_name": "Wall of Flesh",
-        "number": 294,
+        "number": 336,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1638,39 +1833,39 @@
     },
     {
         "card_name": "Goblin Invasion",
-        "number": 225,
+        "number": 259,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
         "position": "147"
     },
     {
-        "card_name": "Madeline, Crisis Nurse",
-        "number": 240,
+        "card_name": "Hallow Unicorn",
+        "number": 263,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "43"
+        "position": "74"
     },
     {
         "card_name": "Prismatic Lacewing",
-        "number": 263,
+        "number": 299,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "160"
     },
     {
-        "card_name": "Bone Lee",
-        "number": 192,
+        "card_name": "Vortex Armor",
+        "number": 334,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "254"
+        "position": "579"
     },
     {
         "card_name": "Old One's Ogre",
-        "number": 252,
+        "number": 287,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1678,39 +1873,39 @@
     },
     {
         "card_name": "Luciano, Inspired Painter",
-        "number": 238,
+        "number": 272,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "49"
     },
     {
-        "card_name": "Rainbow Slime",
-        "number": 269,
+        "card_name": "Madeline, Crisis Nurse",
+        "number": 274,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "528"
+        "position": "43"
     },
     {
         "card_name": "Jey, Young Angler",
-        "number": 233,
+        "number": 267,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "50"
     },
     {
-        "card_name": "Corruption Slimer",
-        "number": 196,
+        "card_name": "Bone Lee",
+        "number": 223,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "88"
+        "position": "254"
     },
     {
         "card_name": "Pirate Deadeye",
-        "number": 257,
+        "number": 293,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1718,39 +1913,39 @@
     },
     {
         "card_name": "Goblin Punter",
-        "number": 312,
+        "number": 356,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "487"
     },
     {
-        "card_name": "Rest Until Morning",
-        "number": 272,
+        "card_name": "Rainbow Slime",
+        "number": 305,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "37"
+        "position": "527"
     },
     {
         "card_name": "Wyvern of the Sky Island",
-        "number": 295,
+        "number": 339,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "52"
     },
     {
-        "card_name": "Ranged Focus",
-        "number": 323,
+        "card_name": "Corruption Slimer",
+        "number": 227,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "485"
+        "position": "88"
     },
     {
         "card_name": "Rise of the Blood Moon",
-        "number": 274,
+        "number": 310,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -1758,79 +1953,79 @@
     },
     {
         "card_name": "Bee Armor",
-        "number": 189,
+        "number": 220,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "240"
     },
     {
-        "card_name": "Sting Operation",
-        "number": 327,
+        "card_name": "Rest Until Morning",
+        "number": 308,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "476"
+        "position": "37"
     },
     {
         "card_name": "Crown Claiming",
-        "number": 306,
+        "number": 350,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "481"
     },
     {
-        "card_name": "Dark Mage",
-        "number": 199,
+        "card_name": "Pierce the Eye",
+        "number": 289,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "185"
+        "position": "573"
     },
     {
         "card_name": "Scarlett, Cutthroat Stylist",
-        "number": 276,
+        "number": 312,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "539"
+        "position": "538"
     },
     {
         "card_name": "Goblin Archer",
-        "number": 224,
+        "number": 258,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "108"
     },
     {
-        "card_name": "Jungle Hornet",
-        "number": 236,
+        "card_name": "Unicorn Mount",
+        "number": 332,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "477"
+        "position": "577"
     },
     {
         "card_name": "Sky Harpy",
-        "number": 281,
+        "number": 317,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "89"
     },
     {
-        "card_name": "Frost Moon Yeti",
-        "number": 221,
+        "card_name": "Ranged Focus",
+        "number": 367,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "272"
+        "position": "485"
     },
     {
         "card_name": "You Feel an Evil Presence Watching You",
-        "number": 297,
+        "number": 341,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -1838,39 +2033,39 @@
     },
     {
         "card_name": "Goblin Warrior",
-        "number": 227,
+        "number": 261,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "112"
     },
     {
-        "card_name": "Building a Town",
-        "number": 302,
+        "card_name": "Sting Operation",
+        "number": 371,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "258"
+        "position": "476"
     },
     {
-        "card_name": "Hallowed Pigron",
-        "number": 314,
+        "card_name": "Winged Slime Mount",
+        "number": 338,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "125"
+        "position": "582"
     },
     {
-        "card_name": "Pirate Crossbower",
-        "number": 256,
+        "card_name": "Dark Mage",
+        "number": 231,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "284"
+        "position": "185"
     },
     {
         "card_name": "Horrific Bloodbath",
-        "number": 315,
+        "number": 359,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1878,15 +2073,85 @@
     },
     {
         "card_name": "Bravery Against the Odds",
-        "number": 301,
+        "number": 345,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "18"
     },
     {
+        "card_name": "Jungle Hornet",
+        "number": 270,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "477"
+    },
+    {
+        "card_name": "Hallowed Pigron",
+        "number": 358,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "Frost Moon Yeti",
+        "number": 255,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "272"
+    },
+    {
+        "card_name": "Blood Drippler",
+        "number": 222,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "Goblin Scout",
+        "number": 357,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "Building a Town",
+        "number": 346,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "258"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Pirate Crossbower",
+        "number": 292,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "284"
+    },
+    {
+        "card_name": "Horrific Destruction",
+        "number": 265,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Etherian Drakin",
-        "number": 309,
+        "number": 353,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1897,70 +2162,15 @@
     },
     {
         "card_name": "Storm Diver",
-        "number": 287,
+        "number": 327,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "96"
     },
     {
-        "card_name": "Blood Drippler",
-        "number": 191,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "104"
-    },
-    {
-        "card_name": "Goblin Scout",
-        "number": 313,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "128"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Corrupt Pigron",
-        "number": 304,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "126"
-    },
-    {
-        "card_name": "Horrific Destruction",
-        "number": 231,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "191"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "The Vortex Pillar Token",
-        "number": 400,
-        "shape": "battle split",
-        "set": "TRA",
-        "rotated": true,
-        "position": "326"
-    },
-    {
         "card_name": "Pursuing Eye",
-        "number": 266,
+        "number": 302,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1976,11 +2186,16 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Corrupt Pigron",
+        "number": 348,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "126"
     },
     {
         "card_name": "Scythe Demon",
-        "number": 277,
+        "number": 313,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -1996,11 +2211,16 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "The Vortex Pillar Token",
+        "number": 447,
+        "shape": "battle split",
+        "set": "TRA",
+        "rotated": true,
+        "position": "326"
     },
     {
         "card_name": "Blood Zombie",
-        "number": 300,
+        "number": 344,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2029,7 +2249,7 @@
     },
     {
         "card_name": "Dungeon Paladin",
-        "number": 208,
+        "number": 242,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2037,7 +2257,7 @@
     },
     {
         "card_name": "Brain of Cthulhu",
-        "number": 193,
+        "number": 224,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2045,7 +2265,7 @@
     },
     {
         "card_name": "The Journey's Beginning",
-        "number": 234,
+        "number": 268,
         "shape": "saga",
         "set": "TRA",
         "rotated": false,
@@ -2053,7 +2273,7 @@
     },
     {
         "card_name": "The Fighter",
-        "number": 214,
+        "number": 248,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2061,23 +2281,23 @@
     },
     {
         "card_name": "Prince of Slime",
-        "number": 261,
+        "number": 297,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "537"
+        "position": "536"
     },
     {
         "card_name": "Release of the Souls",
-        "number": 324,
+        "number": 368,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "63"
     },
     {
-        "card_name": "Ionize",
-        "number": 222,
+        "card_name": "Frostburn Interruption",
+        "number": 256,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2085,7 +2305,7 @@
     },
     {
         "card_name": "The Pumpkin Moon is Rising",
-        "number": 264,
+        "number": 300,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2093,87 +2313,127 @@
     },
     {
         "card_name": "The Solar Pillar",
-        "number": 284,
+        "number": 322,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
         "position": "144"
     },
     {
-        "card_name": "Hanno, Dye Trader",
-        "number": 230,
+        "card_name": "Stardust Armor",
+        "number": 325,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "541"
+        "position": "578"
     },
     {
         "card_name": "Edmund, Town Merchant",
-        "number": 209,
+        "number": 243,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "42"
     },
     {
-        "card_name": "Illusionary Replication",
-        "number": 232,
+        "card_name": "Nebula Armor",
+        "number": 283,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "194"
+        "position": "581"
     },
     {
         "card_name": "Dryad's Ward",
-        "number": 205,
+        "number": 239,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "548"
+        "position": "547"
     },
     {
-        "card_name": "Andrew, Helpful Guide",
-        "number": 187,
+        "card_name": "Solar Armor",
+        "number": 320,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "141"
+        "position": "580"
     },
     {
-        "card_name": "Royal Gel",
-        "number": 275,
+        "card_name": "Hanno, Dye Trader",
+        "number": 264,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "248"
+        "position": "540"
     },
     {
         "card_name": "Paladin's Gear",
-        "number": 253,
+        "number": 288,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "253"
     },
     {
-        "card_name": "Nort, Goblin Tinkerer",
-        "number": 250,
+        "card_name": "Illusionary Replication",
+        "number": 266,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "100"
+        "position": "194"
     },
     {
         "card_name": "Pumpking",
-        "number": 265,
+        "number": 301,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "138"
     },
     {
+        "card_name": "Creating a New World",
+        "number": 229,
+        "shape": "saga",
+        "set": "TRA",
+        "rotated": false,
+        "position": "570"
+    },
+    {
+        "card_name": "Royal Gel",
+        "number": 311,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "Rattles Magoo, Bone Merchant",
+        "number": 307,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "Nort, Goblin Tinkerer",
+        "number": 285,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Konah, Witch Doctor",
+        "number": 271,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "533"
+    },
+    {
         "card_name": "Drakomire Rider",
-        "number": 203,
+        "number": 237,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2181,39 +2441,39 @@
     },
     {
         "card_name": "King Slime",
-        "number": 316,
+        "number": 360,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "6"
     },
     {
-        "card_name": "Rattles Magoo, Bone Merchant",
-        "number": 271,
+        "card_name": "Something Sinister Approaches",
+        "number": 323,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "158"
+        "position": "197"
     },
     {
         "card_name": "Magic Focus",
-        "number": 319,
+        "number": 363,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "484"
     },
     {
-        "card_name": "Konah, Witch Doctor",
-        "number": 237,
+        "card_name": "Spider Armor",
+        "number": 324,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "534"
+        "position": "574"
     },
     {
         "card_name": "Pinky",
-        "number": 254,
+        "number": 290,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2221,23 +2481,23 @@
     },
     {
         "card_name": "Slime Rain",
-        "number": 326,
+        "number": 370,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
         "position": "10"
     },
     {
-        "card_name": "Something Sinister Approaches",
-        "number": 285,
+        "card_name": "Against the World",
+        "number": 342,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "197"
+        "position": "482"
     },
     {
         "card_name": "Brain Suckler",
-        "number": 194,
+        "number": 225,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2245,7 +2505,7 @@
     },
     {
         "card_name": "Baleful Harvest",
-        "number": 299,
+        "number": 343,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2253,7 +2513,7 @@
     },
     {
         "card_name": "Selenian",
-        "number": 278,
+        "number": 314,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2261,23 +2521,23 @@
     },
     {
         "card_name": "Summon Focus",
-        "number": 328,
+        "number": 372,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "483"
     },
     {
-        "card_name": "Against the World",
-        "number": 298,
+        "card_name": "Face the Enemy",
+        "number": 355,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "482"
+        "position": "506"
     },
     {
         "card_name": "Crimslime",
-        "number": 198,
+        "number": 230,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2285,7 +2545,7 @@
     },
     {
         "card_name": "Dr. Man Fly",
-        "number": 202,
+        "number": 235,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2293,7 +2553,7 @@
     },
     {
         "card_name": "Xavier, Arms Dealer",
-        "number": 296,
+        "number": 340,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2301,23 +2561,23 @@
     },
     {
         "card_name": "Slime Drops",
-        "number": 282,
+        "number": 318,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "523"
+        "position": "522"
     },
     {
-        "card_name": "Face the Enemy",
-        "number": 311,
+        "card_name": "Desert Vulture",
+        "number": 233,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "506"
+        "position": "585"
     },
     {
         "card_name": "Meteorite Armor",
-        "number": 245,
+        "number": 279,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2325,7 +2585,7 @@
     },
     {
         "card_name": "Frost Moon Elf",
-        "number": 219,
+        "number": 253,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2333,23 +2593,23 @@
     },
     {
         "card_name": "Melee Focus",
-        "number": 320,
+        "number": 364,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "486"
     },
     {
-        "card_name": "Mushi Ladybug",
-        "number": 321,
+        "card_name": "Slime Mount",
+        "number": 319,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "129"
+        "position": "583"
     },
     {
         "card_name": "Fossil Armor",
-        "number": 217,
+        "number": 251,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2357,7 +2617,7 @@
     },
     {
         "card_name": "Crimson Pigron",
-        "number": 305,
+        "number": 349,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2365,26 +2625,31 @@
     },
     {
         "card_name": "Mourning Wood",
-        "number": 248,
+        "number": 282,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "181"
     },
     {
-        "card_name": "Crawltipede",
-        "number": 197,
+        "card_name": "Andrew, Helpful Guide",
+        "number": 218,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "92"
+        "position": "141"
     },
     {
-        "card_name": "e"
+        "card_name": "Mushi Ladybug",
+        "number": 365,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "129"
     },
     {
         "card_name": "Undead Hoplite",
-        "number": 329,
+        "number": 373,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2395,15 +2660,60 @@
     },
     {
         "card_name": "Swamp Thing",
-        "number": 289,
+        "number": 329,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "226"
     },
     {
+        "card_name": "Crawltipede",
+        "number": 228,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lost Nymph",
+        "number": 361,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "Drakanian Warrior",
+        "number": 236,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "586"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Chaos Elemental",
-        "number": 303,
+        "number": 347,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2419,16 +2729,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Lost Nymph",
-        "number": 317,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "131"
+        "card_name": "e"
     },
     {
         "card_name": "The Solar Pillar Token",
-        "number": 398,
+        "number": 445,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2454,7 +2759,7 @@
     },
     {
         "card_name": "The Lunatic Cultist",
-        "number": 239,
+        "number": 273,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2462,7 +2767,7 @@
     },
     {
         "card_name": "The Destroyer",
-        "number": 201,
+        "number": 234,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2470,7 +2775,7 @@
     },
     {
         "card_name": "Betsy, Draconic General",
-        "number": 190,
+        "number": 221,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2478,7 +2783,7 @@
     },
     {
         "card_name": "Plantera, Jungle's Soul",
-        "number": 259,
+        "number": 295,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2486,7 +2791,7 @@
     },
     {
         "card_name": "Queen Slime",
-        "number": 268,
+        "number": 304,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2494,7 +2799,7 @@
     },
     {
         "card_name": "Gathering of the Cultists",
-        "number": 223,
+        "number": 257,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2502,7 +2807,7 @@
     },
     {
         "card_name": "The Pirate Invasion",
-        "number": 258,
+        "number": 294,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2510,7 +2815,7 @@
     },
     {
         "card_name": "The Eater of Worlds",
-        "number": 308,
+        "number": 352,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2518,7 +2823,7 @@
     },
     {
         "card_name": "Golem, Jungle Defender",
-        "number": 228,
+        "number": 262,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2526,7 +2831,7 @@
     },
     {
         "card_name": "The Stardust Pillar",
-        "number": 286,
+        "number": 326,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2534,7 +2839,7 @@
     },
     {
         "card_name": "Martian Saucer",
-        "number": 242,
+        "number": 276,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2542,7 +2847,7 @@
     },
     {
         "card_name": "Flying Dutchman",
-        "number": 216,
+        "number": 250,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2550,7 +2855,7 @@
     },
     {
         "card_name": "Night's Edge",
-        "number": 322,
+        "number": 366,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2558,7 +2863,7 @@
     },
     {
         "card_name": "Jungle Grows Restless",
-        "number": 235,
+        "number": 269,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2566,7 +2871,7 @@
     },
     {
         "card_name": "The Summoner",
-        "number": 288,
+        "number": 328,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2574,15 +2879,15 @@
     },
     {
         "card_name": "Loyal Cultists",
-        "number": 318,
+        "number": 362,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "533"
+        "position": "532"
     },
     {
         "card_name": "Pirate Captain",
-        "number": 255,
+        "number": 291,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2590,7 +2895,7 @@
     },
     {
         "card_name": "The Frost Legion",
-        "number": 218,
+        "number": 252,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2598,7 +2903,7 @@
     },
     {
         "card_name": "Excalibur",
-        "number": 310,
+        "number": 354,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2606,7 +2911,7 @@
     },
     {
         "card_name": "Flow Invader",
-        "number": 215,
+        "number": 249,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2617,7 +2922,7 @@
     },
     {
         "card_name": "Vibrations From Below",
-        "number": 292,
+        "number": 333,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2625,7 +2930,7 @@
     },
     {
         "card_name": "Demon Altar",
-        "number": 307,
+        "number": 351,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2633,7 +2938,7 @@
     },
     {
         "card_name": "Robyn, Cursed Zoologist",
-        "number": 325,
+        "number": 369,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2641,7 +2946,7 @@
     },
     {
         "card_name": "The Stardust Pillar Token",
-        "number": 399,
+        "number": 446,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2664,7 +2969,7 @@
     },
     {
         "card_name": "Retinazer and Spazmatism",
-        "number": 273,
+        "number": 309,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2672,7 +2977,7 @@
     },
     {
         "card_name": "Duke Fishron",
-        "number": 206,
+        "number": 240,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2680,7 +2985,7 @@
     },
     {
         "card_name": "A Solar Eclipse is Happening",
-        "number": 283,
+        "number": 321,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2688,7 +2993,7 @@
     },
     {
         "card_name": "Skeletron Prime",
-        "number": 280,
+        "number": 316,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2696,15 +3001,15 @@
     },
     {
         "card_name": "Deerclops, Frost Lurker",
-        "number": 200,
+        "number": 232,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "555"
+        "position": "554"
     },
     {
         "card_name": "Skeletron, Dungeon Guardian",
-        "number": 279,
+        "number": 315,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2712,7 +3017,7 @@
     },
     {
         "card_name": "The Mage",
-        "number": 241,
+        "number": 275,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2720,7 +3025,7 @@
     },
     {
         "card_name": "Mothron",
-        "number": 247,
+        "number": 281,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2728,7 +3033,7 @@
     },
     {
         "card_name": "The Air Becomes Colder",
-        "number": 186,
+        "number": 217,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2736,7 +3041,7 @@
     },
     {
         "card_name": "The Frost Moon is Rising",
-        "number": 220,
+        "number": 254,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2744,7 +3049,7 @@
     },
     {
         "card_name": "A Terrible Night",
-        "number": 290,
+        "number": 330,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2752,7 +3057,7 @@
     },
     {
         "card_name": "The Nebula Pillar",
-        "number": 249,
+        "number": 284,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2769,7 +3074,7 @@
     },
     {
         "card_name": "Endless Events",
-        "number": 212,
+        "number": 246,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2777,7 +3082,7 @@
     },
     {
         "card_name": "Truffle Worm",
-        "number": 291,
+        "number": 331,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2797,7 +3102,7 @@
     },
     {
         "card_name": "Predictor",
-        "number": 260,
+        "number": 296,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2817,7 +3122,7 @@
     },
     {
         "card_name": "The Nebula Pillar Token",
-        "number": 397,
+        "number": 444,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2849,23 +3154,23 @@
     },
     {
         "card_name": "Mechdusa, False Deity",
-        "number": 244,
+        "number": 278,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "556"
+        "position": "555"
     },
     {
         "card_name": "Ocram, Forgotten Terror",
-        "number": 251,
+        "number": 286,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "554"
+        "position": "553"
     },
     {
         "card_name": "Mecha Mayhem",
-        "number": 243,
+        "number": 277,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2873,7 +3178,7 @@
     },
     {
         "card_name": "The Celestial Invasion",
-        "number": 195,
+        "number": 226,
         "shape": "battle split",
         "set": "TRA",
         "rotated": true,
@@ -2881,7 +3186,7 @@
     },
     {
         "card_name": "Moon Lord",
-        "number": 246,
+        "number": 280,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2902,7 +3207,7 @@
     "a->colorless",
     {
         "card_name": "The Dungeon's Entrance",
-        "number": 345,
+        "number": 390,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2910,15 +3215,23 @@
     },
     {
         "card_name": "Ankh Shield",
-        "number": 332,
+        "number": 376,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "260"
     },
     {
+        "card_name": "Artisan Loaf",
+        "number": 377,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "572"
+    },
+    {
         "card_name": "Dungeon Depths",
-        "number": 344,
+        "number": 389,
         "shape": "adventure",
         "set": "TRA",
         "rotated": false,
@@ -2926,7 +3239,7 @@
     },
     {
         "card_name": "Lucky Coins",
-        "number": 353,
+        "number": 399,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2934,7 +3247,7 @@
     },
     {
         "card_name": "Phi, Explosive Cyborg",
-        "number": 361,
+        "number": 407,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2950,7 +3263,7 @@
     },
     {
         "card_name": "Abeemination",
-        "number": 330,
+        "number": 374,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2958,15 +3271,15 @@
     },
     {
         "card_name": "Avenger Emblem",
-        "number": 333,
+        "number": 378,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "276"
     },
     {
-        "card_name": "Patchwork Banner",
-        "number": 334,
+        "card_name": "Banner Collection",
+        "number": 379,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2974,7 +3287,7 @@
     },
     {
         "card_name": "Bloody Spine",
-        "number": 335,
+        "number": 380,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2982,7 +3295,7 @@
     },
     {
         "card_name": "Clothier Voodoo Doll",
-        "number": 339,
+        "number": 384,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2990,7 +3303,7 @@
     },
     {
         "card_name": "Collection of Pots",
-        "number": 340,
+        "number": 385,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -2998,15 +3311,15 @@
     },
     {
         "card_name": "Guide Voodoo Doll",
-        "number": 349,
+        "number": 395,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "15"
     },
     {
-        "card_name": "Fountain of Renewal",
-        "number": 350,
+        "card_name": "Heart Crystal",
+        "number": 396,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3014,7 +3327,7 @@
     },
     {
         "card_name": "Legendary Copper Shortsword",
-        "number": 351,
+        "number": 397,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3022,7 +3335,7 @@
     },
     {
         "card_name": "Magic Lantern",
-        "number": 354,
+        "number": 400,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3030,7 +3343,7 @@
     },
     {
         "card_name": "Mana Crystal",
-        "number": 355,
+        "number": 401,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3038,7 +3351,7 @@
     },
     {
         "card_name": "Mechanical Eye",
-        "number": 357,
+        "number": 403,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3046,7 +3359,7 @@
     },
     {
         "card_name": "Mechanical Skull",
-        "number": 358,
+        "number": 404,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3054,7 +3367,7 @@
     },
     {
         "card_name": "Mechanical Wurm",
-        "number": 359,
+        "number": 405,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3062,15 +3375,23 @@
     },
     {
         "card_name": "Obsidian Shield",
-        "number": 360,
+        "number": 406,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "66"
     },
     {
-        "card_name": "No-Dachi",
-        "number": 366,
+        "card_name": "Rover Blades",
+        "number": 411,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "584"
+    },
+    {
+        "card_name": "Starfury",
+        "number": 413,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3078,7 +3399,7 @@
     },
     {
         "card_name": "Strange Brew",
-        "number": 367,
+        "number": 414,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3086,7 +3407,7 @@
     },
     {
         "card_name": "Suspicious Looking Eye",
-        "number": 368,
+        "number": 415,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3094,7 +3415,7 @@
     },
     {
         "card_name": "Tinkerer's Workshop",
-        "number": 369,
+        "number": 416,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3102,15 +3423,23 @@
     },
     {
         "card_name": "Wurm Food",
-        "number": 370,
+        "number": 417,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "3"
     },
     {
+        "card_name": "Shimmer Slime",
+        "number": 2,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "587"
+    },
+    {
         "card_name": "Ale Tosser",
-        "number": 331,
+        "number": 375,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3118,7 +3447,7 @@
     },
     {
         "card_name": "Bounding Balloon",
-        "number": 336,
+        "number": 381,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3126,7 +3455,7 @@
     },
     {
         "card_name": "Broken Hero Sword",
-        "number": 337,
+        "number": 382,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3134,7 +3463,7 @@
     },
     {
         "card_name": "Clentaminator Solution",
-        "number": 338,
+        "number": 383,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3142,7 +3471,7 @@
     },
     {
         "card_name": "Critter Catching Net",
-        "number": 341,
+        "number": 386,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3150,7 +3479,7 @@
     },
     {
         "card_name": "Deadly Sphere",
-        "number": 342,
+        "number": 387,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3158,15 +3487,23 @@
     },
     {
         "card_name": "Diamond Bunny",
-        "number": 343,
+        "number": 388,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "99"
     },
     {
-        "card_name": "Gingerbrute",
-        "number": 346,
+        "card_name": "Fortunate Clover",
+        "number": 391,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "563"
+    },
+    {
+        "card_name": "Gingerbread Man",
+        "number": 392,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3174,7 +3511,7 @@
     },
     {
         "card_name": "Golf Cart",
-        "number": 347,
+        "number": 393,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3182,7 +3519,7 @@
     },
     {
         "card_name": "Grapple Hook",
-        "number": 348,
+        "number": 394,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3190,15 +3527,15 @@
     },
     {
         "card_name": "Light Pet",
-        "number": 352,
+        "number": 398,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "298"
     },
     {
-        "card_name": "Prophetic Prism",
-        "number": 356,
+        "card_name": "Mana Flower",
+        "number": 402,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3206,7 +3543,7 @@
     },
     {
         "card_name": "Pumpkin Scarecrow",
-        "number": 362,
+        "number": 408,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3214,7 +3551,7 @@
     },
     {
         "card_name": "Purification Powder",
-        "number": 363,
+        "number": 409,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3222,7 +3559,7 @@
     },
     {
         "card_name": "Rocket Boots",
-        "number": 364,
+        "number": 410,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3230,11 +3567,14 @@
     },
     {
         "card_name": "Slime Crown",
-        "number": 365,
+        "number": 412,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "9"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -3262,7 +3602,7 @@
     },
     {
         "card_name": "Idyllic Beachfront",
-        "number": 382,
+        "number": 429,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3270,7 +3610,7 @@
     },
     {
         "card_name": "Contaminated Aquifer",
-        "number": 374,
+        "number": 421,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3278,7 +3618,7 @@
     },
     {
         "card_name": "Geothermal Bog",
-        "number": 379,
+        "number": 426,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3286,7 +3626,7 @@
     },
     {
         "card_name": "Wooded Ridgeline",
-        "number": 391,
+        "number": 438,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3294,7 +3634,7 @@
     },
     {
         "card_name": "Radiant Grove",
-        "number": 385,
+        "number": 432,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3317,7 +3657,7 @@
     },
     {
         "card_name": "Sunlit Marsh",
-        "number": 389,
+        "number": 436,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3325,7 +3665,7 @@
     },
     {
         "card_name": "Molten Tributary",
-        "number": 384,
+        "number": 431,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3333,7 +3673,7 @@
     },
     {
         "card_name": "Haunted Mire",
-        "number": 381,
+        "number": 428,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3341,7 +3681,7 @@
     },
     {
         "card_name": "Sacred Peaks",
-        "number": 386,
+        "number": 433,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3349,7 +3689,7 @@
     },
     {
         "card_name": "Tangled Islet",
-        "number": 390,
+        "number": 437,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3372,7 +3712,7 @@
     },
     {
         "card_name": "Beachfront Pier",
-        "number": 371,
+        "number": 418,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3380,7 +3720,7 @@
     },
     {
         "card_name": "Beginner's Landing",
-        "number": 372,
+        "number": 419,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3388,7 +3728,7 @@
     },
     {
         "card_name": "Corrupted Forest",
-        "number": 375,
+        "number": 422,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3396,7 +3736,7 @@
     },
     {
         "card_name": "Crimson Spikes",
-        "number": 376,
+        "number": 423,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3404,7 +3744,7 @@
     },
     {
         "card_name": "Dungeon Corridor",
-        "number": 377,
+        "number": 424,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3412,7 +3752,7 @@
     },
     {
         "card_name": "Frosted Cavern",
-        "number": 378,
+        "number": 425,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3420,7 +3760,7 @@
     },
     {
         "card_name": "Hallowed Foothills",
-        "number": 380,
+        "number": 427,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3428,7 +3768,7 @@
     },
     {
         "card_name": "Lihzahrd Temple",
-        "number": 383,
+        "number": 430,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3436,7 +3776,7 @@
     },
     {
         "card_name": "Sandy River",
-        "number": 387,
+        "number": 434,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3444,7 +3784,7 @@
     },
     {
         "card_name": "Sky Islands",
-        "number": 388,
+        "number": 435,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3452,7 +3792,7 @@
     },
     {
         "card_name": "Biome Crossovers",
-        "number": 373,
+        "number": 420,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3487,7 +3827,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 392,
+        "number": 439,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3495,7 +3835,7 @@
     },
     {
         "card_name": "Forest",
-        "number": 396,
+        "number": 443,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3503,7 +3843,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 395,
+        "number": 442,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3511,7 +3851,7 @@
     },
     {
         "card_name": "Island",
-        "number": 393,
+        "number": 440,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3519,7 +3859,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 394,
+        "number": 441,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
@@ -3548,7 +3888,7 @@
     },
     {
         "card_name": "Baby Mothron Token",
-        "number": 72,
+        "number": 82,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3556,7 +3896,7 @@
     },
     {
         "card_name": "Ale Tosser Token",
-        "number": 122,
+        "number": 132,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3564,7 +3904,7 @@
     },
     {
         "card_name": "Bomb Token",
-        "number": 123,
+        "number": 133,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3572,7 +3912,7 @@
     },
     {
         "card_name": "Bounding Balloon Token",
-        "number": 124,
+        "number": 134,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3580,7 +3920,7 @@
     },
     {
         "card_name": "Broken Hero Sword Token",
-        "number": 125,
+        "number": 135,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3588,7 +3928,7 @@
     },
     {
         "card_name": "Clentaminator Solution Token",
-        "number": 126,
+        "number": 136,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3596,7 +3936,7 @@
     },
     {
         "card_name": "Clue Token",
-        "number": 127,
+        "number": 137,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3604,31 +3944,31 @@
     },
     {
         "card_name": "Combined Gear Token",
-        "number": 128,
+        "number": 138,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "448"
     },
     {
-        "card_name": "Construct Token Melee",
-        "number": 129,
-        "shape": "token",
-        "set": "TRA",
-        "rotated": false,
-        "position": "450"
-    },
-    {
-        "card_name": "Construct Token Ranged",
-        "number": 130,
+        "card_name": "Construct Token",
+        "number": 139,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "451"
     },
     {
-        "card_name": "Construct Token Drone",
-        "number": 131,
+        "card_name": "Construct Token",
+        "number": 140,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "450"
+    },
+    {
+        "card_name": "Construct Token",
+        "number": 141,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3636,15 +3976,15 @@
     },
     {
         "card_name": "Crystal Ball Token",
-        "number": 132,
+        "number": 142,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
-        "position": "543"
+        "position": "542"
     },
     {
         "card_name": "Deadly Sphere Token",
-        "number": 133,
+        "number": 143,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3652,15 +3992,15 @@
     },
     {
         "card_name": "Food Token",
-        "number": 134,
+        "number": 144,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "453"
     },
     {
-        "card_name": "Gingerbrute Token",
-        "number": 135,
+        "card_name": "Gingerbread Man Token",
+        "number": 145,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3668,7 +4008,7 @@
     },
     {
         "card_name": "Golf Cart Token",
-        "number": 136,
+        "number": 146,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3676,7 +4016,7 @@
     },
     {
         "card_name": "Grapple Hook Token",
-        "number": 137,
+        "number": 147,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3684,7 +4024,7 @@
     },
     {
         "card_name": "Guide Voodoo Doll Token",
-        "number": 138,
+        "number": 148,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3692,15 +4032,15 @@
     },
     {
         "card_name": "Hunter's Blowgun Token",
-        "number": 139,
+        "number": 149,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
-        "position": "542"
+        "position": "541"
     },
     {
         "card_name": "Leather Armor Token",
-        "number": 140,
+        "number": 150,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3708,7 +4048,7 @@
     },
     {
         "card_name": "Mana Crystal Token",
-        "number": 141,
+        "number": 151,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3716,7 +4056,7 @@
     },
     {
         "card_name": "Pirate's Cutlass Token",
-        "number": 142,
+        "number": 152,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3724,7 +4064,7 @@
     },
     {
         "card_name": "Pumpkin Scarecrow Token",
-        "number": 143,
+        "number": 153,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3732,7 +4072,7 @@
     },
     {
         "card_name": "Rocket Boots Token",
-        "number": 144,
+        "number": 154,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3740,7 +4080,7 @@
     },
     {
         "card_name": "Rogue's Gloves Token",
-        "number": 145,
+        "number": 155,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3748,7 +4088,7 @@
     },
     {
         "card_name": "Strange Brew Token",
-        "number": 146,
+        "number": 156,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3756,7 +4096,7 @@
     },
     {
         "card_name": "Tinkerer's Workshop Token",
-        "number": 147,
+        "number": 157,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3764,7 +4104,7 @@
     },
     {
         "card_name": "Treasure Token",
-        "number": 148,
+        "number": 158,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3772,7 +4112,7 @@
     },
     {
         "card_name": "Umbrella Token",
-        "number": 149,
+        "number": 159,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3780,7 +4120,7 @@
     },
     {
         "card_name": "Forest Token",
-        "number": 150,
+        "number": 160,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3788,7 +4128,7 @@
     },
     {
         "card_name": "Forest Plains Token",
-        "number": 151,
+        "number": 161,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3796,11 +4136,27 @@
     },
     {
         "card_name": "Mountain Forest Token",
-        "number": 152,
+        "number": 162,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "470"
+    },
+    {
+        "card_name": "Giant Jungle Tortoise Token",
+        "number": 67,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "617"
+    },
+    {
+        "card_name": "Jungle Slime Token",
+        "number": 71,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "615"
     },
     {
         "card_name": "Antlion Swarmer Token",
@@ -3843,7 +4199,7 @@
         "position": "331"
     },
     {
-        "card_name": "Insect Token W",
+        "card_name": "Insect Token",
         "number": 7,
         "shape": "token",
         "set": "TRA",
@@ -3851,8 +4207,16 @@
         "position": "332"
     },
     {
-        "card_name": "Old Man Token",
+        "card_name": "Jungle Moth Token",
         "number": 8,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "614"
+    },
+    {
+        "card_name": "Old Man Token",
+        "number": 9,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3860,7 +4224,7 @@
     },
     {
         "card_name": "Rabbit Token",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3868,7 +4232,7 @@
     },
     {
         "card_name": "Stargazer Token",
-        "number": 10,
+        "number": 11,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3876,7 +4240,7 @@
     },
     {
         "card_name": "Alien Hornet Token",
-        "number": 11,
+        "number": 12,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3884,7 +4248,7 @@
     },
     {
         "card_name": "Alien Insect Egg Token",
-        "number": 12,
+        "number": 13,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3892,7 +4256,7 @@
     },
     {
         "card_name": "Alien Ooze Token",
-        "number": 13,
+        "number": 14,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3900,7 +4264,7 @@
     },
     {
         "card_name": "Alien Queen Token",
-        "number": 14,
+        "number": 15,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3908,7 +4272,7 @@
     },
     {
         "card_name": "Cleric Illusion Token",
-        "number": 15,
+        "number": 16,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3916,7 +4280,7 @@
     },
     {
         "card_name": "Drake Illusion Token",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3924,7 +4288,7 @@
     },
     {
         "card_name": "Fish Token",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3932,7 +4296,7 @@
     },
     {
         "card_name": "Flocko Token",
-        "number": 18,
+        "number": 19,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3940,7 +4304,7 @@
     },
     {
         "card_name": "Ice Queen Token",
-        "number": 19,
+        "number": 20,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3948,7 +4312,7 @@
     },
     {
         "card_name": "Pirate's Parrot Token",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3956,7 +4320,7 @@
     },
     {
         "card_name": "Shark Token",
-        "number": 21,
+        "number": 22,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3964,7 +4328,7 @@
     },
     {
         "card_name": "Star Cell Token",
-        "number": 22,
+        "number": 23,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3972,7 +4336,7 @@
     },
     {
         "card_name": "Surface Slime Token",
-        "number": 23,
+        "number": 24,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3980,7 +4344,7 @@
     },
     {
         "card_name": "Wizard Attire Token",
-        "number": 24,
+        "number": 25,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -3988,15 +4352,23 @@
     },
     {
         "card_name": "Yeti Token",
-        "number": 25,
+        "number": 26,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "350"
     },
     {
+        "card_name": "Bird Horror Token",
+        "number": 27,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "499"
+    },
+    {
         "card_name": "Corrupt Bunny Token",
-        "number": 26,
+        "number": 28,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4004,7 +4376,7 @@
     },
     {
         "card_name": "Creature from the Deep Token",
-        "number": 27,
+        "number": 29,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4012,7 +4384,7 @@
     },
     {
         "card_name": "Cursed Pirate Token",
-        "number": 28,
+        "number": 30,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4020,7 +4392,7 @@
     },
     {
         "card_name": "Eclipse Butcher Token",
-        "number": 29,
+        "number": 31,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4028,7 +4400,7 @@
     },
     {
         "card_name": "Eclipse Psycho Token",
-        "number": 30,
+        "number": 32,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4036,7 +4408,7 @@
     },
     {
         "card_name": "Eyezor Token",
-        "number": 31,
+        "number": 33,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4044,7 +4416,7 @@
     },
     {
         "card_name": "The Groom Token",
-        "number": 32,
+        "number": 34,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4052,7 +4424,7 @@
     },
     {
         "card_name": "Groom's Finery Token",
-        "number": 33,
+        "number": 35,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4060,7 +4432,7 @@
     },
     {
         "card_name": "Headless Horserider Token",
-        "number": 34,
+        "number": 36,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4068,7 +4440,7 @@
     },
     {
         "card_name": "Mister Stabby Token",
-        "number": 35,
+        "number": 37,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4076,7 +4448,7 @@
     },
     {
         "card_name": "Nailhead Token",
-        "number": 36,
+        "number": 38,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4084,7 +4456,7 @@
     },
     {
         "card_name": "The Possessed Token",
-        "number": 37,
+        "number": 39,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4092,7 +4464,7 @@
     },
     {
         "card_name": "Reaper of the Eclipse Token",
-        "number": 38,
+        "number": 40,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4100,7 +4472,7 @@
     },
     {
         "card_name": "Santa-NK1 Token",
-        "number": 39,
+        "number": 41,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4108,7 +4480,7 @@
     },
     {
         "card_name": "Shapeshifting Vampire Token",
-        "number": 40,
+        "number": 42,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4116,7 +4488,7 @@
     },
     {
         "card_name": "Skeleton Token",
-        "number": 41,
+        "number": 43,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4124,7 +4496,7 @@
     },
     {
         "card_name": "Vortexian Token",
-        "number": 42,
+        "number": 44,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4132,7 +4504,7 @@
     },
     {
         "card_name": "Warren, Tax Collector Token",
-        "number": 43,
+        "number": 45,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4140,7 +4512,7 @@
     },
     {
         "card_name": "Zombie Token",
-        "number": 44,
+        "number": 46,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4148,7 +4520,7 @@
     },
     {
         "card_name": "Bomb Slime Token",
-        "number": 45,
+        "number": 47,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4156,7 +4528,7 @@
     },
     {
         "card_name": "Drake Token",
-        "number": 46,
+        "number": 48,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4164,7 +4536,7 @@
     },
     {
         "card_name": "Drakomire Token",
-        "number": 47,
+        "number": 49,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4172,7 +4544,7 @@
     },
     {
         "card_name": "Enchanted Sword Token",
-        "number": 48,
+        "number": 50,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4180,7 +4552,7 @@
     },
     {
         "card_name": "Evolution Beast Token",
-        "number": 49,
+        "number": 51,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4188,7 +4560,7 @@
     },
     {
         "card_name": "Goblin Peon Token",
-        "number": 50,
+        "number": 52,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4196,7 +4568,7 @@
     },
     {
         "card_name": "Goblin Sorcerer Token",
-        "number": 51,
+        "number": 53,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4204,7 +4576,7 @@
     },
     {
         "card_name": "Goblin Thief Token",
-        "number": 52,
+        "number": 54,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4212,7 +4584,7 @@
     },
     {
         "card_name": "Imp Wizard Token",
-        "number": 53,
+        "number": 55,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4220,7 +4592,7 @@
     },
     {
         "card_name": "Pirate Corsair Token",
-        "number": 54,
+        "number": 56,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4228,7 +4600,7 @@
     },
     {
         "card_name": "Pirate Deckhand Token",
-        "number": 55,
+        "number": 57,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4236,7 +4608,7 @@
     },
     {
         "card_name": "Snow Balla Token",
-        "number": 56,
+        "number": 58,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4244,7 +4616,7 @@
     },
     {
         "card_name": "Vicious Bunny Token",
-        "number": 57,
+        "number": 59,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4252,15 +4624,31 @@
     },
     {
         "card_name": "Antlion Charger Token",
-        "number": 58,
+        "number": 60,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "491"
     },
     {
+        "card_name": "Bee Hive Token",
+        "number": 61,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "613"
+    },
+    {
+        "card_name": "Climbing Jungle Creeper Token",
+        "number": 62,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "610"
+    },
+    {
         "card_name": "Coin Slime Token",
-        "number": 59,
+        "number": 63,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4268,7 +4656,7 @@
     },
     {
         "card_name": "Everscream Token",
-        "number": 60,
+        "number": 64,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4276,7 +4664,7 @@
     },
     {
         "card_name": "Flinx Staff Token",
-        "number": 61,
+        "number": 65,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4284,7 +4672,7 @@
     },
     {
         "card_name": "Fungus Token",
-        "number": 62,
+        "number": 66,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4292,7 +4680,7 @@
     },
     {
         "card_name": "Insect Token",
-        "number": 63,
+        "number": 68,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4300,15 +4688,31 @@
     },
     {
         "card_name": "Insect Egg Token",
-        "number": 64,
+        "number": 69,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "387"
     },
     {
+        "card_name": "Jungle Derpling Token",
+        "number": 70,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "612"
+    },
+    {
+        "card_name": "Man Eater Token",
+        "number": 72,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "616"
+    },
+    {
         "card_name": "Ooze Token",
-        "number": 65,
+        "number": 73,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4316,7 +4720,7 @@
     },
     {
         "card_name": "Plant Token",
-        "number": 66,
+        "number": 74,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4324,15 +4728,23 @@
     },
     {
         "card_name": "Snowman Gangsta Token",
-        "number": 67,
+        "number": 75,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "390"
     },
     {
+        "card_name": "Spider Token",
+        "number": 76,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "609"
+    },
+    {
         "card_name": "Spitting Antlion Token",
-        "number": 68,
+        "number": 77,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4340,7 +4752,7 @@
     },
     {
         "card_name": "Splinterling Token",
-        "number": 69,
+        "number": 78,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4348,23 +4760,31 @@
     },
     {
         "card_name": "Wurm Token",
-        "number": 70,
-        "shape": "token",
-        "set": "TRA",
-        "rotated": false,
-        "position": "392"
-    },
-    {
-        "card_name": "Wurm Token",
-        "number": 71,
+        "number": 79,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "393"
     },
     {
+        "card_name": "Wurm Token",
+        "number": 80,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "392"
+    },
+    {
+        "card_name": "Andrew, Helpful Guide Token",
+        "number": 81,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "608"
+    },
+    {
         "card_name": "Blood Drippler Token",
-        "number": 73,
+        "number": 83,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4372,7 +4792,7 @@
     },
     {
         "card_name": "Bomb Rabbit Token",
-        "number": 74,
+        "number": 84,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4380,7 +4800,7 @@
     },
     {
         "card_name": "Brain of Cthulhu Token",
-        "number": 75,
+        "number": 85,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4388,7 +4808,7 @@
     },
     {
         "card_name": "Brain Suckler Token",
-        "number": 76,
+        "number": 86,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4396,7 +4816,7 @@
     },
     {
         "card_name": "Citizen Token",
-        "number": 77,
+        "number": 87,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4404,7 +4824,7 @@
     },
     {
         "card_name": "Cleric Token",
-        "number": 78,
+        "number": 88,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4412,7 +4832,7 @@
     },
     {
         "card_name": "Cleric Archer Ranger Token",
-        "number": 79,
+        "number": 89,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4420,7 +4840,7 @@
     },
     {
         "card_name": "Crawltipede Token",
-        "number": 80,
+        "number": 90,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4428,7 +4848,7 @@
     },
     {
         "card_name": "Dr. Man Fly Token",
-        "number": 82,
+        "number": 92,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4436,7 +4856,7 @@
     },
     {
         "card_name": "Drakomire Rider Token",
-        "number": 83,
+        "number": 93,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4444,7 +4864,7 @@
     },
     {
         "card_name": "Edmund, Town Merchant Token",
-        "number": 85,
+        "number": 95,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4452,7 +4872,7 @@
     },
     {
         "card_name": "The Empress of Light Token",
-        "number": 86,
+        "number": 96,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4460,7 +4880,7 @@
     },
     {
         "card_name": "Eye of Cthulhu Token",
-        "number": 87,
+        "number": 97,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4468,7 +4888,7 @@
     },
     {
         "card_name": "Frost Moon Elf Token",
-        "number": 90,
+        "number": 100,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4476,7 +4896,7 @@
     },
     {
         "card_name": "Frost Moon Yeti Token",
-        "number": 91,
+        "number": 101,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4484,7 +4904,7 @@
     },
     {
         "card_name": "Goblin Archer Token",
-        "number": 92,
+        "number": 102,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4492,7 +4912,7 @@
     },
     {
         "card_name": "Goblin Warrior Token",
-        "number": 93,
+        "number": 103,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4500,15 +4920,15 @@
     },
     {
         "card_name": "Horror Illusion Token",
-        "number": 94,
+        "number": 104,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "415"
     },
     {
-        "card_name": "Insect Token RG",
-        "number": 95,
+        "card_name": "Insect Token",
+        "number": 105,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4516,15 +4936,23 @@
     },
     {
         "card_name": "Jey, Young Angler Token",
-        "number": 96,
+        "number": 106,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "417"
     },
     {
+        "card_name": "Jungle Hornet Token",
+        "number": 107,
+        "shape": "token",
+        "set": "TRA",
+        "rotated": false,
+        "position": "611"
+    },
+    {
         "card_name": "Mourning Wood Token",
-        "number": 99,
+        "number": 110,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4532,7 +4960,7 @@
     },
     {
         "card_name": "Paladin's Gear Token",
-        "number": 100,
+        "number": 111,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4540,7 +4968,7 @@
     },
     {
         "card_name": "Pirate Crossbower Token",
-        "number": 102,
+        "number": 113,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4548,7 +4976,7 @@
     },
     {
         "card_name": "Pirate Deadeye Token",
-        "number": 103,
+        "number": 114,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4556,7 +4984,7 @@
     },
     {
         "card_name": "Pumpking Token",
-        "number": 106,
+        "number": 117,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4564,7 +4992,7 @@
     },
     {
         "card_name": "Pursuing Eye Token",
-        "number": 107,
+        "number": 118,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4572,7 +5000,7 @@
     },
     {
         "card_name": "Queen Bee Token",
-        "number": 108,
+        "number": 119,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4580,7 +5008,7 @@
     },
     {
         "card_name": "Selenian Token",
-        "number": 110,
+        "number": 121,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4588,7 +5016,7 @@
     },
     {
         "card_name": "Storm Diver Token",
-        "number": 113,
+        "number": 124,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4596,23 +5024,15 @@
     },
     {
         "card_name": "Swamp Thing Token",
-        "number": 114,
+        "number": 125,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
         "position": "435"
     },
     {
-        "card_name": "Treefolk Horror Token",
-        "number": 115,
-        "shape": "token",
-        "set": "TRA",
-        "rotated": false,
-        "position": "499"
-    },
-    {
         "card_name": "Wall of Flesh Token",
-        "number": 116,
+        "number": 126,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4620,7 +5040,7 @@
     },
     {
         "card_name": "Blood Zombie Token",
-        "number": 117,
+        "number": 127,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4628,7 +5048,7 @@
     },
     {
         "card_name": "King Slime Token",
-        "number": 120,
+        "number": 130,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4636,7 +5056,7 @@
     },
     {
         "card_name": "The Destroyer Token",
-        "number": 81,
+        "number": 91,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4644,7 +5064,7 @@
     },
     {
         "card_name": "Duke Fishron Token",
-        "number": 84,
+        "number": 94,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4652,7 +5072,7 @@
     },
     {
         "card_name": "Flow Invader Token",
-        "number": 88,
+        "number": 98,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4660,7 +5080,7 @@
     },
     {
         "card_name": "Flying Dutchman Token",
-        "number": 89,
+        "number": 99,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4668,7 +5088,7 @@
     },
     {
         "card_name": "The Lunatic Cultist Token",
-        "number": 97,
+        "number": 108,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4676,7 +5096,7 @@
     },
     {
         "card_name": "Mothron Token",
-        "number": 98,
+        "number": 109,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4684,7 +5104,7 @@
     },
     {
         "card_name": "Pirate Captain Token",
-        "number": 101,
+        "number": 112,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4692,7 +5112,7 @@
     },
     {
         "card_name": "Plantera, Jungle's Soul Token",
-        "number": 104,
+        "number": 115,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4700,7 +5120,7 @@
     },
     {
         "card_name": "Predictor Token",
-        "number": 105,
+        "number": 116,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4708,7 +5128,7 @@
     },
     {
         "card_name": "Retinazer and Spazmatism Token",
-        "number": 109,
+        "number": 120,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4716,7 +5136,7 @@
     },
     {
         "card_name": "Skeletron, Dungeon Guardian Token",
-        "number": 111,
+        "number": 122,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4724,7 +5144,7 @@
     },
     {
         "card_name": "Skeletron Prime Token",
-        "number": 112,
+        "number": 123,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4732,7 +5152,7 @@
     },
     {
         "card_name": "The Eater of Worlds Token",
-        "number": 118,
+        "number": 128,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4740,7 +5160,7 @@
     },
     {
         "card_name": "Excalibur Token",
-        "number": 119,
+        "number": 129,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4748,7 +5168,7 @@
     },
     {
         "card_name": "Night's Edge Token",
-        "number": 121,
+        "number": 131,
         "shape": "token",
         "set": "TRA",
         "rotated": false,
@@ -4782,7 +5202,7 @@
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "546"
+        "position": "545"
     },
     {
         "card_name": "Massacre Wurm",
@@ -4790,48 +5210,63 @@
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "551"
+        "position": "550"
     },
     {
-        "card_name": "Goblin Bombardment",
+        "card_name": "Pestilent Spirit",
         "number": 3,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "550"
+        "position": "559"
     },
     {
-        "card_name": "Random Encounter",
+        "card_name": "Blood Moon",
         "number": 4,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "560"
+    },
+    {
+        "card_name": "Goblin Bombardment",
+        "number": 5,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
         "position": "549"
     },
     {
-        "card_name": "Beastmaster Ascension",
-        "number": 5,
-        "shape": "normal",
-        "set": "TRA",
-        "rotated": false,
-        "position": "547"
-    },
-    {
-        "card_name": "Cultivator Colossus",
+        "card_name": "Random Encounter",
         "number": 6,
         "shape": "normal",
         "set": "TRA",
         "rotated": false,
-        "position": "552"
+        "position": "548"
     },
     {
-        "card_name": "e"
+        "card_name": "Beastmaster Ascension",
+        "number": 7,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "546"
     },
     {
-        "card_name": "e"
+        "card_name": "Cultivator Colossus",
+        "number": 8,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "551"
     },
     {
-        "card_name": "e"
+        "card_name": "Hornet Queen",
+        "number": 9,
+        "shape": "normal",
+        "set": "TRA",
+        "rotated": false,
+        "position": "561"
     },
     {
         "card_name": "e"
