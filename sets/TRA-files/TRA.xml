@@ -26,7 +26,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, first strike
-When Skeletron enters, if it's a token, it deals damage equal to its power to target creature.</text>
+When Skeletron enters, if it wasn't cast, it deals damage equal to its power to target creature.</text>
     </card>
     <card>
       <name>The Dungeon's Entrance</name>
@@ -1178,8 +1178,8 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       <set rarity="mythic" picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/The Stardust Pillar.png">TRA</set>
       <prop>
         <colors>WUG</colors>
-        <manacost>1GWU</manacost>
-        <cmc>4</cmc>
+        <manacost>2GWU</manacost>
+        <cmc>5</cmc>
         <type>Battle — Event  </type>
         <maintype>Battle</maintype>
         <loyalty>10</loyalty>
@@ -3845,7 +3845,7 @@ Draw a card.</text>
         <colors>UG</colors>
         <manacost>GU</manacost>
         <cmc>2</cmc>
-        <type>Legendary Artifact — Equipment </type>
+        <type>Artifact — Equipment </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
@@ -7499,8 +7499,8 @@ At the beginning of your end step, you may remove a defense counter from this Ev
       <set picurl="https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/The Stardust Pillar Token.png">TRA</set>
       <prop>
         <colors>WUG</colors>
-        <manacost>1GWU</manacost>
-        <cmc>4</cmc>
+        <manacost>2GWU</manacost>
+        <cmc>5</cmc>
         <type>Token Battle — Event  </type>
         <maintype>Battle</maintype>
         <loyalty>10</loyalty>
@@ -8316,7 +8316,7 @@ If noncombat damage would be dealt to this creature, prevent that damage. It dea
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, first strike
-When Skeletron enters, if it's a token, it deals damage equal to its power to target creature.</text>
+When Skeletron enters, if it wasn't cast, it deals damage equal to its power to target creature.</text>
       <token>1</token>
       <reverse-related>Clothier Voodoo Doll</reverse-related>
       <reverse-related>Old Man</reverse-related>

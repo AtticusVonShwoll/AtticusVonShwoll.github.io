@@ -7,7 +7,7 @@
 			"cmc": 3.0,
 			"power": "3",
 			"toughness": "4",
-			"oracle_text": "Flying, first strike\nWhen Skeletron enters, if it's a token, it deals damage equal to its power to target creature.",
+			"oracle_text": "Flying, first strike\nWhen Skeletron enters, if it wasn't cast, it deals damage equal to its power to target creature.",
 			"type": "Legendary Creature",
 			"subtypes": [
 			"Skeleton Boss"
@@ -23,7 +23,7 @@
 			"cmc": 3.0,
 			"power": "3",
 			"toughness": "4",
-			"oracle_text": "Flying, first strike\nWhen Skeletron enters, if it's a token, it deals damage equal to its power to target creature.",
+			"oracle_text": "Flying, first strike\nWhen Skeletron enters, if it wasn't cast, it deals damage equal to its power to target creature.",
 			"type": "Token Legendary Creature",
 			"subtypes": [
 			"Skeleton Boss"
@@ -1804,8 +1804,8 @@
 		{
 			"name": "The Stardust Pillar",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{W}{U}",
-			"cmc": 4,
+			"mana_cost": "{2}{G}{W}{U}",
+			"cmc": 5,
 			"loyalty": "10",
 			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.\n1–3 — Star Cell, 4–5 —Stargazer or 6 — Flow Invader.",
 			"type": "Battle",
@@ -1825,8 +1825,8 @@
 		},
 		{
 			"name": "The Stardust Pillar Token",
-			"mana_cost": "{1}{G}{W}{U}",
-			"cmc": 4,
+			"mana_cost": "{2}{G}{W}{U}",
+			"cmc": 5,
 			"loyalty": "10",
 			"oracle_text": "(Events are protected by you. When it leaves the battlefield, exile all tokens created with it that are creatures and/or Vehicles.)\nAt the beginning of your end step, you may remove a defense counter from this Event. If you do, roll a d6. Call upon the result.\n1–3 — Star Cell, 4–5 —Stargazer or 6 — Flow Invader.",
 			"type": "Token Battle",
@@ -3606,7 +3606,7 @@
 			],
 	  "set": "tra", "collector_number": "102",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Token/Andrew Helpful Guide Token.png"
+				"en": "https://raw.githubusercontent.com/AtticusVonShwoll/mse/main/TRA/Tokens/Andrew Helpful Guide Token.png"
 			},
 			"related_cards": [
 			"Treasure Token"
@@ -5838,7 +5838,7 @@
 			"mana_cost": "{G}{U}",
 			"cmc": 2,
 			"oracle_text": "Equipped creature has “Whenever this creature is dealt damage, create a 0/0 green Ooze creature token.” and “Ooze creatures you control get +1/+1.” and is an Ooze Noble in addition to its other types.\nEquip {3}\nEquip Ooze {G/U}",
-			"type": "Legendary Artifact",
+			"type": "Artifact",
 			"subtypes": [
 			"Equipment"
 			],
