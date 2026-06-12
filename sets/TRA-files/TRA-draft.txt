@@ -9313,7 +9313,7 @@
 			"Acidic Slime Token",
 			"Man Eater Token",
 			"Giant Jungle Tortoise Token",
-			"Plantera, Jungle's Soul Token",
+			"Plantera, Jungle's Soul Token"
 			]
 		},
 		{
