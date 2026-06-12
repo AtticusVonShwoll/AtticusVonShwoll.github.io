@@ -1,0 +1,134 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Troll Bombed",
+			"rarity": "common",
+			"mana_cost": "{2/R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/0.png"
+			}
+		},
+		{
+			"name": "The D6",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/1.png"
+			}
+		},
+		{
+			"name": "Isaac Moriah",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/2.png"
+			},
+			 "related_cards": [
+			"The D6"
+			]
+		},
+		{
+			"name": "Box of Friends",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/173.png"
+			}
+		},
+		{
+			"name": "Boss Rush",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/174.png"
+			}
+		},
+		{
+			"name": "Lilith, Motherly Demon",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/191.png"
+			},
+			 "related_cards": [
+			"Box of Friends"
+			]
+		},
+		{
+			"name": "D-Infinity",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/245.png"
+			},
+			 "related_cards": [
+			"Key Token"
+			]
+		},
+		{
+			"name": "Key Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Key",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/250.png"
+			}
+		},
+		{
+			"name": "Delirium",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Incarnation Boss",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/260.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 The D6
+	1 Isaac Moriah
+	2 Box of Friends
+	2 Boss Rush
+	1 Lilith, Motherly Demon
+	1 D-Infinity
+	1 Delirium
+[uncommon(3)]
+[common(6)]
+	8 Troll Bombed
+[common | masterpiece(1)]
+	8 Troll Bombed
+[foil(1)]
+	12 Troll Bombed
+	2 The D6
+	1 Isaac Moriah
+	2 Box of Friends
+	2 Boss Rush
+	1 Lilith, Motherly Demon
+	1 D-Infinity
+	1 Delirium
+[wildcard(1)]
+	6 Troll Bombed
+	7 The D6
+	4 Isaac Moriah
+	7 Box of Friends
+	7 Boss Rush
+	4 Lilith, Motherly Demon
+	4 D-Infinity
+	4 Delirium

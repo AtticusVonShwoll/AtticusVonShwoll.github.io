@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TBI</name>
+      <longname>The Binding of Isaac</longname>
+      <settype>Custom</settype>
+      <releasedate>2026-06-11</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Troll Bombed</name>
+      <text>Troll Bombed deals 2 damage to any target.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/0.png" num="135">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <manacost>2/R</manacost>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>The D6</name>
+      <text>{T}: The next time target player would roll one or more dice this turn, instead they roll that many dice plus one and you choose one of those rolls to ignore.
+{2}, {T}, Discard a card: Draw a card.
+{4}, {T}, Discard an artifact card: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/1.png" num="249">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Isaac Moriah</name>
+      <text>Starting item—The D6 (When this creature enters, you may search your library and/or graveyard for The D6. If you searched your library this way, shuffle.)
+Whenever an artifact you control enters, put a +1/+1 counter on Isaac. This ability only triggers once each turn.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/2.png" num="154">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Survivor</type>
+        <maintype>Creature</maintype>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Box of Friends</name>
+      <text>{T}: Populate. The token created this way gains haste. Sacrifice it at the beginning of the next end step. (To populate, create a token that's a copy of a creature token you control.)
+{5}{R}, {T}: For each creature token you control, create a token that's a copy of it. Each token created this way gains haste. Sacrifice them at the beginning of the next end step.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/173.png" num="156">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Boss Rush</name>
+      <text>Whenever you cast a Boss spell, reveal cards from the top of your library until you reveal a Boss card. Put that card into your hand and the rest on the bottom of your library in a random order.
+Boss spells you cast cost {3} less to cast.
+At the beginning of the end step, sacrifice this enchantment.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/174.png" num="157" uuid="d1c75eee-6f91-4fc7-932a-8a83df9576bd">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Lilith, Motherly Demon</name>
+      <text>Starting item—Box of Friends
+When Lilith enters, create a 1/1 black Demon creature token.
+{BR}, {T}: Another target creature you control gets +X/+0 until end of turn, where X is the number of Demons you control.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/191.png" num="115">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Demon</type>
+        <maintype>Creature</maintype>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <coloridentity>BR</coloridentity>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>D-Infinity</name>
+      <text>{4}, {T}: Choose one, X is the result of the die rolled.
+• Roll a d4. You draw X cards.
+• Roll a d6. You create X Key tokens.
+• Roll a d8. You create X Treasure tokens.
+• Roll a d10. Put X +1/+1 counters on a creature you control.
+• Roll a d12. You gain X life.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/245.png" num="248">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+      <token>Key Token</token>
+    </card>
+    <card>
+      <name>Key TBI</name>
+      <text>{T}, Sacrifice this artifact: Tap or untap target nonland permanent. Activate only as a sorcery.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/250.png" num="1">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Token Artifact — Key</type>
+        <maintype>Artifact</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Delirium</name>
+      <text>As Delirium enters or attacks, exile a creature card from a graveyard with a memory counter on it. Then it becomes a copy of a random creature card in exile with a memory counter on it except it's 7/7, is a Boss in addition to its other types, and has this ability.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/260.png" num="222">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>3UBR</manacost>
+        <cmc>6</cmc>
+        <colors>UBR</colors>
+        <coloridentity>UBR</coloridentity>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

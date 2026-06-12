@@ -1,0 +1,208 @@
+﻿[
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lilith, Motherly Demon",
+        "number": 115,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "Isaac Moriah",
+        "number": 154,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Box of Friends",
+        "number": 156,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Boss Rush",
+        "number": 157,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Troll Bombed",
+        "number": 135,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Delirium",
+        "number": 222,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "260"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "D-Infinity",
+        "number": 248,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "The D6",
+        "number": 249,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Key Token",
+        "number": 1,
+        "shape": "token",
+        "set": "TBI",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

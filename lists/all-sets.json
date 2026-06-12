@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "TBI",
+            "set_name": "The Binding of Isaac",
+            "formats": ""
+        },
+        {
             "set_code": "TRA",
             "set_name": "An Exploration of Terraria",
             "formats": ""
