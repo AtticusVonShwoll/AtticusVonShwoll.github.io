@@ -149,7 +149,7 @@ When Lilith enters, create a 1/1 black Demon creature token.
       <token>1</token>
     </card>
     <card>
-      <name>Delirium</name>
+      <name>Delirium of Memories</name>
       <text>As Delirium enters or attacks, exile a creature card from a graveyard with a memory counter on it. Then it becomes a copy of a random creature card in exile with a memory counter on it except it's 7/7, is a Boss in addition to its other types, and has this ability.</text>
       <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/260.png" num="222">TBI</set>
       <prop>

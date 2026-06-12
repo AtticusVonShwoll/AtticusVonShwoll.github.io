@@ -90,7 +90,7 @@
 			}
 		},
 		{
-			"name": "Delirium",
+			"name": "Delirium of Memories",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Creature — Incarnation Boss",
@@ -108,7 +108,7 @@
 	2 Boss Rush
 	1 Lilith, Motherly Demon
 	1 D-Infinity
-	1 Delirium
+	1 Delirium of Memories
 [uncommon(3)]
 [common(6)]
 	8 Troll Bombed
@@ -122,7 +122,7 @@
 	2 Boss Rush
 	1 Lilith, Motherly Demon
 	1 D-Infinity
-	1 Delirium
+	1 Delirium of Memories
 [wildcard(1)]
 	6 Troll Bombed
 	7 The D6
@@ -131,4 +131,4 @@
 	7 Boss Rush
 	4 Lilith, Motherly Demon
 	4 D-Infinity
-	4 Delirium
+	4 Delirium of Memories
