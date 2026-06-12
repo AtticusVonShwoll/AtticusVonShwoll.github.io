@@ -134,7 +134,7 @@ When Lilith enters, create a 1/1 black Demon creature token.
       <token>Key Token</token>
     </card>
     <card>
-      <name>Key TBI</name>
+      <name>Key Token</name>
       <text>{T}, Sacrifice this artifact: Tap or untap target nonland permanent. Activate only as a sorcery.</text>
       <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/250.png" num="1">TBI</set>
       <prop>
