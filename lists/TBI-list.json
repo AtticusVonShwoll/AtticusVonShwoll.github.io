@@ -1,13 +1,23 @@
 ﻿[
     {
-        "card_name": "e"
+        "card_name": "The Bible",
+        "number": 38,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "152"
     },
     {
-        "card_name": "e"
+        "card_name": "The Broken",
+        "number": 75,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "189"
     },
     {
         "card_name": "Lilith, Motherly Demon",
-        "number": 115,
+        "number": 114,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -15,14 +25,46 @@
     },
     {
         "card_name": "Isaac Moriah",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "2"
     },
     {
+        "card_name": "Oh Crap",
+        "number": 201,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "141"
+    },
+    {
         "card_name": "e"
+    },
+    {
+        "card_name": "Dople",
+        "number": 77,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Satan",
+        "number": 115,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "Boss Rush",
+        "number": 155,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "174"
     },
     {
         "card_name": "e"
@@ -31,7 +73,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Bookworm",
+        "number": 78,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "Curse of Tiny Hands",
+        "number": 116,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "166"
     },
     {
         "card_name": "Box of Friends",
@@ -48,18 +103,28 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Key Master",
+        "number": 85,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "23"
     },
     {
-        "card_name": "e"
+        "card_name": "Book of the Dead",
+        "number": 117,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "167"
     },
     {
-        "card_name": "Boss Rush",
+        "card_name": "Spindown Dice",
         "number": 157,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "174"
+        "position": "175"
     },
     {
         "card_name": "e"
@@ -68,18 +133,101 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "I Can See Forever",
+        "number": 56,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "22"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Troll Bombed",
-        "number": 135,
+        "number": 134,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Evil Twin",
+        "number": 232,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "Hornfel",
+        "number": 242,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Baby Plum, Fly Friend",
+        "number": 241,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Lazarus, the Returning",
+        "number": 222,
+        "shape": "transform double faced",
+        "set": "TBI",
+        "rotated": false,
+        "position": "257"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -101,11 +249,11 @@
     },
     {
         "card_name": "Delirium of Memories",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "260"
+        "position": "259"
     },
     {
         "card_name": "e"
@@ -138,7 +286,7 @@
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "245"
+        "position": "244"
     },
     {
         "card_name": "The D6",
@@ -149,10 +297,20 @@
         "position": "1"
     },
     {
-        "card_name": "e"
+        "card_name": "Lazarus' Rags",
+        "number": 250,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "237"
     },
     {
-        "card_name": "e"
+        "card_name": "A Sack!",
+        "number": 11,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "225"
     },
     {
         "card_name": "e"
@@ -171,18 +329,28 @@
     },
     "a->token",
     {
+        "card_name": "Battery Token",
+        "number": 2,
+        "shape": "token",
+        "set": "TBI",
+        "rotated": false,
+        "position": "262"
+    },
+    {
         "card_name": "Key Token",
+        "number": 3,
+        "shape": "token",
+        "set": "TBI",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "Demon Minion Token",
         "number": 1,
         "shape": "token",
         "set": "TBI",
         "rotated": false,
-        "position": "250"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "position": "261"
     },
     {
         "card_name": "e"

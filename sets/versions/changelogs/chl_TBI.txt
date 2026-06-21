@@ -1,4 +1,55 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CU01—I Can See Forever added.
+UU02—Key Master added.
+RU01—Dople added.
+UG01—Oh Crap added.
+RW01—The Bible added.
+RU02—Bookworm added.
+RB01—Curse of Tiny Hands added.
+RB02—Book of the Dead added.
+RR02—Box of Friends added.
+RR01—Boss Rush added.
+RR03—Spindown Dice added.
+MU01—The Broken added.
+MB02—Satan added.
+UM01—Hornfel added.
+UM01—Baby Plum, Fly Friend added.
+RM01—Evil Twin added.
+UC01—A Sack! added.
+RA02—Lazarus' Rags added.
+MA01—D-Infinity added.
+MM01—Lazarus, the Returning added.
+MM01—Delirium of Memories added.
+Demon Minion added.
+Battery added.
+
+RR01—Box of Friends removed.
+RR02—Boss Rush removed.
+MX01—D-Infinity removed.
+MM01—Delirium removed.
+
+CR01—Troll Bombed
+
+RA01—The D6
+
+MR01—Isaac Moriah
+rules_text: Starting item—The D6 [i](When this creature enters, you may search your library and/or graveyard for The D6. If you searched your library this way, shuffle.)[/i]
+Whenever an artifact you control enters, put a +1/+1 counter on Isaac. This ability only triggers once each turn. => Starting item—The D6 [i](When this creature enters, you may search your library and/or graveyard for The D6 and put it into your hand. If you searched your library this way, shuffle.)[/i]
+Whenever an artifact you control enters, put a +1/+1 counter on Isaac. This ability only triggers once each turn.
+
+MB01—Lilith, Motherly Demon
+rules_text: Starting item—Box of Friends
+When Lilith enters, create a 1/1 black Demon creature token.
+{BR}, {T}: Another target creature you control gets +X/+0 until end of turn, where X is the number of Demons you control. => Starting item—Box of Friends
+When Lilith enters, create a 1/1 black Demon Minion creature token.
+{BR}, {T}: Another target creature you control gets +X/+0 until end of turn, where X is the number of Demons you control.
+
+Key
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

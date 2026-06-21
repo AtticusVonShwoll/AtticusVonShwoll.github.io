@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/0.png"
 			}
@@ -25,13 +25,90 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Survivor",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/2.png"
-			},
-			 "related_cards": [
-			"The D6"
-			]
+			}
+		},
+		{
+			"name": "I Can See Forever",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/22.png"
+			}
+		},
+		{
+			"name": "Key Master",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/23.png"
+			}
+		},
+		{
+			"name": "Dople",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/108.png"
+			}
+		},
+		{
+			"name": "Oh Crap",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Enchantment — Aura Ooze",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/141.png"
+			}
+		},
+		{
+			"name": "The Bible",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact — Book",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/152.png"
+			}
+		},
+		{
+			"name": "Bookworm",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/160.png"
+			}
+		},
+		{
+			"name": "Curse of Tiny Hands",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/166.png"
+			}
+		},
+		{
+			"name": "Book of the Dead",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact — Book",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/167.png"
+			}
 		},
 		{
 			"name": "Box of Friends",
@@ -48,9 +125,29 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "157",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/174.png"
+			}
+		},
+		{
+			"name": "Spindown Dice",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/175.png"
+			}
+		},
+		{
+			"name": "The Broken",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Reflection",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/189.png"
 			}
 		},
 		{
@@ -58,13 +155,70 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/191.png"
-			},
-			 "related_cards": [
-			"Box of Friends"
-			]
+			}
+		},
+		{
+			"name": "Satan",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Demon Boss",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/192.png"
+			}
+		},
+		{
+			"name": "Hornfel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Demon Boss",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/198.png"
+			}
+		},
+		{
+			"name": "Baby Plum, Fly Friend",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Insect Boss",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/200.png"
+			}
+		},
+		{
+			"name": "Evil Twin",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/207.png"
+			}
+		},
+		{
+			"name": "A Sack!",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/225.png"
+			}
+		},
+		{
+			"name": "Lazarus' Rags",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/237.png"
+			}
 		},
 		{
 			"name": "D-Infinity",
@@ -73,20 +227,34 @@
 			"type": "Legendary Artifact",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/245.png"
-			},
-			 "related_cards": [
-			"Key Token"
-			]
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/244.png"
+			}
 		},
 		{
 			"name": "Key Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Key",
-			"collector_number": "1",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/250.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/249.png"
+			}
+		},
+		{
+			"name": "Lazarus, the Returning",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "222",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/257_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/257_front.png"
 			}
 		},
 		{
@@ -94,9 +262,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Creature — Incarnation Boss",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/260.png"
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/259.png"
+			}
+		},
+		{
+			"name": "Demon Minion Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon Minion",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/261.png"
+			}
+		},
+		{
+			"name": "Battery Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Battery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/262.png"
 			}
 		}
 	]
@@ -104,31 +292,83 @@
 [rare(1)]
 	2 The D6
 	1 Isaac Moriah
+	2 Dople
+	2 The Bible
+	2 Bookworm
+	2 Curse of Tiny Hands
+	2 Book of the Dead
 	2 Box of Friends
 	2 Boss Rush
+	2 Spindown Dice
+	1 The Broken
 	1 Lilith, Motherly Demon
+	1 Satan
+	2 Evil Twin
+	2 Lazarus' Rags
 	1 D-Infinity
+	1 Lazarus, the Returning
 	1 Delirium of Memories
 [uncommon(3)]
+	4 Key Master
+	4 Oh Crap
+	4 Hornfel
+	4 Baby Plum, Fly Friend
+	4 A Sack!
 [common(6)]
 	8 Troll Bombed
+	8 I Can See Forever
 [common | masterpiece(1)]
 	8 Troll Bombed
+	8 I Can See Forever
 [foil(1)]
 	12 Troll Bombed
 	2 The D6
 	1 Isaac Moriah
+	12 I Can See Forever
+	6 Key Master
+	2 Dople
+	6 Oh Crap
+	2 The Bible
+	2 Bookworm
+	2 Curse of Tiny Hands
+	2 Book of the Dead
 	2 Box of Friends
 	2 Boss Rush
+	2 Spindown Dice
+	1 The Broken
 	1 Lilith, Motherly Demon
+	1 Satan
+	6 Hornfel
+	6 Baby Plum, Fly Friend
+	2 Evil Twin
+	6 A Sack!
+	2 Lazarus' Rags
 	1 D-Infinity
+	1 Lazarus, the Returning
 	1 Delirium of Memories
 [wildcard(1)]
 	6 Troll Bombed
 	7 The D6
 	4 Isaac Moriah
+	6 I Can See Forever
+	15 Key Master
+	7 Dople
+	15 Oh Crap
+	7 The Bible
+	7 Bookworm
+	7 Curse of Tiny Hands
+	7 Book of the Dead
 	7 Box of Friends
 	7 Boss Rush
+	7 Spindown Dice
+	4 The Broken
 	4 Lilith, Motherly Demon
+	4 Satan
+	15 Hornfel
+	15 Baby Plum, Fly Friend
+	7 Evil Twin
+	15 A Sack!
+	7 Lazarus' Rags
 	4 D-Infinity
+	4 Lazarus, the Returning
 	4 Delirium of Memories

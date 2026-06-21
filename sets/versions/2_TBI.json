@@ -8,7 +8,7 @@
     "v_mana": "",
     "cards": [
         {
-            "card_name": "Troll Bombed",
+            "card_name": "CR01\u2014Troll Bombed",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
@@ -29,7 +29,7 @@
             "notes": ""
         },
         {
-            "card_name": "The D6",
+            "card_name": "RA01\u2014The D6",
             "color": "",
             "rarity": "rare",
             "type": "Legendary Artifact",
@@ -50,7 +50,7 @@
             "notes": ""
         },
         {
-            "card_name": "Isaac Moriah",
+            "card_name": "MR01\u2014Isaac Moriah",
             "color": "R",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Survivor",
@@ -71,7 +71,7 @@
             "notes": ""
         },
         {
-            "card_name": "I Can See Forever",
+            "card_name": "CU01\u2014I Can See Forever",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
@@ -92,7 +92,7 @@
             "notes": ""
         },
         {
-            "card_name": "Key Master",
+            "card_name": "UU02\u2014Key Master",
             "color": "U",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Golem",
@@ -113,7 +113,7 @@
             "notes": ""
         },
         {
-            "card_name": "Dople",
+            "card_name": "RU01\u2014Dople",
             "color": "U",
             "rarity": "rare",
             "type": "Creature \u2014 Shapeshifter",
@@ -134,7 +134,7 @@
             "notes": ""
         },
         {
-            "card_name": "Oh Crap",
+            "card_name": "UG01\u2014Oh Crap",
             "color": "G",
             "rarity": "uncommon",
             "type": "Kindred Enchantment \u2014 Aura Ooze",
@@ -155,7 +155,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Bible",
+            "card_name": "RW01\u2014The Bible",
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Artifact \u2014 Book",
@@ -176,7 +176,7 @@
             "notes": ""
         },
         {
-            "card_name": "Bookworm",
+            "card_name": "RU02\u2014Bookworm",
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
@@ -197,7 +197,7 @@
             "notes": ""
         },
         {
-            "card_name": "Curse of Tiny Hands",
+            "card_name": "RB01\u2014Curse of Tiny Hands",
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura Curse",
@@ -218,7 +218,7 @@
             "notes": ""
         },
         {
-            "card_name": "Book of the Dead",
+            "card_name": "RB02\u2014Book of the Dead",
             "color": "B",
             "rarity": "rare",
             "type": "Artifact \u2014 Book",
@@ -239,7 +239,7 @@
             "notes": ""
         },
         {
-            "card_name": "Box of Friends",
+            "card_name": "RR02\u2014Box of Friends",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Artifact",
@@ -260,7 +260,7 @@
             "notes": ""
         },
         {
-            "card_name": "Boss Rush",
+            "card_name": "RR01\u2014Boss Rush",
             "color": "R",
             "rarity": "rare",
             "type": "Enchantment",
@@ -281,7 +281,7 @@
             "notes": ""
         },
         {
-            "card_name": "Spindown Dice",
+            "card_name": "RR03\u2014Spindown Dice",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Artifact",
@@ -302,7 +302,7 @@
             "notes": ""
         },
         {
-            "card_name": "The Broken",
+            "card_name": "MU01\u2014The Broken",
             "color": "U",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Reflection",
@@ -323,7 +323,7 @@
             "notes": ""
         },
         {
-            "card_name": "Lilith, Motherly Demon",
+            "card_name": "MB01\u2014Lilith, Motherly Demon",
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Demon",
@@ -344,7 +344,7 @@
             "notes": ""
         },
         {
-            "card_name": "Satan",
+            "card_name": "MB02\u2014Satan",
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Demon Boss",
@@ -365,7 +365,7 @@
             "notes": ""
         },
         {
-            "card_name": "Hornfel",
+            "card_name": "UM01\u2014Hornfel",
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Demon Boss",
@@ -386,7 +386,7 @@
             "notes": ""
         },
         {
-            "card_name": "Baby Plum, Fly Friend",
+            "card_name": "UM01\u2014Baby Plum, Fly Friend",
             "color": "WG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Insect Boss",
@@ -407,7 +407,7 @@
             "notes": ""
         },
         {
-            "card_name": "Evil Twin",
+            "card_name": "RM01\u2014Evil Twin",
             "color": "UB",
             "rarity": "rare",
             "type": "Creature \u2014 Shapeshifter",
@@ -428,7 +428,7 @@
             "notes": ""
         },
         {
-            "card_name": "A Sack!",
+            "card_name": "UC01\u2014A Sack!",
             "color": "",
             "rarity": "uncommon",
             "type": "Sorcery",
@@ -449,7 +449,7 @@
             "notes": ""
         },
         {
-            "card_name": "Lazarus' Rags",
+            "card_name": "RA02\u2014Lazarus' Rags",
             "color": "",
             "rarity": "rare",
             "type": "Legendary Artifact",
@@ -470,7 +470,7 @@
             "notes": ""
         },
         {
-            "card_name": "D-Infinity",
+            "card_name": "MA01\u2014D-Infinity",
             "color": "",
             "rarity": "mythic",
             "type": "Legendary Artifact",
@@ -491,7 +491,7 @@
             "notes": ""
         },
         {
-            "card_name": "Key Token",
+            "card_name": "Key",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Key",
@@ -512,7 +512,7 @@
             "notes": ""
         },
         {
-            "card_name": "Lazarus, the Returning",
+            "card_name": "MM01\u2014Lazarus, the Returning",
             "color": "WB",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Survivor",
@@ -545,7 +545,7 @@
             "notes": ""
         },
         {
-            "card_name": "Delirium of Memories",
+            "card_name": "MM01\u2014Delirium of Memories",
             "color": "UBR",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Incarnation Boss",
@@ -566,7 +566,7 @@
             "notes": ""
         },
         {
-            "card_name": "Demon Minion Token",
+            "card_name": "Demon Minion",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Demon Minion",
@@ -587,7 +587,7 @@
             "notes": ""
         },
         {
-            "card_name": "Battery Token",
+            "card_name": "Battery",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Battery",
@@ -607,6 +607,5 @@
             "rotated": false,
             "notes": ""
         }
-    ],
-    "version": 2
+    ]
 }
