@@ -181,7 +181,7 @@
 			}
 		},
 		{
-			"name": "Rag Man",
+			"name": "Rag Man, Psychic Mummy",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Zombie Boss",
