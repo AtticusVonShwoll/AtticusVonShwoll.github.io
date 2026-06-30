@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}",
 			"type": "Instant",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/0.png"
 			}
@@ -25,9 +25,39 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human Survivor",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/2.png"
+			}
+		},
+		{
+			"name": "Soul Heart",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/3.png"
+			}
+		},
+		{
+			"name": "The Stars Are Calling",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/4.png"
+			}
+		},
+		{
+			"name": "Seraphim",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Angel",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/5.png"
 			}
 		},
 		{
@@ -35,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/22.png"
 			}
@@ -45,9 +75,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/23.png"
+			}
+		},
+		{
+			"name": "Big Score",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/60.png"
+			}
+		},
+		{
+			"name": "Clutch, Haunter of Bone",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Spirit Boss",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/97.png"
 			}
 		},
 		{
@@ -55,9 +105,39 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/108.png"
+			}
+		},
+		{
+			"name": "XXI. The World",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/109.png"
+			}
+		},
+		{
+			"name": "Butter Bean",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/110.png"
+			}
+		},
+		{
+			"name": "The Siren",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Siren Demon Boss",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/119.png"
 			}
 		},
 		{
@@ -65,7 +145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Kindred Enchantment — Aura Ooze",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/141.png"
 			}
@@ -75,9 +155,39 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Artifact — Book",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/152.png"
+			}
+		},
+		{
+			"name": "Yum Heart",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/153.png"
+			}
+		},
+		{
+			"name": "Book of Virtues",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Book",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/154.png"
+			}
+		},
+		{
+			"name": "Rag Man",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Zombie Boss",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/159.png"
 			}
 		},
 		{
@@ -85,7 +195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/160.png"
 			}
@@ -95,7 +205,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment — Aura Curse",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/166.png"
 			}
@@ -105,7 +215,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact — Book",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/167.png"
 			}
@@ -115,7 +225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/173.png"
 			}
@@ -125,7 +235,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/174.png"
 			}
@@ -135,9 +245,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Artifact",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/175.png"
+			}
+		},
+		{
+			"name": "Isaac, Sacrificed Child",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Angel Boss",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/187.png"
+			}
+		},
+		{
+			"name": "Bethany, the Virtuous",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/188.png"
 			}
 		},
 		{
@@ -145,7 +275,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Reflection",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/189.png"
 			}
@@ -155,7 +285,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/191.png"
 			}
@@ -165,19 +295,49 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}{B}{B}{B}{B}",
 			"type": "Legendary Creature — Demon Boss",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/192.png"
 			}
 		},
 		{
-			"name": "Hornfel",
+			"name": "The Rainmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Spirit Boss",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/196.png"
+			}
+		},
+		{
+			"name": "Steven",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Shade Boss",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/197.png"
+			}
+		},
+		{
+			"name": "Hornfel, Explosive Twin",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Demon Boss",
-			"collector_number": "242",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/198.png"
+			}
+		},
+		{
+			"name": "Bumbino, Big Baby",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Giant Boss",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/199.png"
 			}
 		},
 		{
@@ -185,9 +345,59 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Insect Boss",
-			"collector_number": "241",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/200.png"
+			}
+		},
+		{
+			"name": "The Haunt",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Spirit Boss",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/201.png"
+			}
+		},
+		{
+			"name": "The Gurglings",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Horror Boss",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/202.png"
+			}
+		},
+		{
+			"name": "Widow",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Spider Horror Boss",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/203.png"
+			}
+		},
+		{
+			"name": "The Headless Horseman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Avatar Boss",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/204.png"
+			}
+		},
+		{
+			"name": "Larry Jr.",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Worm Boss",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/205.png"
 			}
 		},
 		{
@@ -195,9 +405,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/207.png"
+			}
+		},
+		{
+			"name": "Magdelene, the Healthy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/210.png"
+			}
+		},
+		{
+			"name": "Angelic Armaments",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/221.png"
 			}
 		},
 		{
@@ -208,6 +438,16 @@
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/225.png"
+			}
+		},
+		{
+			"name": "Flesh Maiden",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/232.png"
 			}
 		},
 		{
@@ -241,11 +481,21 @@
 			}
 		},
 		{
+			"name": "All Alone",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/254.png"
+			}
+		},
+		{
 			"name": "Lazarus, the Returning",
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Human Survivor",
-			"collector_number": "222",
+			"collector_number": "220",
 			"back": {
 				"name": "",
 				"type": "",
@@ -262,7 +512,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Creature — Incarnation Boss",
-			"collector_number": "221",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://AtticusVonShwoll.github.io/sets/TBI-files/img/259.png"
 			}
@@ -294,81 +544,162 @@
 	1 Isaac Moriah
 	2 Dople
 	2 The Bible
+	2 Yum Heart
+	2 Book of Virtues
 	2 Bookworm
 	2 Curse of Tiny Hands
 	2 Book of the Dead
 	2 Box of Friends
 	2 Boss Rush
 	2 Spindown Dice
+	2 Isaac, Sacrificed Child
+	1 Bethany, the Virtuous
 	1 The Broken
 	1 Lilith, Motherly Demon
 	1 Satan
 	2 Evil Twin
+	1 Magdelene, the Healthy
 	2 Lazarus' Rags
 	1 D-Infinity
+	1 All Alone
 	1 Lazarus, the Returning
 	1 Delirium of Memories
 [uncommon(3)]
 	4 Key Master
+	4 Clutch, Haunter of Bone
+	4 Butter Bean
+	4 The Siren
 	4 Oh Crap
-	4 Hornfel
+	4 Rag Man
+	4 The Rainmaker
+	4 Steven
+	4 Hornfel, Explosive Twin
+	4 Bumbino, Big Baby
 	4 Baby Plum, Fly Friend
+	4 The Haunt
+	4 The Gurglings
+	4 Widow
+	4 The Headless Horseman
+	4 Larry Jr.
+	4 Angelic Armaments
 	4 A Sack!
 [common(6)]
 	8 Troll Bombed
+	8 Soul Heart
+	8 The Stars Are Calling
+	8 Seraphim
 	8 I Can See Forever
+	8 Big Score
+	8 XXI. The World
+	8 Flesh Maiden
 [common | masterpiece(1)]
 	8 Troll Bombed
+	8 Soul Heart
+	8 The Stars Are Calling
+	8 Seraphim
 	8 I Can See Forever
+	8 Big Score
+	8 XXI. The World
+	8 Flesh Maiden
 [foil(1)]
 	12 Troll Bombed
 	2 The D6
 	1 Isaac Moriah
+	12 Soul Heart
+	12 The Stars Are Calling
+	12 Seraphim
 	12 I Can See Forever
 	6 Key Master
+	12 Big Score
+	6 Clutch, Haunter of Bone
 	2 Dople
+	12 XXI. The World
+	6 Butter Bean
+	6 The Siren
 	6 Oh Crap
 	2 The Bible
+	2 Yum Heart
+	2 Book of Virtues
+	6 Rag Man
 	2 Bookworm
 	2 Curse of Tiny Hands
 	2 Book of the Dead
 	2 Box of Friends
 	2 Boss Rush
 	2 Spindown Dice
+	2 Isaac, Sacrificed Child
+	1 Bethany, the Virtuous
 	1 The Broken
 	1 Lilith, Motherly Demon
 	1 Satan
-	6 Hornfel
+	6 The Rainmaker
+	6 Steven
+	6 Hornfel, Explosive Twin
+	6 Bumbino, Big Baby
 	6 Baby Plum, Fly Friend
+	6 The Haunt
+	6 The Gurglings
+	6 Widow
+	6 The Headless Horseman
+	6 Larry Jr.
 	2 Evil Twin
+	1 Magdelene, the Healthy
+	6 Angelic Armaments
 	6 A Sack!
+	12 Flesh Maiden
 	2 Lazarus' Rags
 	1 D-Infinity
+	1 All Alone
 	1 Lazarus, the Returning
 	1 Delirium of Memories
 [wildcard(1)]
 	6 Troll Bombed
 	7 The D6
 	4 Isaac Moriah
+	6 Soul Heart
+	6 The Stars Are Calling
+	6 Seraphim
 	6 I Can See Forever
 	15 Key Master
+	6 Big Score
+	15 Clutch, Haunter of Bone
 	7 Dople
+	6 XXI. The World
+	15 Butter Bean
+	15 The Siren
 	15 Oh Crap
 	7 The Bible
+	7 Yum Heart
+	7 Book of Virtues
+	15 Rag Man
 	7 Bookworm
 	7 Curse of Tiny Hands
 	7 Book of the Dead
 	7 Box of Friends
 	7 Boss Rush
 	7 Spindown Dice
+	7 Isaac, Sacrificed Child
+	4 Bethany, the Virtuous
 	4 The Broken
 	4 Lilith, Motherly Demon
 	4 Satan
-	15 Hornfel
+	15 The Rainmaker
+	15 Steven
+	15 Hornfel, Explosive Twin
+	15 Bumbino, Big Baby
 	15 Baby Plum, Fly Friend
+	15 The Haunt
+	15 The Gurglings
+	15 Widow
+	15 The Headless Horseman
+	15 Larry Jr.
 	7 Evil Twin
+	4 Magdelene, the Healthy
+	15 Angelic Armaments
 	15 A Sack!
+	6 Flesh Maiden
 	7 Lazarus' Rags
 	4 D-Infinity
+	4 All Alone
 	4 Lazarus, the Returning
 	4 Delirium of Memories

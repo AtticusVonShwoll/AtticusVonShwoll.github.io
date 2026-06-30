@@ -1,4 +1,45 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CW01—Soul Heart added.
+CW02—The Stars Are Calling added.
+CW03—Seraphim added.
+CR02—Big Score added.
+UW01—Clutch, Haunter of Bone added.
+CU02—XXI. The World added.
+UU03—Butter Bean added.
+UB01—The Siren added.
+RW02—Yum Heart added.
+RW03—Book of Virtues added.
+UU01—Rag Man added.
+RM01—Isaac, Sacrificed Child added.
+MW02—Bethany, the Virtuous added.
+UM01—The Rainmaker added.
+UM01—Steven added.
+UM01—Hornfel, Explosive Twin added.
+UM01—Bumbino, Big Baby added.
+UM01—The Haunt added.
+UM01—The Gurglings added.
+UM01—Widow added.
+UM01—The Headless Horseman added.
+UM01—Larry Jr. added.
+MM01—Magdelene, the Healthy added.
+UA01—Angelic Armaments added.
+UX01—A Sack! added.
+CC01—Flesh Maiden added.
+Key Token added.
+MW01—All Alone added.
+Demon Minion Token added.
+Battery Token added.
+
+UM01—Hornfel removed.
+UC01—A Sack! removed.
+Key removed.
+Demon Minion removed.
+Battery removed.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CU01—I Can See Forever added.
