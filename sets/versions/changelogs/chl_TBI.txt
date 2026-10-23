@@ -1,4 +1,117 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CW04—The Duke of Flies added.
+CW05—Charmed Greedling added.
+CW06—O. The Fool added.
+CW07—IV. The Emperor added.
+CW08—V. The Hierophant added.
+CW09—VI. The Lovers added.
+CW10—VIII. Justice added.
+CW11—XIV. Temperance added.
+CW12—XIX. The Sun added.
+CU03—Thought Scour added.
+CU04—Gemini, Heteropagus Twins added.
+CU05—II. The High Priestess added.
+CU06—XVIII. The Moon added.
+CB01—The Fallen, Demonic Angel added.
+CB02—We Need To Go Deeper added.
+CB03—Eyeless Gaper added.
+CB04—Black Heart added.
+CB05—XII. The Hanged Man added.
+CB06—XIII. Death added.
+CB07—XV. The Devil added.
+CR03—Pin, Bombarding Worm added.
+CR04—Mulliboom added.
+CR05—Corny Dip added.
+CR06—Greedling added.
+CR07—I. The Magician added.
+CR08—IX. The Hermit added.
+CR09—X. Wheel of Fortune added.
+CR10—XVI. The Tower added.
+CR11—XVII. The Stars added.
+CG01—Monstro added.
+CG02—Squirt added.
+CG03—Charging Leech added.
+CG04—Trite added.
+CG05—III. The Empress added.
+CG06—VII. The Chariot added.
+CG07—XI. Strength added.
+CG08—Soul Heart added.
+CG09—XX. Judgement added.
+UW02—Sin of Pride added.
+UU04—Sin of Sloth added.
+UB02—Little Horn added.
+UB03—Sin of Envy added.
+UR01—Sin of Greed added.
+UR02—Sin of Wrath added.
+UR03—Sin of Lust added.
+UG02—Turdlings added.
+UG03—Sin of Gluttony added.
+RW04—Dogma, False Prophet added.
+UU01—Rag Man, Psychic Mummy added.
+RB03—The Heretic added.
+RG01—Dinga added.
+RA03—Rib of Greed added.
+MM02—Mother, the Witness added.
+MM03—Hush, Imminent Death added.
+Key added.
+Demon Minion added.
+Battery added.
+RM02—Gabriel, Strength of God added.
+
+CW01—Soul Heart removed.
+UU01—Rag Man removed.
+Key Token removed.
+Demon Minion Token removed.
+Battery Token removed.
+
+UW01—Clutch, Haunter of Bone
+rules_text: Whenever Clutch and another creature attack, choose one —
+• Return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.
+• Put a +1/+1 counter on each attacking creature. => Whenever Clutch and at least two other creatures attack, choose one —
+• Return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.
+• Put a +1/+1 counter on each attacking creature.
+
+CU02—XXI. The World
+type: Sorcery => Sorcery — Arcane
+
+UM01—Steven
+rules_text: Ward—{2}, Mill eight cards
+Whenever Steven attacks or a spell or ability you control counters a spell or ability, each opponent mills four cards.
+{3}{U}{B}, {T}: Change the target of target spell or ability that targets only a single creature you control to Steven. => Ward—{2}, Mill eight cards
+Whenever Steven attacks or a spell or ability you control counters a spell or ability, any number of target players each mill four cards.
+{3}{U}{B}, {T}: Change the target of target spell or ability that targets only a single creature you control to Steven.
+
+UM01—Hornfel, Explosive Twin
+rules_text: Whenever Hornfel deals combat damage to a player, create a Bomb token. [i](It's an artifact with “{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”)[/i]
+Whenever you activate an ability that isn't a mana ability, if one or more artifacts were sacrificed to activate it, you may pay 1 life. If you do, draw a card. => Whenever Hornfel deals combat damage to a player or battle, create a Bomb token. [i](It's an artifact with “{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.”)[/i]
+Whenever you activate an ability that isn't a mana ability, if one or more artifacts were sacrificed to activate it, you may pay 1 life. If you do, draw a card.
+
+UM01—The Headless Horseman
+rules_text: Flying
+When The Headless Horseman enters, create a 2/1 white Horse creature token with flying.
+Whenever you attack with two or more creatures, draw a card. => Flying
+When The Headless Horseman enters, create a 2/1 white Horse creature token with flying.
+Whenever you attack with three or more creatures, draw a card.
+
+MM01—Magdelene, the Healthy
+rules_text: Starting item—Yum Heart [i](When this creature enters, you may search your library and/or graveyard for Yum Heart and put it into your hand. If you searched your library this way, shuffle.)[/i]
+Whenever you gain life, put a +1/+1 counter on target creature. If you gained 7 or more life this turn, put seven +1/+1 counters on that creature instead. => Starting item—Yum Heart
+Whenever you gain life, put a +1/+1 counter on target creature. If you gained 7 or more life this turn, put seven +1/+1 counters on that creature instead.
+
+UA01—Angelic Armaments
+type: Artifact => Artifact — Equipment
+
+MM01—Lazarus, the Returning
+rules_text: Starting item—Lazarus' Rags [i](When this creature enters, you may search your library and/or graveyard for Lazarus' Rags and put it into your hand. If you searched your library this way, shuffle.)[/i]
+Whenever Lazarus is dealt damage, create a Blood token.
+When Lazarus dies, you may sacrifice a Blood token. If you do, return him to the battlefield transformed under his owner's control. => Starting item—Lazarus' Rags
+Whenever Lazarus is dealt damage, create a Blood token.
+When Lazarus dies, you may sacrifice a Blood token. If you do, return him to the battlefield transformed under his owner's control.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CW01—Soul Heart added.

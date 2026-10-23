@@ -1,0 +1,11 @@
+﻿VERSION 2 CHANGELOG
+====================
+
+King of the Harvest Moon added.
+
+
+
+VERSION 1 CHANGELOG
+====================
+
+First version published.

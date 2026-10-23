@@ -1,0 +1,765 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Sol Ring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/0.png"
+			}
+		},
+		{
+			"name": "Moon Lord, Celestial Terror",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Elder Alien Horror Noble Boss",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/1.png"
+			}
+		},
+		{
+			"name": "The Terrarians",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/2.png"
+			}
+		},
+		{
+			"name": "The Grand Designer",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Redigit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/3.png"
+			}
+		},
+		{
+			"name": "Sol Ring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/4.png"
+			}
+		},
+		{
+			"name": "Sol Ring",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/5.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/6.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/7.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/8.png"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/9.png"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/10.png"
+			}
+		},
+		{
+			"name": "Component Pouch",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/11.png"
+			}
+		},
+		{
+			"name": "Treasure Chest",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/12.png"
+			}
+		},
+		{
+			"name": "Earth-Cult Elemental",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/13.png"
+			}
+		},
+		{
+			"name": "Swarming Goblins",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/14.png"
+			}
+		},
+		{
+			"name": "Arcane Endeavor",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/15.png"
+			}
+		},
+		{
+			"name": "Attempted Murder",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/16.png"
+			}
+		},
+		{
+			"name": "Clay Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/17.png"
+			}
+		},
+		{
+			"name": "Contact Other Plane",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/18.png"
+			}
+		},
+		{
+			"name": "Chromatic Lantern",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/19.png"
+			}
+		},
+		{
+			"name": "Strength-Testing Hammer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/20.png"
+			}
+		},
+		{
+			"name": "Run it Back",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/21.png"
+			}
+		},
+		{
+			"name": "Shifting Landscape",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/22.png"
+			}
+		},
+		{
+			"name": "Crystal Cavern",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact Land — Treasure Cave",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/23.png"
+			}
+		},
+		{
+			"name": "Fellwar Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/24.png"
+			}
+		},
+		{
+			"name": "Cascading Cataracts",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/25.png"
+			}
+		},
+		{
+			"name": "Plentiful Country",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/26.png"
+			}
+		},
+		{
+			"name": "Peaceful Beach",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/27.png"
+			}
+		},
+		{
+			"name": "Corrupted Field",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/28.png"
+			}
+		},
+		{
+			"name": "Crimson Valley",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/29.png"
+			}
+		},
+		{
+			"name": "Expansive Colony",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/30.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Bauble",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/31.png"
+			}
+		},
+		{
+			"name": "Shimmer Luck",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/32.png"
+			}
+		},
+		{
+			"name": "Lucky Dye Coating",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/33.png"
+			}
+		},
+		{
+			"name": "Boulder Trap",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/34.png"
+			}
+		},
+		{
+			"name": "The Mechanic and Tinkerer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Goblin Artificer",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/35.png"
+			}
+		},
+		{
+			"name": "Darren, Observational Artist",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/36.png"
+			}
+		},
+		{
+			"name": "Exotic Orchard",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/40.png"
+			}
+		},
+		{
+			"name": "The Final Encounter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/42.png"
+			}
+		},
+		{
+			"name": "Whirling Defense",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/46.png"
+			}
+		},
+		{
+			"name": "Everlasting Rainbow",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/50.png"
+			}
+		},
+		{
+			"name": "Spine of the False Deity",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Creature — Wurm Boss",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/58.png"
+			}
+		},
+		{
+			"name": "The Tyrant's Bones",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Skeleton Boss",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/61.png"
+			}
+		},
+		{
+			"name": "Swiftfoot Boots",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/64.png"
+			}
+		},
+		{
+			"name": "The Tyrant's Eye",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Eye Horror Boss",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/66.png"
+			}
+		},
+		{
+			"name": "Skeleton of the False Deity",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact Creature — Skeleton Boss",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/68.png"
+			}
+		},
+		{
+			"name": "The Tyrant's Brain",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Horror Boss",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/70.png"
+			}
+		},
+		{
+			"name": "King of the Harvest Moon",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{G}{G}",
+			"type": "Legendary Creature — Scarecrow Horror Noble Boss",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/71.png"
+			}
+		},
+		{
+			"name": "Martyr of the Lunar Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Human Cleric Boss",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/77.png"
+			}
+		},
+		{
+			"name": "Ezekiel, The Inspirer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Warrior Hero",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/89.png"
+			}
+		},
+		{
+			"name": "Stephani, The Center",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Wizard Hero",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/90.png"
+			}
+		},
+		{
+			"name": "Jeremy, The Coverfire",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Ranger Hero",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/91.png"
+			}
+		},
+		{
+			"name": "Terince, The Documenter",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/92.png"
+			}
+		},
+		{
+			"name": "The Merchants",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Skeleton Citizen",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/99.png"
+			}
+		},
+		{
+			"name": "King and Queen of Slime",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Ooze Noble Boss",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/100.png"
+			}
+		},
+		{
+			"name": "Eyes of the False Deity",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Eye Boss",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/101.png"
+			}
+		},
+		{
+			"name": "The Terra Blade",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://AtticusVonShwoll.github.io/sets/TRAC-files/img/103.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Moon Lord, Celestial Terror
+	1 The Terrarians
+	1 The Grand Designer
+	2 Treasure Chest
+	2 Arcane Endeavor
+	2 Chromatic Lantern
+	2 Run it Back
+	2 Shifting Landscape
+	2 Crystal Cavern
+	2 Cascading Cataracts
+	2 The Mechanic and Tinkerer
+	2 Darren, Observational Artist
+	2 Exotic Orchard
+	2 The Final Encounter
+	2 Whirling Defense
+	2 Everlasting Rainbow
+	2 Spine of the False Deity
+	2 The Tyrant's Bones
+	2 The Tyrant's Eye
+	2 Skeleton of the False Deity
+	2 The Tyrant's Brain
+	2 King of the Harvest Moon
+	1 Martyr of the Lunar Tyrant
+	1 Ezekiel, The Inspirer
+	1 Stephani, The Center
+	1 Jeremy, The Coverfire
+	1 Terince, The Documenter
+	2 The Merchants
+	2 King and Queen of Slime
+	2 Eyes of the False Deity
+	1 The Terra Blade
+[uncommon(3)]
+	4 Sol Ring
+	4 Sol Ring
+	4 Sol Ring
+	4 Component Pouch
+	4 Attempted Murder
+	4 Clay Golem
+	4 Strength-Testing Hammer
+	4 Fellwar Stone
+	4 Shimmer Luck
+	4 Lucky Dye Coating
+	4 Boulder Trap
+	4 Swiftfoot Boots
+[common(6)]
+	8 Arcane Signet
+	8 Arcane Signet
+	8 Arcane Signet
+	8 Command Tower
+	8 Command Tower
+	8 Earth-Cult Elemental
+	8 Swarming Goblins
+	8 Contact Other Plane
+	8 Plentiful Country
+	8 Peaceful Beach
+	8 Corrupted Field
+	8 Crimson Valley
+	8 Expansive Colony
+	8 Wayfarer's Bauble
+[common | masterpiece(1)]
+	8 Arcane Signet
+	8 Arcane Signet
+	8 Arcane Signet
+	8 Command Tower
+	8 Command Tower
+	8 Earth-Cult Elemental
+	8 Swarming Goblins
+	8 Contact Other Plane
+	8 Plentiful Country
+	8 Peaceful Beach
+	8 Corrupted Field
+	8 Crimson Valley
+	8 Expansive Colony
+	8 Wayfarer's Bauble
+[foil(1)]
+	6 Sol Ring
+	1 Moon Lord, Celestial Terror
+	1 The Terrarians
+	1 The Grand Designer
+	6 Sol Ring
+	6 Sol Ring
+	12 Arcane Signet
+	12 Arcane Signet
+	12 Arcane Signet
+	12 Command Tower
+	12 Command Tower
+	6 Component Pouch
+	2 Treasure Chest
+	12 Earth-Cult Elemental
+	12 Swarming Goblins
+	2 Arcane Endeavor
+	6 Attempted Murder
+	6 Clay Golem
+	12 Contact Other Plane
+	2 Chromatic Lantern
+	6 Strength-Testing Hammer
+	2 Run it Back
+	2 Shifting Landscape
+	2 Crystal Cavern
+	6 Fellwar Stone
+	2 Cascading Cataracts
+	12 Plentiful Country
+	12 Peaceful Beach
+	12 Corrupted Field
+	12 Crimson Valley
+	12 Expansive Colony
+	12 Wayfarer's Bauble
+	6 Shimmer Luck
+	6 Lucky Dye Coating
+	6 Boulder Trap
+	2 The Mechanic and Tinkerer
+	2 Darren, Observational Artist
+	2 Exotic Orchard
+	2 The Final Encounter
+	2 Whirling Defense
+	2 Everlasting Rainbow
+	2 Spine of the False Deity
+	2 The Tyrant's Bones
+	6 Swiftfoot Boots
+	2 The Tyrant's Eye
+	2 Skeleton of the False Deity
+	2 The Tyrant's Brain
+	2 King of the Harvest Moon
+	1 Martyr of the Lunar Tyrant
+	1 Ezekiel, The Inspirer
+	1 Stephani, The Center
+	1 Jeremy, The Coverfire
+	1 Terince, The Documenter
+	2 The Merchants
+	2 King and Queen of Slime
+	2 Eyes of the False Deity
+	1 The Terra Blade
+[wildcard(1)]
+	15 Sol Ring
+	4 Moon Lord, Celestial Terror
+	4 The Terrarians
+	4 The Grand Designer
+	15 Sol Ring
+	15 Sol Ring
+	6 Arcane Signet
+	6 Arcane Signet
+	6 Arcane Signet
+	6 Command Tower
+	6 Command Tower
+	15 Component Pouch
+	7 Treasure Chest
+	6 Earth-Cult Elemental
+	6 Swarming Goblins
+	7 Arcane Endeavor
+	15 Attempted Murder
+	15 Clay Golem
+	6 Contact Other Plane
+	7 Chromatic Lantern
+	15 Strength-Testing Hammer
+	7 Run it Back
+	7 Shifting Landscape
+	7 Crystal Cavern
+	15 Fellwar Stone
+	7 Cascading Cataracts
+	6 Plentiful Country
+	6 Peaceful Beach
+	6 Corrupted Field
+	6 Crimson Valley
+	6 Expansive Colony
+	6 Wayfarer's Bauble
+	15 Shimmer Luck
+	15 Lucky Dye Coating
+	15 Boulder Trap
+	7 The Mechanic and Tinkerer
+	7 Darren, Observational Artist
+	7 Exotic Orchard
+	7 The Final Encounter
+	7 Whirling Defense
+	7 Everlasting Rainbow
+	7 Spine of the False Deity
+	7 The Tyrant's Bones
+	15 Swiftfoot Boots
+	7 The Tyrant's Eye
+	7 Skeleton of the False Deity
+	7 The Tyrant's Brain
+	7 King of the Harvest Moon
+	4 Martyr of the Lunar Tyrant
+	4 Ezekiel, The Inspirer
+	4 Stephani, The Center
+	4 Jeremy, The Coverfire
+	4 Terince, The Documenter
+	7 The Merchants
+	7 King and Queen of Slime
+	7 Eyes of the False Deity
+	4 The Terra Blade

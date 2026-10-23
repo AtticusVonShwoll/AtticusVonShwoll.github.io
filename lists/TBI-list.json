@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "All Alone",
-        "number": 35,
+        "number": 33,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -9,7 +9,7 @@
     },
     {
         "card_name": "The Broken",
-        "number": 74,
+        "number": 72,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Lilith, Motherly Demon",
-        "number": 113,
+        "number": 111,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -25,23 +25,23 @@
     },
     {
         "card_name": "Isaac Moriah",
-        "number": 152,
+        "number": 150,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "2"
     },
     {
-        "card_name": "Oh Crap",
-        "number": 200,
+        "card_name": "Dinga",
+        "number": 191,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "141"
+        "position": "180"
     },
     {
         "card_name": "Bethany, the Virtuous",
-        "number": 36,
+        "number": 34,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Dople",
-        "number": 76,
+        "number": 74,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Satan",
-        "number": 114,
+        "number": 112,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -65,18 +65,23 @@
     },
     {
         "card_name": "Boss Rush",
-        "number": 154,
+        "number": 152,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "174"
     },
     {
-        "card_name": "e"
+        "card_name": "Oh Crap",
+        "number": 198,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "141"
     },
     {
         "card_name": "The Bible",
-        "number": 37,
+        "number": 35,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -84,7 +89,7 @@
     },
     {
         "card_name": "Bookworm",
-        "number": 77,
+        "number": 75,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -92,7 +97,7 @@
     },
     {
         "card_name": "Curse of Tiny Hands",
-        "number": 115,
+        "number": 113,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -100,18 +105,23 @@
     },
     {
         "card_name": "Box of Friends",
-        "number": 155,
+        "number": 153,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "173"
     },
     {
-        "card_name": "e"
+        "card_name": "Turdlings",
+        "number": 199,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "142"
     },
     {
         "card_name": "Yum Heart",
-        "number": 38,
+        "number": 36,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -119,7 +129,7 @@
     },
     {
         "card_name": "Rag Man, Psychic Mummy",
-        "number": 83,
+        "number": 81,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -127,7 +137,7 @@
     },
     {
         "card_name": "Book of the Dead",
-        "number": 116,
+        "number": 114,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -135,18 +145,23 @@
     },
     {
         "card_name": "Spindown Dice",
-        "number": 156,
+        "number": 154,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "175"
     },
     {
-        "card_name": "e"
+        "card_name": "Sin of Gluttony",
+        "number": 200,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "143"
     },
     {
         "card_name": "Book of Virtues",
-        "number": 39,
+        "number": 37,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -154,89 +169,159 @@
     },
     {
         "card_name": "Key Master",
-        "number": 84,
+        "number": 82,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "23"
     },
     {
-        "card_name": "The Siren",
-        "number": 122,
+        "card_name": "The Heretic",
+        "number": 115,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "119"
+        "position": "168"
     },
     {
-        "card_name": "Troll Bombed",
-        "number": 133,
+        "card_name": "Sin of Greed",
+        "number": 159,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "0"
+        "position": "130"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Clutch, Haunter of Bone",
-        "number": 44,
+        "card_name": "Monstro",
+        "number": 170,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "97"
+        "position": "78"
+    },
+    {
+        "card_name": "Dogma, False Prophet",
+        "number": 38,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "155"
     },
     {
         "card_name": "Butter Bean",
-        "number": 85,
+        "number": 83,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "110"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Big Score",
-        "number": 134,
+        "card_name": "The Siren",
+        "number": 120,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "60"
+        "position": "119"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Soul Heart",
-        "number": 16,
+        "card_name": "Sin of Wrath",
+        "number": 160,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
-        "position": "3"
+        "position": "131"
+    },
+    {
+        "card_name": "Squirt",
+        "number": 171,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Clutch, Haunter of Bone",
+        "number": 42,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Sin of Sloth",
+        "number": 84,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Little Horn",
+        "number": 121,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "Sin of Lust",
+        "number": 161,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "Charging Leech",
+        "number": 172,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Sin of Pride",
+        "number": 43,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "98"
     },
     {
         "card_name": "I Can See Forever",
-        "number": 55,
+        "number": 53,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "22"
     },
     {
-        "card_name": "e"
+        "card_name": "Sin of Envy",
+        "number": 122,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "121"
     },
     {
-        "card_name": "e"
+        "card_name": "Troll Bombed",
+        "number": 131,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "0"
     },
     {
-        "card_name": "e"
+        "card_name": "Trite",
+        "number": 173,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "81"
     },
     {
         "card_name": "The Stars Are Calling",
-        "number": 17,
+        "number": 15,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -244,28 +329,338 @@
     },
     {
         "card_name": "XXI. The World",
-        "number": 56,
+        "number": 54,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "109"
     },
     {
-        "card_name": "e"
+        "card_name": "The Fallen, Demonic Angel",
+        "number": 92,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "41"
     },
     {
-        "card_name": "e"
+        "card_name": "Big Score",
+        "number": 132,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "60"
     },
     {
-        "card_name": "e"
+        "card_name": "III. The Empress",
+        "number": 174,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "82"
     },
     {
         "card_name": "Seraphim",
-        "number": 18,
+        "number": 16,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "5"
+    },
+    {
+        "card_name": "Thought Scour",
+        "number": 55,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "We Need To Go Deeper",
+        "number": 93,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Pin, Bombarding Worm",
+        "number": 133,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "VII. The Chariot",
+        "number": 175,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "The Duke of Flies",
+        "number": 17,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Gemini, Heteropagus Twins",
+        "number": 56,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Eyeless Gaper",
+        "number": 94,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Mulliboom",
+        "number": 134,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "XI. Strength",
+        "number": 176,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Charmed Greedling",
+        "number": 18,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "II. The High Priestess",
+        "number": 57,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Black Heart",
+        "number": 95,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Corny Dip",
+        "number": 135,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Soul Heart",
+        "number": 177,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "O. The Fool",
+        "number": 19,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "XVIII. The Moon",
+        "number": 58,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "XII. The Hanged Man",
+        "number": 96,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Greedling",
+        "number": 136,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "XX. Judgement",
+        "number": 178,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "IV. The Emperor",
+        "number": 20,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "XIII. Death",
+        "number": 97,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "I. The Magician",
+        "number": 137,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "V. The Hierophant",
+        "number": 21,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "XV. The Devil",
+        "number": 98,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "IX. The Hermit",
+        "number": 138,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "VI. The Lovers",
+        "number": 22,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "X. Wheel of Fortune",
+        "number": 139,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "VIII. Justice",
+        "number": 23,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "XVI. The Tower",
+        "number": 140,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "XIV. Temperance",
+        "number": 24,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "XVII. The Stars",
+        "number": 141,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "XIX. The Sun",
+        "number": 25,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "14"
     },
     {
         "card_name": "e"
@@ -294,7 +689,7 @@
     "a->gold",
     {
         "card_name": "The Rainmaker",
-        "number": 241,
+        "number": 250,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -302,7 +697,7 @@
     },
     {
         "card_name": "Evil Twin",
-        "number": 231,
+        "number": 230,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -310,7 +705,7 @@
     },
     {
         "card_name": "Hornfel, Explosive Twin",
-        "number": 235,
+        "number": 244,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -318,7 +713,7 @@
     },
     {
         "card_name": "Bumbino, Big Baby",
-        "number": 234,
+        "number": 243,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -326,7 +721,7 @@
     },
     {
         "card_name": "Magdelene, the Healthy",
-        "number": 221,
+        "number": 219,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -337,7 +732,7 @@
     },
     {
         "card_name": "Steven",
-        "number": 237,
+        "number": 246,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -351,7 +746,7 @@
     },
     {
         "card_name": "Isaac, Sacrificed Child",
-        "number": 232,
+        "number": 231,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -370,8 +765,28 @@
         "card_name": "e"
     },
     {
+        "card_name": "Gabriel, Strength of God",
+        "number": 241,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "272"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Baby Plum, Fly Friend",
-        "number": 233,
+        "number": 242,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -394,7 +809,7 @@
     },
     {
         "card_name": "Lazarus, the Returning",
-        "number": 220,
+        "number": 218,
         "shape": "transform double faced",
         "set": "TBI",
         "rotated": false,
@@ -402,7 +817,7 @@
     },
     {
         "card_name": "The Gurglings",
-        "number": 238,
+        "number": 247,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -410,7 +825,7 @@
     },
     {
         "card_name": "Widow",
-        "number": 242,
+        "number": 251,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -418,7 +833,7 @@
     },
     {
         "card_name": "The Headless Horseman",
-        "number": 240,
+        "number": 249,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -426,7 +841,7 @@
     },
     {
         "card_name": "Larry Jr.",
-        "number": 236,
+        "number": 245,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -434,7 +849,7 @@
     },
     {
         "card_name": "The Haunt",
-        "number": 239,
+        "number": 248,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -469,17 +884,27 @@
     },
     {
         "card_name": "Delirium of Memories",
-        "number": 219,
+        "number": 217,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "259"
     },
     {
-        "card_name": "e"
+        "card_name": "Mother, the Witness",
+        "number": 220,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "245"
     },
     {
-        "card_name": "e"
+        "card_name": "Hush, Imminent Death",
+        "number": 221,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "246"
     },
     {
         "card_name": "e"
@@ -502,7 +927,7 @@
     "a->colorless",
     {
         "card_name": "D-Infinity",
-        "number": 248,
+        "number": 257,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -510,7 +935,7 @@
     },
     {
         "card_name": "The D6",
-        "number": 249,
+        "number": 258,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -518,15 +943,23 @@
     },
     {
         "card_name": "Lazarus' Rags",
-        "number": 250,
+        "number": 259,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
         "position": "237"
     },
     {
+        "card_name": "Rib of Greed",
+        "number": 260,
+        "shape": "normal",
+        "set": "TBI",
+        "rotated": false,
+        "position": "238"
+    },
+    {
         "card_name": "A Sack!",
-        "number": 11,
+        "number": 9,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -534,7 +967,7 @@
     },
     {
         "card_name": "Angelic Armaments",
-        "number": 251,
+        "number": 261,
         "shape": "normal",
         "set": "TBI",
         "rotated": false,
@@ -547,9 +980,6 @@
         "set": "TBI",
         "rotated": false,
         "position": "232"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

@@ -9,6 +9,11 @@
             "set_code": "TRA",
             "set_name": "An Exploration of Terraria",
             "formats": ""
+        },
+        {
+            "set_code": "TRAC",
+            "set_name": "Terraria: Commander",
+            "formats": "EDH"
         }
     ]
 }

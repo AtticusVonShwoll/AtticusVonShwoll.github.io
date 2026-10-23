@@ -1,0 +1,916 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TRAC</name>
+      <longname>Terraria: Commander</longname>
+      <settype>Custom</settype>
+      <releasedate>2026-10-22</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Sol Ring</name>
+      <text>{T}: Add {C}{C}.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/0.png" num="38" uuid="ca7d4104-c403-4d33-9295-ad2f3560f3ca">TRAC</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/4.png" num="40" uuid="79f86ac6-d27b-4192-8896-bdd4102d277a">TRAC</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/5.png" num="39" uuid="99c01599-b771-4b7f-a7d8-d77541f4cc78">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Moon Lord, Celestial Terror</name>
+      <text>Flying, trample
+Ward—Sacrifice a legendary creature.
+Spells you cast that share a creature type with Moon Lord cost {W}{U}{B}{R}{G} less to cast.
+Each other creature you control that shares a creature type with Moon Lord have flying and trample.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/1.png" num="18">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Elder Alien Horror Noble Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>4WUBRG</manacost>
+        <cmc>9</cmc>
+        <colors>WUBRG</colors>
+        <coloridentity>WUBRG</coloridentity>
+        <pt>10/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Terrarians</name>
+      <text>The Terrarians are also a Ranger, Sorcerer, Warrior, and Wizard.
+At the beginning of each combat, The Terrarains and each other creature you control that shares a creature type with them gain flying until end of turn if any of those creatures have flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/2.png" num="24">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Hero</type>
+        <maintype>Creature</maintype>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <colors>WUBRG</colors>
+        <coloridentity>WUBRG</coloridentity>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Grand Designer</name>
+      <text>If you would roll one or more dice, instead roll that many plus two and you choose two of those rolls to ignore.
+[+1]: Roll a d4. Create X 1/1 colorless Hero creature tokens, then put X +1/+1 counters on a creature you control, where X is the result.
+[-3]: Roll two d6 and choose one result. Create a number of Treasure tokens equal to the chosen result and draw cards equal to the other result. Then each opponent loses life equal to the total of the two results.
+The Grand Designer can be your commander.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/3.png" num="13">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Planeswalker — Redigit</type>
+        <maintype>Planeswalker</maintype>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <colors>WUBRG</colors>
+        <coloridentity>WUBRG</coloridentity>
+        <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <related count="X">Hero Token</related>
+      <related count="X">Treasure Token</related>
+    </card>
+    <card>
+      <name>Arcane Signet</name>
+      <text>{T}: Add one mana of any color in your commander's color identity.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/6.png" num="29" uuid="c1827bc6-23a9-42d6-9c0e-17a4299fa116">TRAC</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/7.png" num="30" uuid="b04f0110-0299-4852-a178-c5010e085b0d">TRAC</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/8.png" num="28" uuid="e503bdc9-f7ae-4f1a-a1d0-f5752c688f79">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Command Tower</name>
+      <text>{T}: Add one mana of any color in your commander's color identity.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/9.png" num="48" uuid="2b7b2dde-289d-4de3-b323-b62e3e612eb7">TRAC</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/10.png" num="47" uuid="03248f0e-a33c-470a-8cd6-0c9eade3035d">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+      </prop>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Component Pouch</name>
+      <text>{T}, Remove a component counter from this artifact: Add two mana of different colors.
+{T}: Roll a d20.
+[b]1-9 [/b]| Put a component counter on this artifact.
+[b]10-20 [/b]| Put two component counters on this artifact.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/11.png" num="33" uuid="196ee613-c1dd-4b38-bf52-6d2825d5ec71">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Treasure Chest</name>
+      <text>{4}, Sacrifice this artifact: Roll a d20.
+[b]1 [/b]| Trapped! — You lose 3 life.
+[b]2-9 [/b]| Create five Treasure tokens.
+[b]10-19 [/b]| You gain 3 life and draw three cards.
+[b]20 [/b]| Search your library for a card. If it's an artifact card, you may put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/12.png" num="44" uuid="de10318c-4c2f-480a-8bcf-437f0ffe4004">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Earth-Cult Elemental</name>
+      <text>When this creature enters, roll a d20.
+[b]1-9 [/b]| Each player sacrifices a permanent of their choice.
+[b]10-19 [/b]| Each opponent sacrifices a permanent of their choice.
+[b]20 [/b]| Each opponent sacrifices two permanents of their choice.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/13.png" num="8" uuid="e05c99e8-1b8f-4beb-b045-ea35b7e6bf73">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Elemental</type>
+        <maintype>Creature</maintype>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Swarming Goblins</name>
+      <text>When this creature enters, roll a d20.
+[b]1-9 [/b]| Create a 1/1 red Goblin creature token.
+[b]10-19 [/b]| Create two of those tokens.
+[b]20 [/b]| Create three of those tokens.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/14.png" num="9" uuid="3803fab8-448b-4502-96a4-a1ed12236ba8">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Goblin</type>
+        <maintype>Creature</maintype>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arcane Endeavor</name>
+      <text>Roll two d8 and choose one result. Draw cards equal to that result. Then you may cast an instant or sorcery spell with mana value less than or equal to the other result from your hand without paying its mana cost.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/15.png" num="2" uuid="87aa2e50-b278-4214-9f13-4a71e1a3bfa6">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Attempted Murder</name>
+      <text>Choose target creature. Roll X d6s. For each even result, put two -1/-1 counters on that creature. For each odd result, create a 1/2 blue Bird creature token with flying named Storm Crow.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/16.png" num="4" uuid="81147d72-9c61-4316-825d-cb296e6455a6">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <manacost>XBB</manacost>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Clay Golem</name>
+      <text>{6}, Roll a d8: Monstrosity X, where X is the result. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
+When this creature becomes monstrous, destroy target permanent.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/17.png" num="32" uuid="bba35656-99b6-489d-b3e4-60013a883951">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact Creature — Golem</type>
+        <maintype>Creature</maintype>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Contact Other Plane</name>
+      <text>Roll a d20.
+[b]1-9 [/b]| Draw two cards.
+[b]10-19 [/b]| Scry 2, then draw two cards.
+[b]20 [/b]| Scry 3, then draw three cards.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/18.png" num="3" uuid="3c9d1c77-9d3c-4575-b2bf-714ad87c931f">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Chromatic Lantern</name>
+      <text>Lands you control have "{T}: Add one mana of any color."
+{T}: Add one mana of any color.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/19.png" num="31" uuid="7c3cc846-ae35-4fe9-b7d3-b49e83b81fda">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Strength-Testing Hammer</name>
+      <text>Whenever equipped creature attacks, roll a six-sided die. That creature gets +X/+0 until end of turn, where X is the result. Then if it has the greatest power or is tied for greatest power among creatures on the battlefield, draw a card.
+Equip {3}</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/20.png" num="42" uuid="3821ca53-dc3d-4456-9c61-deb63d3cc23c">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact — Equipment</type>
+        <maintype>Artifact</maintype>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Run it Back</name>
+      <text>Whenever you cast a spell or activate an ability that isn't a mana ability, if mana was spent to cast or activate it, roll a d20.
+[b]1-9 [/b]| Surveil 1.
+[b]10-19 [/b]| Draw a card, then discard a card.
+[b]20 [/b]| Copy that spell or ability, you may choose new targets for the copy. You may roll again.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/21.png" num="19">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <colors>UR</colors>
+        <coloridentity>UR</coloridentity>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Shifting Landscape</name>
+      <text>This land enters with a storage counter on it.
+At the beginning of your upkeep, roll a d20. On a 10 or higher, put a storage counter on this land.
+{T}: Add {C}.
+{T}, Remove a storage counter from this land: Add one mana of any one color.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/22.png" num="56">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+      </prop>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Crystal Cavern</name>
+      <text>Whenever you roll a die's highest natural result, create a tapped Treasure token.
+{T}: Add {C}.
+{T}, Sacrifice this land: Add one mana of any color.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/23.png" num="51">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact Land — Treasure Cave</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+      </prop>
+      <tablerow>0</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>Fellwar Stone</name>
+      <text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/24.png" num="35" uuid="b136cdec-7657-42e9-b3f6-aa794bd62e93">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Cascading Cataracts</name>
+      <text>Indestructible
+{T}: Add {C}.
+{5}, {T}: Add five mana in any combination of colors.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/25.png" num="46" uuid="b7a0a480-c570-4731-83b7-7bee25133514">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+      </prop>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Plentiful Country</name>
+      <text>This land enters tapped.
+Whenever you roll a die's highest natural result, put a +1/+1 counter on up to one target creature.
+{T}: Add {W}.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/26.png" num="55">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Peaceful Beach</name>
+      <text>This land enters tapped.
+Whenever you roll a die's highest natural result, create a tapped 1/1 blue Fish creature token.
+{T}: Add {U}.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/27.png" num="54">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <tablerow>0</tablerow>
+      <related>Fish Token  </related>
+    </card>
+    <card>
+      <name>Corrupted Field</name>
+      <text>This land enters tapped.
+Whenever you roll a die's highest natural result, surveil 2.
+{T}: Add {B}.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/28.png" num="49">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Crimson Valley</name>
+      <text>This land enters tapped.
+Whenever you roll a die's highest natural result, this land deals 1 damage to target opponent, battle or planeswalker.
+{T}: Add {R}.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/29.png" num="50">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>Expansive Colony</name>
+      <text>This land enters tapped.
+Whenever you roll a die's highest natural result, create a Food token.
+{T}: Add {G}.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/30.png" num="53">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <tablerow>0</tablerow>
+      <related>Food Token</related>
+    </card>
+    <card>
+      <name>Wayfarer's Bauble</name>
+      <text>{2}, {T}, Sacrifice this artifact: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/31.png" num="45" uuid="a00b063f-4a8a-4eb8-a904-f2f0183f0b0f">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Shimmer Luck</name>
+      <text>If you would roll one or more dice, instead roll that many plus one and you choose one of those rolls to ignore.
+Whenever you roll one or more dice, put a +1/+1 counter on up to one target creature.
+Whenever you roll a die's highest result or a 10 or higher, draw a card.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/32.png" num="20">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <colors>UR</colors>
+        <coloridentity>UR</coloridentity>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>Lucky Dye Coating</name>
+      <text>Whenever you roll a die's highest result or a 10 or higher, create a Treasure token.
+Sacrifice a Treasure: Put a storage counter on this artifact. Activate only as a sorcery and only once each turn.
+{T}: Add X mana of any one color, where X is one plus the number of storage counters on this artifact.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/33.png" num="36">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>Boulder Trap</name>
+      <text>Until end of turn, whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage, Boulder Trap deals damage equal to the excess to any target other than that permanent.
+Roll a d20. Boulder Trap deals damage equal to the result to any target.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/34.png" num="7">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>The Mechanic and Tinkerer</name>
+      <text>Rulebreaker — A deck with this commander can have Equipment cards of any color identity and any basic land cards.
+When The Mechanic and Tinkerer enter, call upon Tinkerer's Workshop. (Create a token that's a copy of a card named Tinkerer's Workshop)</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/35.png" num="16">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Goblin Artificer</type>
+        <maintype>Creature</maintype>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <colors>UR</colors>
+        <coloridentity>UR</coloridentity>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Tinkerer's Workshop (Token)</related>
+    </card>
+    <card>
+      <name>Darren, Observational Artist</name>
+      <text>At the beginning of each opponent's upkeep, create a token that's a copy of target creature or land without a basic land type except it's not legendary and it's an artifact. That player may have you create a number of Treasure tokens equal to 2 or its mana value, whichever is greater. If they do, they gain control of it.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/36.png" num="11">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Citizen</type>
+        <maintype>Creature</maintype>
+        <manacost>GUR</manacost>
+        <cmc>3</cmc>
+        <colors>URG</colors>
+        <coloridentity>URG</coloridentity>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related count="X">Treasure Token</related>
+    </card>
+    <card>
+      <name>Exotic Orchard</name>
+      <text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/40.png" num="52" uuid="2287bdf7-8b6c-498b-a0e0-026b49d8c3f8">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <manacost></manacost>
+        <cmc>0</cmc>
+      </prop>
+      <tablerow>0</tablerow>
+    </card>
+    <card>
+      <name>The Final Encounter</name>
+      <text>Choose one —
+• Destroy all Boss creatures.
+• Destroy all non-Boss creatures.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/42.png" num="5">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Whirling Defense</name>
+      <text>Whirling Defense deals damage to each attacking creature equal to 3 or the greatest power among blocking creatures you control, whichever is greater.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/46.png" num="27">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <manacost>1RWW</manacost>
+        <cmc>4</cmc>
+        <colors>WR</colors>
+        <coloridentity>WR</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Everlasting Rainbow</name>
+      <text>Destroy all tapped creatures. Then tap each creature you don't control.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/50.png" num="1">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Spine of the False Deity</name>
+      <text>Reach
+Other artifact creatures you control get +0/+5.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/58.png" num="41">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact Creature — Wurm Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <pt>3/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Tyrant's Bones</name>
+      <text>Flying
+{2}, Sacrifice a creature: You may cast The Tyrant's Bones from your graveyard or command zone. If you do, it enters with a number of +1/+1 counters on it equal to the sacrificed creature's power. Activate only as a sorcery.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/61.png" num="6">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Skeleton Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Swiftfoot Boots</name>
+      <text>Equipped creature has hexproof and haste.
+Equip {1}</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/64.png" num="43" uuid="dbf02b54-1a9c-4788-8015-b1f9f133302a">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact — Equipment</type>
+        <maintype>Artifact</maintype>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+    <card>
+      <name>The Tyrant's Eye</name>
+      <text>Flying
+Other Eyes you control get +1/+1.
+Whenever The Tyrant's Eye attacks, create a 1/1 black Eye creature token with flying that's tapped and attacking.
+Whenever one or more Eyes you control deal damage to a player, surveil that many cards.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/66.png" num="26">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Eye Horror Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <colors>BR</colors>
+        <coloridentity>BR</coloridentity>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Skeleton of the False Deity</name>
+      <text>Flying
+Other artifact creatures you control get +5/+0.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/68.png" num="37">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact Creature — Skeleton Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <pt>8/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Tyrant's Brain</name>
+      <text>Flying, menace
+The "legend rule" doesn't apply to creature tokens.
+At the beginning of each combat, you may sacrifice a creature. When you do, target creature gains myriad until end of turn and attacks this combat if able. (Whenever it attacks, for each opponent other than defending player, you may create a token copy that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/70.png" num="25">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Horror Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <colors>UB</colors>
+        <coloridentity>UB</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King of the Harvest Moon</name>
+      <text>Flying, trample
+Other Horrors, Scarecrows, and Treefolk creatures you control get +1/+1 and have menace, reach, and "When this creature dies, create a Food token and put a +1/+1 counter on each other creature you control."</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/71.png" num="15">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Scarecrow Horror Noble Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>BBGG</manacost>
+        <cmc>4</cmc>
+        <colors>BG</colors>
+        <coloridentity>BG</coloridentity>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Food Token</related>
+    </card>
+    <card>
+      <name>Martyr of the Lunar Tyrant</name>
+      <text>Flying
+Whenever Martyr of the Lunar Tyrant deals combat damage to a player or dies, you may pay {W}{U}{B}{R}{G}. When you do, search your library for a Boss permanent card, put it onto the battlefield, then shuffle.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/77.png" num="15">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Cleric Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>UBR</manacost>
+        <cmc>3</cmc>
+        <colors>UBR</colors>
+        <coloridentity>WUBRG</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ezekiel, The Inspirer</name>
+      <text>Equipment you control have job select. (When that Equipment enters, create a 1/1 colorless Hero creature token, then attach it to the token.)
+Heroes you control have vigilance.
+Partner—World's Champions (You can have two commanders if both have this ability.)</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/89.png" num="12">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Warrior Hero</type>
+        <maintype>Creature</maintype>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <colors>WR</colors>
+        <coloridentity>WR</coloridentity>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Hero Token</related>
+    </card>
+    <card>
+      <name>Stephani, The Center</name>
+      <text>Humans, Wizards and Heroes you control have haste and "{T}: Add one mana of any color. This mana can't be spent to cast non-Hero creature spells."
+Partner—World's Champions (You can have two commanders if both have this ability.)</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/90.png" num="21">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Wizard Hero</type>
+        <maintype>Creature</maintype>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <colors>UR</colors>
+        <coloridentity>UR</coloridentity>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jeremy, The Coverfire</name>
+      <text>Whenever a creature you control becomes blocked, you may untap it and remove it from combat.
+Partner—World's Champions (You can have two commanders if both have this ability.)</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/91.png" num="14">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Ranger Hero</type>
+        <maintype>Creature</maintype>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <colors>WG</colors>
+        <coloridentity>WG</coloridentity>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terince, The Documenter</name>
+      <text>Creature spells you cast cost {1} less to cast for each of its creature types that it doesn't share with a creature you control.
+Partner—World's Champions (You can have two commanders if both have this ability.)</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/92.png" num="22">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Hero</type>
+        <maintype>Creature</maintype>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <colors>UG</colors>
+        <coloridentity>UG</coloridentity>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Merchants</name>
+      <text>Rulebreaker — A deck with this commander can have Citizen cards of any color identity and any basic land cards.
+Whenever a Citizen you control becomes tapped, create a Treasure token.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/99.png" num="17">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Skeleton Citizen</type>
+        <maintype>Creature</maintype>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <colors>WB</colors>
+        <coloridentity>WB</coloridentity>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>King and Queen of Slime</name>
+      <text>Rulebreaker — A deck with this commander can have Ooze and Noble cards of any color identity and any basic land cards.
+Whenever a nontoken Ooze or Noble you control enters or dies, create a 1/1 green Ooze Noble creature token.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/100.png" num="10">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Ooze Noble Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eyes of the False Deity</name>
+      <text>Flying, vigilance, menace, trample
+Other artifact creatures you control have vigilance, menace and trample.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/101.png" num="34">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact Creature — Eye Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Terra Blade</name>
+      <text>As an additional cost to cast this spell, you may exile up to two nontoken Equipment you control. Put a forge counter on each of them.
+The Terra Blade has the abilities of each card you own in exile with a forge counter on it.
+Equipped creature gets +5/+5 and has first strike and hexproof.
+Equip {4}</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TRAC-files/img/103.png" num="23">TRAC</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Artifact — Equipment</type>
+        <maintype>Artifact</maintype>
+        <manacost>2BRGW</manacost>
+        <cmc>6</cmc>
+        <colors>WBRG</colors>
+        <coloridentity>WBRG</coloridentity>
+      </prop>
+      <tablerow>1</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

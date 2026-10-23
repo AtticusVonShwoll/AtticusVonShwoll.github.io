@@ -5,14 +5,14 @@
       <name>TBI</name>
       <longname>The Binding of Isaac</longname>
       <settype>Custom</settype>
-      <releasedate>2026-06-29</releasedate>
+      <releasedate>2026-10-22</releasedate>
     </set>
   </sets>
   <cards>
     <card>
       <name>Troll Bombed</name>
       <text>Troll Bombed deals 2 damage to any target.</text>
-      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/0.png" num="133">TBI</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/0.png" num="131">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -30,7 +30,7 @@
       <text>{T}: The next time target player would roll one or more dice this turn, instead they roll that many dice plus one and you choose one of those rolls to ignore.
 {2}, {T}, Discard a card: Draw a card.
 {4}, {T}, Discard an artifact card: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/1.png" num="249">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/1.png" num="258">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -45,7 +45,7 @@
       <name>Isaac Moriah</name>
       <text>Starting item—The D6 (When this creature enters, you may search your library and/or graveyard for The D6 and put it into your hand. If you searched your library this way, shuffle.)
 Whenever an artifact you control enters, put a +1/+1 counter on Isaac. This ability only triggers once each turn.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/2.png" num="152">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/2.png" num="150">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -60,28 +60,9 @@ Whenever an artifact you control enters, put a +1/+1 counter on Isaac. This abil
       <tablerow>2</tablerow>
     </card>
     <card>
-      <name>Soul Heart</name>
-      <text>Choose one —
-• Target player gains 3 life.
-• Put a shield counter on target permanent. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-Draw a card.</text>
-      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/3.png" num="16">TBI</set>
-      <prop>
-        <layout>normal</layout>
-        <side>front</side>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <colors>W</colors>
-        <coloridentity>W</coloridentity>
-      </prop>
-      <tablerow>3</tablerow>
-    </card>
-    <card>
       <name>The Stars Are Calling</name>
       <text>Look at the top four cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest into your graveyard. If you didn't put a card into your hand this way, put a shield counter on a permanent you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
-      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/4.png" num="17">TBI</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/4.png" num="15">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -97,7 +78,7 @@ Draw a card.</text>
     <card>
       <name>Seraphim</name>
       <text>Flying, vigilance</text>
-      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/5.png" num="18">TBI</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/5.png" num="16">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -112,10 +93,166 @@ Draw a card.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>The Duke of Flies</name>
+      <text>Flying
+When The Duke of Flies dies, create two 1/1 black and green Insect creature tokens with flying.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/6.png" num="17">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Zombie Insect Horror Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related count="2">Insect Token           </related>
+    </card>
+    <card>
+      <name>Charmed Greedling</name>
+      <text>When this creature enters, draw a card.
+When this creature dies, you and target opponent each create a Treasure token.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/7.png" num="18">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Zombie</type>
+        <maintype>Creature</maintype>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>O. The Fool</name>
+      <text>Exile target creature you control. Return it to the battlefield under its owner's control with a shield counter on it at the beginning of the next end step</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/8.png" num="19">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>IV. The Emperor</name>
+      <text>This spell costs {3} less to cast if it targets an attacking or tapped creature.
+Destroy target creature.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/9.png" num="20">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>V. The Hierophant</name>
+      <text>Distribute two shield counters among one or two target creatures. (If a permanent with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/10.png" num="21">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>VI. The Lovers</name>
+      <text>Choose one —
+• You draw a card, gain 2 life, and put a +1/+1 counter on each of up to two target creatures.
+• Two target players each draw two cards, gain 4 life, and put a +1/+1 counter on a creature they control.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/11.png" num="22">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery — Arcane</type>
+        <maintype>Sorcery</maintype>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>VIII. Justice</name>
+      <text>You gain 4 life and create a Bomb token, a Key token and a Treasure token. (Bombs are artifacts with "{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target." Keys are artifacts with "{T}, Sacrifice this artifact: Tap or untap target nonland permanent. Activate only as a sorcery.")</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/12.png" num="23">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery — Arcane</type>
+        <maintype>Sorcery</maintype>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+      <related>Bomb Token</related>
+      <related>Key Token</related>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>XIV. Temperance</name>
+      <text>Target creature gets +2/+2 until end of turn. If it has a counter on it, it also gains flying and lifelink until end of turn.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/13.png" num="24">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>XIX. The Sun</name>
+      <text>Return target creature card from your graveyard to the battlefield. You gain 3 life.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/14.png" num="25">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery — Arcane</type>
+        <maintype>Sorcery</maintype>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>I Can See Forever</name>
       <text>Look at the top six cards of your library, then put them back in any order.
 Draw a card.</text>
-      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/22.png" num="55">TBI</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/22.png" num="53">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -134,7 +271,7 @@ Draw a card.</text>
 [b]1-3 [/b]| Scry 2.
 [b]4-5 [/b]| Scry 1, then draw a card.
 [b]6 [/b]| You may sacrifice this creature. If you sacrificed this creature this turn, you may put an artifact card from your hand onto the battlefield.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/23.png" num="84">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/23.png" num="82">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -149,10 +286,199 @@ Draw a card.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Thought Scour</name>
+      <text>Target player mills two cards.
+Draw a card.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/24.png" num="55">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Gemini, Heteropagus Twins</name>
+      <text>Whenever Gemini deals damage, target player mills that many cards.
+{2}{U}: Until end of turn, Gemini can't be blocked and assigns combat damage equal to its toughness rather than its power.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/25.png" num="56">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Human Mutant Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>II. The High Priestess</name>
+      <text>Target creature's owner puts it on their choice of the top or bottom of their library.
+Target player draws a card, then discards a card.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/26.png" num="57">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>XVIII. The Moon</name>
+      <text>Put a +1/+1 counter on target creature. It can't be blocked this turn.
+Draw a card.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/27.png" num="58">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery — Arcane</type>
+        <maintype>Sorcery</maintype>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>The Fallen, Demonic Angel</name>
+      <text>Flying
+When The Fallen dies, choose another target creature card in your graveyard. You may sacrifice a creature. If you do, return the chosen card to the battlefield.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/41.png" num="92">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Angel Demon Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>We Need To Go Deeper</name>
+      <text>This spell costs {2} less to cast if you have sacrificed a permanent this turn.
+Return target creature card from your graveyard to the battlefield.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/42.png" num="93">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Eyeless Gaper</name>
+      <text>Deathtouch
+When this creature is sacrificed, draw a card.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/43.png" num="94">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Human Mutant Horror</type>
+        <maintype>Creature</maintype>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Black Heart</name>
+      <text>Choose one —
+• Target opponent loses 3 life and you gain 3 life.
+• You may sacrifice an artifact or creature. If you do, draw two cards.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/44.png" num="95">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>XII. The Hanged Man</name>
+      <text>Until end of turn, target creature gets +1/+0 and gains lifelink and "When this creature dies, return it to the battlefield tapped under its owner's control."</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/45.png" num="96">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>XIII. Death</name>
+      <text>Destroy target creature.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/46.png" num="97">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>XV. The Devil</name>
+      <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/47.png" num="98">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Big Score</name>
       <text>As an additional cost to cast this spell, discard a card.
 Draw two cards and create two Treasure tokens.</text>
-      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/60.png" num="134" uuid="364295c9-8ff1-4fed-84bd-4ff725a104db">TBI</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/60.png" num="132" uuid="364295c9-8ff1-4fed-84bd-4ff725a104db">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -167,11 +493,338 @@ Draw two cards and create two Treasure tokens.</text>
       <related count="2">Treasure Token</related>
     </card>
     <card>
+      <name>Pin, Bombarding Worm</name>
+      <text>Reach
+Whenever Pin becomes blocked, it deals 1 damage to target creature blocking it. When that creature dies this turn, create a tapped Treasure token.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/61.png" num="133">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Worm Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>Mulliboom</name>
+      <text>When this creature dies, it deals 2 damage to any target.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/62.png" num="134">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact Creature — Bomb Human Mutant</type>
+        <maintype>Creature</maintype>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Corny Dip</name>
+      <text>When this creature dies, it deals 1 damage to any target.
+{T}, Discard a card, Sacrifice this creature: Draw a card.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/63.png" num="135">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Ooze</type>
+        <maintype>Creature</maintype>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Greedling</name>
+      <text>When this creature enters, create a Treasure token.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/64.png" num="136">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Zombie</type>
+        <maintype>Creature</maintype>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>I. The Magician</name>
+      <text>Choose one —
+• Target creature you control deals damage equal to its power to target creature an opponent controls.
+• Destroy target artifact.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/65.png" num="137">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>IX. The Hermit</name>
+      <text>Kicker—Sacrifice three Treasures (You may sacrifice three Treasures in addition to any other costs as you cast this spell.)
+Create a Treasure token. If this spell was kicked, you may put an artifact card from your hand or graveyard onto the battlefield instead.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/66.png" num="138">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery — Arcane</type>
+        <maintype>Sorcery</maintype>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>X. Wheel of Fortune</name>
+      <text>Sacrifice an artifact or discard a card. If you do, roll a d6 three times.
+[b]1-3 [/b]| Create a tapped Treasure token.
+[b]4-5 [/b]| Draw a card.
+[b]6 [/b]| You may return an artifact, instant or sorcery card from your graveyard to your hand. If you don't, draw a card.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/67.png" num="139">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery — Arcane</type>
+        <maintype>Sorcery</maintype>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>XVI. The Tower</name>
+      <text>Choose one —
+• Create a Bomb token and a Treasure token. (It's an artifact with "{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.")
+• Destroy target artifact.
+• XVI. The Tower deals 1 damage to each creature your opponents control.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/68.png" num="140">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery — Arcane</type>
+        <maintype>Sorcery</maintype>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+      <related>Bomb Token</related>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>XVII. The Stars</name>
+      <text>Until end of turn, whenever a creature you control deals combat damage to a player or battle, put a +1/+1 counter on it and create a tapped Treasure token.
+{2}, Discard this card: Create a Treasure token.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/69.png" num="141">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Sorcery — Arcane</type>
+        <maintype>Sorcery</maintype>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>Monstro</name>
+      <text>Whenever Monstro attacks, choose one that hasn't been chosen —
+• Put a trample counter on Monstro.
+• Put a +1/+1 counter on Monstro.
+• Put a vigilance counter on Monstro. Draw a card for each counter on him, then discard two cards.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/78.png" num="170">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Giant Mutant Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Squirt</name>
+      <text>At the beginning of each end step, if a +1/+1 counter was put on a permanent under your control this turn, put a +1/+1 counter on this creature.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/79.png" num="171">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Ooze</type>
+        <maintype>Creature</maintype>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Charging Leech</name>
+      <text>Trample
+When this creature dies, create a Treasure token.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/80.png" num="172">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Leech</type>
+        <maintype>Creature</maintype>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>Trite</name>
+      <text>Reach, deathtouch
+{2}{G}: Put a +1/+1 counter on this creature. If mana from a Treasure was spent to activate this ability, put an additional +1/+1 counter on it. Activate only as a sorcery.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/81.png" num="173">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Spider Horror</type>
+        <maintype>Creature</maintype>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>III. The Empress</name>
+      <text>Put a +1/+1 counter and a deathtouch counter on target creature. Untap it.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/82.png" num="174">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>VII. The Chariot</name>
+      <text>Put a +1/+1 counter on target creature you control. It gains reach, trample, hexproof, and indestructible until end of turn.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/83.png" num="175">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>XI. Strength</name>
+      <text>Choose one —
+• Target creature gets +3/+3 and gains trample until end of turn.
+• Each opponent sacrifices a nontoken artifact or enchantment of their choice.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/84.png" num="176">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>Soul Heart</name>
+      <text>Choose one —
+• Target player gains 3 life.
+• Put a shield counter on target permanent. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+Draw a card.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/85.png" num="177">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
+      <name>XX. Judgement</name>
+      <text>This spell costs {2} less to cast if it targets a creature with a counter on it.
+Target creature you control deals damage equal to twice its power to target creature an opponent controls.</text>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/86.png" num="178">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Instant — Arcane</type>
+        <maintype>Instant</maintype>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+      </prop>
+      <tablerow>3</tablerow>
+    </card>
+    <card>
       <name>Clutch, Haunter of Bone</name>
-      <text>Whenever Clutch and another creature attack, choose one —
+      <text>Whenever Clutch and at least two other creatures attack, choose one —
 • Return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.
 • Put a +1/+1 counter on each attacking creature.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/97.png" num="44">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/97.png" num="42">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -186,9 +839,27 @@ Draw two cards and create two Treasure tokens.</text>
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Sin of Pride</name>
+      <text>Whenever you gain life, put two +1/+1 counter on Pride.
+As long as Pride has six or more +1/+1 counters on it, it has double strike.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/98.png" num="43">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Dople</name>
       <text>You may have this creature enter as a copy of any creature on the battlefield, except it has "When this creature or another creature with the same name dies, draw a card."</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/108.png" num="76">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/108.png" num="74">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -206,11 +877,11 @@ Draw two cards and create two Treasure tokens.</text>
       <name>XXI. The World</name>
       <text>Look at each opponent's hand and the top card of each opponent's library.
 Surveil 4, then draw two cards.</text>
-      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/109.png" num="56">TBI</set>
+      <set rarity="common" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/109.png" num="54">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Sorcery</type>
+        <type>Sorcery — Arcane</type>
         <maintype>Sorcery</maintype>
         <manacost>3UU</manacost>
         <cmc>5</cmc>
@@ -223,7 +894,7 @@ Surveil 4, then draw two cards.</text>
       <name>Butter Bean</name>
       <text>As an additional cost to cast this spell, tap an untapped artifact you control or pay {1}.
 Counter target spell or activated ability.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/110.png" num="85">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/110.png" num="83">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -237,12 +908,29 @@ Counter target spell or activated ability.</text>
       <tablerow>3</tablerow>
     </card>
     <card>
+      <name>Sin of Sloth</name>
+      <text>At the beginning of your end step, target player mills X cards, where X is the number of untapped lands you control.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/111.png" num="84">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <colors>U</colors>
+        <coloridentity>U</coloridentity>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>The Siren</name>
       <text>Deathtouch
 Whenever The Siren attacks, you may sacrifice a creature. When you do, choose one —
 • Gain control of target creature defending player controls for as long as you control The Siren.
 • Return target creature card from your graveyard to the battlefield with a finality counter on it.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/119.png" num="122">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/119.png" num="120">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -257,11 +945,104 @@ Whenever The Siren attacks, you may sacrifice a creature. When you do, choose on
       <tablerow>2</tablerow>
     </card>
     <card>
+      <name>Little Horn</name>
+      <text>Whenever Little Horn attacks, create a Bomb token. Sacrifice it at the end of combat. (It's an artifact with "{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.")</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/120.png" num="121">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Demon Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Bomb Token</related>
+    </card>
+    <card>
+      <name>Sin of Envy</name>
+      <text>Envy isn't legendary if it's a token.
+When Envy dies, if it has base power 2 or greater, create two tokens that are copies of it except their base power and toughness is half of Envy's power, rounded down.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/121.png" num="122">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sin of Greed</name>
+      <text>Whenever you attack with three or more creatures, Sin of Greed deals that much damage to each defending player.
+{2}, {T}, Discard a card, Sacrifice a non-Treasure artifact or creature: Create two Treasure tokens and draw a card. Activate only as a sorcery.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/130.png" num="159">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related count="2">Treasure Token</related>
+    </card>
+    <card>
+      <name>Sin of Wrath</name>
+      <text>Whenever Wrath enters, attacks or deals combat damage to a player, you may sacrifice an artifact or creature. If you do, create a Bomb token. (It's an artifact with "{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.")</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/131.png" num="160">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Bomb Token</related>
+    </card>
+    <card>
+      <name>Sin of Lust</name>
+      <text>Haste
+Whenever Lust deals combat damage to a player or battle, create a Blood token. (It's an artifact with "{1}, {T}, Discard a card, Sacrifice this token: Draw a card.")
+{3}: Lust can't be blocked this turn except by creatures with haste.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/132.png" num="161">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <coloridentity>R</coloridentity>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Blood Token</related>
+    </card>
+    <card>
       <name>Oh Crap</name>
       <text>Enchant creature
 When this Aura enters, put two +1/+1 counters on enchanted creature. It becomes an Ooze in addition to its other types.
 Whenever an Ooze you control dies, put a +1/+1 counter on up to one target creature.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/141.png" num="200">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/141.png" num="198">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -275,12 +1056,48 @@ Whenever an Ooze you control dies, put a +1/+1 counter on up to one target creat
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Turdlings</name>
+      <text>Whenever you attack with one or more modified creatures, put a +1/+1 counter on target attacking creature.
+{G}, {T}: Target creature gains deathtouch until end of turn. If mana from a Treasure was spent to activate this ability, put a deathtouch counter on that creature instead. Activate only as a sorcery.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/142.png" num="199">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Ooze Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sin of Gluttony</name>
+      <text>Trample
+Whenever Gluttony deals combat damage to a player or battle, sacrifice another permanent. If you do, put three +1/+1 counters on Gluttony. (It only gets counters if it survives.)</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/143.png" num="200">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>The Bible</name>
       <text>{T}: Choose one —
 • Destroy target Curse.
 • Target creature you control gains flying until end of turn.
 • Destroy target Boss and The Bible.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/152.png" num="37">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/152.png" num="35">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -300,7 +1117,7 @@ Whenever an Ooze you control dies, put a +1/+1 counter on up to one target creat
 • Target creature gains lifelink until end of turn.
 • Put a +1/+1 counter on target creature.
 {W}, Discard a card: Return Yum Heart from your graveyard to your hand. Activate only as a sorcery.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/153.png" num="38">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/153.png" num="36">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -317,7 +1134,7 @@ Whenever an Ooze you control dies, put a +1/+1 counter on up to one target creat
       <name>Book of Virtues</name>
       <text>Whenever you activate an ability of another artifact that isn't a mana ability, you may pay {W}. When you do, put a shield counter on target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 {W}, {T}, Remove a counter from a permanent you control: Create a 1/1 white Spirit creature token.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/154.png" num="39">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/154.png" num="37">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -332,10 +1149,28 @@ Whenever an Ooze you control dies, put a +1/+1 counter on up to one target creat
       <related>Spirit Token                  </related>
     </card>
     <card>
+      <name>Dogma, False Prophet</name>
+      <text>Dogma's power and toughness are each equal to the number of creatures you control.
+As long as you control three or more other creatures, Dogma has vigilance and lifelink.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/155.png" num="38">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <colors>W</colors>
+        <coloridentity>W</coloridentity>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
       <name>Rag Man, Psychic Mummy</name>
       <text>Whenever Rag Man attacks, he connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)
 At the beginning of your end step, target player mills X cards, where X is the number of cards put into your graveyard from anywhere this turn.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/159.png" num="83">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/159.png" num="81">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -354,7 +1189,7 @@ At the beginning of your end step, target player mills X cards, where X is the n
       <text>Enchant creature
 When this Aura enters, create a colorless Book artifact token with "{5}{U}, {T}: Draw a card. This ability costs {1} less to activate for each other artifact you control."
 Enchanted creature gets +1/+1 for each Book you control.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/160.png" num="77">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/160.png" num="75">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -366,12 +1201,13 @@ Enchanted creature gets +1/+1 for each Book you control.</text>
         <coloridentity>U</coloridentity>
       </prop>
       <tablerow>1</tablerow>
+      <related>Tamiyo's Logbook</related>
     </card>
     <card>
       <name>Curse of Tiny Hands</name>
       <text>Enchant player
 Enchanted player's maximum hand size is two.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/166.png" num="115">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/166.png" num="113">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -388,7 +1224,7 @@ Enchanted player's maximum hand size is two.</text>
       <name>Book of the Dead</name>
       <text>{T}: Exile target card from a graveyard.
 {3}{B}, {T}: Return target creature card in a graveyard that was put there from the battlefield this turn to the battlefield tapped under your control. It's a Skeleton in addition to its other types and has no abilities.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/167.png" num="116">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/167.png" num="114">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -402,10 +1238,29 @@ Enchanted player's maximum hand size is two.</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>The Heretic</name>
+      <text>Flying, menace
+When The Heretic enters, create five 2/2 black Zombie creature tokens. The Heretic phases out until each of those tokens leave the battlefield.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/168.png" num="115">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Skeleton Spirit Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <colors>B</colors>
+        <coloridentity>B</coloridentity>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related count="5">Zombie Token</related>
+    </card>
+    <card>
       <name>Box of Friends</name>
       <text>{T}: Populate. The token created this way gains haste. Sacrifice it at the beginning of the next end step. (To populate, create a token that's a copy of a creature token you control.)
 {5}{R}, {T}: For each creature token you control, create a token that's a copy of it. Each token created this way gains haste. Sacrifice them at the beginning of the next end step.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/173.png" num="155">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/173.png" num="153">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -423,7 +1278,7 @@ Enchanted player's maximum hand size is two.</text>
       <text>Whenever you cast a Boss spell, reveal cards from the top of your library until you reveal a Boss card. Put that card into your hand and the rest on the bottom of your library in a random order.
 Boss spells you cast cost {3} less to cast.
 At the beginning of the end step, sacrifice this enchantment.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/174.png" num="154" uuid="d1c75eee-6f91-4fc7-932a-8a83df9576bd">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/174.png" num="152">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -439,7 +1294,7 @@ At the beginning of the end step, sacrifice this enchantment.</text>
     <card>
       <name>Spindown Dice</name>
       <text>{T}, Discard a card: Choose greater or lesser. Reveal cards from the top of your library until you reveal a card with greater mana value if you chose greater or lesser mana value if you chose lesser. Put that card into your hand and the rest on the bottom of your library in a random order.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/175.png" num="156">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/175.png" num="154">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -453,10 +1308,28 @@ At the beginning of the end step, sacrifice this enchantment.</text>
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Dinga</name>
+      <text>When this creature dies, create two 2/2 green Ooze creature tokens. They have "When this token dies, create two 1/1 green Ooze creature tokens."</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/180.png" num="191">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Creature — Ooze</type>
+        <maintype>Creature</maintype>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related count="2">Ooze Token  </related>
+    </card>
+    <card>
       <name>Isaac, Sacrificed Child</name>
       <text>Enrage — Whenever Isaac is dealt damage, put a +1/+1 counter on them.
 As long as Isaac has four or more +1/+1 counters on them, they have flying and assign combat damage equal to their toughness rather than their power.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/187.png" num="232">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/187.png" num="231">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -475,7 +1348,7 @@ As long as Isaac has four or more +1/+1 counters on them, they have flying and a
       <text>Starting item—Book of Virtues (When this creature enters, you may search your library and/or graveyard for Book of Virtues and put it into your hand. If you searched your library this way, shuffle.)
 Bethany enters with a shield counter on her.
 Creatures you control get +1/+1 for each counter on them.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/188.png" num="36">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/188.png" num="34">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -493,7 +1366,7 @@ Creatures you control get +1/+1 for each counter on them.</text>
       <name>The Broken</name>
       <text>Starting item—Spindown Dice (When this creature enters, you may search your library and/or graveyard for Spindown Dice and put it into your hand. If you searched your library this way, shuffle.)
 Whenever you draw your first card each turn, you may pay {R}. If you do, draw a card, then discard a card.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/189.png" num="74">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/189.png" num="72">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -512,7 +1385,7 @@ Whenever you draw your first card each turn, you may pay {R}. If you do, draw a 
       <text>Starting item—Box of Friends
 When Lilith enters, create a 1/1 black Demon Minion creature token.
 {BR}, {T}: Another target creature you control gets +X/+0 until end of turn, where X is the number of Demons you control.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/191.png" num="113">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/191.png" num="111">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -532,7 +1405,7 @@ When Lilith enters, create a 1/1 black Demon Minion creature token.
       <text>Flying, trample
 When Satan enters, if he wasn't cast, you lose 20 life.
 Whenever Satan becomes the target of a spell or ability, that spell or ability's controller loses the game.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/192.png" num="114">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/192.png" num="112">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -550,7 +1423,7 @@ Whenever Satan becomes the target of a spell or ability, that spell or ability's
       <name>The Rainmaker</name>
       <text>Vigilance, skulk (This creature can't be blocked by creatures with greater power.)
 {WU}, {T}: Target creature you control assigns combat damage equal to its toughness rather than its power this turn. Activate only during your turn.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/196.png" num="241">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/196.png" num="250">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -567,9 +1440,9 @@ Whenever Satan becomes the target of a spell or ability, that spell or ability's
     <card>
       <name>Steven</name>
       <text>Ward—{2}, Mill eight cards
-Whenever Steven attacks or a spell or ability you control counters a spell or ability, each opponent mills four cards.
+Whenever Steven attacks or a spell or ability you control counters a spell or ability, any number of target players each mill four cards.
 {3}{U}{B}, {T}: Change the target of target spell or ability that targets only a single creature you control to Steven.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/197.png" num="237">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/197.png" num="246">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -585,9 +1458,9 @@ Whenever Steven attacks or a spell or ability you control counters a spell or ab
     </card>
     <card>
       <name>Hornfel, Explosive Twin</name>
-      <text>Whenever Hornfel deals combat damage to a player, create a Bomb token. (It's an artifact with "{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.")
+      <text>Whenever Hornfel deals combat damage to a player or battle, create a Bomb token. (It's an artifact with "{2R}, {T}, Sacrifice this artifact: It deals 2 damage to any target.")
 Whenever you activate an ability that isn't a mana ability, if one or more artifacts were sacrificed to activate it, you may pay 1 life. If you do, draw a card.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/198.png" num="235">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/198.png" num="244">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -600,13 +1473,14 @@ Whenever you activate an ability that isn't a mana ability, if one or more artif
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
+      <related>Bomb Token</related>
     </card>
     <card>
       <name>Bumbino, Big Baby</name>
       <text>You may pay {R}{G} rather than pay this spell's mana cost. Spend only mana produced by Treasures to cast it this way.
 Trample
 Whenever Bumbino deals combat damage to a creature, create a Treasure token.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/199.png" num="234">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/199.png" num="243">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -625,7 +1499,7 @@ Whenever Bumbino deals combat damage to a creature, create a Treasure token.</te
       <name>Baby Plum, Fly Friend</name>
       <text>Flying, lifelink
 Each other Insect, Leech, Slug, and Worm you control enters with an additional +1/+1 counter on it.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/200.png" num="233">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/200.png" num="242">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -645,7 +1519,7 @@ Each other Insect, Leech, Slug, and Worm you control enters with an additional +
 When The Haunt enters or dies, choose one —
 • Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 • Return another target Skeleton, Spirit or Zombie permanent card from your graveyard to the battlefield.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/201.png" num="239">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/201.png" num="248">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -664,7 +1538,7 @@ When The Haunt enters or dies, choose one —
       <text>Squad—Discard a card
 The Gurglings isn't legendary if it's a token.
 When The Gurglings dies, draw a card.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/202.png" num="238">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/202.png" num="247">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -683,7 +1557,7 @@ When The Gurglings dies, draw a card.</text>
       <text>Reach
 Tapped Spiders you control have deathtouch.
 Whenever Widow attacks, create a 1/2 green Spider creature token with reach.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/203.png" num="242">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/203.png" num="251">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -696,14 +1570,14 @@ Whenever Widow attacks, create a 1/2 green Spider creature token with reach.</te
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <token>Spider Token</token>
+      <related>Spider Token</related>
     </card>
     <card>
       <name>The Headless Horseman</name>
       <text>Flying
 When The Headless Horseman enters, create a 2/1 white Horse creature token with flying.
-Whenever you attack with two or more creatures, draw a card.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/204.png" num="240">TBI</set>
+Whenever you attack with three or more creatures, draw a card.</text>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/204.png" num="249">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -722,7 +1596,7 @@ Whenever you attack with two or more creatures, draw a card.</text>
       <text>Larry Jr. enters with a +1/+1 counter on him.
 When Larry Jr. enters, if he isn't a token, create a token that's a copy of him, except it isn't legendary.
 Whenever Larry Jr. attacks, put a +1/+1 counter on another target modified attacking creature. (Equipment, Auras you control, and counters are modifications.)</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/205.png" num="236">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/205.png" num="245">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -739,7 +1613,7 @@ Whenever Larry Jr. attacks, put a +1/+1 counter on another target modified attac
     <card>
       <name>Evil Twin</name>
       <text>You may have this creature enter as a copy of any creature on the battlefield, except it has "{U}{B}, {T}: Destroy target creature with the same name as this creature."</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/207.png" num="231" uuid="c6d04634-a27d-4c44-ab1d-ce40b3adc66f">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/207.png" num="230">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -755,9 +1629,9 @@ Whenever Larry Jr. attacks, put a +1/+1 counter on another target modified attac
     </card>
     <card>
       <name>Magdelene, the Healthy</name>
-      <text>Starting item—Yum Heart (When this creature enters, you may search your library and/or graveyard for Yum Heart and put it into your hand. If you searched your library this way, shuffle.)
+      <text>Starting item—Yum Heart
 Whenever you gain life, put a +1/+1 counter on target creature. If you gained 7 or more life this turn, put seven +1/+1 counters on that creature instead.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/210.png" num="221">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/210.png" num="219">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -775,11 +1649,11 @@ Whenever you gain life, put a +1/+1 counter on target creature. If you gained 7 
       <name>Angelic Armaments</name>
       <text>Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types.
 Equip {4}</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/221.png" num="251" uuid="ea11226a-b68a-42fc-8dd4-968bc3a2c723">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/221.png" num="261">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
-        <type>Artifact</type>
+        <type>Artifact — Equipment</type>
         <maintype>Artifact</maintype>
         <manacost>3</manacost>
         <cmc>3</cmc>
@@ -794,7 +1668,7 @@ Equip {4}</text>
 [b]11-15 [/b]| Create a Bomb token.
 [b]16-18 [/b]| Create a Battery token.
 [b]19-20 [/b]| Draw a card.</text>
-      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/225.png" num="11">TBI</set>
+      <set rarity="uncommon" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/225.png" num="9">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -829,7 +1703,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
     <card>
       <name>Lazarus' Rags</name>
       <text>Whenever a creature enters from a graveyard, you may return target Aura or Equipment from your graveyard or its owner's graveyard to the battlefield under your control attached to that creature.</text>
-      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/237.png" num="250">TBI</set>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/237.png" num="259">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -841,6 +1715,22 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <tablerow>1</tablerow>
     </card>
     <card>
+      <name>Rib of Greed</name>
+      <text>Whenever you discard one or more cards, create a Treasure token and you gain that much life.
+Sacrifice three Treasures: Draw a card.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/238.png" num="260">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+      </prop>
+      <tablerow>1</tablerow>
+      <related>Treasure Token</related>
+    </card>
+    <card>
       <name>D-Infinity</name>
       <text>{4}, {T}: Choose one, X is the result of the die rolled.
 • Roll a d4. You draw X cards.
@@ -848,7 +1738,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 • Roll a d8. You create X Treasure tokens.
 • Roll a d10. Put X +1/+1 counters on a creature you control.
 • Roll a d12. You gain X life.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/244.png" num="248">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/244.png" num="257">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -860,6 +1750,46 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
       <tablerow>1</tablerow>
       <related count="X">Key Token</related>
       <related count="X">Treasure Token</related>
+    </card>
+    <card>
+      <name>Mother, the Witness</name>
+      <text>Deathtouch
+Whenever Mother attacks, create X 2/2 black Zombie creature tokens that are tapped and attacking, where X is the number of creature cards put into a graveyard from anywhere this turn. Exile them at the beginning of the next end step.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/245.png" num="220">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Zombie Horror Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>2BGU</manacost>
+        <cmc>5</cmc>
+        <colors>UBG</colors>
+        <coloridentity>UBG</coloridentity>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related count="X">Zombie Token</related>
+    </card>
+    <card>
+      <name>Hush, Imminent Death</name>
+      <text>At the beginning of combat on your turn, choose one that hasn't been chosen —
+• Any number of target players each mill cards equal to Hush's toughness.
+• Create four 2/2 black Zombie creature tokens.
+• Exile Hush and up to one target creature card from your graveyard. Return them to the battlefield at the beginning of your next upkeep.</text>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/246.png" num="221">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Incarnation Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>4WUB</manacost>
+        <cmc>7</cmc>
+        <colors>WUB</colors>
+        <coloridentity>WUB</coloridentity>
+        <pt>2/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related count="4">Zombie Token</related>
     </card>
     <card>
       <name>Key Token</name>
@@ -879,7 +1809,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
     <card>
       <name>All Alone</name>
       <text>Choose up to one creature. Destroy the rest.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/254.png" num="35">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/254.png" num="33">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -894,12 +1824,12 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
     </card>
     <card>
       <name>Lazarus, the Returning</name>
-      <text>Starting item—Lazarus' Rags (When this creature enters, you may search your library and/or graveyard for Lazarus' Rags and put it into your hand. If you searched your library this way, shuffle.)
+      <text>Starting item—Lazarus' Rags
 Whenever Lazarus is dealt damage, create a Blood token.
 When Lazarus dies, you may sacrifice a Blood token. If you do, return him to the battlefield transformed under his owner's control.
 ---
 (Back): Lazarus, Risen</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/257_front.png" num="220a">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/257_front.png" num="218a">TBI</set>
       <prop>
         <layout>transform</layout>
         <side>front</side>
@@ -921,7 +1851,7 @@ When Lazarus dies, you may sacrifice a Blood token. If you do, return him to the
 Whenever Lazarus enters, attacks or is dealt damage, create a Blood token.
 ---
 (Front): Lazarus, the Returning</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/257_back.png" num="220b">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/257_back.png" num="218b">TBI</set>
       <prop>
         <layout>transform</layout>
         <side>back</side>
@@ -940,7 +1870,7 @@ Whenever Lazarus enters, attacks or is dealt damage, create a Blood token.
     <card>
       <name>Delirium of Memories</name>
       <text>As Delirium enters or attacks, exile a creature card from a graveyard with a memory counter on it. Then it becomes a copy of a random creature card in exile with a memory counter on it except it's 7/7, is a Boss in addition to its other types, and has this ability.</text>
-      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/259.png" num="219">TBI</set>
+      <set rarity="mythic" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/259.png" num="217">TBI</set>
       <prop>
         <layout>normal</layout>
         <side>front</side>
@@ -987,6 +1917,26 @@ Whenever this token becomes tapped, you may sacrifice it. When you do, untap tar
       </prop>
       <tablerow>1</tablerow>
       <token>1</token>
+    </card>
+    <card>
+      <name>Gabriel, Strength of God</name>
+      <text>Flying, vigilance, trample
+Whenever Gabriel attacks, create a Seraphim token that's attacking. (It's a {W} 1/2 Angel creature with flying and vigilance.)
+Whenever Gabriel deals combat damage to a player or battle, put a +1/+1 counter on each attacking creature.</text>
+      <set rarity="rare" picurl="https://AtticusVonShwoll.github.io/sets/TBI-files/img/272.png" num="241">TBI</set>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature — Angel Avatar Boss</type>
+        <maintype>Creature</maintype>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <colors>WG</colors>
+        <coloridentity>WG</coloridentity>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <related>Seraphim</related>
     </card>
   </cards>
 </cockatrice_carddatabase>
