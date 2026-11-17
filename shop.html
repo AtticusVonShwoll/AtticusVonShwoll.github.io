@@ -1,0 +1,270 @@
+<html>
+<head>
+	<title>Auto Battler Shop</title>
+	<link rel="icon" type="image/x-icon" href="./img/favicon.png">
+	<link rel="stylesheet" href="./resources/mana.css">
+	<link rel="stylesheet" href="./resources/header.css">
+	<link rel="stylesheet" href="./resources/card-text.css">
+</head>
+<style>
+    @font-face {
+		font-family: Beleren;
+		src: url('./resources/beleren.ttf');
+	}
+	body {
+		font-family: 'Helvetica', 'Arial', sans-serif;
+		overscroll-behavior: none;
+		margin: 0px;
+		background-color: #f3f3f3;
+	}
+    .shop-container {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        width: 95%;
+        padding-bottom: 100px;
+        height: auto;
+        margin: auto;
+        /* margin-left:  */
+        margin-top: 25px;
+    }
+    .shop-row {
+        display: grid;
+        width: 100%;
+        grid-template-columns: 100px repeat(6, minmax(0, 1fr));
+        gap: 10px;
+    }
+    .shop-card {
+        width: 100%;
+        height: 100%;
+        min-width: 0;
+        display: flex;
+    }
+    /* .shop-card > input,
+    .shop-card > button {
+        /* box-sizing: border-box; 
+        height: 100%;
+    } */
+    .search-container {
+        width: 100%;
+        display: flex;
+        margin-top: 4px;
+    }
+    .search-container > input, .search-container > button {
+        width: 100%;
+    }
+    .image-container {
+        position: relative;
+        width: 100%;
+    }
+    .shop-card-image {
+        width: 100%;
+        height: auto;
+    }
+    .image-container .btn {
+        background-color: #ffffffaa;
+        background-size: contain;
+        background-position: center;
+        width: 15%;
+        height: 11%;
+        cursor: pointer;
+        border: none;
+        position: absolute;
+        left: 50%;
+        top: 48%;
+        transform: translate(170%, -150%);
+        opacity: 0.8;
+        border-radius: 100%;
+        border: 2px solid black;
+        padding: 3px;
+    }
+
+    .image-container .btn:hover {
+        background-size: contain;
+        background-position: center;
+        background-color: #ffffff;
+    }
+
+    .shop-options {
+        display: grid;
+        grid-template-columns: 1fr 1.5fr;
+        margin: auto;
+        margin-top: 30px;
+        width: 80px;
+    }
+
+    .page-container {
+        display: grid;
+        width: 100%;
+        gap: 15px;
+        grid-template-columns: 230px 1fr;
+    }
+
+    .right {
+        flex-direction: column;
+        display: flex;
+        margin-left: 3px;
+        gap: 5px;
+    }
+
+    .submit-search-terms:last-child {
+        align-self: flex-end;
+        margin-top: auto;
+    }
+
+    .submit-search-terms:not(:last-child) {
+        height: 100%;
+    }
+</style>
+<script title="root">
+	const rootPath = ".";
+</script>
+<body>
+	<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+    <script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+    <div class="page-container">
+        <div class="shop-options">
+            <p class="shop-opt-label">Mana Value Left: </p>
+            <input class="shop-mv" placeholder="MV" type="number" value=1>
+        </div>
+        <div class="shop-container"></div>
+    </div>
+    <script>
+        const SCRYFALL_API_RANDOM = 'https://api.scryfall.com/cards/random?q=';
+        // let mv_limit = 1;
+        const delay = ms => new Promise(res => setTimeout(res, ms));
+
+        async function getRandomCard(q) {
+            await delay(300);
+            const response = await fetch(SCRYFALL_API_RANDOM + encodeURIComponent(q));
+            const data = await response.json();
+            return data;
+        }
+
+        document.addEventListener("DOMContentLoaded", async () => {
+            const colors = Array.from('WUBRG');
+            const mv_limit = document.querySelector('.shop-mv').value;
+            const terms = [
+                [
+                    ...colors.map(c => `mv<=${mv_limit} t:creature c:${c}` ),
+                    `mv<=${mv_limit} t:creature`
+                ], [
+                    `mv<=${mv_limit} t:instant -is:permanent`,
+                    `mv<=${mv_limit} t:sorcery -is:permanent`,
+                    `mv<=${mv_limit} t:artifact -t:creature -t:attraction -t:contraption`,
+                    `mv<=${mv_limit} t:enchantment -t:creature`,
+                    `mv<=${mv_limit} -t:land -t:creature -t:attraction -t:contraption`,
+                    `mv<=${mv_limit} -t:attraction -t:contraption`
+                ], [
+                    ...colors.map(c => `t:land ci>=${c}`),
+                    `t:land`
+                ]
+            ];
+            
+            const cards = [];
+            for (const row of terms) {
+                cards.push(await Promise.all(row.map(async q => ({...await getRandomCard(q), searchTerm: q}))));
+            }
+
+            for (const row of cards) {
+                let html = '<div class="shop-row"><button class="refresh-row" onClick="refreshRow(event)">Refresh Row</button>';
+                    
+                for (const _card of row) {
+                    const card = (_card?.card_faces?.length > 0) ? _card.card_faces[0] : _card;
+                    console.log(card, _card);
+                    html += `
+                        <div class="shop-card" data-search-term="${_card.searchTerm}">
+                            <div class="left">
+                                <div class="image-container">
+                                    <a href="${_card.scryfall_uri}" target="_blank"><img id="${_card.id}"  class="shop-card-image" src="${card.image_uris.normal}" data-alt_src="${(_card?.card_faces?.length > 0) ? _card.card_faces[1].image_uris.normal : ''}"></a>
+                                    ${(_card?.card_faces?.length > 0) ? `<button class="btn" onClick="imgFlip('${_card.id}')"><img class="img-flip-icon" src="/img/flip.svg"></button>` : ''}
+                                </div>
+                                <div class="search-container">
+                                    <input class="search-terms" placeholder="Additional seach terms...">
+                                </div>
+                            </div>
+                            <div class="right">
+                                <button class="submit-search-terms" onClick="reSearch(event.target, true)">⟳</button>
+                                <button class="submit-search-terms" onClick="reSearch(event.target)">🔍</button>
+                            </div>
+                        </div>`;
+                }
+
+                html += '</div>';
+                document.querySelector('.shop-container').innerHTML += html;
+            }
+        });
+
+        async function reSearch(btn, refresh = false) {
+            const shopCard = btn.closest('.shop-card');
+            const mv_limit = document.querySelector('.shop-mv').value;
+            const terms = shopCard.querySelector('.search-terms').value;
+            const _card = await getRandomCard(shopCard.dataset.searchTerm.replace(/mv\<\=\d+/, `mv<=${mv_limit}`) + (!refresh ? " " + terms : ''));
+            console.log(shopCard.dataset.searchTerm + " " + terms);
+            const card = (_card?.card_faces?.length > 0) ? _card.card_faces[0] : _card;
+            
+            shopCard.innerHTML = `
+                <div class="left">
+                    <div class="image-container">
+                        <a href="${_card.scryfall_uri}" target="_blank"><img id="${_card.id}"  class="shop-card-image" src="${card.image_uris.normal}" data-alt_src="${(_card?.card_faces?.length > 0) ? _card.card_faces[1].image_uris.normal : ''}"></a>
+                        ${(_card?.card_faces?.length > 0) ? `<button class="btn" onClick="imgFlip('${_card.id}')"><img class="img-flip-icon" src="/img/flip.svg"></button>` : ''}
+                    </div>
+                    <div class="search-container">
+                        <input class="search-terms" placeholder="Additional seach terms...">
+                    </div>
+                </div>
+                <div class="right">
+                    <button class="submit-search-terms" onClick="reSearch(event.target, true)">⟳</button>
+                    <button class="submit-search-terms" onClick="reSearch(event.target)">🔍</button>
+                </div>`;
+        }
+
+        async function refreshRow(e) {
+            const row = e.target.parentElement;
+            row.querySelectorAll('.shop-card').forEach(card => reSearch(card, true));
+        }
+
+        function imgFlip(num) {
+            const img = document.getElementById(num);
+            const seconds = 0.2;
+            const rotated_img = document.getElementById('sidebar_h_img');
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(90deg)";
+
+            setTimeout(() => {
+                tmp = document.getElementById(num).src;
+                document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+                document.getElementById(num).dataset.alt_src = tmp;
+
+                img.style.transition = seconds.toString() + "s";
+                img.style.transform = "rotateY(0deg)";
+            }, seconds * 1000);
+        }
+    </script>
+</body>
+</html>
